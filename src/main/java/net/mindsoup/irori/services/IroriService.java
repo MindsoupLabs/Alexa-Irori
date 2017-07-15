@@ -1,12 +1,12 @@
 package net.mindsoup.irori.services;
 
 import net.mindsoup.irori.dtos.request.StatRequest;
-import net.mindsoup.irori.models.IroriStats;
+import net.mindsoup.irori.models.IroriStat;
 
 /**
  *
  */
 public interface IroriService {
 
-	IroriStats getStat(StatRequest statRequest);
+	IroriStat getStat(StatRequest statRequest);
 }

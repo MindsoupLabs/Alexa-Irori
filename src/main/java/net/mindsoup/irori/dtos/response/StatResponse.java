@@ -1,6 +1,6 @@
 package net.mindsoup.irori.dtos.response;
 
-import net.mindsoup.irori.models.IroriStats;
+import net.mindsoup.irori.models.IroriStat;
 
 /**
  * Created by Valentijn on 15-7-2017.
@@ -17,7 +17,7 @@ public class StatResponse implements IroriResponse {
 		this.valueName = valueName;
 	}
 
-	public StatResponse(IroriStats stats) {
+	public StatResponse(IroriStat stats) {
 		this(stats.getObjectName(), stats.getStatName(), stats.getStatValue());
 	}
 
