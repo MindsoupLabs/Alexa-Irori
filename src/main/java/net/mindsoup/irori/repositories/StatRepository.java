@@ -10,5 +10,5 @@ import org.springframework.data.repository.query.Param;
  */
 public interface StatRepository extends CrudRepository<IroriStat, Long> {
 
-	IroriStat findByObjectAndStat(@Param("object") IroriObject object, @Param("stat") String stat);
+	IroriStat findByObjectAndStatName(@Param("object") IroriObject object, @Param("statName") String stat);
 }

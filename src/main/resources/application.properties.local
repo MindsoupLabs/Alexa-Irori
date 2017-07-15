@@ -1,0 +1,11 @@
+#======================================
+# General Flyway Settings
+#======================================
+flyway.password=masterofmasters
+flyway.schemas=irori
+
+#=======================================
+# JPA/Hibernate settings
+#=======================================
+spring.datasource.username=irori
+spring.datasource.password=masterofmasters

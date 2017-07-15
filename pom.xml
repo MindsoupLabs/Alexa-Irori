@@ -38,6 +38,20 @@
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 		</dependency>
+		<dependency>
+			<groupId>org.flywaydb</groupId>
+			<artifactId>flyway-core</artifactId>
+			<version>4.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>9.4.1212</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -68,6 +82,37 @@
 						<phase>initialize</phase>
 						<goals>
 							<goal>read-project-properties</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.flywaydb</groupId>
+				<artifactId>flyway-maven-plugin</artifactId>
+				<version>4.0.3</version>
+				<configuration>
+					<driver>org.postgresql.Driver</driver>
+					<url>${flyway.url}</url>
+					<user>${flyway.user}</user>
+					<password>${flyway.password}</password>
+					<schemas>
+						<schema>${flyway.schemas}</schema>
+					</schemas>
+					<baselineOnMigrate>${flyway.baseline-on-migrate}</baselineOnMigrate>
+				</configuration>
+				<executions>
+					<execution>
+						<id>migrate</id>
+						<phase>initialize</phase>
+						<goals>
+							<goal>migrate</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>repair</id>
+						<phase>clean</phase>
+						<goals>
+							<goal>repair</goal>
 						</goals>
 					</execution>
 				</executions>
