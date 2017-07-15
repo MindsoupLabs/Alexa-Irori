@@ -1,2 +1,2 @@
-# Alexa-Irori
-The Alexa Irori skill
+# alexa-Irori
+The alexa Irori skill
