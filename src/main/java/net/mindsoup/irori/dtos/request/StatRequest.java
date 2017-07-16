@@ -22,4 +22,8 @@ public class StatRequest {
 	public void setObjectName(String objectName) {
 		this.objectName = objectName;
 	}
+
+	public String toString() {
+		return "{objectName: " + getObjectName() + ", statName: " + getStatName() + "}";
+	}
 }

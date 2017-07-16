@@ -2,6 +2,7 @@ CREATE TABLE "irori_objects"
 (
     id serial NOT NULL,
     name text NOT NULL,
+    type text NOT NULL,
     PRIMARY KEY (id),
     CONSTRAINT name_unique UNIQUE (name)
 );

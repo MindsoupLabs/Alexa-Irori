@@ -16,8 +16,9 @@ public class IroriObject {
 	@JsonIgnore
 	private Long id;
 
-	@Column(name="name")
 	private String name;
+
+	private String type;
 
 	public Long getId() {
 		return id;
@@ -33,5 +34,13 @@ public class IroriObject {
 
 	public void setName(String name) {
 		this.name = name;
+	}
+
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
 	}
 }

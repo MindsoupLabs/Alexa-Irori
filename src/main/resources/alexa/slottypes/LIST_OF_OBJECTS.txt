@@ -1,2 +1,6 @@
 dagger
 short sword
+magic missile
+goblin
+armor class
+spell DC

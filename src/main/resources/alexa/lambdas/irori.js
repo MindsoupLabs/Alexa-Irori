@@ -42,6 +42,15 @@ exports.handler = (event, context) => {
                         processPostRequest(context, '/irori/stat', "GetStat", payload);
 
                         break;
+                     case "GetFormula":
+						console.log(`Hit the GetFormula request: ${JSON.stringify(event.request.intent.slots)}`);
+						var payload = {
+							"objectName": event.request.intent.slots.Object.value,
+							"statName": "formula"
+						};
+						processPostRequest(context, '/irori/stat', "GetStat", payload);
+
+						break;
 
                     default:
                         throw "Invalid intent"
@@ -82,7 +91,7 @@ processPostRequest = (context, path, intent, payload) => {
 	var body = "";
 	const req = http.request(options, (response) => {
 
-		//console.log(`STATUS: ${res.statusCode}`);
+		console.log(`STATUS: ${response.statusCode}`);
 
 		response.on('data', (chunk) => {
 			body += chunk;
@@ -104,21 +113,21 @@ processPostRequest = (context, path, intent, payload) => {
 				case "OBJECT_ERROR":
 					context.succeed(
 						generateResponse(
-							buildSpeechletResponse(`I dont know what a ${result.objectName} is`, true), {}
+							buildSpeechletResponse(`I don't know what a ${result.objectName} is`, true), {}
 						)
 					);
 				break;
 				case "STAT_ERROR":
 					context.succeed(
 						generateResponse(
-							buildSpeechletResponse(`I dont know the ${result.statName} of a ${result.objectName}`, true), {}
+							buildSpeechletResponse(`I don't know the ${result.statName} of a ${result.objectName}`, true), {}
 						)
 					);
 				break;
 				case "INPUT_ERROR":
 					context.succeed(
 						generateResponse(
-							buildSpeechletResponse(`Sorry, I didn't understand that'`, true), {}
+							buildSpeechletResponse(`Sorry, I didn't understand that`, true), {}
 						)
 					);
 				break;

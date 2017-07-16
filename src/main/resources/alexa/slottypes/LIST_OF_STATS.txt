@@ -1,6 +1,26 @@
 armor class
+armor
 damage
 weight
 cost
 threat range
 critical damage
+hit points
+experience
+alignment
+initiative
+touch armor class
+speed
+melee attack
+ranged attack
+formula
+casting time
+components
+range
+duration
+targets
+saving throw
+spell resistance
+school
+description
+level

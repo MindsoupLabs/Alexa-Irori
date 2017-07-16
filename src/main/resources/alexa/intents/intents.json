@@ -12,6 +12,15 @@
 		  "type": "LIST_OF_STATS"
 		}
 	  ]
+	},
+	{
+	  "intent": "GetFormula",
+	  "slots": [
+		{
+		  "name": "Object",
+		  "type": "LIST_OF_OBJECTS"
+		}
+	  ]
 	}
   ]
 }
