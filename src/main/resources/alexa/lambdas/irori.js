@@ -22,7 +22,7 @@ exports.handler = (event, context) => {
                 console.log('LAUNCH REQUEST')
                 context.succeed(
                     generateResponse(
-                        buildSpeechletResponse('Welcome to Irori For Pathfinder, this is running on a deployed lambda function', true), {}
+                        buildSpeechletResponse('Welcome to Irori For Pathfinder, you can ask any stats of Pathfinder monsters, spells, or items', true), {}
                     )
                 )
                 break;
