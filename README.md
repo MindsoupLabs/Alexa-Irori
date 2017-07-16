@@ -1,4 +1,4 @@
-# alexa-Irori
+# Irori For Pathfinder
 ![Irori](https://github.com/MindsoupLabs/Alexa-Irori/raw/master/src/main/resources/alexa/logo/logo-small.png) The alexa skill Irori For Pathfinder. If you need to know the stat of a monster, item or spell, just ask Irori!
 
 ### Examples:
