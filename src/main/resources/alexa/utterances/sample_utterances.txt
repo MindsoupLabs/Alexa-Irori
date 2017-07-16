@@ -1,5 +1,6 @@
 GetStat what is {Stat} of a {Object}
 GetStat for the {Stat} of a {Object}
+GetStat for the {Stat} for {Object}
 GetStat what the {Stat} is of a {Object}
 GetStat what the {Stat} of a {Object} is
 

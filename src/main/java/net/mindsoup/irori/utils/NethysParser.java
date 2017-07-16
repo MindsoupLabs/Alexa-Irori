@@ -31,7 +31,7 @@ public class NethysParser {
 		while (matcher.find()) {
 			IroriStat iroriStat = new IroriStat();
 			iroriStat.setStatName(transformStatName(matcher.group(1).trim().toLowerCase()));
-			iroriStat.setStatValue(matcher.group(2).trim());
+			iroriStat.setStatValue(transformValue(matcher.group(2).trim()));
 
 			// only add stats that have non-empty stats and values
 			// only add stats that aren't accidental parsings of tables or other html constructs (contains value '<')
@@ -45,7 +45,11 @@ public class NethysParser {
 		return stats;
 	}
 
-	public static String transformStatName(String stat) {
+	private static String transformValue(String value) {
+		return value.replace("/level", " per level");
+	}
+
+	private static String transformStatName(String stat) {
 		switch (stat) {
 			// some spells have 'target or targets' instead of just 'target'
 			case "target or targets":
