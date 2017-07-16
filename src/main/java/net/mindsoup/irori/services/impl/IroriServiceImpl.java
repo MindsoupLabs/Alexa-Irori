@@ -1,6 +1,7 @@
 package net.mindsoup.irori.services.impl;
 
 import net.mindsoup.irori.dtos.request.StatRequest;
+import net.mindsoup.irori.exceptions.InvalidInputException;
 import net.mindsoup.irori.exceptions.ObjectNotFoundException;
 import net.mindsoup.irori.exceptions.StatNotFoundException;
 import net.mindsoup.irori.models.IroriObject;
@@ -9,6 +10,7 @@ import net.mindsoup.irori.repositories.ObjectRepository;
 import net.mindsoup.irori.repositories.StatRepository;
 import net.mindsoup.irori.services.IroriService;
 import net.mindsoup.irori.services.SynonymService;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -29,6 +31,11 @@ public class IroriServiceImpl implements IroriService {
 
 	@Override
 	public IroriStat getStat(StatRequest statRequest) {
+		if(StringUtils.isBlank(statRequest.getStatName()) || StringUtils.isBlank(statRequest.getObjectName())) {
+			throw new InvalidInputException();
+		}
+
+
 		// set any stat synonyms to the correct stat name ('A.C.' to 'armor class', etc)
 		statRequest.setStatName(synonymService.getSynonym(statRequest.getStatName()));
 

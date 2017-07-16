@@ -1,10 +1,8 @@
 package net.mindsoup.irori.controllers;
 
 import net.mindsoup.irori.dtos.request.StatRequest;
-import net.mindsoup.irori.dtos.response.IroriResponse;
-import net.mindsoup.irori.dtos.response.ObjectErrorResponse;
-import net.mindsoup.irori.dtos.response.StatErrorResponse;
-import net.mindsoup.irori.dtos.response.StatResponse;
+import net.mindsoup.irori.dtos.response.*;
+import net.mindsoup.irori.exceptions.InvalidInputException;
 import net.mindsoup.irori.exceptions.ObjectNotFoundException;
 import net.mindsoup.irori.exceptions.StatNotFoundException;
 import net.mindsoup.irori.services.IroriService;
@@ -42,5 +40,12 @@ public class IroriController {
 		LOG.warn(e.getMessage());
 
 		return new StatErrorResponse(e.getObjectName(), e.getStatName());
+	}
+
+	@ExceptionHandler(InvalidInputException.class)
+	public IroriResponse inputError(InvalidInputException e) {
+		LOG.warn(e.getMessage());
+
+		return new InputErrorResponse();
 	}
 }

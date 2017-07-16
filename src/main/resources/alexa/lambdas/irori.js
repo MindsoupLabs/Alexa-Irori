@@ -115,6 +115,13 @@ processPostRequest = (context, path, intent, payload) => {
 						)
 					);
 				break;
+				case "INPUT_ERROR":
+					context.succeed(
+						generateResponse(
+							buildSpeechletResponse(`Sorry, I didn't understand that'`, true), {}
+						)
+					);
+				break;
 				default:
 					context.succeed(
 						generateResponse(
