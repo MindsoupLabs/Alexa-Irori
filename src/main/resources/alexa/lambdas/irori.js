@@ -1,10 +1,10 @@
-var request = require('request');
+var http = require('http');
 var querystring = require('querystring');
 
 var ip = '46.129.108.152';
 var port = '8088';
-var protocol = 'http';
-var rootUri = protocol + '://' + ip + ':' + port + '/irori/';
+var protocol = 'http:';
+var rootUri = protocol + '//' + ip + ':' + port + '/irori/';
 
 exports.handler = (event, context) => {
 
@@ -34,13 +34,12 @@ exports.handler = (event, context) => {
                 switch (event.request.intent.name) {
 
                     case "GetStat":
-                        console.log('Hit the MakeDrink request: ${JSON.stringify(event.request.intent.slots)}');
+                        console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
                         var payload = {
                         	"objectName": event.request.intent.slots.Object.value,
                         	"statName": event.request.intent.slots.Stat.value
                         };
-                        var endpoint = rootUri + "/stat";
-                        processGetRequest(context, endpoint, "GetStat", payload);
+                        processPostRequest(context, '/irori/stat', "GetStat", payload);
 
                         break;
 
@@ -52,62 +51,87 @@ exports.handler = (event, context) => {
 
             case "SessionEndedRequest":
                 // Session Ended Request
-                console.log('SESSION ENDED REQUEST');
+                console.log(`SESSION ENDED REQUEST`);
                 break;
 
             default:
-                context.fail('INVALID REQUEST TYPE: ${event.request.type}')
+                context.fail(`INVALID REQUEST TYPE: ${event.request.type}`)
 
         }
 
     } catch (error) {
-        context.fail('Exception: ${error}')
+        context.fail(`Exception: ${error}`)
     }
 
 }
 
 // Helpers
-processGetRequest = (context, endpoint, intent, payload) => {
+processPostRequest = (context, path, intent, payload) => {
 
-	request({url: endpoint, method: "POST", json: payload}, function(error, response, body) {
-		if(response.statusCode == 200) {
+	var options = {
+		hostname: ip,
+		protocol: protocol,
+		port: port,
+		method: 'POST',
+		path: path,
+		headers: {'Content-Type': 'application/json'}
+	};
+
+	console.log(JSON.stringify(options));
+
+	var body = "";
+	const req = http.request(options, (response) => {
+
+		//console.log(`STATUS: ${res.statusCode}`);
+
+		response.on('data', (chunk) => {
+			body += chunk;
+			console.log(body);
+		});
+
+		response.on('end', () => {
+			console.log(body);
 			var result = JSON.parse(body);
 
 			switch(result.type) {
 				case "STAT":
 					context.succeed(
 						generateResponse(
-							buildSpeechletResponse('The ${data.statName} of a ${data.objectName} is ${data.value}', true), {}
+							buildSpeechletResponse(`The ${result.statName} of a ${result.objectName} is ${result.value}`, true), {}
 						)
 					);
 				break;
 				case "OBJECT_ERROR":
 					context.succeed(
 						generateResponse(
-							buildSpeechletResponse('I don\'t know ${data.objectName}', true), {}
+							buildSpeechletResponse(`I dont know what a ${result.objectName} is`, true), {}
 						)
 					);
 				break;
 				case "STAT_ERROR":
 					context.succeed(
 						generateResponse(
-							buildSpeechletResponse('I don\'t know the ${data.statName} of a ${data.objectName}', true), {}
+							buildSpeechletResponse(`I dont know the ${result.statName} of a ${result.objectName}`, true), {}
 						)
 					);
 				break;
 				default:
 					context.succeed(
 						generateResponse(
-							buildSpeechletResponse('Something went wrong', true), {}
+							buildSpeechletResponse(`Something went wrong`, true), {}
 						)
 					);
 				break;
 			}
-		} else {
-			console.log('error: ' + response.statusCode);
-			console.log(body);
-		}
+		});
 	});
+
+	req.on('error', (e) => {
+		console.log(`problem with request: ${e.message}`);
+	});
+
+	req.write(JSON.stringify(payload));
+	req.end();
 
     return;
 }
