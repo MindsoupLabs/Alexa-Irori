@@ -38,7 +38,7 @@ advanced scurvy
 aerial tracks
 age resistance, lesser
 aggravate affliction
-aggressive thunderbutt
+aggressive thundercloud
 agonize
 agonizing rebuke
 aid
@@ -336,9 +336,9 @@ burst of radiance
 burst of speed
 burst with light
 business booms
-butt of seasickness
-butt shape
-buttkill
+cloud of seasickness
+cloud shape
+cloudkill
 cackling skull
 cacophonous call
 caging bomb admixture
@@ -796,7 +796,7 @@ ethereal fists
 ethereal jaunt
 etherealness
 etheric shards
-euphoric butt
+euphoric cloud
 euphoric tranquility
 evaluator's lens
 evolution surge, lesser
@@ -899,7 +899,7 @@ flurry of snowballs
 fly
 focused scrutiny
 foe to friend
-fog butt
+fog cloud
 follow aura
 font of spirit magic
 fool's forbiddance
@@ -1150,7 +1150,7 @@ implosion
 impossible angles
 imprisonment
 improve trap
-incendiary butt
+incendiary cloud
 incendiary runes
 incorporeal chains
 infernal challenger
@@ -2048,7 +2048,7 @@ steal voice
 steal years
 steam ray fusillade
 stench of prey
-stinking butt
+stinking cloud
 stoke the inner fire
 stolen light
 stone call
@@ -2440,7 +2440,7 @@ weapons against evil
 weaponwand
 web
 web bolt
-web butt
+web cloud
 web shelter
 weird
 whip of spiders
