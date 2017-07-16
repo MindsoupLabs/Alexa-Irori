@@ -35,10 +35,6 @@ public class IroriServiceImpl implements IroriService {
 			throw new InvalidInputException();
 		}
 
-
-		// set any stat synonyms to the correct stat name ('A.C.' to 'armor class', etc)
-		statRequest.setStatName(synonymService.getSynonym(statRequest.getStatName()));
-
 		// see if this object is in our db
 		IroriObject iroriObject = objectRepository.findByName(statRequest.getObjectName());
 
@@ -46,6 +42,9 @@ public class IroriServiceImpl implements IroriService {
 			// not in the db, throw an exception so we can let the user know
 			throw new ObjectNotFoundException(statRequest.getObjectName());
 		}
+
+		// set any stat synonyms to the correct stat name ('A.C.' to 'armor class', etc)
+		statRequest.setStatName(synonymService.getSynonym(statRequest.getStatName(), iroriObject.getType()));
 
 		// the object is in our db, lets see if we know the stat the user is asking for
 		IroriStat iroriStat = statRepository.findByObjectAndStatName(iroriObject, statRequest.getStatName());

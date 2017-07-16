@@ -15,7 +15,7 @@ public class SynonymServiceImpl implements SynonymService {
 	private Map<String, String> synonyms = null;
 
 	@Override
-	public String getSynonym(String name) {
+	public String getSynonym(String name, String objectType) {
 		ensureSynonyms();
 
 		name = name.toLowerCase();

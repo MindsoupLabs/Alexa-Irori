@@ -5,5 +5,5 @@ package net.mindsoup.irori.services;
  */
 public interface SynonymService {
 
-	String getSynonym(String name);
+	String getSynonym(String name, String objectType);
 }

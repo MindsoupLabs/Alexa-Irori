@@ -8,6 +8,13 @@ public abstract class Constants {
 	public abstract static class Stats {
 		private Stats() {}
 
-		public static final String AC = "Armor Class";
+		public static final String SOURCE = "source";
+		public static final String TARGET = "target";
+	}
+
+	public abstract static class Keywords {
+		private Keywords() {}
+
+		public static final String MYTHIC = "Mythic";
 	}
 }
