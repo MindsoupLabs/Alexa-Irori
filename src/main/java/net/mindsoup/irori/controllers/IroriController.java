@@ -25,7 +25,7 @@ public class IroriController {
 
     @RequestMapping("/stat")
     public IroriResponse getStat(@RequestBody StatRequest statRequest) {
-    	LOG.info(statRequest.toString());
+    	LOG.debug(statRequest.toString());
         return new StatResponse(iroriService.getStat(statRequest));
     }
 
