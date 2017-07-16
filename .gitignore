@@ -7,4 +7,5 @@
 log/
 target/
 logs/
-/src/main/resources/application.properties.local
+/src/main/resources/application-local.properties
+/pom.xml

@@ -1,4 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--Create the following pom.xml file that inherits from this one:-->
+<!-- THIS POM.XML FILE MUST BE UNTRACKED IN GIT!-->
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<project xmlns="http://maven.apache.org/POM/4.0.0"-->
+		 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+		 <!--xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">-->
+	<!--<modelVersion>4.0.0</modelVersion>-->
+
+	<!--<artifactId>irori</artifactId>-->
+	<!--<version>1.0.0</version>-->
+
+	<!--<parent>-->
+		<!--<groupId>net.mindsoup.irori</groupId>-->
+		<!--<artifactId>irori-parent</artifactId>-->
+		<!--<version>1.0.0</version>-->
+		<!--<relativePath>pom-parent.xml</relativePath>-->
+	<!--</parent>-->
+
+	<!--<profiles>-->
+		<!--<profile>-->
+			<!--<id>local</id>-->
+			<!--<properties>-->
+				<!--<flyway.user>USERNAME</flyway.user>-->
+				<!--<flyway.password>PASSWORD</flyway.password>-->
+			<!--</properties>-->
+			<!--<activation>-->
+				<!--<activeByDefault>true</activeByDefault>-->
+			<!--</activation>-->
+		<!--</profile>-->
+	<!--</profiles>-->
+<!--</project>-->
+<!-- THIS POM.XML FILE MUST BE UNTRACKED IN GIT!-->
+<!--where you replace USERNAME and PASSWORD with the appropriate values-->
+
 <project xmlns="http://maven.apache.org/POM/4.0.0"
 		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -7,6 +42,7 @@
 	<groupId>net.mindsoup.irori</groupId>
 	<artifactId>irori-parent</artifactId>
 	<version>1.0.0</version>
+	<packaging>pom</packaging>
 	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -128,5 +164,19 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<profiles>
+		<profile>
+			<id>local</id>
+			<properties>
+				<flyway.url>jdbc:postgresql://localhost:5432/</flyway.url>
+				<flyway.user></flyway.user>
+				<flyway.password></flyway.password>
+				<flyway.schemas>irori</flyway.schemas>
+				<flyway.cleanDisabled>true</flyway.cleanDisabled>
+			</properties>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+		</profile>
+	</profiles>
 </project>
