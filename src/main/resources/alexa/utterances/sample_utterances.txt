@@ -1,0 +1,9 @@
+GetStat what is {Stat} of a {Object}
+GetStat for the {Stat} of a {Object}
+GetStat what the {Stat} is of a {Object}
+GetStat what the {Stat} of a {Object} is
+
+GetStat what is {Stat} of {Object}
+GetStat for the {Stat} of {Object}
+GetStat what the {Stat} is of {Object}
+GetStat what the {Stat} of {Object} is

@@ -1,0 +1,6 @@
+armor class
+damage
+weight
+cost
+threat range
+critical damage

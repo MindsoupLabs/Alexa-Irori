@@ -9,12 +9,12 @@ public class StatResponse implements IroriResponse {
 
 	private final String objectName;
 	private final String statName;
-	private final String valueName;
+	private final String value;
 
-	public StatResponse(String objectName, String statName, String valueName) {
+	public StatResponse(String objectName, String statName, String value) {
 		this.objectName = objectName;
 		this.statName = statName;
-		this.valueName = valueName;
+		this.value = value;
 	}
 
 	public StatResponse(IroriStat stats) {
@@ -35,7 +35,7 @@ public class StatResponse implements IroriResponse {
 		return statName;
 	}
 
-	public String getValueName() {
-		return valueName;
+	public String getValue() {
+		return value;
 	}
 }
