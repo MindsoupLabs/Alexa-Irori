@@ -10,6 +10,7 @@ public abstract class Constants {
 
 		public static final String SOURCE = "source";
 		public static final String TARGET = "target";
+		public static final String HITPOINTS = "hit points";
 	}
 
 	public abstract static class Keywords {

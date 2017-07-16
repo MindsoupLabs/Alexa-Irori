@@ -11,7 +11,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.FileNotFoundException;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * Created by Valentijn on 16-7-2017.
@@ -32,14 +34,26 @@ public class ToolsController {
 
 		StringBuilder stringBuilder = new StringBuilder();
 
+		Set<String> exportedItems = new HashSet<>();
+
 		for(IroriData data : iroriData) {
-			stringBuilder.append(String.format("INSERT INTO irori_objects(name, type) VALUES('%s', '%s');\n", data.getObject().getName(), type));
+			if(exportedItems.contains(data.getObject().getName())) {
+				continue;
+			}
+
+			exportedItems.add(data.getObject().getName());
+
+			stringBuilder.append(String.format("INSERT INTO irori_objects(name, type) VALUES('%s', '%s');\n", sqlEscapeSingleQuotes(data.getObject().getName()), type));
 
 			for(IroriStat stat : data.getStats()) {
-				stringBuilder.append(String.format("INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = '%s'), '%s', '%s');\n", data.getObject().getName(), stat.getStatName(), stat.getStatValue()));
+				stringBuilder.append(String.format("INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = '%s'), '%s', '%s');\n", sqlEscapeSingleQuotes(data.getObject().getName()), stat.getStatName(), sqlEscapeSingleQuotes(stat.getStatValue())));
 			}
 		}
 
 		return stringBuilder.toString();
+	}
+
+	private String sqlEscapeSingleQuotes(String string) {
+		return string.replace("'", "''");
 	}
 }

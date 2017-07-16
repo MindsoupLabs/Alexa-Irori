@@ -1,26 +1,27 @@
-armor class
-armor
-damage
-weight
-cost
-threat range
-critical damage
-hit points
-experience
-alignment
-initiative
-touch armor class
-speed
-melee attack
-ranged attack
-formula
+source
+duration
+school
 casting time
 components
+level
 range
-duration
-targets
 saving throw
 spell resistance
-school
-description
-level
+target
+effect
+area
+hit points
+cost
+critical damage
+weight
+threat range
+damage
+formula
+armor class
+experience
+touch armor class
+speed
+alignment
+ranged attack
+initiative
+melee attack

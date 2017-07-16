@@ -1,6 +1,2481 @@
-dagger
-short sword
-magic missile
-goblin
 armor class
 spell DC
+dagger
+short sword
+goblin
+abadar's truthtelling
+abeyance
+ablative barrier
+ablative sphere (garundi)
+aboleth's lung
+absolution
+absorb rune i
+absorb toxicity
+absorbing inhalation
+absorbing touch
+abstemiousness
+absurdity
+abundant ammunition
+abyssal vermin
+accelerate poison
+accept affliction
+accursed glare
+acid arrow
+acid fog
+acid maw
+acid splash
+acidic spray
+acute senses
+adhesive blood
+adhesive spittle
+adjuring step
+adjustable disguise
+adjustable polymorph
+admonishing ray
+adoration
+adroit retrieval
+advanced scurvy
+aerial tracks
+age resistance, lesser
+aggravate affliction
+aggressive thunderbutt
+agonize
+agonizing rebuke
+aid
+air breathing
+air bubble
+air geyser
+air of authority
+air step
+air walk
+akashic communion
+akashic form
+alarm
+alaznist's jinx
+alchemical allocation
+alchemical tinkering
+aldori alacrity
+align weapon
+allegro
+alleviate addiction
+alleviate corruption
+allfood
+allied cloak
+alluring spores
+ally across time
+alter musical instrument
+alter river
+alter self
+alter summoned monster
+alter winds
+amplify elixir
+amplify stench
+analyze aura
+analyze dweomer
+ancestral communion
+ancestral gift
+ancestral memory
+ancestral regression
+anchored step
+angelic aspect, lesser
+animal ambassador
+animal aspect
+animal growth
+animal messenger
+animal purpose training
+animal shapes
+animal trance
+animate dead
+animate objects
+animate plants
+animate rope
+animus mine
+anonymous interaction
+ant haul
+anthropomorphic animal
+anticipate peril
+anticipate thoughts
+anti-incorporeal shell
+antilife shell
+antimagic field
+antipathy
+antiplant shell
+anti-summoning shield
+antitech field
+antithetical constraint
+apathy
+ape walk
+aphasia
+apparent master
+apparent treachery
+appearance of life
+apport animal
+apport object
+apsu's shining scales
+aquatic trail
+aqueous orb
+aram zey's focus
+aram zey's trap ward
+arbitrament
+arboreal hammer
+arcana theft
+arcane cannon
+arcane concordance
+arcane disruption
+arcane eye
+arcane lock
+arcane mark
+arcane pocket
+arcane reinforcement
+arcane sight
+archon's aura
+archon's trumpet
+ardor's onslaught
+armor of darkness
+aroden's magic army
+aroden's spellbane
+aroden's spellsword
+arrow eruption
+arrow of law
+artificer's curse
+ascension
+ash storm
+aspect of the bear
+aspect of the falcon
+aspect of the nightingale
+aspect of the stag
+aspect of the wolf
+assume appearance
+assumed likeness
+astral projection
+atavism
+atonement
+auditory hallucination
+augmenting wall
+augury
+aura alteration
+aura of cannibalism
+aura of distraction
+aura of doom
+aura of greater courage
+aura of inviolate ownership
+aura of the unremarkable
+aura sight
+authenticating gaze
+aversion
+awaken
+awaken construct
+awaken the devoured
+babble
+badger's ferocity
+balance of suffering
+baleful polymorph
+baleful shadow transmutation
+ball lightning
+ban corruption
+bane
+banish seeming
+banishing blade
+banishment
+banshee blast
+baphomet's blessing
+barbed chains
+bard's escape
+barkskin
+barrow haze
+batrachian surge
+battering blast
+battle trance
+battlemind link
+beacon of luck
+beanstalk
+bear's endurance
+beast shape i
+beastspeak
+bed of iron
+befuddled combatant
+beguiling gift
+beloved of the forge
+besmara's grasping depths
+bestow auras
+bestow curse
+bestow grace
+bestow grace of the champion
+bestow insight
+bestow weapon proficiency
+billowing skirt
+bilocation
+bind sage
+binding
+binding earth
+bit of luck
+bite the hand
+biting words
+black mark
+black spot
+black sword of war
+black tentacles
+blacklight
+blade barrier
+blade lash
+blade of bright victory
+blade of dark triumph
+blade of light
+blade snare
+blade tutor's spirit
+bladed dash
+blasphemy
+blast barrier
+blaze of glory
+blazing rainbow
+bleaching resistance
+bleed
+bleed for your master
+bleed glory
+bleeding strike
+blend
+blend with surroundings
+bless
+bless army
+bless water
+bless weapon
+blessed fist
+blessing of courage and life
+blessing of fervor
+blessing of liberty
+blessing of luck and resolve
+blessing of the mole
+blessing of the salamander
+blessing of the watch
+blight
+blightburn weapon
+blinding ray
+blindness/deafness
+blink
+blistering invective
+bloatbomb
+blood armor
+blood biography
+blood blaze
+blood boil
+blood crow strike
+blood in the water
+blood mist
+blood money
+blood of the martyr
+blood rage
+blood salvation
+blood scent
+blood sentinel
+blood song
+blood tentacles
+blood ties
+blood transcription
+bloodbath
+bloodhound
+bloodsworn retribution
+bloody arrows
+bloody claws
+bloody tears and jagged smile
+blot
+blur
+blurred movement
+body capacitance
+body double
+boiling blood
+bolt of glory
+bolts of bedevilment
+bomber's eye
+bone fists
+bone flense
+boneshaker
+boneshatter
+book ward
+borrow corruption
+borrow fortune
+borrow skill
+borrowed time
+bouncing bomb admixture
+bouncy body
+bountiful banquet
+bow spirit
+bowstaff
+brand
+brand of conformity
+brand of hobbling
+brand of tracking
+break
+break enchantment
+breath of life
+breeze
+brilliant inspiration
+bristle
+brittle portal
+brow gasher
+build trust
+bullet shield
+bullet ward
+bull's strength
+bungle
+buoyancy
+burdened thoughts
+burn corruption
+burning arc (keleshite)
+burning disarm
+burning gaze
+burning hands
+burning sands
+burrow
+burst bonds
+burst of adrenaline
+burst of force
+burst of glory
+burst of insight
+burst of nettles
+burst of radiance
+burst of speed
+burst with light
+business booms
+butt of seasickness
+butt shape
+buttkill
+cackling skull
+cacophonous call
+caging bomb admixture
+calcific touch
+calculated luck
+calistria's guardian wasps
+call animal
+call construct
+call lightning
+call lightning storm
+call spirit
+call the void
+call weapon
+callback
+calm air
+calm animals
+calm emotions
+calm spirit
+campfire wall
+canopic conversion
+cape of wasps
+carrion compass
+carry companion
+carve passage
+cast out
+castigate
+catatonia
+cat's grace
+cause fear
+caustic blood
+caustic eruption
+caustic safeguard
+cauterizing weapon
+celestial healing
+celestial healing, greater
+ceremony
+certain grip
+chain lightning
+chain of perdition
+chains of fire
+chains of light
+challenge evil
+chameleon scales
+chameleon stride
+champion's bout
+changestaff
+channel the gift
+channel vigor
+chaos hammer
+charge object
+charitable impulse
+charm animal
+charm monster
+charm person
+charnel house
+charon's dispensation
+chastise
+cheetah's sprint
+chill metal
+chill touch
+chord of shards
+circle of clarity
+circle of death
+claim identity
+clairaudience/clairvoyance
+clarion call
+clashing rocks
+cleanse
+cleansing fire
+clear grove
+clenched fist
+cleromancy
+climbing beanstalk
+cloak of chaos
+cloak of dreams
+cloak of secrets
+cloak of shade
+cloak of winds
+clone
+codespeak
+cognitive block
+coin shot
+cold ice strike
+cold iron fetters
+collaborative thaumaturgy
+color spray
+command
+command plants
+command undead
+commune
+commune with birds
+commune with nature
+commune with texts
+companion life link
+companion mind link
+compassionate ally
+compel hostility
+compel tongue
+compelling rant
+comprehend languages
+compulsive liar
+concealed breath
+condensed ether
+conditional favor
+cone of cold
+confess
+confusion
+conjuration foil
+conjure black pudding
+conjure carriage
+conjure deadfall
+consecrate
+constricting coils
+contact entity i
+contact high
+contact nalfeshnee
+contact other plane
+contagion
+contagious flame
+contagious zeal
+contest of skill
+contingency
+contingent action
+contingent scroll
+continual flame
+control construct
+control plants
+control summoned creature
+control undead
+control vermin
+control water
+control weather
+control winds
+conversing wind
+coordinated effort
+corpse lanterns
+corrosive consumption
+corrosive touch
+corruption resistance
+cosmic ray
+counterbalancing aura
+countless eyes
+covetous aura
+coward's cowl
+coward's lament
+crafter's curse
+crafter's fortune
+crafter's nightmare
+create armaments
+create demiplane, lesser
+create drug
+create food and water
+create greater undead
+create holds
+create mindscape
+create pit
+create soul gem
+create treasure map
+create undead
+create variant mummy
+create water
+creeping doom
+creeping ice
+crime wave
+crimson breath
+crimson confession
+crown of glory
+cruel jaunt
+crusader's edge
+crushing despair
+crushing hand
+cultural adaptation
+cultural adaptation (taldan)
+cup of dust
+curative distillation
+cure critical wounds
+cure critical wounds, mass
+cure light wounds
+cure light wounds, mass
+cure moderate wounds
+cure moderate wounds, mass
+cure serious wounds
+cure serious wounds, mass
+curse item
+curse of befouled fortune
+curse of burning sleep
+curse of disgust
+curse of fell seasons
+curse of keeping
+curse of magic negation
+curse of night
+curse of the outcast
+curse of unexpected death
+curse terrain, lesser
+curse water
+cursed earth
+cushioning bands
+cyclic reincarnation
+daemon ward
+daggermark's exchange
+dahak's release
+damnation
+damnation of memory
+damnation stride
+damp powder
+dance of a hundred cuts
+dancing darkness
+dancing lantern
+dancing lights
+dark whispers
+dark-light
+darkness
+darkvault
+darkvision
+darting duplicate
+daybreak arrow
+daylight
+daywalker
+daze
+daze monster
+dazzling blade
+deadeye's arrow
+deadeye's lore
+deadly finale
+deadly juggernaut
+deafening song bolt
+death candle
+death clutch
+death from below
+death knell
+death knell aura
+death pact
+death ward
+deathless
+deathwatch
+deathwine
+debilitating portent
+decapitate
+deceitful veneer
+deceptive redundancy
+decollate
+decompose corpse
+decrepit disguise
+deep slumber
+deeper darkness
+defending bone
+defensive grace
+defensive shock
+defile armor
+deflect blame
+deflection
+defoliate
+deft digits
+deivon's parry
+deja vu
+delay disease
+delay pain
+delay poison
+delayed blast fireball
+delayed consumption
+delusional pride
+demand
+demand offering
+demon dream
+denounce
+depilate
+desecrate
+desperate weapon
+destabilize powder
+destroy robot
+destruction
+detect aberration
+detect animals or plants
+detect chaos
+detect charm
+detect demon
+detect evil
+detect fiendish presence
+detect good
+detect law
+detect magic
+detect metal
+detect mindscape
+detect poison
+detect psychic significance
+detect radiation
+detect relations
+detect scrying
+detect secret doors
+detect snares and pits
+detect the faithful
+detect thoughts
+detect undead
+determine depth
+detonate
+detoxify
+devil snare
+devolution
+diagnose disease
+diamond spray
+dibilitating pain
+dictum
+dimension door
+dimensional anchor
+dimensional blade
+dimensional bounce
+dimensional lock
+diminish plants
+diminish resistance
+diminished detection
+dirge of the victorious knights
+disable construct
+discern lies
+discern location
+discern next of kin
+discern value
+discharge
+discordant blast
+discovery torch
+disfiguring touch
+disguise self
+disguise weapon
+disintegrate
+dismissal
+dispel balance
+dispel chaos
+dispel evil
+dispel good
+dispel law
+dispel magic
+displacement
+display aversion
+disrupt link
+disrupt silence
+disrupt undead
+disrupting weapon
+dissolution
+distracting cacophony
+distressing tone
+divide mind
+divination
+divine arrow
+divine favor
+divine power
+divine pursuit
+divine transfer
+divine vessel
+dominate animal
+dominate monster
+dominate person
+domination link
+dongun shaper's touch
+doom
+draconic ally
+draconic malice
+draconic reservoir
+draconic suppression
+dragon turtle shell
+dragon's breath
+dragonvoice
+drain poison
+dread bolt
+dreadscape
+dream
+dream council
+dream dalliance
+dream feast
+dream reality
+dream scan
+dream shield
+dream travel
+dream voyage
+drench
+dress corpse
+drunkard's breath
+dungeonsight
+duplicate familiar
+dust form
+dust of twilight
+dust ward
+dwarven veil
+dweomer retaliation
+eagle aerie
+eagle eye
+eagle's splendor
+eagle's splendor, mass
+eaglesoul
+early judgment
+ear-piercing scream
+ears of the city
+earsend
+earth glide
+earthquake
+echean's excellent enclosure
+echolocation
+ectoplasmic eruption
+ectoplasmic hand
+ectoplasmic snare
+effortless armor
+ego whip i
+egorian diplomacy
+eldritch conduit
+eldritch fever
+elemental assessor
+elemental aura
+elemental body i
+elemental bombardment
+elemental mastery
+elemental speech
+elemental swarm
+elemental touch
+elude time
+emblazon crest
+emblem of greed
+embrace destiny
+emergency force sphere
+emotive block
+empathy conduit
+empower holy water
+enchantment foil
+enchantment sight
+endothermic touch
+endure elements
+enemy hammer
+enemy insight
+enemy's heart
+energy drain
+energy hack
+energy siege shot
+enervation
+enhance water
+enhanced diplomacy
+enlarge person
+enlarge tail
+enlightened step
+enshroud thoughts
+entangle
+enter image
+enthrall
+entice fey, lesser
+enticing adulation
+entomb
+entrap spirit
+entropic shield
+envious urge
+epidemic
+erase
+erase impressions
+erode defenses
+eruptive pustules
+escaping ward
+ethereal envelope
+ethereal envelopment
+ethereal fists
+ethereal jaunt
+etherealness
+etheric shards
+euphoric butt
+euphoric tranquility
+evaluator's lens
+evolution surge, lesser
+excruciating deformation
+expeditious construction
+expeditious excavation
+expeditious retreat
+expend
+explode head
+explosion of rot
+explosive runes
+exquisite accompaniment
+extreme buoyancy
+extreme flexibility
+eyebite
+eyes of the void
+fable tapestry
+fabricate
+fabricate bullets
+fabricate disguise
+face of the devourer
+faerie fire
+fairness
+fairy ring retreat
+fallback strategy
+false alibi
+false belief
+false face
+false future
+false life
+false vision
+familiar figment
+familiar melding
+fear
+fear the sun
+fearsome duplicate
+feast of ashes
+feast on fear
+feather fall
+feather step
+feeblemind
+fester
+fey gate
+fickle winds
+fiery body
+fiery runes
+fiery shuriken
+film of filth
+final sacrifice
+find fault
+find quarry
+find the path
+find traps
+finger of death
+fins to feet
+fire breath
+fire of entanglement
+fire of judgment
+fire of vengeance
+fire seeds
+fire shield
+fire snake
+fire sneeze
+fire storm
+fire trail
+fire trap
+fireball
+firebelly
+firebrand
+firefall
+fire's friend
+firestream
+firewalker's meditation
+first world revisions
+flame arrow
+flame blade
+flame strike
+flames of the faithful
+flaming aura
+flaming sphere
+flare
+flash fire
+flash forward
+fleeting defect
+fleeting memory
+flesh puppet
+flesh to ooze
+flesh to stone
+flesh wall
+fleshcurdle
+fleshwarping swarm (drow)
+fleshworm infestation
+fleshy facade
+flexible fury
+flexile curse
+flickering lights
+floating disk
+fluid form
+flurry of snowballs
+fly
+focused scrutiny
+foe to friend
+fog butt
+follow aura
+font of spirit magic
+fool's forbiddance
+fool's gold
+fool's teleport
+forbid action
+forbiddance
+force anchor
+force hook charge
+force punch
+force sword
+forcecage
+forced quiet
+forced repentance
+forceful hand
+forceful strike
+foresight
+forest friend
+foretell failure
+forgetful slumber
+form of the alien dragon i
+form of the dragon i
+form of the exotic dragon i
+foster hatred
+fox's cunning
+fractions of heal and harm
+free swim
+freedom
+freedom of movement
+freedom's toast
+freezing sphere
+frightful aspect
+frigid souls
+frigid touch
+frost fall
+frost mammoth
+frostbite
+frosthammer
+frosty aura
+frozen note
+full pouch
+fumblestep
+fumbletongue
+fungal infestation
+furious fire barrage
+fury of the sun
+gallant inspiration
+garden of peril
+garrulous grin
+gaseous form
+gate
+geas, lesser
+geb's hammer
+genesis
+geniekind
+genius avaricious
+gentle breeze
+gentle repose
+getaway
+geyser
+ghost brand
+ghost sound
+ghost whip
+ghost wolf
+ghostbane dirge
+ghostly disguise
+ghoul hunger
+ghoul touch
+giant form i
+giant vermin
+gift of the deep
+gilded whispers
+gird ally
+glibness
+glide
+glimpse of the akashic
+glitterdust
+globe of invulnerability
+globe of tranquil water
+gloomblind bolts
+glue seal
+glyph of warding
+golden guise
+good hope
+goodberry
+gorum's armor
+gozreh's trident
+grace
+grand destiny
+grappling scarf
+grasp
+grasping corpse
+grasping hand
+grave words
+gravel vortex
+gravity bow
+gravity sphere
+gravity well
+grease
+green caress
+greensight
+grim stalker
+groundswell
+grove of respite
+guardian armor
+guardian monument, lesser
+guardian of faith
+guarding knowledge
+guards and wards
+guidance
+guiding star
+gullibility
+gust of wind
+gusting sphere
+hairline fractures
+half-blood extraction
+hallow
+hallucinatory terrain
+hallucinogenic smoke
+halt undead
+hammer of mending
+handy grapnel
+hanspur's flotsam vessel
+hardening
+harm
+harmless form
+harrowing
+harvest season
+haste
+haunted fey aspect
+haunting choir
+haunting mists
+haunting reminder
+haze of dreams
+heal
+heal mount
+healing flames
+healing thief
+healing token
+healing warmth
+heart of the mammoth
+heart of the metal
+heat metal
+heatstroke
+heavy water
+heckle
+hedging weapons
+heightened awareness
+heightened reflexes
+hellfire ray
+hellmouth lash
+helping hand
+heretic's tongue
+hermean potential
+heroes' feast
+heroic finale
+heroic fortune
+heroic invocation
+heroism
+hero's defiance
+hex glyph
+hex vulnerability
+hex ward
+hibernate
+hidden blades
+hidden knowledge
+hidden presence
+hidden speech
+hide campsite
+hide from animals
+hide from undead
+hide weapon
+hideous laughter
+hold animal
+hold monster
+hold person
+hold portal
+hollow blades
+holy aura
+holy ice
+holy ice weapon
+holy javelin
+holy shield
+holy smite
+holy sword
+holy whisper
+holy word
+honeyed tongue
+horn of pursuit
+horrid wilting
+horrific doubles
+horrifying visage
+hostile juxtaposition
+hostile levitation
+howling agony
+human potential
+hunger for flesh
+hungry darkness
+hungry earth
+hunter's blessing
+hunter's eye
+hunter's friend
+hunter's howl
+hunter's lore
+huntmaster's spear
+hurricane blast
+hydraulic push
+hydraulic torrent
+hydrophobia
+hymn of peace
+hypercognition
+hypnotic pattern
+hypnotism
+ice armor
+ice body
+ice crystal teleport
+ice slick
+ice spears
+ice storm
+icicle dagger
+icy prison
+id insinuation i
+identify
+ignoble form
+ill omen
+illusion of calm
+illusion of treachery
+illusory crowd
+illusory hoard
+illusory maze
+illusory poison
+illusory script
+illusory wall
+imbue army special ability
+imbue hex
+imbue with addiction
+imbue with aura
+imbue with elemental might
+imbue with flight
+imbue with spell ability
+impart mind
+impede speech
+impenetrable veil
+implant false reading
+implant urge
+implanted projection
+implosion
+impossible angles
+imprisonment
+improve trap
+incendiary butt
+incendiary runes
+incorporeal chains
+infernal challenger
+infernal healing
+inflict critical wounds
+inflict light wounds
+inflict moderate wounds
+inflict pain
+inflict pain, mass
+inflict serious wounds
+infuse effigy
+infuse robot
+inheritor's smite
+inner focus
+innocence
+innocuous shape
+insanity
+insect plague
+insect scouts
+insect spies
+inspiring recovery
+instant armor
+instant enemy
+instant fake
+instant portrait
+instant restoration
+instant summons
+instant weapon
+instigate psychic duel
+instrument of agony
+intellect fortress i
+intensify psyche
+interplanetary teleport
+interposing hand
+interrogation
+inveigle person
+investigative mind
+invigorate
+invigorating poison
+invigorating repose
+invisibility
+invisibility alarm
+invisibility bubble
+invisibility purge
+invisibility sphere
+invoke primal power
+iron body
+iron spine
+iron stake
+ironbeard
+ironbloom sprouts
+ironskin
+ironwood
+irradiate
+irregular size
+irresistible dance
+irriseni mirror sight
+isolate
+itching curse
+jatembe's ire
+jealous rage
+jester's jaunt
+jitterbugs
+jolt
+jolting portent
+joyful rapture
+judgment light
+jump
+jungle mind
+jury-rig
+kalistocrat's nightmare
+karmic blessing
+keen edge
+keen senses
+keep watch
+khain's army
+ki arrow
+ki leech
+ki shout
+kinetic reverberation
+king's castle
+kiss of the first world
+knight's calling
+knock
+know direction
+know peerage
+know the enemy
+kreighton's perusal
+lament of summer's last breath
+languid bomb admixture
+languid venom
+lash of the astradaemon
+last azlanti's defending sword
+lay of the land
+lead anchor
+lead blades
+lead plating
+leashed shackles
+legend lore
+legendary proportions
+lend judgment
+lend path
+levitate
+liberating command
+life blast
+life bubble
+life channel
+life conduit
+life current
+life of crime
+life pact
+life shield
+light
+light lance
+light of iomedae
+light prison
+lighten object
+lightfingers
+lightning arc
+lightning bolt
+lightning lash
+lightning lash bomb admixture
+lily pad stride
+limited wish
+limp lash
+line in the sand
+linebreaker
+linked legacy
+lipstitch
+liquefy
+lissalan snake sigil
+litany of defense
+litany of eloquence
+litany of entanglement
+litany of escape
+litany of madness
+litany of righteousness
+litany of sight
+litany of sloth
+litany of thunder
+litany of vengeance
+litany of warding
+litany of weakness
+liveoak
+loathsome veil
+locate creature
+locate gate
+locate object
+locate portal
+locate weakness
+lock gaze
+lockjaw
+locksight
+long arm
+longshot
+longstrider
+lose the trail
+lost legacy
+lost passage
+lover's vengeance
+lucky number
+lullaby
+lunar veil
+mad hallucination
+mad monkeys
+mad sultan's memory
+maddening oubliette
+mage armor
+mage hand
+mage's crawl space
+mage's decree
+mage's disjunction
+mage's faithful hound
+mage's lucubration
+mage's magnificent mansion
+mage's private sanctum
+mage's sword
+magic aura
+magic boulder
+magic circle against chaos
+magic circle against evil
+magic circle against good
+magic circle against law
+magic circle against technology
+magic fang
+magic jar
+magic missile
+magic mouth
+magic siege engine
+magic stone
+magic vestment
+magic weapon
+magnetic field
+magnifying chime
+majestic image
+major phantom object
+make lost
+make whole
+malediction
+malediction (hero points)
+malfunction
+malicious spite
+mantle of calm
+mantle of doubt
+mantle of the magic warriors
+marching chant
+marid's mastery
+marionette possession
+mark of blood
+mark of justice
+mark of obvious ethics
+mark of the reptile god
+marks of forbiddance
+martial marionette
+martial telekinesis
+martyr's bargain
+martyr's last blessing
+mask dweomer
+mask from divination
+masochistic shadow
+massacre
+master's escape
+master's mutation
+masterwork transformation
+matchmaker
+mathematical curse
+maw of chaos
+maze
+maze of madness and suffering
+medusa's bane
+meld into stone
+memorize page
+memory lapse
+memory of function
+mending
+mental barrier i
+mental block
+merge with familiar
+message
+metabolic molting
+meteor swarm
+meticulous match
+miasmal dread
+miasmatic form
+microcosm
+mighty fist of the earth
+mighty strength
+mind blank
+mind fog
+mind maze
+mind over matter
+mind probe
+mind swap
+mind thrust i
+mindlink
+mindlocked messenger
+mindscape door
+mindshock
+mindwipe
+minor creation
+minor dream
+minor image
+minor phantom object
+miracle
+mirage arcana
+mirror hideaway
+mirror image
+mirror mantis
+mirror polish
+mirror strike
+mirror transport
+mischievous shadow
+misdirection
+miserable pity
+mislead
+mnemonic enhancer
+modify memory
+molten orb
+moment of greatness
+moment of prescience
+monkey fish
+monstrous extremities
+monstrous physique i
+moonstruck
+morning sun
+mortal terror
+motes of dusk and dawn
+mount
+move earth
+mud buddy
+mudball
+muffle sound
+murderous command
+murderous crow
+music of the spheres
+mutagenic touch
+mydriatic spontaneity
+mythic severance
+naga shape i
+named bullet
+nap stack
+natural rhythm
+nature's exile
+nature's paths
+nature's ravages
+nauseating dart
+nauseating trail
+necromantic burden
+negate aroma
+negative reaction
+nereid's grace
+neutral buoyancy
+neutralize poison
+night blindness
+night of blades
+night terrors
+nightmare
+nine lives
+nixie's lure
+node of blasting
+nondetection
+nondetection, lesser
+numerological evocation
+numerological resistance
+oasis
+oath of anonymity
+oath of justice
+oath of peace
+object possession, lesser
+object reading
+obscure object
+obscure posion
+obscured script
+obscuring mist
+obsidian flow
+old salt's curse
+oneiric horror
+open and shut
+open arms
+open book
+open/close
+oppressive boredom
+oracle's burden
+oracle's vessel
+orb of the void
+orchid's drop
+order's wrath
+out of sight
+overland flight
+overlook
+overwhelming grief
+overwhelming poison
+overwhelming presence
+owl's wisdom
+pack empathy
+page-bound epiphany
+pain strike
+paladin's sacrifice
+paragon surge
+paranoia
+parasitic soul
+parchment swarm
+particulate form
+pass without trace
+passing fancy
+passwall
+path of glory
+path of the winds
+pattern recognition
+peace bond
+peacebond
+peacemaker's parley
+peasant armaments
+peerless integrity
+pellet blast
+penumbra
+penumbral disguise
+perceive cues
+percieve betrayal
+perfect placement
+permanency
+permanent image
+pernicious poison
+persistent image
+persistent vigor
+persuasive goad
+pesh addiction
+pesh vigor
+pessimism
+petulengro's validation
+phantasmal affliction
+phantasmal asphixiation
+phantasmal killer
+phantasmal putrefaction
+phantasmal reminder
+phantasmal revenge
+phantasmal web
+phantom blood
+phantom chariot
+phantom driver
+phantom hunt
+phantom limb
+phantom steed
+phantom trap
+phase door
+phasic challange
+phobia
+pick your poison
+pied piping
+pierce disguise
+pierce facade
+piercing shriek
+pilfering hand
+pillar of life
+placebo effect
+plague bearer
+plague carrier
+plague storm
+planar adaptation
+planar ally
+planar ally, lesser
+planar binding
+planar orientation
+planar refuge
+plane shift
+planeslayer's call
+planetarium
+planetary adaptation
+planned assault
+plant growth
+plant shape i
+plant voice
+play instrument
+plundered power
+pocketful of vipers
+poison
+poison breath
+poisoned egg
+poisonous balm
+polar midnight
+polar ray
+polymorph
+polymorph any object
+polymorph familiar
+polymorph, greater
+polypurpose panacea
+possession
+possession trap
+pouncing fury
+power word blind
+power word kill
+power word stun
+pox of rumors
+pox pustules
+prayer
+prediction of failure
+prehensile pilfer
+preserve garce
+pressure adaptation
+prestidigitation
+primal regression
+primal scream
+prismatic sphere
+prismatic spray
+prismatic wall
+probe history
+produce flame
+profane nimbus
+programmed image
+project image
+project weakness
+prosperous room
+protection from arrows
+protection from energy
+protection from evil
+protection from natural attacks
+protection from outsiders
+protection from spells
+protection from technology
+protective penumbra
+protective spirit
+prying eyes
+prying eyes, greater
+psychic asylum
+psychic crush i
+psychic image
+psychic leech
+psychic reading
+psychic surgery
+psychonaut manifestation
+pugwampi's grace
+punishing armor
+pup shape
+purge spirit
+purging finale
+purified calling
+purify body
+purify food and drink
+putrefy food and drink
+puzzle box
+pyrotechnic eruption
+pyrotechnics
+qualm
+quell energy
+quench
+questing stone
+quick change
+quick throwing
+quieting weapons
+quintessence
+radiation ward
+rage
+raging rubble
+rags to riches
+raiment of command
+rain of arrows
+rainbow pattern
+raise dead
+rally point
+rampart
+rapid repair
+raven's flight
+ray of enfeeblement
+ray of exhaustion
+ray of frost
+read magic
+read weather
+reaper's coterie
+reboot
+rebuke
+rebuke technology
+recentering drone
+recharge
+recharge innate magic
+reckless infatuation
+recoil fire
+recorporeal incarnation
+red hand of the killer
+reduce animal
+reduce person
+refine improvised weapon
+reflexive barrier
+refuge
+regenerate
+reincarnate
+reinforce armaments
+rejuvenate eidolon, lesser
+release the hounds
+reloading hands
+remarkable legerdemain
+remote viewing
+remove blindness/deafness
+remove curse
+remove disease
+remove fear
+remove paralysis
+remove radioactivity
+remove sickness
+rend body i
+renovation
+repair undead
+repair undead, mass
+repel metal or stone
+repel vermin
+repel wood
+replenish ki
+repress memory
+reprobation
+repulsion
+repungant taste
+residual tracking
+resilient reservoir
+resilient sphere
+resinous skin
+resist energy
+resistance
+resize item
+resonating word
+resounding blow
+resounding clang
+respectful quiet
+resplendent mansion
+rest eternal
+restful cloak
+restful sleep
+restoration
+restore corpse
+restore eidolon, lesser
+restore mythic power
+resurgent transformation
+resurrection
+retribution
+retributive reparations
+retrieve item
+retrocognition
+returning weapon
+reveal emotions
+reveal mirage
+reveal true shape
+revealing light
+revelation
+revenant armor
+reverse gravity
+reviving finale
+ricochet shot
+ride the lightning
+ride the waves
+riding possession
+rift of ruin
+righteous blood
+righteous might
+righteous vigor
+rigor mortis
+rite of bodily purity
+rite of centered mind
+river of wind
+river whip
+riversight
+roaming pit
+rock whip
+root
+rope trick
+rotting alliance
+rovagug's fury
+rubberskin
+rumormonger
+rune of durability
+rune of jandelay
+rune of ruin
+rune of rule
+rune of warding
+rune trace
+runic overload
+rusting grasp
+sabotage construct
+sacramental seal
+sacred bond
+sacred nimbus
+sacred space
+sacrifice
+sacrificial oath
+saddle surge
+sadomasochism
+salvage
+sanctify armor
+sanctify corpse
+sanctify weapons
+sanctuary
+sand whirlwind
+sands of time
+sarzari shadow memory
+savage maw
+saving finale
+sawtooth terrain
+scale spikes
+scales of deflection
+scamper
+scare
+scent trail
+scintillating pattern
+scoop
+scorching ash form
+scorching ray
+scourge of the horsemen
+scouring winds
+screaming flames
+screech
+screen
+scribe's binding
+scrivener's chant
+scrying
+sculpt corpse
+sculpt simulacrum
+sculpt sound
+sculpted cape
+sea steed
+sealed life
+sealed life, greater
+sealed sending
+seamantle
+searching shadows
+searing light
+secluded grimoire
+secret chest
+secret page
+secret sign
+secret speech
+secure shelter
+seducer's eyes
+see alignment
+see beyond
+see invisibility
+see through stone
+seeds of influence
+seek shelter
+seek thoughts
+seeming
+seer's bane
+selective invisibility
+semblance of flesh
+sending
+sense fear
+sense madness
+sense spirit magic
+sense vitals
+sensory amplifier
+sensory overload
+sentry skull
+sepia snake sigil
+sequester
+sequester thoughts
+serenity
+serren's armor lock
+serren's swift girding
+sessile spirit
+severed fate
+shackle
+shades
+shadow anchor
+shadow barbs
+shadow body
+shadow bomb admixture
+shadow conjuration
+shadow dragon aspect
+shadow enchantment
+shadow endurance
+shadow evocation
+shadow of doubt
+shadow projection
+shadow step
+shadow transmutation
+shadow trap
+shadow walk
+shadow weapon
+shadowbard
+shadowfade
+shadowform
+shadowmind
+shadowy haven
+shambler
+shamefully overdressed
+shapechange
+shard of chaos
+share glory
+share language
+share memory
+share senses
+share skin
+shared sacrifice
+shared suffering
+sharesister
+shatter
+sheet lightning
+shield
+shield companion
+shield of darkness
+shield of faith
+shield of fortification
+shield of law
+shield of shards
+shield of the dawnflower
+shield of wings
+shield other
+shield speech
+shield the banner
+shifted steps
+shifting sand
+shifting shadows
+shillelagh
+shining cord
+shock shield
+shocking grasp
+shocking image
+shout
+shrink item
+shroud of innocuity
+sickening strikes
+siege of trees
+siege scatter
+sift
+sign of the dawnflower
+sign of wrath
+signifer's rally
+silence
+silent image
+silent table
+silk to steel
+silver darts
+silverlight
+simulacrum
+siphon magic
+siphon might
+sirocco
+skeleton crew
+skin tag
+skinsend
+sky steed
+sky swim
+skyshroud
+slave to sin
+slay living
+sleep
+sleepwalk
+sleepwalking suggestion
+sleet storm
+slick walls
+slipstream
+slough
+slow
+slowing mud
+smite abomination
+smug narcissism
+snake staff
+snapdragon fireworks
+snare
+snow shape (ulfen)
+snowball
+soften earth and stone
+solid fog
+solid note
+solidify earth
+song of discord
+song of kyonin
+sonic form
+sonic scream
+sonic thrust
+soothe construct
+soothing word
+sotto voce
+soul bind
+soul transfer
+soulreaver
+soulswitch
+sound burst
+source severance
+sow thought
+spark
+spawn calling
+spawn ward
+speak local language
+speak with animals
+speak with dead
+speak with haunt
+speak with plants
+spear of purity
+spectral hand
+spectral saluqi
+speechreader's sight
+spell absorption
+spell gauge
+spell immunity
+spell resistance
+spell scourge
+spell turning
+spellcasting contract, lesser
+spellcrash, lesser
+spellcurse
+spellscar
+spellstaff
+spellsteal
+sphere of warding
+spherescry
+spider climb
+spike growth
+spike stones
+spirit bonds
+spirit call
+spirit-bound blade
+spiritual ally
+spiritual squire
+spiritual weapon
+spit venom
+spite
+splinter spell resistance
+spontaneous immolation
+spore burst
+spotlight
+squeeze
+stabilize
+stabilize powder
+stabilize pressure
+stage fright
+staggering fall
+stalwart resolve
+starsight
+statue
+status
+status, greater
+stave off corruption
+stay the hand
+steal breath
+steal power
+steal size
+steal voice
+steal years
+steam ray fusillade
+stench of prey
+stinking butt
+stoke the inner fire
+stolen light
+stone call
+stone discus
+stone fist
+stone shape
+stone shield
+stone tell
+stone throwing
+stone to flesh
+stoneskin
+storm of blades
+storm of vengeance
+storm sight
+storm step
+stormbolts
+straitjacket
+strand of the tangled knot
+strangling hair
+stricken heart
+strip scales
+strong jaw
+strong wings
+stumble gap
+stunning barrier
+stunning finale
+subjective reality
+submerge ship
+substitute trail
+suffocation
+suffocation, instant
+suggestion
+summon accuser
+summon ancestral guardian
+summon barghest i
+summon cacodaemon
+summon ceustodaemon
+summon derghodaemon
+summon eidolon
+summon elder worm
+summon elemental steed
+summon erodaemon
+summon flight of eagles
+summon froghemoth
+summon genie, lesser
+summon giant ally i
+summon greater demon
+summon infernal host
+summon instrument
+summon kami
+summon laborers
+summon lesser demon
+summon lesser psychopomp
+summon meladaemon
+summon minor ally
+summon minor monster
+summon monster 1
+summon nature's ally 1
+summon stampede
+summon swarm
+summon thanadaemon
+summon totem creature (shoanti)
+summon vanth
+summoner conduit
+sun metal
+sunbeam
+sunburst
+sunder breaker
+sundered serpent coil
+sundering shards
+sun's disdain
+sunstalker
+suppress charms and compulsions
+suppress primal magic
+suppressing stone
+sure casting
+surefoot boots
+surelife
+surface excursion
+surmount affliction
+sustaining legend
+swallow poison
+swallow your fear
+swarm of fangs
+swarm skin
+sweat poison
+swipe
+sword to snake
+symbol of death
+symbol of debauchery
+symbol of dispelling
+symbol of distraction
+symbol of exsanguination
+symbol of fear
+symbol of healing
+symbol of insanity
+symbol of laughter
+symbol of mirroring
+symbol of pain
+symbol of persuasion
+symbol of revelation
+symbol of scrying
+symbol of sealing
+symbol of sleep
+symbol of slowing
+symbol of strife
+symbol of striking
+symbol of stunning
+symbol of vulnerability
+symbol of weakness
+sympathetic vibration
+sympathetic wounds
+sympathy
+synapse overload
+synaptic pulse
+synaptic scramble
+synesthesia
+tactical acumen
+tactical adaptation
+tactical formation
+tactical insight
+tactical miscalculation
+tail strike
+talismanic implement
+tap inner beauty
+tar ball
+tar pool
+targeted bomb admixture
+tattoo potion
+tears to wine
+technomancy
+tectonic communion
+telekinesis
+telekinetic assembly
+telekinetic charge
+telekinetic maneuver
+telekinetic projectile
+telekinetic sphere
+telekinetic storm
+telekinetic strikes
+telekinetic volley
+telempathic projection
+telepathic bond
+telepathic censure
+telepathic silence
+telepathy
+teleport
+teleport object
+teleport structure
+teleport trap
+teleportation circle
+temporal divergence
+temporal regression
+temporal stasis
+temporary graft
+temporary resurrection
+teratoid caress
+terraform
+terrain bond
+terrible remorse
+thanatotic fury
+thaumaturgic circle
+theft ward
+they know
+thorn body
+thorn javelin
+thorn snare
+thought echo
+thought shield i
+thought worm i
+thought worm ii
+thought worm iii
+thought worm iv
+thoughtsense
+threefold aspect
+threefold face
+threefold sight
+thunder fire
+thundering drums
+thunderous footfalls
+thunderstomp
+tieldlara's feint
+time shudder
+time stop
+timely inspiration
+tiny hut
+tireless pursuit
+titanic anchoring
+toilsome chant
+tomb legion
+tongues
+tongues, communal
+torpid reanimation
+torrent of elemental rage
+touch injection
+touch of blindness
+touch of bloodletting
+touch of combustion
+touch of fatigue
+touch of gracelessness
+touch of idiocy
+touch of madness
+touch of mercy
+touch of slime
+touch of slumber
+touch of the sea
+tough crowd
+tower of iron will i
+toxic gift
+toxic rupture
+trace teleport
+track ship
+tracking mark
+trade items
+trail of the rose
+transfer familiar
+transfer regeneration
+transfer tattoo
+transfiguring touch
+transformation
+transmogrify
+transmute blood to acid
+transmute golem
+transmute metal to wood
+transmute mud to rock
+transmute potion to poison
+transmute rock to mud
+transmute wine to blood
+transplant visage
+transport via plants
+trap the soul
+traveling dream
+treasure stitching
+tree shape
+tree stride
+trial by fire
+trial of fire and acid
+tripvine
+true creation
+true form
+true resurrection
+true seeing
+true skill
+true strike
+truespeak
+tsunami
+twilight haze
+twilight knife
+twin form
+twine double
+twisted futures
+twisted innards
+twisted space
+umbral infusion
+umbral strike
+umbral weapon
+unadulterated loathing
+unbearable brightness
+unbreakable construct
+unbreakable heart
+unconscious agenda
+undead anatomy i
+undeath inversion
+undeath to death
+undeath ward
+underbrush decoy
+undetectable alignment
+undetectable trap
+undine's curse
+unerring tracker
+unerring weapon
+unfetter
+unhallow
+unholy aura
+unholy blight
+unholy ice
+unholy sword
+unholy ward
+universal formula
+unleash pandemonium
+unliving rage
+unnatural lust
+unprepared combatant
+unravel destiny
+unseen crew
+unseen engineers
+unseen servant
+unsettling presence
+unshakable chill
+unshakeable zeal
+unwelcome halo
+unwilling shield
+unwitting ally
+urban grace
+urban step
+urgathoa's beacon
+utter contempt
+vacuous vessel
+vampiric hunger
+vampiric shadow shield
+vampiric touch
+vanish
+veil
+veil of ash
+veil of heaven
+veil of positive energy
+vengeful comets
+vengeful outrage
+vengeful stinger
+venomous bite
+venomous bolt
+venomous promise
+ventriloquism
+vermicious assumption
+vermin shape i
+verminous transformation
+versatile weapon
+vestment of the champion
+vex giant
+vexing miscalculation
+vicarious view
+vigor
+vile dog transformation
+village veil
+vine strike
+vinetrap
+violent accident
+viper bomb admixture
+virtue
+virtuoso performance
+virulence
+vision
+vision of hell
+vision of lamashtu
+visualization of the body
+visualization of the mind
+vitriolic mist
+vocal alteration
+volcanic storm
+voluminous vocabulary
+vomit swarm
+vomit twin
+vortex
+wail of the banshee
+wake of light
+walk through space
+wall of blindness/deafness
+wall of bone
+wall of brine
+wall of clockwork
+wall of ectoplasm
+wall of fire
+wall of force
+wall of ice
+wall of iron
+wall of lava
+wall of light
+wall of nausea
+wall of silver
+wall of sound
+wall of split illumination
+wall of stone
+wall of suppression
+wall of thorns
+wandering star motes
+wandering trail
+ward of the season
+ward shield
+ward the faithful
+warding weapon
+warp metal
+warp wood
+wartrain mount
+watchful animal
+watchful eye
+water breathing
+water shield
+water walk
+waters of lamashtu
+wave form
+wave shield
+waves of blood
+waves of ecstasy
+waves of exhaustion
+waves of fatigue
+weaken powder
+weapon of awe
+weapons against evil
+weaponwand
+web
+web bolt
+web butt
+web shelter
+weird
+whip of spiders
+whirlwind
+whispering lore
+whispering wind
+widen auras
+wild instinct
+wilderness soldiers
+wind blades
+wind walk
+wind wall
+winds of vengeance
+windy escape
+winged sword
+winter feathers
+winter's grasp
+wish
+withdraw affliction
+wither limb
+witness
+wizened appearance
+wood shape
+wooden phalanx
+word of chaos
+word of recall
+word of resolve
+world wave
+wracking ray
+wrath
+wrathful mantle
+wrathful weapon
+wreath of blades
+youthful appearance
+zephyr's fleetness
+zone of foul flames
+zone of silence
+zone of truth

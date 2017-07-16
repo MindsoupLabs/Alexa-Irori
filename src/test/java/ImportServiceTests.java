@@ -17,13 +17,15 @@ public class ImportServiceTests {
 	public void test_nethys_spell_parser() {
 		List<IroriStat> iroriStats = NethysParser.fromString(spellBless);
 
+		assertEquals(9, iroriStats.size());
+
 		for(IroriStat stat : iroriStats) {
 			switch (stat.getStatName()) {
 				case "source":
 					assertEquals("PRPG Core Rulebook pg. 249", stat.getStatValue());
 					break;
 				case "school":
-					assertEquals("enchantment (compulsion) [mind-affecting]", stat.getStatValue());
+					assertEquals("enchantment (compulsion) [mind-affecting];", stat.getStatValue());
 					break;
 				case "level":
 					assertEquals("adept 1, cleric/oracle 1, inquisitor 1, paladin 1, shaman 1, warpriest 1", stat.getStatValue());
