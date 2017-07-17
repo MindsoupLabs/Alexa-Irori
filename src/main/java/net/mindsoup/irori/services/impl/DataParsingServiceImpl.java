@@ -26,7 +26,7 @@ public class DataParsingServiceImpl implements DataParsingService {
 		IroriData iroriData = new IroriData();
 
 		IroriObject iroriObject = new IroriObject();
-		iroriObject.setName(item.getName().trim().toLowerCase());
+		iroriObject.setName(item.getName().toLowerCase());
 		iroriData.setObject(iroriObject);
 
 		iroriData.setStats(NethysParser.fromString(item.getContent()));

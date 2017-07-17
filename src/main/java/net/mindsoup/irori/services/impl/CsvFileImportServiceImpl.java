@@ -30,9 +30,9 @@ public class CsvFileImportServiceImpl implements CsvFileImportService {
 		// tab separated
 		String[] lineItems = line.split("\t");
 
-		csvDataImportItem.setName(lineItems[0]);
-		csvDataImportItem.setSource(lineItems[1]);
-		csvDataImportItem.setContent(lineItems[2]);
+		csvDataImportItem.setName(lineItems[0].trim());
+		csvDataImportItem.setSource(lineItems[1].trim());
+		csvDataImportItem.setContent(lineItems[2].trim());
 
 		return csvDataImportItem;
 	};

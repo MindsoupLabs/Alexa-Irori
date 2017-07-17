@@ -4,7 +4,6 @@
 		<encoder>
 			<pattern>%d{ISO8601} | %-5level | [%thread] | %-30logger{0} : %m%n</pattern>
 		</encoder>
-
 	</appender>
 
 	<appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
@@ -16,11 +15,6 @@
 		<encoder>
 			<pattern>%d{ISO8601} | %-5level | [%thread] | %-30logger{0} : %m%n</pattern>
 		</encoder>
-		<filter class="ch.qos.logback.classic.filter.LevelFilter">
-			<level>INFO</level>
-			<onMatch>ACCEPT</onMatch>
-			<onMismatch>DENY</onMismatch>
-		</filter>
 	</appender>
 
 	<logger name="net.mindsoup" level="DEBUG">
