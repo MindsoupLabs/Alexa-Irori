@@ -2,7 +2,6 @@ package net.mindsoup.irori.services;
 
 import net.mindsoup.irori.models.CsvDataImportItem;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.List;
 
