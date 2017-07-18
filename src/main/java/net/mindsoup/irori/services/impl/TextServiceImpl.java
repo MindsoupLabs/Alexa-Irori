@@ -53,7 +53,6 @@ public class TextServiceImpl implements TextService {
 			return matchMappings.get(name);
 		}
 
-
 		String closestMatch = getClosestPhoneticMatch(name);
 
 		// add the string to the mappings so we don't need to do it again for this string

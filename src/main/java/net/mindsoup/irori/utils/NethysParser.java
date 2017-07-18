@@ -2,6 +2,7 @@ package net.mindsoup.irori.utils;
 
 import net.mindsoup.irori.models.IroriStat;
 import org.apache.commons.lang3.StringUtils;
+import org.jsoup.Jsoup;
 
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -24,7 +25,8 @@ public class NethysParser {
 			nethysContent = nethysContent.substring(0, mythicIndex);
 		}
 
-		final Pattern pattern = Pattern.compile("b>([^<]+)</b>(.+?)<");
+		// stats
+		Pattern pattern = Pattern.compile("b>([^<]+)</b>(.+?)<");
 		Matcher matcher = pattern.matcher(nethysContent);
 
 		Set<String> addedStats = new HashSet<>();
@@ -42,11 +44,30 @@ public class NethysParser {
 
 			}
 		}
+
+		// description
+		pattern = Pattern.compile(">Description</h3>(.+?)</span>");
+		matcher = pattern.matcher(nethysContent);
+
+		while (matcher.find()) {
+			IroriStat iroriStat = new IroriStat();
+			iroriStat.setStatName(Constants.Stats.DESCRIPTION);
+			iroriStat.setStatValue(transformDescription(matcher.group(1).trim()));
+
+			if(StringUtils.isNotBlank(iroriStat.getStatValue())) {
+				stats.add(iroriStat);
+			}
+		}
+
 		return stats;
 	}
 
+	private static String transformDescription(String description) {
+		return Jsoup.parse(description).text();
+	}
+
 	private static String transformValue(String value) {
-		return value.replace("/level", " per level");
+		return value.replace("/level", " per level").replace("—", "none").replace("—/—", "none");
 	}
 
 	private static String transformStatName(String stat) {
