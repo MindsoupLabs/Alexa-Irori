@@ -1,5 +1,5 @@
-# Irori For Pathfinder
-![Irori](https://github.com/MindsoupLabs/Alexa-Irori/raw/master/src/main/resources/alexa/logo/logo-small.png) The alexa skill Irori For Pathfinder. If you need to know the stat of a monster, item or spell, just ask Irori!
+# ![Irori](https://github.com/MindsoupLabs/Alexa-Irori/raw/master/src/main/resources/alexa/logo/logo-small.png) Irori For Pathfinder
+The alexa skill Irori For Pathfinder. If you need to know the stat of a monster, item or spell, just ask Irori!
 
 ### Examples:
 * "Alexa, ask Irori for the saving throw of Disintegrate"
@@ -8,10 +8,13 @@
 * "Alexa, ask Irori for the armor class of a goblin"
 * "Alexa, ask Irori how armor class is calculated"
 
-## Credits
+## Legal stuff
 Hand icon in the logo by sasha willins from the Noun Project, used under the Creative Commons license.
 
-Pathfinder content used under the Open Game License:
+Pathfinder content used under the Open Game License and the Community Use Policy.
+
+### Community Use Policy
+This alexa skill uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This alexa skill is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Inc. and Paizo products, please visit paizo.com.
 
 ### OPEN GAME LICENSE Version 1.0a
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.

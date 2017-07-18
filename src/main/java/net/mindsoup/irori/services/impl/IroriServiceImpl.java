@@ -9,7 +9,7 @@ import net.mindsoup.irori.models.IroriStat;
 import net.mindsoup.irori.repositories.ObjectRepository;
 import net.mindsoup.irori.repositories.StatRepository;
 import net.mindsoup.irori.services.IroriService;
-import net.mindsoup.irori.services.SynonymService;
+import net.mindsoup.irori.services.TextService;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -21,7 +21,7 @@ import org.springframework.stereotype.Service;
 public class IroriServiceImpl implements IroriService {
 
 	@Autowired
-	private SynonymService synonymService;
+	private TextService textService;
 
 	@Autowired
 	private ObjectRepository objectRepository;
@@ -35,6 +35,9 @@ public class IroriServiceImpl implements IroriService {
 			throw new InvalidInputException();
 		}
 
+		// attempt to fix alexa's inability to understand some words
+		statRequest.setObjectName(textService.getClosestLevenshteinMatch(statRequest.getObjectName()));
+
 		// see if this object is in our db
 		IroriObject iroriObject = objectRepository.findByName(statRequest.getObjectName());
 
@@ -44,7 +47,7 @@ public class IroriServiceImpl implements IroriService {
 		}
 
 		// set any stat synonyms to the correct stat name ('A.C.' to 'armor class', etc)
-		statRequest.setStatName(synonymService.getSynonym(statRequest.getStatName(), iroriObject.getType()));
+		statRequest.setStatName(textService.getSynonym(statRequest.getStatName(), iroriObject.getType()));
 
 		// the object is in our db, lets see if we know the stat the user is asking for
 		IroriStat iroriStat = statRepository.findByObjectAndStatName(iroriObject, statRequest.getStatName());
