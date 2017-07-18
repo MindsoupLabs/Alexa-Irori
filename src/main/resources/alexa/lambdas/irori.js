@@ -1,7 +1,7 @@
 var http = require('http');
 var querystring = require('querystring');
 
-var ip = '46.129.108.152';
+var ip = process.env.IRORI_SERVER;
 var port = '8088';
 var protocol = 'http:';
 var rootUri = protocol + '//' + ip + ':' + port + '/irori/';
@@ -51,11 +51,11 @@ exports.handler = (event, context) => {
 						processPostRequest(context, '/irori/stat', "GetStat", payload);
 
 						break;
-					case "GetFormula":
-						console.log(`Hit the GetFormula request: ${JSON.stringify(event.request.intent.slots)}`);
+					case "GetInfo":
+						console.log(`Hit the GetInfo request: ${JSON.stringify(event.request.intent.slots)}`);
 						var payload = {
 							"objectName": event.request.intent.slots.Object.value,
-							"statName": "formula"
+							"statName": "description"
 						};
 						processPostRequest(context, '/irori/stat', "GetStat", payload);
 
