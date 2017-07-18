@@ -23,15 +23,15 @@ public class IroriController {
 	@Autowired
 	private IroriService iroriService;
 
-    @RequestMapping("/stat")
-    public IroriResponse getStat(@RequestBody StatRequest statRequest) {
-    	LOG.debug(statRequest.toString());
-    	statRequest.setObjectName(statRequest.getObjectName().toLowerCase());
-    	statRequest.setStatName(statRequest.getStatName().toLowerCase());
-        return new StatResponse(iroriService.getStat(statRequest));
-    }
+	@RequestMapping("/stat")
+	public IroriResponse getStat(@RequestBody StatRequest statRequest) {
+		LOG.debug(statRequest.toString());
+		statRequest.setObjectName(statRequest.getObjectName().toLowerCase());
+		statRequest.setStatName(statRequest.getStatName().toLowerCase());
+		return new StatResponse(iroriService.getStat(statRequest));
+	}
 
-    @ExceptionHandler(ObjectNotFoundException.class)
+	@ExceptionHandler(ObjectNotFoundException.class)
 	public IroriResponse objectError(ObjectNotFoundException e) {
 		LOG.warn(e.getMessage());
 

@@ -13,11 +13,11 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 public class Application {
 
-    private static Log logger = LogFactory.getLog(Application.class);
+	private static Log logger = LogFactory.getLog(Application.class);
 
-    public static void main(String[] args) throws Exception {
-        SpringApplication.run(Application.class, args);
-        logger.info("Irori started");
-    }
+	public static void main(String[] args) throws Exception {
+		SpringApplication.run(Application.class, args);
+		logger.info("Irori started");
+	}
 
 }

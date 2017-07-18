@@ -21,6 +21,15 @@
 		  "type": "LIST_OF_OBJECTS"
 		}
 	  ]
+	},
+	{
+	  "intent": "GetInfo",
+	  "slots": [
+		{
+		  "name": "Object",
+		  "type": "LIST_OF_OBJECTS"
+		}
+	  ]
 	}
   ]
 }

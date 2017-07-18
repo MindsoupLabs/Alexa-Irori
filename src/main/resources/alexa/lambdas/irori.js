@@ -8,41 +8,41 @@ var rootUri = protocol + '//' + ip + ':' + port + '/irori/';
 
 exports.handler = (event, context) => {
 
-    try {
+	try {
 
-        if (event.session.new) {
-            // New Session
-            console.log("NEW SESSION")
-        }
+		if (event.session.new) {
+			// New Session
+			console.log("NEW SESSION")
+		}
 
-        switch (event.request.type) {
+		switch (event.request.type) {
 
-            case "LaunchRequest":
-                // Launch Request
-                console.log('LAUNCH REQUEST')
-                context.succeed(
-                    generateResponse(
-                        buildSpeechletResponse('Welcome to Irori For Pathfinder, you can ask any stats of Pathfinder monsters, spells, or items', true), {}
-                    )
-                )
-                break;
+			case "LaunchRequest":
+				// Launch Request
+				console.log('LAUNCH REQUEST')
+				context.succeed(
+					generateResponse(
+						buildSpeechletResponse('Welcome to Irori For Pathfinder, you can ask any stats of Pathfinder monsters, spells, or items', true), {}
+					)
+				)
+				break;
 
-            case "IntentRequest":
-                // Intent Request
-                console.log('INTENT REQUEST')
+			case "IntentRequest":
+				// Intent Request
+				console.log('INTENT REQUEST')
 
-                switch (event.request.intent.name) {
+				switch (event.request.intent.name) {
 
-                    case "GetStat":
-                        console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
-                        var payload = {
-                        	"objectName": event.request.intent.slots.Object.value,
-                        	"statName": event.request.intent.slots.Stat.value
-                        };
-                        processPostRequest(context, '/irori/stat', "GetStat", payload);
+					case "GetStat":
+						console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
+						var payload = {
+							"objectName": event.request.intent.slots.Object.value,
+							"statName": event.request.intent.slots.Stat.value
+						};
+						processPostRequest(context, '/irori/stat', "GetStat", payload);
 
-                        break;
-                     case "GetFormula":
+						break;
+					case "GetFormula":
 						console.log(`Hit the GetFormula request: ${JSON.stringify(event.request.intent.slots)}`);
 						var payload = {
 							"objectName": event.request.intent.slots.Object.value,
@@ -51,26 +51,34 @@ exports.handler = (event, context) => {
 						processPostRequest(context, '/irori/stat', "GetStat", payload);
 
 						break;
+					case "GetFormula":
+						console.log(`Hit the GetFormula request: ${JSON.stringify(event.request.intent.slots)}`);
+						var payload = {
+							"objectName": event.request.intent.slots.Object.value,
+							"statName": "formula"
+						};
+						processPostRequest(context, '/irori/stat', "GetStat", payload);
 
-                    default:
-                        throw "Invalid intent"
-                }
+						break;
+					default:
+						throw "Invalid intent"
+				}
 
-                break;
+				break;
 
-            case "SessionEndedRequest":
-                // Session Ended Request
-                console.log(`SESSION ENDED REQUEST`);
-                break;
+			case "SessionEndedRequest":
+				// Session Ended Request
+				console.log(`SESSION ENDED REQUEST`);
+				break;
 
-            default:
-                context.fail(`INVALID REQUEST TYPE: ${event.request.type}`)
+			default:
+				context.fail(`INVALID REQUEST TYPE: ${event.request.type}`)
 
-        }
+		}
 
-    } catch (error) {
-        context.fail(`Exception: ${error}`)
-    }
+	} catch (error) {
+		context.fail(`Exception: ${error}`)
+	}
 
 }
 
@@ -149,26 +157,26 @@ processPostRequest = (context, path, intent, payload) => {
 	req.write(JSON.stringify(payload));
 	req.end();
 
-    return;
+	return;
 }
 
 buildSpeechletResponse = (outputText, shouldEndSession) => {
 
-    return {
-        outputSpeech: {
-            type: "PlainText",
-            text: outputText
-        },
-        shouldEndSession: shouldEndSession
-    }
+	return {
+		outputSpeech: {
+			type: "PlainText",
+			text: outputText
+		},
+		shouldEndSession: shouldEndSession
+	}
 
 }
 
 generateResponse = (speechletResponse, sessionAttributes) => {
 
-    return {
-        version: "1.0",
-        sessionAttributes: sessionAttributes,
-        response: speechletResponse
-    }
+	return {
+		version: "1.0",
+		sessionAttributes: sessionAttributes,
+		response: speechletResponse
+	}
 }
