@@ -26,7 +26,7 @@ public class DataParsingServiceImpl implements DataParsingService {
 		IroriData iroriData = new IroriData();
 
 		IroriObject iroriObject = new IroriObject();
-		iroriObject.setName(item.getName().toLowerCase());
+		iroriObject.setName(transformObjectName(item.getName().toLowerCase()));
 		iroriData.setObject(iroriObject);
 
 		iroriData.setStats(NethysParser.fromString(item.getContent()));
@@ -36,5 +36,17 @@ public class DataParsingServiceImpl implements DataParsingService {
 		iroriData.getStats().add(stat);
 
 		return iroriData;
+	}
+
+	private String transformObjectName(String name) {
+		// strip trailing i or 1 from names (like summon monster i)
+		if(name.endsWith(" i") || name.endsWith(" 1")) {
+			name = name.substring(0, name.length() - 2);
+		}
+
+		// strip possessive apostrophe from names (like bear's endurance)
+		name = name.replace("'","").replace("`","");
+
+		return name;
 	}
 }
