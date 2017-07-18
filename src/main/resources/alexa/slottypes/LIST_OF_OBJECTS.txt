@@ -34,7 +34,7 @@ advanced scurvy
 aerial tracks
 age resistance, lesser
 aggravate affliction
-aggressive thunderbutt
+aggressive thundercloud
 agile breastplate
 agile half-plate
 agonize
@@ -401,7 +401,6 @@ burst with light
 business booms
 butterfly knife
 butterfly sword
-buttkill
 cackling skull
 cacophonous call
 caging bomb admixture
@@ -490,6 +489,7 @@ cloak of winds
 clone
 cloud of seasickness
 cloud shape
+cloudkill
 club
 coat pistol
 codespeak
@@ -915,7 +915,7 @@ ethereal fists
 ethereal jaunt
 etherealness
 etheric shards
-euphoric butt
+euphoric cloud
 euphoric tranquility
 evaluators lens
 evolution surge, lesser
@@ -1037,7 +1037,7 @@ flying blade
 flying talon
 focused scrutiny
 foe to friend
-fog butt
+fog cloud
 follow aura
 font of spirit magic
 fools forbiddance
@@ -1350,7 +1350,7 @@ impossible angles
 imprisonment
 improve trap
 incendiary arrow
-incendiary butt
+incendiary cloud
 incendiary runes
 incorporeal chains
 infernal challenger
@@ -2435,7 +2435,7 @@ steal years
 steam ray fusillade
 stench of prey
 stingchuck
-stinking butt
+stinking cloud
 stoke the inner fire
 stolen light
 stone call
@@ -2879,7 +2879,7 @@ weapons against evil
 weaponwand
 web
 web bolt
-web butt
+web cloud
 web shelter
 weighted bolt
 weighted spear
