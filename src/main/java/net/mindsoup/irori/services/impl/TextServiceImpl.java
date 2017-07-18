@@ -1,12 +1,15 @@
 package net.mindsoup.irori.services.impl;
 
 import net.mindsoup.irori.services.TextService;
-import org.apache.commons.lang3.StringUtils;
-import org.apache.commons.codec.language.DoubleMetaphone;
+import org.apache.commons.text.similarity.LevenshteinDistance;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -31,8 +34,6 @@ public class TextServiceImpl implements TextService {
 
 	@Override
 	public String getSynonym(String name, String objectType) {
-		name = name.toLowerCase();
-
 		if(synonyms.containsKey(name)) {
 			return synonyms.get(name);
 		}
@@ -53,31 +54,33 @@ public class TextServiceImpl implements TextService {
 		}
 
 
-		String closestMatch = getLevensteinMatch(name);
+		String closestMatch = getClosestPhoneticMatch(name);
 
 		// add the string to the mappings so we don't need to do it again for this string
 		matchMappings.put(name, closestMatch);
-		LOG.info(String.format("Added %s to levenshtein mappings for %s", name, closestMatch));
+		LOG.info(String.format("Added %s to match mappings for %s", name, closestMatch));
 
 		return closestMatch;
 	}
 
 	private String getPhoneticMatch(String name) {
-		DoubleMetaphone doubleMetaPhone = new DoubleMetaphone();
+
 		return null;
 	}
 
-	@SuppressWarnings("deprecated")
-	private String getLevensteinMatch(String name) {
+	private String getClosestPhoneticMatch(String name) {
+		LevenshteinDistance levenshteinDistance = new LevenshteinDistance();
+
 		// find the string with the closest levenshtein distance
 		String closestMatch = name;
 		int closestLevenshteinDistance = Integer.MAX_VALUE;
-		for(String objectName : knownObjectNames) {
-			int levenshteinDistance = StringUtils.getLevenshteinDistance(name, objectName);
 
-			if(levenshteinDistance < closestLevenshteinDistance) {
+		for(String objectName : knownObjectNames) {
+			int distance = levenshteinDistance.apply(name, objectName);
+
+			if(distance < closestLevenshteinDistance) {
 				closestMatch = objectName;
-				closestLevenshteinDistance = levenshteinDistance;
+				closestLevenshteinDistance = distance;
 			}
 		}
 
@@ -89,6 +92,17 @@ public class TextServiceImpl implements TextService {
 	}
 
 	private Set<String> initializeKnownObjectNames() {
-		return new HashSet<>();
+		HashSet<String> objectNames = new HashSet<>();
+		InputStream inputStream = this.getClass().getClassLoader().getResourceAsStream("alexa/slottypes/LIST_OF_OBJECTS.txt");
+		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
+
+		bufferedReader.lines().forEach(objectNames::add);
+		try {
+			bufferedReader.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		return objectNames;
 	}
 }

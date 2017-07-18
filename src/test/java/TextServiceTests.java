@@ -19,8 +19,8 @@ public class TextServiceTests {
 
 	@Test
 	public void test_name_matching() {
-		assertEquals("Shocking Grasp", textService.getClosestMatch("Shopping Grass"));
-		assertEquals("Shocking Grasp", textService.getClosestMatch("Shocking Grass"));
-		assertEquals("Summon Monster", textService.getClosestMatch("Salmon Monster"));
+		assertEquals("shocking grasp", textService.getClosestMatch("shopping grass"));
+		assertEquals("shocking grasp", textService.getClosestMatch("shocking grass"));
+		assertEquals("summon monster", textService.getClosestMatch("salmon monster"));
 	}
 }

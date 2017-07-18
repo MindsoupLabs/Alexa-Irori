@@ -3,6 +3,7 @@ package net.mindsoup.irori.services;
 import net.mindsoup.irori.models.CsvDataImportItem;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.List;
 
 /**
@@ -10,5 +11,5 @@ import java.util.List;
  */
 public interface CsvFileImportService {
 
-	List<CsvDataImportItem> readCsv(String filename) throws FileNotFoundException;
+	List<CsvDataImportItem> readCsv(String filename) throws IOException;
 }

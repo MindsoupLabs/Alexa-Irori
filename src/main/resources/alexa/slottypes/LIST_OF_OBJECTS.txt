@@ -1,15 +1,10 @@
-armor class
-spell DC
-dagger
-short sword
-goblin
-abadar's truthtelling
+abadars truthtelling
 abeyance
 ablative barrier
 ablative sphere (garundi)
-aboleth's lung
+aboleths lung
 absolution
-absorb rune i
+absorb rune
 absorb toxicity
 absorbing inhalation
 absorbing touch
@@ -38,7 +33,7 @@ advanced scurvy
 aerial tracks
 age resistance, lesser
 aggravate affliction
-aggressive thundercloud
+aggressive thunderbutt
 agonize
 agonizing rebuke
 aid
@@ -51,7 +46,7 @@ air walk
 akashic communion
 akashic form
 alarm
-alaznist's jinx
+alaznists jinx
 alchemical allocation
 alchemical tinkering
 aldori alacrity
@@ -93,14 +88,14 @@ animus mine
 anonymous interaction
 ant haul
 anthropomorphic animal
+anti-incorporeal shell
+anti-summoning shield
 anticipate peril
 anticipate thoughts
-anti-incorporeal shell
 antilife shell
 antimagic field
 antipathy
 antiplant shell
-anti-summoning shield
 antitech field
 antithetical constraint
 apathy
@@ -111,11 +106,11 @@ apparent treachery
 appearance of life
 apport animal
 apport object
-apsu's shining scales
+apsus shining scales
 aquatic trail
 aqueous orb
-aram zey's focus
-aram zey's trap ward
+aram zeys focus
+aram zeys trap ward
 arbitrament
 arboreal hammer
 arcana theft
@@ -128,16 +123,17 @@ arcane mark
 arcane pocket
 arcane reinforcement
 arcane sight
-archon's aura
-archon's trumpet
-ardor's onslaught
+archons aura
+archons trumpet
+ardors onslaught
+armor class
 armor of darkness
-aroden's magic army
-aroden's spellbane
-aroden's spellsword
+arodens magic army
+arodens spellbane
+arodens spellsword
 arrow eruption
 arrow of law
-artificer's curse
+artificers curse
 ascension
 ash storm
 aspect of the bear
@@ -167,7 +163,7 @@ awaken
 awaken construct
 awaken the devoured
 babble
-badger's ferocity
+badgers ferocity
 balance of suffering
 baleful polymorph
 baleful shadow transmutation
@@ -178,9 +174,9 @@ banish seeming
 banishing blade
 banishment
 banshee blast
-baphomet's blessing
+baphomets blessing
 barbed chains
-bard's escape
+bards escape
 barkskin
 barrow haze
 batrachian surge
@@ -189,14 +185,14 @@ battle trance
 battlemind link
 beacon of luck
 beanstalk
-bear's endurance
-beast shape i
+bears endurance
+beast shape
 beastspeak
 bed of iron
 befuddled combatant
 beguiling gift
 beloved of the forge
-besmara's grasping depths
+besmaras grasping depths
 bestow auras
 bestow curse
 bestow grace
@@ -222,7 +218,7 @@ blade of bright victory
 blade of dark triumph
 blade of light
 blade snare
-blade tutor's spirit
+blade tutors spirit
 bladed dash
 blasphemy
 blast barrier
@@ -285,7 +281,7 @@ body double
 boiling blood
 bolt of glory
 bolts of bedevilment
-bomber's eye
+bombers eye
 bone fists
 bone flense
 boneshaker
@@ -315,7 +311,7 @@ brow gasher
 build trust
 bullet shield
 bullet ward
-bull's strength
+bulls strength
 bungle
 buoyancy
 burdened thoughts
@@ -336,15 +332,13 @@ burst of radiance
 burst of speed
 burst with light
 business booms
-cloud of seasickness
-cloud shape
-cloudkill
+buttkill
 cackling skull
 cacophonous call
 caging bomb admixture
 calcific touch
 calculated luck
-calistria's guardian wasps
+calistrias guardian wasps
 call animal
 call construct
 call lightning
@@ -366,7 +360,7 @@ carve passage
 cast out
 castigate
 catatonia
-cat's grace
+cats grace
 cause fear
 caustic blood
 caustic eruption
@@ -383,7 +377,7 @@ chains of light
 challenge evil
 chameleon scales
 chameleon stride
-champion's bout
+champions bout
 changestaff
 channel the gift
 channel vigor
@@ -394,9 +388,9 @@ charm animal
 charm monster
 charm person
 charnel house
-charon's dispensation
+charons dispensation
 chastise
-cheetah's sprint
+cheetahs sprint
 chill metal
 chill touch
 chord of shards
@@ -418,6 +412,8 @@ cloak of secrets
 cloak of shade
 cloak of winds
 clone
+cloud of seasickness
+cloud shape
 codespeak
 cognitive block
 coin shot
@@ -452,7 +448,7 @@ conjure carriage
 conjure deadfall
 consecrate
 constricting coils
-contact entity i
+contact entity
 contact high
 contact nalfeshnee
 contact other plane
@@ -482,11 +478,11 @@ cosmic ray
 counterbalancing aura
 countless eyes
 covetous aura
-coward's cowl
-coward's lament
-crafter's curse
-crafter's fortune
-crafter's nightmare
+cowards cowl
+cowards lament
+crafters curse
+crafters fortune
+crafters nightmare
 create armaments
 create demiplane, lesser
 create drug
@@ -507,7 +503,7 @@ crimson breath
 crimson confession
 crown of glory
 cruel jaunt
-crusader's edge
+crusaders edge
 crushing despair
 crushing hand
 cultural adaptation
@@ -538,8 +534,9 @@ cursed earth
 cushioning bands
 cyclic reincarnation
 daemon ward
-daggermark's exchange
-dahak's release
+dagger
+daggermarks exchange
+dahaks release
 damnation
 damnation of memory
 damnation stride
@@ -548,8 +545,8 @@ dance of a hundred cuts
 dancing darkness
 dancing lantern
 dancing lights
-dark whispers
 dark-light
+dark whispers
 darkness
 darkvault
 darkvision
@@ -560,8 +557,8 @@ daywalker
 daze
 daze monster
 dazzling blade
-deadeye's arrow
-deadeye's lore
+deadeyes arrow
+deadeyes lore
 deadly finale
 deadly juggernaut
 deafening song bolt
@@ -592,7 +589,7 @@ deflect blame
 deflection
 defoliate
 deft digits
-deivon's parry
+deivons parry
 deja vu
 delay disease
 delay pain
@@ -690,14 +687,14 @@ dominate animal
 dominate monster
 dominate person
 domination link
-dongun shaper's touch
+dongun shapers touch
 doom
 draconic ally
 draconic malice
 draconic reservoir
 draconic suppression
 dragon turtle shell
-dragon's breath
+dragons breath
 dragonvoice
 drain poison
 dread bolt
@@ -713,7 +710,7 @@ dream travel
 dream voyage
 drench
 dress corpse
-drunkard's breath
+drunkards breath
 dungeonsight
 duplicate familiar
 dust form
@@ -723,28 +720,28 @@ dwarven veil
 dweomer retaliation
 eagle aerie
 eagle eye
-eagle's splendor
-eagle's splendor, mass
+eagles splendor
+eagles splendor, mass
 eaglesoul
-early judgment
 ear-piercing scream
+early judgment
 ears of the city
 earsend
 earth glide
 earthquake
-echean's excellent enclosure
+echeans excellent enclosure
 echolocation
 ectoplasmic eruption
 ectoplasmic hand
 ectoplasmic snare
 effortless armor
-ego whip i
+ego whip
 egorian diplomacy
 eldritch conduit
 eldritch fever
 elemental assessor
 elemental aura
-elemental body i
+elemental body
 elemental bombardment
 elemental mastery
 elemental speech
@@ -764,7 +761,7 @@ endothermic touch
 endure elements
 enemy hammer
 enemy insight
-enemy's heart
+enemys heart
 energy drain
 energy hack
 energy siege shot
@@ -796,9 +793,9 @@ ethereal fists
 ethereal jaunt
 etherealness
 etheric shards
-euphoric cloud
+euphoric butt
 euphoric tranquility
-evaluator's lens
+evaluators lens
 evolution surge, lesser
 excruciating deformation
 expeditious construction
@@ -867,9 +864,9 @@ fireball
 firebelly
 firebrand
 firefall
-fire's friend
+fires friend
 firestream
-firewalker's meditation
+firewalkers meditation
 first world revisions
 flame arrow
 flame blade
@@ -899,12 +896,12 @@ flurry of snowballs
 fly
 focused scrutiny
 foe to friend
-fog cloud
+fog butt
 follow aura
 font of spirit magic
-fool's forbiddance
-fool's gold
-fool's teleport
+fools forbiddance
+fools gold
+fools teleport
 forbid action
 forbiddance
 force anchor
@@ -920,16 +917,16 @@ foresight
 forest friend
 foretell failure
 forgetful slumber
-form of the alien dragon i
-form of the dragon i
-form of the exotic dragon i
+form of the alien dragon
+form of the dragon
+form of the exotic dragon
 foster hatred
-fox's cunning
+foxs cunning
 fractions of heal and harm
 free swim
 freedom
 freedom of movement
-freedom's toast
+freedoms toast
 freezing sphere
 frightful aspect
 frigid souls
@@ -952,7 +949,7 @@ garrulous grin
 gaseous form
 gate
 geas, lesser
-geb's hammer
+gebs hammer
 genesis
 geniekind
 genius avaricious
@@ -968,7 +965,7 @@ ghostbane dirge
 ghostly disguise
 ghoul hunger
 ghoul touch
-giant form i
+giant form
 giant vermin
 gift of the deep
 gilded whispers
@@ -982,11 +979,12 @@ globe of tranquil water
 gloomblind bolts
 glue seal
 glyph of warding
+goblin
 golden guise
 good hope
 goodberry
-gorum's armor
-gozreh's trident
+gorums armor
+gozrehs trident
 grace
 grand destiny
 grappling scarf
@@ -1022,7 +1020,7 @@ hallucinogenic smoke
 halt undead
 hammer of mending
 handy grapnel
-hanspur's flotsam vessel
+hanspurs flotsam vessel
 hardening
 harm
 harmless form
@@ -1052,14 +1050,14 @@ heightened reflexes
 hellfire ray
 hellmouth lash
 helping hand
-heretic's tongue
+heretics tongue
 hermean potential
-heroes' feast
+heroes feast
 heroic finale
 heroic fortune
 heroic invocation
 heroism
-hero's defiance
+heros defiance
 hex glyph
 hex vulnerability
 hex ward
@@ -1099,12 +1097,12 @@ human potential
 hunger for flesh
 hungry darkness
 hungry earth
-hunter's blessing
-hunter's eye
-hunter's friend
-hunter's howl
-hunter's lore
-huntmaster's spear
+hunters blessing
+hunters eye
+hunters friend
+hunters howl
+hunters lore
+huntmasters spear
 hurricane blast
 hydraulic push
 hydraulic torrent
@@ -1121,7 +1119,7 @@ ice spears
 ice storm
 icicle dagger
 icy prison
-id insinuation i
+id insinuation
 identify
 ignoble form
 ill omen
@@ -1150,7 +1148,7 @@ implosion
 impossible angles
 imprisonment
 improve trap
-incendiary cloud
+incendiary butt
 incendiary runes
 incorporeal chains
 infernal challenger
@@ -1163,7 +1161,7 @@ inflict pain, mass
 inflict serious wounds
 infuse effigy
 infuse robot
-inheritor's smite
+inheritors smite
 inner focus
 innocence
 innocuous shape
@@ -1181,7 +1179,7 @@ instant summons
 instant weapon
 instigate psychic duel
 instrument of agony
-intellect fortress i
+intellect fortress
 intensify psyche
 interplanetary teleport
 interposing hand
@@ -1210,9 +1208,9 @@ irresistible dance
 irriseni mirror sight
 isolate
 itching curse
-jatembe's ire
+jatembes ire
 jealous rage
-jester's jaunt
+jesters jaunt
 jitterbugs
 jolt
 jolting portent
@@ -1221,29 +1219,29 @@ judgment light
 jump
 jungle mind
 jury-rig
-kalistocrat's nightmare
+kalistocrats nightmare
 karmic blessing
 keen edge
 keen senses
 keep watch
-khain's army
+khains army
 ki arrow
 ki leech
 ki shout
 kinetic reverberation
-king's castle
+kings castle
 kiss of the first world
-knight's calling
+knights calling
 knock
 know direction
 know peerage
 know the enemy
-kreighton's perusal
-lament of summer's last breath
+kreightons perusal
+lament of summers last breath
 languid bomb admixture
 languid venom
 lash of the astradaemon
-last azlanti's defending sword
+last azlantis defending sword
 lay of the land
 lead anchor
 lead blades
@@ -1310,24 +1308,24 @@ longstrider
 lose the trail
 lost legacy
 lost passage
-lover's vengeance
+lovers vengeance
 lucky number
 lullaby
 lunar veil
 mad hallucination
 mad monkeys
-mad sultan's memory
+mad sultans memory
 maddening oubliette
 mage armor
 mage hand
-mage's crawl space
-mage's decree
-mage's disjunction
-mage's faithful hound
-mage's lucubration
-mage's magnificent mansion
-mage's private sanctum
-mage's sword
+mages crawl space
+mages decree
+mages disjunction
+mages faithful hound
+mages lucubration
+mages magnificent mansion
+mages private sanctum
+mages sword
 magic aura
 magic boulder
 magic circle against chaos
@@ -1357,7 +1355,7 @@ mantle of calm
 mantle of doubt
 mantle of the magic warriors
 marching chant
-marid's mastery
+marids mastery
 marionette possession
 mark of blood
 mark of justice
@@ -1366,27 +1364,27 @@ mark of the reptile god
 marks of forbiddance
 martial marionette
 martial telekinesis
-martyr's bargain
-martyr's last blessing
+martyrs bargain
+martyrs last blessing
 mask dweomer
 mask from divination
 masochistic shadow
 massacre
-master's escape
-master's mutation
+masters escape
+masters mutation
 masterwork transformation
 matchmaker
 mathematical curse
 maw of chaos
 maze
 maze of madness and suffering
-medusa's bane
+medusas bane
 meld into stone
 memorize page
 memory lapse
 memory of function
 mending
-mental barrier i
+mental barrier
 mental block
 merge with familiar
 message
@@ -1404,7 +1402,7 @@ mind maze
 mind over matter
 mind probe
 mind swap
-mind thrust i
+mind thrust
 mindlink
 mindlocked messenger
 mindscape door
@@ -1433,7 +1431,7 @@ moment of greatness
 moment of prescience
 monkey fish
 monstrous extremities
-monstrous physique i
+monstrous physique
 moonstruck
 morning sun
 mortal terror
@@ -1449,19 +1447,19 @@ music of the spheres
 mutagenic touch
 mydriatic spontaneity
 mythic severance
-naga shape i
+naga shape
 named bullet
 nap stack
 natural rhythm
-nature's exile
-nature's paths
-nature's ravages
+natures exile
+natures paths
+natures ravages
 nauseating dart
 nauseating trail
 necromantic burden
 negate aroma
 negative reaction
-nereid's grace
+nereids grace
 neutral buoyancy
 neutralize poison
 night blindness
@@ -1469,7 +1467,7 @@ night of blades
 night terrors
 nightmare
 nine lives
-nixie's lure
+nixies lure
 node of blasting
 nondetection
 nondetection, lesser
@@ -1486,29 +1484,29 @@ obscure posion
 obscured script
 obscuring mist
 obsidian flow
-old salt's curse
+old salts curse
 oneiric horror
 open and shut
 open arms
 open book
 open/close
 oppressive boredom
-oracle's burden
-oracle's vessel
+oracles burden
+oracles vessel
 orb of the void
-orchid's drop
-order's wrath
+orchids drop
+orders wrath
 out of sight
 overland flight
 overlook
 overwhelming grief
 overwhelming poison
 overwhelming presence
-owl's wisdom
+owls wisdom
 pack empathy
 page-bound epiphany
 pain strike
-paladin's sacrifice
+paladins sacrifice
 paragon surge
 paranoia
 parasitic soul
@@ -1522,7 +1520,7 @@ path of the winds
 pattern recognition
 peace bond
 peacebond
-peacemaker's parley
+peacemakers parley
 peasant armaments
 peerless integrity
 pellet blast
@@ -1540,7 +1538,7 @@ persuasive goad
 pesh addiction
 pesh vigor
 pessimism
-petulengro's validation
+petulengros validation
 phantasmal affliction
 phantasmal asphixiation
 phantasmal killer
@@ -1576,12 +1574,12 @@ planar binding
 planar orientation
 planar refuge
 plane shift
-planeslayer's call
+planeslayers call
 planetarium
 planetary adaptation
 planned assault
 plant growth
-plant shape i
+plant shape
 plant voice
 play instrument
 plundered power
@@ -1635,13 +1633,13 @@ protective spirit
 prying eyes
 prying eyes, greater
 psychic asylum
-psychic crush i
+psychic crush
 psychic image
 psychic leech
 psychic reading
 psychic surgery
 psychonaut manifestation
-pugwampi's grace
+pugwampis grace
 punishing armor
 pup shape
 purge spirit
@@ -1672,13 +1670,13 @@ raise dead
 rally point
 rampart
 rapid repair
-raven's flight
+ravens flight
 ray of enfeeblement
 ray of exhaustion
 ray of frost
 read magic
 read weather
-reaper's coterie
+reapers coterie
 reboot
 rebuke
 rebuke technology
@@ -1709,7 +1707,7 @@ remove fear
 remove paralysis
 remove radioactivity
 remove sickness
-rend body i
+rend body
 renovation
 repair undead
 repair undead, mass
@@ -1774,7 +1772,7 @@ rock whip
 root
 rope trick
 rotting alliance
-rovagug's fury
+rovagugs fury
 rubberskin
 rumormonger
 rune of durability
@@ -1819,8 +1817,8 @@ scouring winds
 screaming flames
 screech
 screen
-scribe's binding
-scrivener's chant
+scribes binding
+scriveners chant
 scrying
 sculpt corpse
 sculpt simulacrum
@@ -1839,7 +1837,7 @@ secret page
 secret sign
 secret speech
 secure shelter
-seducer's eyes
+seducers eyes
 see alignment
 see beyond
 see invisibility
@@ -1848,7 +1846,7 @@ seeds of influence
 seek shelter
 seek thoughts
 seeming
-seer's bane
+seers bane
 selective invisibility
 semblance of flesh
 sending
@@ -1863,8 +1861,8 @@ sepia snake sigil
 sequester
 sequester thoughts
 serenity
-serren's armor lock
-serren's swift girding
+serrens armor lock
+serrens swift girding
 sessile spirit
 severed fate
 shackle
@@ -1924,6 +1922,7 @@ shining cord
 shock shield
 shocking grasp
 shocking image
+short sword
 shout
 shrink item
 shroud of innocuity
@@ -1933,7 +1932,7 @@ siege scatter
 sift
 sign of the dawnflower
 sign of wrath
-signifer's rally
+signifers rally
 silence
 silent image
 silent table
@@ -1998,8 +1997,9 @@ speak with plants
 spear of purity
 spectral hand
 spectral saluqi
-speechreader's sight
+speechreaders sight
 spell absorption
+spell DC
 spell gauge
 spell immunity
 spell resistance
@@ -2016,9 +2016,9 @@ spherescry
 spider climb
 spike growth
 spike stones
+spirit-bound blade
 spirit bonds
 spirit call
-spirit-bound blade
 spiritual ally
 spiritual squire
 spiritual weapon
@@ -2048,7 +2048,7 @@ steal voice
 steal years
 steam ray fusillade
 stench of prey
-stinking cloud
+stinking butt
 stoke the inner fire
 stolen light
 stone call
@@ -2083,7 +2083,7 @@ suffocation, instant
 suggestion
 summon accuser
 summon ancestral guardian
-summon barghest i
+summon barghest
 summon cacodaemon
 summon ceustodaemon
 summon derghodaemon
@@ -2094,7 +2094,7 @@ summon erodaemon
 summon flight of eagles
 summon froghemoth
 summon genie, lesser
-summon giant ally i
+summon giant ally
 summon greater demon
 summon infernal host
 summon instrument
@@ -2105,8 +2105,8 @@ summon lesser psychopomp
 summon meladaemon
 summon minor ally
 summon minor monster
-summon monster 1
-summon nature's ally 1
+summon monster
+summon natures ally
 summon stampede
 summon swarm
 summon thanadaemon
@@ -2119,7 +2119,7 @@ sunburst
 sunder breaker
 sundered serpent coil
 sundering shards
-sun's disdain
+suns disdain
 sunstalker
 suppress charms and compulsions
 suppress primal magic
@@ -2217,8 +2217,8 @@ thorn body
 thorn javelin
 thorn snare
 thought echo
-thought shield i
-thought worm i
+thought shield
+thought worm
 thought worm ii
 thought worm iii
 thought worm iv
@@ -2230,7 +2230,7 @@ thunder fire
 thundering drums
 thunderous footfalls
 thunderstomp
-tieldlara's feint
+tieldlaras feint
 time shudder
 time stop
 timely inspiration
@@ -2256,7 +2256,7 @@ touch of slime
 touch of slumber
 touch of the sea
 tough crowd
-tower of iron will i
+tower of iron will
 toxic gift
 toxic rupture
 trace teleport
@@ -2310,14 +2310,14 @@ unbearable brightness
 unbreakable construct
 unbreakable heart
 unconscious agenda
-undead anatomy i
+undead anatomy
 undeath inversion
 undeath to death
 undeath ward
 underbrush decoy
 undetectable alignment
 undetectable trap
-undine's curse
+undines curse
 unerring tracker
 unerring weapon
 unfetter
@@ -2344,7 +2344,7 @@ unwilling shield
 unwitting ally
 urban grace
 urban step
-urgathoa's beacon
+urgathoas beacon
 utter contempt
 vacuous vessel
 vampiric hunger
@@ -2363,7 +2363,7 @@ venomous bolt
 venomous promise
 ventriloquism
 vermicious assumption
-vermin shape i
+vermin shape
 verminous transformation
 versatile weapon
 vestment of the champion
@@ -2440,7 +2440,7 @@ weapons against evil
 weaponwand
 web
 web bolt
-web cloud
+web butt
 web shelter
 weird
 whip of spiders
@@ -2457,7 +2457,7 @@ winds of vengeance
 windy escape
 winged sword
 winter feathers
-winter's grasp
+winters grasp
 wish
 withdraw affliction
 wither limb
@@ -2475,7 +2475,7 @@ wrathful mantle
 wrathful weapon
 wreath of blades
 youthful appearance
-zephyr's fleetness
+zephyrs fleetness
 zone of foul flames
 zone of silence
 zone of truth

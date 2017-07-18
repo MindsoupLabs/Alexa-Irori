@@ -15,13 +15,16 @@ import java.util.stream.Collectors;
 @Service
 public class CsvFileImportServiceImpl implements CsvFileImportService {
 	@Override
-	public List<CsvDataImportItem> readCsv(String filename) throws FileNotFoundException {
+	public List<CsvDataImportItem> readCsv(String filename) throws IOException {
 		// read a CSV file and convert each line to a CsvDataImportItem object
 		File inputFile = new File(filename);
 		InputStream inputStream = new FileInputStream(inputFile);
 		BufferedReader bufferedReader = new BufferedReader((new InputStreamReader(inputStream)));
 
-		return bufferedReader.lines().skip(0).map(mapLineToItem).collect(Collectors.toList());
+		List<CsvDataImportItem> list = bufferedReader.lines().skip(0).map(mapLineToItem).collect(Collectors.toList());
+		bufferedReader.close();
+
+		return list;
 	}
 
 	private Function<String, CsvDataImportItem> mapLineToItem = (line) -> {

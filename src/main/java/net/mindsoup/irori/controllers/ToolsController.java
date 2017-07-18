@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -29,7 +30,7 @@ public class ToolsController {
 	private CsvFileImportService csvFileImportService;
 
 	@RequestMapping("/import")
-	public String runImport(@RequestParam String filename, @RequestParam String type) throws FileNotFoundException {
+	public String runImport(@RequestParam String filename, @RequestParam String type) throws IOException {
 		List<IroriData> iroriData = dataParsingService.parseData(csvFileImportService.readCsv(filename));
 
 		StringBuilder stringBuilder = new StringBuilder();

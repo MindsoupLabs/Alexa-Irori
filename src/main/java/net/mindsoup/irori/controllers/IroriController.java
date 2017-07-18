@@ -26,6 +26,8 @@ public class IroriController {
     @RequestMapping("/stat")
     public IroriResponse getStat(@RequestBody StatRequest statRequest) {
     	LOG.debug(statRequest.toString());
+    	statRequest.setObjectName(statRequest.getObjectName().toLowerCase());
+    	statRequest.setStatName(statRequest.getStatName().toLowerCase());
         return new StatResponse(iroriService.getStat(statRequest));
     }
 
