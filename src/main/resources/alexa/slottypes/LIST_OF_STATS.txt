@@ -1,27 +1,31 @@
 source
+range
 duration
-school
 casting time
+school
 components
 level
-range
 saving throw
 spell resistance
 target
-effect
-area
-hit points
-cost
-critical damage
+description
 weight
-threat range
+cost
+effect
+type
+critical
 damage
-formula
-armor class
-experience
-touch armor class
+special
 speed
-alignment
-ranged attack
-initiative
+area
+armor check penalty
+arcane spell failure chance
+max dex bonus
+armor bonus
+misfire
+capacity
+hit points
 melee attack
+armor class
+ranged attack
+alignment

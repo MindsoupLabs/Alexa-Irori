@@ -3537,6 +3537,11 @@ INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objec
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'range', 'none;');
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'type', 'P or S;');
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'special', 'see text');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'armor bonus', '+1;');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'max dex bonus', 'none;');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'armor check penalty', '-1');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'arcane spell failure chance', '20%;');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'speed', 'none/none');
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'description', 'This shield’s sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields’ imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven warshield can’t be used for anything else. A dwarven war-shield gains no benefit from shield spikes.');
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'war-shield, dwarven'), 'source', 'Adventurer''s Armory 2 pg. 9');
 INSERT INTO irori_objects(name, type) VALUES('kestros dart (10)', 'item');
@@ -3629,6 +3634,11 @@ INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objec
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'range', 'none;');
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'type', 'S;');
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'special', 'see text');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'armor bonus', '+1;');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'max dex bonus', 'none;');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'armor check penalty', '-1');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'arcane spell failure chance', '5%;');
+INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'speed', 'none/none');
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'description', 'The traditional form of this tribal weapon is a short metal blade bound to the skull of a large horned lizard, but a skilled smith can craft one entirely out of metal. A traditional klar counts as a light wooden shield with armor spikes; a metal klar counts as a light steel shield with armor spikes. The klar’s shield entry appears on page 12.');
 INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = 'klar'), 'source', 'Ultimate Equipment pg. 18');
 INSERT INTO irori_objects(name, type) VALUES('earth breaker', 'item');
