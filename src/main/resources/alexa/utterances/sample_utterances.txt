@@ -17,5 +17,8 @@ GetFormula how {Object} is calculated
 
 GetInfo what is {Object}
 GetInfo what is a {Object}
+GetInfo what {Object} is
+GetInfo what a {Object} is
 GetInfo tell me about {Object}
 GetInfo describe {Object}
+GetInfo explain {Object}
