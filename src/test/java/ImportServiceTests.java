@@ -43,7 +43,7 @@ public class ImportServiceTests {
 					assertEquals("The caster and all allies within a 50-ft. burst, centered on the caster", stat.getStatValue());
 					break;
 				case "duration":
-					assertEquals("1 min./level", stat.getStatValue());
+					assertEquals("1 min. per level", stat.getStatValue());
 					break;
 				case "saving Throw":
 					assertEquals("none", stat.getStatValue());

@@ -6,5 +6,5 @@ package net.mindsoup.irori.services;
 public interface TextService {
 
 	String getSynonym(String name, String objectType);
-	String getClosestLevenshteinMatch(String name);
+	String getClosestMatch(String name);
 }
