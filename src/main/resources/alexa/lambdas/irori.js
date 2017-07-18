@@ -114,7 +114,7 @@ processPostRequest = (context, path, intent, payload) => {
 				case "STAT":
 					context.succeed(
 						generateResponse(
-							buildSpeechletResponse(`The ${result.statName} of a ${result.objectName} is ${result.value}`, true), {}
+							buildSpeechletResponse(`The ${result.statName} of a ${result.objectName} is: ${result.value}`, true), {}
 						)
 					);
 				break;
