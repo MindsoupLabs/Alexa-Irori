@@ -53,6 +53,7 @@ public class TextServiceImpl implements TextService {
 			return matchMappings.get(name);
 		}
 
+		// have not encountered this before and it's not a known object, so let's see if we can find a match
 		String closestMatch = getClosestPhoneticMatch(name);
 
 		// add the string to the mappings so we don't need to do it again for this string
@@ -60,11 +61,6 @@ public class TextServiceImpl implements TextService {
 		LOG.info(String.format("Added %s to match mappings for %s", name, closestMatch));
 
 		return closestMatch;
-	}
-
-	private String getPhoneticMatch(String name) {
-
-		return null;
 	}
 
 	private String getClosestPhoneticMatch(String name) {
@@ -87,6 +83,7 @@ public class TextServiceImpl implements TextService {
 	}
 
 	private Map<String, String> initializeSynonyms() {
+		// TODO
 		return new HashMap<>();
 	}
 
