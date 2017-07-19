@@ -57,7 +57,6 @@ effect
 type
 damage
 critical
-special
 area
 armor check penalty
 armor bonus
