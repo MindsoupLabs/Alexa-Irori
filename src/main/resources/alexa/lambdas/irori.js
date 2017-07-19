@@ -142,7 +142,7 @@ processPostRequest = (context, path, intent, payload) => {
 				default:
 					context.succeed(
 						generateResponse(
-							buildSpeechletResponse(`Something went wrong`, true), {}
+							buildSpeechletResponse(`Sorry, I didn't understand that`, true), {}
 						)
 					);
 				break;
