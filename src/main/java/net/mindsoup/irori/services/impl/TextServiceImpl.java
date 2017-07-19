@@ -80,7 +80,7 @@ public class TextServiceImpl implements TextService {
 		for(String objectName : matchesAndMappingsMap.get(type).getKnownNames()) {
 			int distance = levenshteinDistance.apply(name, objectName);
 
-			if(distance < closestLevenshteinDistance) {
+			if(distance < closestLevenshteinDistance || (distance == closestLevenshteinDistance && objectName.contains(name))) {
 				closestMatch = objectName;
 				closestLevenshteinDistance = distance;
 			}
