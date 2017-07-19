@@ -68,7 +68,7 @@ public class TextServiceImpl implements TextService {
 
 		// find the string with the closest levenshtein distance
 		String closestMatch = name;
-		int closestLevenshteinDistance = Integer.MAX_VALUE;
+		int closestLevenshteinDistance = name.length();
 
 		for(String objectName : knownObjectNames) {
 			int distance = levenshteinDistance.apply(name, objectName);
