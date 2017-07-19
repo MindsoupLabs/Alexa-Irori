@@ -67,7 +67,7 @@ public class NethysParser {
 		}
 
 		// description
-		pattern = Pattern.compile(">Description</h3>(.+?)(</span>|<h2|$)");
+		pattern = Pattern.compile(">Description</h3>(.+?)(</span>|<h|$)");
 		matcher = pattern.matcher(nethysContent);
 		while (matcher.find()) {
 			IroriStat iroriStat = new IroriStat();

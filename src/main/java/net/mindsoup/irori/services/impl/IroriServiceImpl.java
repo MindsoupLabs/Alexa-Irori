@@ -1,5 +1,6 @@
 package net.mindsoup.irori.services.impl;
 
+import net.mindsoup.irori.MatchType;
 import net.mindsoup.irori.dtos.request.StatRequest;
 import net.mindsoup.irori.exceptions.InvalidInputException;
 import net.mindsoup.irori.exceptions.ObjectNotFoundException;
@@ -36,7 +37,7 @@ public class IroriServiceImpl implements IroriService {
 		}
 
 		// attempt to fix alexa's inability to understand some words
-		statRequest.setObjectName(textService.getClosestMatch(statRequest.getObjectName()));
+		statRequest.setObjectName(textService.getClosestMatch(statRequest.getObjectName(), MatchType.OBJECT));
 
 		// see if this object is in our db
 		IroriObject iroriObject = objectRepository.findByName(statRequest.getObjectName());
@@ -47,7 +48,7 @@ public class IroriServiceImpl implements IroriService {
 		}
 
 		// set any stat synonyms to the correct stat name ('A.C.' to 'armor class', etc)
-		statRequest.setStatName(textService.getSynonym(statRequest.getStatName(), iroriObject.getType()));
+		statRequest.setStatName(textService.getClosestMatch(textService.getSynonym(statRequest.getStatName(), iroriObject.getType()), MatchType.STAT));
 
 		// the object is in our db, lets see if we know the stat the user is asking for
 		IroriStat iroriStat = statRepository.findByObjectAndStatName(iroriObject, statRequest.getStatName());

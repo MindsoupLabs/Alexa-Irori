@@ -1,5 +1,6 @@
 package net.mindsoup.irori.services.impl;
 
+import net.mindsoup.irori.MatchType;
 import net.mindsoup.irori.services.TextService;
 import org.apache.commons.text.similarity.LevenshteinDistance;
 import org.slf4j.Logger;
@@ -23,13 +24,13 @@ public class TextServiceImpl implements TextService {
 
 	private static final Logger LOG = LoggerFactory.getLogger(TextServiceImpl.class);
 
-	private Map<String, String> synonyms = null;
-	private Map<String, String> matchMappings = new HashMap<>();
-	private final Set<String> knownObjectNames;
+	private final Map<String, String> synonyms;
+	private final Map<MatchType, MatchesAndMappings> matchesAndMappingsMap = new HashMap<>();
 
 	public TextServiceImpl() {
 		synonyms = initializeSynonyms();
-		knownObjectNames = initializeKnownObjectNames();
+		matchesAndMappingsMap.put(MatchType.OBJECT, new MatchesAndMappings(MatchType.OBJECT, getNamesFromFile("alexa/slottypes/LIST_OF_OBJECTS.txt")));
+		matchesAndMappingsMap.put(MatchType.STAT, new MatchesAndMappings(MatchType.OBJECT, getNamesFromFile("alexa/slottypes/LIST_OF_STATS.txt")));
 	}
 
 	@Override
@@ -42,35 +43,41 @@ public class TextServiceImpl implements TextService {
 	}
 
 	@Override
-	public String getClosestMatch(String name) {
+	public String getClosestMatch(String name, MatchType type) {
+		MatchesAndMappings matchesAndMappings = matchesAndMappingsMap.get(type);
+
+		if(matchesAndMappings == null) {
+			return name;
+		}
+
 		// first make sure it's not an exact match already
-		if(knownObjectNames.contains(name)) {
+		if(matchesAndMappings.getKnownNames().contains(name)) {
 			return name;
 		}
 
 		// check if we may have encountered this before
-		if(matchMappings.containsKey(name)) {
-			return matchMappings.get(name);
+		if(matchesAndMappings.getMatchMappings().containsKey(name)) {
+			return matchesAndMappings.getMatchMappings().get(name);
 		}
 
 		// have not encountered this before and it's not a known object, so let's see if we can find a match
-		String closestMatch = getClosestPhoneticMatch(name);
+		String closestMatch = getClosestPhoneticMatch(name, type);
 
 		// add the string to the mappings so we don't need to do it again for this string
-		matchMappings.put(name, closestMatch);
+		matchesAndMappings.getMatchMappings().put(name, closestMatch);
 		LOG.info(String.format("Added %s to match mappings for %s", name, closestMatch));
 
 		return closestMatch;
 	}
 
-	private String getClosestPhoneticMatch(String name) {
+	private String getClosestPhoneticMatch(String name, MatchType type) {
 		LevenshteinDistance levenshteinDistance = new LevenshteinDistance();
 
 		// find the string with the closest levenshtein distance
 		String closestMatch = name;
 		int closestLevenshteinDistance = name.length();
 
-		for(String objectName : knownObjectNames) {
+		for(String objectName : matchesAndMappingsMap.get(type).getKnownNames()) {
 			int distance = levenshteinDistance.apply(name, objectName);
 
 			if(distance < closestLevenshteinDistance) {
@@ -110,9 +117,9 @@ public class TextServiceImpl implements TextService {
 		return synonyms;
 	}
 
-	private Set<String> initializeKnownObjectNames() {
+	private Set<String> getNamesFromFile(String filename) {
 		HashSet<String> objectNames = new HashSet<>();
-		InputStream inputStream = this.getClass().getClassLoader().getResourceAsStream("alexa/slottypes/LIST_OF_OBJECTS.txt");
+		InputStream inputStream = this.getClass().getClassLoader().getResourceAsStream(filename);
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
 
 		bufferedReader.lines().forEach(objectNames::add);
@@ -123,5 +130,28 @@ public class TextServiceImpl implements TextService {
 		}
 
 		return objectNames;
+	}
+
+	private class MatchesAndMappings {
+		private final MatchType type;
+		private final Map<String, String> matchMappings = new HashMap<>();
+		private final Set<String> knownNames;
+
+		public MatchesAndMappings(MatchType type, Set<String> names) {
+			this.type = type;
+			this.knownNames = names;
+		}
+
+		public MatchType getType() {
+			return type;
+		}
+
+		public Map<String, String> getMatchMappings() {
+			return matchMappings;
+		}
+
+		public Set<String> getKnownNames() {
+			return knownNames;
+		}
 	}
 }

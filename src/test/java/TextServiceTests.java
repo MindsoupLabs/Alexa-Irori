@@ -1,3 +1,4 @@
+import net.mindsoup.irori.MatchType;
 import net.mindsoup.irori.services.TextService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -22,9 +23,17 @@ public class TextServiceTests {
 
 	@Test
 	public void test_name_matching() {
-		assertEquals("shocking grasp", textService.getClosestMatch("shopping grass"));
-		assertEquals("shocking grasp", textService.getClosestMatch("shocking grass"));
-		assertEquals("summon monster", textService.getClosestMatch("salmon monster"));
+		assertEquals("shocking grasp", textService.getClosestMatch("shopping grass", MatchType.OBJECT));
+		assertEquals("shocking grasp", textService.getClosestMatch("shopping grass", MatchType.OBJECT));
+		assertEquals("shocking grasp", textService.getClosestMatch("shocking grass", MatchType.OBJECT));
+		assertEquals("summon monster", textService.getClosestMatch("salmon monster", MatchType.OBJECT));
+	}
+
+	@Test
+	public void test_stat_matching() {
+		assertEquals("armor class", textService.getClosestMatch("armor glass", MatchType.STAT));
+		assertEquals("armor class", textService.getClosestMatch("armor glass", MatchType.STAT));
+		assertEquals("combat maneuver defense", textService.getClosestMatch("comment meneuver defense ", MatchType.STAT));
 	}
 
 	@Test
