@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 /**
  * Created by Valentijn on 16-7-2017.
@@ -46,15 +47,33 @@ public class NethysParser {
 		}
 
 		// description
-		pattern = Pattern.compile(">Description</h3>(.+?)</span>");
+		pattern = Pattern.compile(">Description</h3>(.+?)(</span>|<h2)");
 		matcher = pattern.matcher(nethysContent);
 
 		while (matcher.find()) {
 			IroriStat iroriStat = new IroriStat();
 			iroriStat.setStatName(Constants.Stats.DESCRIPTION);
-			iroriStat.setStatValue(transformDescription(matcher.group(1).trim()));
+			iroriStat.setStatValue(transformHtmlString(matcher.group(1).trim()));
 
 			if(StringUtils.isNotBlank(iroriStat.getStatValue())) {
+				stats.add(iroriStat);
+			}
+		}
+
+		// requirements
+		pattern = Pattern.compile("b>Requirements</b>(.+?)<(h3|b)");
+		matcher = pattern.matcher(nethysContent);
+
+		while (matcher.find()) {
+			IroriStat iroriStat = new IroriStat();
+			iroriStat.setStatName(Constants.Stats.REQUIREMENTS);
+			iroriStat.setStatValue(transformHtmlString(matcher.group(1).trim()));
+
+			if(StringUtils.isNotBlank(iroriStat.getStatValue())) {
+				// remove previous requirements stat if it exists
+				stats = stats.stream().filter(e -> !e.getStatName().equals(Constants.Stats.REQUIREMENTS)).collect(Collectors.toList());
+
+				// add this one
 				stats.add(iroriStat);
 			}
 		}
@@ -62,12 +81,12 @@ public class NethysParser {
 		return stats;
 	}
 
-	private static String transformDescription(String description) {
+	private static String transformHtmlString(String description) {
 		return Jsoup.parse(description).text();
 	}
 
 	private static String transformValue(String value) {
-		return value.replace("/level", " per level").replace("—", "none").replace("—/—", "none");
+		return transformHtmlString(value.replace("/level", " per level").replace("—", "none").replace("—/—", "none"));
 	}
 
 	private static String transformStatName(String stat) {
