@@ -1,31 +1,66 @@
 source
-range
-duration
-casting time
-school
-components
-level
-saving throw
-spell resistance
-target
 description
 weight
+aura
+price
+caster level
+slot
+range
+spell resistance
+requirements
 cost
+school
+duration
+casting time
+components
+level
+speed
+hit points
+senses
+armor class
+constitution
+charisma
+dexterity
+intelligence
+wisdom
+initiative
+base attack bonus
+fortitude
+reflex
+strength
+willpower
+combat maneuver defense
+experience
+combat maneuver bonus
+environment
+skills
+feats
+melee
+saving throw
+organization
+treasure
+special attacks
+target
+languages
+immune
+special qualities
+space
+reach
+spell-like abilities
+damage reduction
+racial modifiers
+defensive abilities
+resist
+ranged
+weaknesses
 effect
 type
-critical
 damage
+critical
 special
-speed
 area
 armor check penalty
-arcane spell failure chance
-max dex bonus
 armor bonus
-misfire
+max dex bonus
+arcane spell failure chance
 capacity
-hit points
-melee attack
-armor class
-ranged attack
-alignment

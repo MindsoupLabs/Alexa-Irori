@@ -30,7 +30,7 @@ public class ToolsController {
 
 	@RequestMapping("/import")
 	public String runImport(@RequestParam String filename, @RequestParam String type) throws IOException {
-		List<IroriData> iroriData = dataParsingService.parseData(csvFileImportService.readCsv(filename));
+		List<IroriData> iroriData = dataParsingService.parseData(csvFileImportService.readCsv(filename), type);
 
 		StringBuilder stringBuilder = new StringBuilder();
 
@@ -46,7 +46,7 @@ public class ToolsController {
 			stringBuilder.append(String.format("INSERT INTO irori_objects(name, type) VALUES('%s', '%s');\n", sqlEscapeSingleQuotes(data.getObject().getName()), type));
 
 			for(IroriStat stat : data.getStats()) {
-				stringBuilder.append(String.format("INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = '%s'), '%s', '%s');\n", sqlEscapeSingleQuotes(data.getObject().getName()), stat.getStatName(), sqlEscapeSingleQuotes(stat.getStatValue())));
+				stringBuilder.append(String.format("INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = '%s'), '%s', '%s');\n", sqlEscapeSingleQuotes(data.getObject().getName()), sqlEscapeSingleQuotes(stat.getStatName()), sqlEscapeSingleQuotes(stat.getStatValue())));
 			}
 		}
 

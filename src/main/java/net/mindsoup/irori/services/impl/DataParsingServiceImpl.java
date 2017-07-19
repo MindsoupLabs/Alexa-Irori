@@ -5,8 +5,10 @@ import net.mindsoup.irori.models.IroriData;
 import net.mindsoup.irori.models.IroriObject;
 import net.mindsoup.irori.models.IroriStat;
 import net.mindsoup.irori.services.DataParsingService;
+import net.mindsoup.irori.services.TextService;
 import net.mindsoup.irori.utils.Constants;
 import net.mindsoup.irori.utils.NethysParser;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -17,23 +19,29 @@ import java.util.stream.Collectors;
  */
 @Service
 public class DataParsingServiceImpl implements DataParsingService {
+
+	@Autowired
+	private TextService textService;
+
 	@Override
-	public List<IroriData> parseData(List<CsvDataImportItem> items) {
-		return items.stream().map(this::parseItem).collect(Collectors.toList());
+	public List<IroriData> parseData(List<CsvDataImportItem> items, String type) {
+		return items.stream().map(e -> parseItem(e, type)).collect(Collectors.toList());
 	}
 
-	private IroriData parseItem(CsvDataImportItem item) {
+	private IroriData parseItem(CsvDataImportItem item, String type) {
 		IroriData iroriData = new IroriData();
 
 		IroriObject iroriObject = new IroriObject();
 		iroriObject.setName(transformObjectName(item.getName().toLowerCase()));
 		iroriData.setObject(iroriObject);
 
-		iroriData.setStats(NethysParser.fromString(item.getContent()));
+		iroriData.setStats(NethysParser.fromString(item.getContent(), item.getName()));
 		IroriStat stat = new IroriStat();
 		stat.setStatName(Constants.Stats.SOURCE);
 		stat.setStatValue(item.getSource());
 		iroriData.getStats().add(stat);
+
+		iroriData.getStats().forEach(e -> e.setStatName(textService.getSynonym(e.getStatName(), type)));
 
 		return iroriData;
 	}

@@ -17,19 +17,39 @@ import java.util.stream.Collectors;
  */
 public class NethysParser {
 
-	public static List<IroriStat> fromString(String nethysContent) {
+	public static List<IroriStat> fromString(String nethysContent, String title) {
 		List<IroriStat> stats = new LinkedList<>();
 
+		// strip mythic content
 		int mythicIndex = nethysContent.indexOf(Constants.Keywords.MYTHIC);
-
 		if(mythicIndex > -1) {
 			nethysContent = nethysContent.substring(0, mythicIndex);
 		}
 
-		// stats
-		Pattern pattern = Pattern.compile("b>([^<]+)</b>(.+?)<");
-		Matcher matcher = pattern.matcher(nethysContent);
+		// strip 'creating a x' content
+		int creatingIndex = nethysContent.indexOf(Constants.Keywords.CREATING_A);
+		if(creatingIndex > -1) {
+			nethysContent = nethysContent.substring(0, creatingIndex);
+		}
 
+		// strip everything before the objects title
+		if(StringUtils.isNotBlank(title)) {
+			int titleIndex = nethysContent.indexOf(String.format("<h1 class=\"title\">%s</h1>",title));
+			if(titleIndex > -1) {
+				nethysContent = nethysContent.substring(titleIndex);
+			}
+		}
+
+		// strip any text with an h1 header after our stat block
+		Pattern pattern = Pattern.compile(String.format("(<h1 class=\"title\">%s</h1>.+?)<h1",title));
+		Matcher matcher = pattern.matcher(nethysContent);
+		while (matcher.find()) {
+			nethysContent = matcher.group(1);
+		}
+
+		// stats
+		pattern = Pattern.compile("b>([^<]+)</b>(.+?)<");
+		matcher = pattern.matcher(nethysContent);
 		Set<String> addedStats = new HashSet<>();
 		while (matcher.find()) {
 			IroriStat iroriStat = new IroriStat();
@@ -47,9 +67,8 @@ public class NethysParser {
 		}
 
 		// description
-		pattern = Pattern.compile(">Description</h3>(.+?)(</span>|<h2)");
+		pattern = Pattern.compile(">Description</h3>(.+?)(</span>|<h2|$)");
 		matcher = pattern.matcher(nethysContent);
-
 		while (matcher.find()) {
 			IroriStat iroriStat = new IroriStat();
 			iroriStat.setStatName(Constants.Stats.DESCRIPTION);
@@ -63,7 +82,6 @@ public class NethysParser {
 		// requirements
 		pattern = Pattern.compile("b>Requirements</b>(.+?)<(h3|b)");
 		matcher = pattern.matcher(nethysContent);
-
 		while (matcher.find()) {
 			IroriStat iroriStat = new IroriStat();
 			iroriStat.setStatName(Constants.Stats.REQUIREMENTS);
@@ -110,8 +128,6 @@ public class NethysParser {
 				return Constants.Stats.TARGET;
 			case "targets":
 				return Constants.Stats.TARGET;
-			case "hp":
-				return Constants.Stats.HITPOINTS;
 		}
 
 		return stat;

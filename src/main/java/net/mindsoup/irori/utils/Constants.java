@@ -19,5 +19,6 @@ public abstract class Constants {
 		private Keywords() {}
 
 		public static final String MYTHIC = "Mythic";
+		public static final String CREATING_A = "<h1 class=\"title\">Creating a";
 	}
 }

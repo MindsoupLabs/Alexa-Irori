@@ -83,8 +83,31 @@ public class TextServiceImpl implements TextService {
 	}
 
 	private Map<String, String> initializeSynonyms() {
-		// TODO
-		return new HashMap<>();
+		Map<String, String> synonyms = new HashMap<>();
+
+		synonyms.put("xp", "experience");
+		synonyms.put("XP", "experience");
+		synonyms.put("init", "initiative");
+		synonyms.put("ac", "armor class");
+		synonyms.put("fort", "fortitude");
+		synonyms.put("ref", "reflex");
+		synonyms.put("will", "willpower");
+		synonyms.put("str", "strength");
+		synonyms.put("dex", "dexterity");
+		synonyms.put("con", "constitution");
+		synonyms.put("int", "intelligence");
+		synonyms.put("wis", "wisdom");
+		synonyms.put("cha", "charisma");
+		synonyms.put("base atk", "base attack bonus");
+		synonyms.put("cmb", "combat maneuver bonus");
+		synonyms.put("cmd", "combat maneuver defense");
+		synonyms.put("sq", "special qualities");
+		synonyms.put("hp", "hit points");
+		synonyms.put("sr", "spell resistance");
+		synonyms.put("dr", "damage reduction");
+		synonyms.put("cl", "caster level");
+
+		return synonyms;
 	}
 
 	private Set<String> initializeKnownObjectNames() {
