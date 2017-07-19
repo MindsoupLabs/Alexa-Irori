@@ -1,0 +1,49 @@
+{
+  "selectors": [
+	{
+	  "parentSelectors": [
+		"_root"
+	  ],
+	  "type": "SelectorLink",
+	  "multiple": true,
+	  "id": "monsterlink",
+	  "selector": "td a",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"monsterlink"
+	  ],
+	  "type": "SelectorText",
+	  "multiple": false,
+	  "id": "name",
+	  "selector": "h1.title",
+	  "regex": "",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"monsterlink"
+	  ],
+	  "type": "SelectorText",
+	  "multiple": false,
+	  "id": "source",
+	  "selector": "span > a.external-link",
+	  "regex": "",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"monsterlink"
+	  ],
+	  "type": "SelectorHTML",
+	  "multiple": false,
+	  "id": "content",
+	  "selector": "td",
+	  "regex": "",
+	  "delay": ""
+	}
+  ],
+  "startUrl": "http://archivesofnethys.com/Monsters.aspx?Letter=All",
+  "_id": "monsters"
+}

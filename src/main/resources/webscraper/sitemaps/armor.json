@@ -1,0 +1,59 @@
+{
+  "startUrl": "http://archivesofnethys.com/EquipmentArmor.aspx",
+  "selectors": [
+	{
+	  "parentSelectors": [
+		"_root"
+	  ],
+	  "type": "SelectorLink",
+	  "multiple": true,
+	  "id": "sublinks",
+	  "selector": "h2 a",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"sublinks"
+	  ],
+	  "type": "SelectorLink",
+	  "multiple": true,
+	  "id": "itemlink",
+	  "selector": "tr a",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"itemlink"
+	  ],
+	  "type": "SelectorText",
+	  "multiple": false,
+	  "id": "title",
+	  "selector": "h1.title",
+	  "regex": "",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"itemlink"
+	  ],
+	  "type": "SelectorText",
+	  "multiple": false,
+	  "id": "source",
+	  "selector": "span > a.external-link",
+	  "regex": "",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"itemlink"
+	  ],
+	  "type": "SelectorHTML",
+	  "multiple": false,
+	  "id": "content",
+	  "selector": "td",
+	  "regex": "",
+	  "delay": ""
+	}
+  ],
+  "_id": "armor"
+}

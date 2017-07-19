@@ -1,0 +1,69 @@
+{
+  "startUrl": "http://archivesofnethys.com/Spells.aspx?Class=All",
+  "selectors": [
+	{
+	  "parentSelectors": [
+		"_root"
+	  ],
+	  "type": "SelectorLink",
+	  "multiple": true,
+	  "id": "spelllink",
+	  "selector": "span b a",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"spelllink"
+	  ],
+	  "type": "SelectorElement",
+	  "multiple": false,
+	  "id": "spellpage",
+	  "selector": "td",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"spellpage"
+	  ],
+	  "type": "SelectorText",
+	  "multiple": false,
+	  "id": "spellname",
+	  "selector": "h1.title",
+	  "regex": "",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"spellpage"
+	  ],
+	  "type": "SelectorElement",
+	  "multiple": false,
+	  "id": "ispflegal",
+	  "selector": "h1 img",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"spellpage"
+	  ],
+	  "type": "SelectorText",
+	  "multiple": false,
+	  "id": "source",
+	  "selector": "span > a.external-link",
+	  "regex": "",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"spellpage"
+	  ],
+	  "type": "SelectorHTML",
+	  "multiple": false,
+	  "id": "content",
+	  "selector": "span",
+	  "regex": "",
+	  "delay": ""
+	}
+  ],
+  "_id": "nethysspells"
+}

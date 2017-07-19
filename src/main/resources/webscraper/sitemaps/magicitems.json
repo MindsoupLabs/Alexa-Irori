@@ -1,0 +1,69 @@
+{
+  "startUrl": "http://archivesofnethys.com/MagicItems.aspx",
+  "selectors": [
+	{
+	  "parentSelectors": [
+		"_root"
+	  ],
+	  "type": "SelectorLink",
+	  "multiple": true,
+	  "id": "toplinks",
+	  "selector": "div.main h1 a",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"toplinks"
+	  ],
+	  "type": "SelectorLink",
+	  "multiple": true,
+	  "id": "subselector",
+	  "selector": "div.main h2 a:not(:contains('Qualities'))",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"subselector"
+	  ],
+	  "type": "SelectorLink",
+	  "multiple": true,
+	  "id": "itemlink",
+	  "selector": "div.main table[rules=\"cols\"] tr a",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"itemlink"
+	  ],
+	  "type": "SelectorText",
+	  "multiple": false,
+	  "id": "title",
+	  "selector": "h1.title",
+	  "regex": "",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"itemlink"
+	  ],
+	  "type": "SelectorText",
+	  "multiple": false,
+	  "id": "source",
+	  "selector": "span > a.external-link",
+	  "regex": "",
+	  "delay": ""
+	},
+	{
+	  "parentSelectors": [
+		"itemlink"
+	  ],
+	  "type": "SelectorHTML",
+	  "multiple": false,
+	  "id": "content",
+	  "selector": "td",
+	  "regex": "",
+	  "delay": ""
+	}
+  ],
+  "_id": "nethismagicitems"
+}
