@@ -14,10 +14,6 @@ GetFormula how I calculate {Formula}
 GetFormula how to calculate {Formula}
 GetFormula how {Formula} is calculated
 
-GetInfo what is {Object}
-GetInfo what is a {Object}
-GetInfo what {Object} is
-GetInfo what a {Object} is
 GetInfo to tell me about {Object}
 GetInfo to describe {Object}
 GetInfo to explain {Object}

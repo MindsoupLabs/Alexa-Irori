@@ -9,10 +9,6 @@ GetItemStat for the {Stat} of {Object}
 GetItemStat what the {Stat} is of {Object}
 GetItemStat what the {Stat} of {Object} is
 
-GetItemInfo what is {Object}
-GetItemInfo what is a {Object}
-GetItemInfo what {Object} is
-GetItemInfo what a {Object} is
 GetItemInfo to tell me about {Object}
 GetItemInfo to describe {Object}
 GetItemInfo to explain {Object}

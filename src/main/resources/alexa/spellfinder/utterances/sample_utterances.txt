@@ -9,10 +9,6 @@ GetSpellStat for the {Stat} of {Object}
 GetSpellStat what the {Stat} is of {Object}
 GetSpellStat what the {Stat} of {Object} is
 
-GetSpellInfo what is {Object}
-GetSpellInfo what is a {Object}
-GetSpellInfo what {Object} is
-GetSpellInfo what a {Object} is
 GetSpellInfo to tell me about {Object}
 GetSpellInfo to describe {Object}
 GetSpellInfo to explain {Object}
