@@ -76,7 +76,7 @@ exports.handler = (event, context) => {
 					case "GetFormula":
 						console.log(`Hit the GetFormula request: ${JSON.stringify(event.request.intent.slots)}`);
 						var payload = {
-							"objectName": event.request.intent.slots.Object.value,
+							"objectName": event.request.intent.slots.Formula.value,
 							"statName": "formula",
 							"objectType": "FORMULA"
 						};
