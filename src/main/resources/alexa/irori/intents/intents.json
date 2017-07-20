@@ -1,0 +1,35 @@
+{
+  "intents": [
+	{
+	  "intent": "GetStat",
+	  "slots": [
+		{
+		  "name": "Object",
+		  "type": "LIST_OF_OBJECTS"
+		},
+		{
+		  "name": "Stat",
+		  "type": "LIST_OF_STATS"
+		}
+	  ]
+	},
+	{
+	  "intent": "GetFormula",
+	  "slots": [
+		{
+		  "name": "Object",
+		  "type": "LIST_OF_FORMULAS"
+		}
+	  ]
+	},
+	{
+	  "intent": "GetInfo",
+	  "slots": [
+		{
+		  "name": "Object",
+		  "type": "LIST_OF_OBJECTS"
+		}
+	  ]
+	}
+  ]
+}

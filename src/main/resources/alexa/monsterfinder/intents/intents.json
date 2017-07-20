@@ -1,0 +1,26 @@
+{
+  "intents": [
+	{
+	  "intent": "GetMonsterStat",
+	  "slots": [
+		{
+		  "name": "Object",
+		  "type": "LIST_OF_MONSTERS"
+		},
+		{
+		  "name": "Stat",
+		  "type": "LIST_OF_STATS"
+		}
+	  ]
+	},
+	{
+	  "intent": "GetMonsterInfo",
+	  "slots": [
+		{
+		  "name": "Object",
+		  "type": "LIST_OF_MONSTERS"
+		}
+	  ]
+	}
+  ]
+}

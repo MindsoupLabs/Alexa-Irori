@@ -29,7 +29,7 @@ public class IroriController {
 	public IroriResponse getStat(@RequestBody StatRequest statRequest) {
 		LOG.debug(statRequest.toString());
 
-		if(StringUtils.isBlank(statRequest.getObjectType()) || MatchType.valueOf(statRequest.getObjectType()) == null) {
+		if(StringUtils.isBlank(statRequest.getObjectType()) || MatchType.valueOf(statRequest.getObjectType().toUpperCase()) == null) {
 			statRequest.setObjectType(MatchType.OBJECT.toString());
 		}
 		statRequest.setObjectName(statRequest.getObjectName().toLowerCase());
