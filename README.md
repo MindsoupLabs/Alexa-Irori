@@ -1,12 +1,51 @@
 # ![Irori](https://github.com/MindsoupLabs/Alexa-Irori/raw/master/src/main/resources/alexa/logo/logo-small.png) Irori For Pathfinder
 The alexa skill Irori For Pathfinder. If you need to know the stat of a monster, item or spell, just ask Irori!
 
+**This project is currently in beta testing. If you'd like to join our beta test, send me an email at *irori [at] mindsoup.net*.**
+
+## How to use
+This project is used in four Alexa skills, all of which are currently in beta:
+* Irori
+* Spell Finder
+* Item Finder
+* Monster Finder
+
+Spell Finder, Item Finder and Monster Finder each allow you to find stats only on their particular domain (spells, items or monsters), while Irori combines all of these and allows you to find stats on spells, monsters and items alike. Object name recognition may be more accurate when using the domain specific skills.
+
+To use these skills, simply ask Alexa: "Alexa, ask [skill name] for the [attribute] of [object]". 
+
 ### Examples:
-* "Alexa, ask Irori for the saving throw of Disintegrate"
-* "Alexa, ask Irori for the range of Magic Missile"
-* "Alexa, ask Irori for the cost of a short sword"
-* "Alexa, ask Irori for the armor class of a goblin"
-* "Alexa, ask Irori how armor class is calculated"
+* "Alexa, ask Irori for the area of Burning Hands"
+* "Alexa, ask Irori what is the cost of a dagger"
+* "Alexa, ask Irori what the armor class of a goblin is"
+* "Alexa, ask Spell Finder for the range of Magic Missile"
+* "Alexa, ask Monster Finder for the hit points of a mummy"
+* "Alexa, ask Item Finder to describe a quarterstaff of entwined serpents" 
+
+## How to setup this project for development
+I open sourced this project for a reason, and you're welcome to help out with development!
+
+### Required software
+This project uses the following:
+
+* Java 1.8
+* Maven
+* Postgresql
+* IntelliJ IDEA (technically you could use another IDEA, but then you're on your own)
+
+Please ensure you have these installed and configured before proceeding with the next step.
+
+### Setup
+1. Clone this project to your local machine, but do not open it yet in IntelliJ
+1. Setup Postgresql
+   1. Create a database user (for example 'irori_user')
+   1. Create a database called 'irori', owned by the user you made
+   1. Create a database schema called 'irori' in the 'irori' database, owned by the user you made
+1. Open *pom-parent.xml* and follow the commented instructions at the top to create a pom.xml file that contains your local database user information
+1. Open  *src/main/resources/application.properties*, create a file called *application-local.properties*. In that file, define the flyway and spring database user (the user you created in step 2.i)
+1. Open the project in IntelliJ (via your pom.xml), you should be able to clean and build it through Maven without problems.
+1. Create a Run Configuration in IntelliJ of type Maven with the command line *spring-boot:run*. You should be able to run this without problems. 
+1. Open your browser and navigate to http://localhost:8088/swagger-ui.html. This should open the project's Swagger page for you. You're now up and running!
 
 ## Legal stuff
 Hand icon in the logo by sasha willins from the Noun Project, used under the Creative Commons license.
