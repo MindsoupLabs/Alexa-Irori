@@ -20,7 +20,7 @@ To use these skills, simply ask Alexa: "Alexa, ask [skill name] for the [attribu
 * "Alexa, ask Irori what the armor class of a goblin is"
 * "Alexa, ask Spell Finder for the range of Magic Missile"
 * "Alexa, ask Monster Finder for the hit points of a mummy"
-* "Alexa, ask Item Finder to describe a quarterstaff of entwined serpents" 
+* "Alexa, ask Item Finder for the description of a quarterstaff of entwined serpents" 
 
 [![Video Screenshot](https://img.youtube.com/vi/7bWyS5cp5tI/0.jpg)](https://www.youtube.com/watch?v=7bWyS5cp5tI)
 
