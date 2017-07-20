@@ -1,0 +1,2 @@
+armor class
+spell DC

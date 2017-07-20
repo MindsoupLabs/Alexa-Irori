@@ -77,7 +77,8 @@ exports.handler = (event, context) => {
 						console.log(`Hit the GetFormula request: ${JSON.stringify(event.request.intent.slots)}`);
 						var payload = {
 							"objectName": event.request.intent.slots.Object.value,
-							"statName": "formula"
+							"statName": "formula",
+							"objectType": "FORMULA"
 						};
 						processPostRequest(context, '/irori/stat', "GetStat", payload);
 
