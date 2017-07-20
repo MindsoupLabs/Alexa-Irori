@@ -45,7 +45,7 @@ Please ensure you have these installed and configured before proceeding with the
    1. Create a database schema called 'irori' in the 'irori' database, owned by the user you made
 1. Open *pom-parent.xml* and follow the commented instructions at the top to create a pom.xml file that contains your local database user information
 1. Open  *src/main/resources/application.properties*, create a file called *application-local.properties*. In that file, define the flyway and spring database user (the user you created in step 2.i)
-1. Open the project in IntelliJ (via your pom.xml), you should be able to clean and build it through Maven without problems.
+1. Open the project in IntelliJ (via your pom.xml), you should be able to clean and compile it through Maven without problems. This will automatically create and fill the Irori tables in your postgresql schema.
 1. Create a Run Configuration in IntelliJ of type Maven with the command line *spring-boot:run*. You should be able to run this without problems. 
 1. Open your browser and navigate to http://localhost:8088/swagger-ui.html. This should open the project's Swagger page for you. You're now up and running!
 
