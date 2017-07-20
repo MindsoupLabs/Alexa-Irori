@@ -17,17 +17,8 @@
 	  "intent": "GetFormula",
 	  "slots": [
 		{
-		  "name": "Object",
+		  "name": "Formula",
 		  "type": "LIST_OF_FORMULAS"
-		}
-	  ]
-	},
-	{
-	  "intent": "GetInfo",
-	  "slots": [
-		{
-		  "name": "Object",
-		  "type": "LIST_OF_OBJECTS"
 		}
 	  ]
 	}

@@ -8,7 +8,3 @@ GetSpellStat what is {Stat} of {Object}
 GetSpellStat for the {Stat} of {Object}
 GetSpellStat what the {Stat} is of {Object}
 GetSpellStat what the {Stat} of {Object} is
-
-GetSpellInfo to tell me about {Object}
-GetSpellInfo to describe {Object}
-GetSpellInfo to explain {Object}

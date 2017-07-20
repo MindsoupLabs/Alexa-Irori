@@ -12,15 +12,6 @@
 		  "type": "LIST_OF_STATS"
 		}
 	  ]
-	},
-	{
-	  "intent": "GetSpellInfo",
-	  "slots": [
-		{
-		  "name": "Object",
-		  "type": "LIST_OF_SPELLS"
-		}
-	  ]
 	}
   ]
 }

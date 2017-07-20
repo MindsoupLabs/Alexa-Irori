@@ -8,7 +8,3 @@ GetMonsterStat what is {Stat} of {Object}
 GetMonsterStat for the {Stat} of {Object}
 GetMonsterStat what the {Stat} is of {Object}
 GetMonsterStat what the {Stat} of {Object} is
-
-GetMonsterInfo to tell me about {Object}
-GetMonsterInfo to describe {Object}
-GetMonsterInfo to explain {Object}

@@ -13,7 +13,3 @@ GetFormula how you calculate {Formula}
 GetFormula how I calculate {Formula}
 GetFormula how to calculate {Formula}
 GetFormula how {Formula} is calculated
-
-GetInfo to tell me about {Object}
-GetInfo to describe {Object}
-GetInfo to explain {Object}
