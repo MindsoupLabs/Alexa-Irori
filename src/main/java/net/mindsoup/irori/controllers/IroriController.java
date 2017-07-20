@@ -1,11 +1,13 @@
 package net.mindsoup.irori.controllers;
 
+import net.mindsoup.irori.MatchType;
 import net.mindsoup.irori.dtos.request.StatRequest;
 import net.mindsoup.irori.dtos.response.*;
 import net.mindsoup.irori.exceptions.InvalidInputException;
 import net.mindsoup.irori.exceptions.ObjectNotFoundException;
 import net.mindsoup.irori.exceptions.StatNotFoundException;
 import net.mindsoup.irori.services.IroriService;
+import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,6 +28,10 @@ public class IroriController {
 	@RequestMapping("/stat")
 	public IroriResponse getStat(@RequestBody StatRequest statRequest) {
 		LOG.debug(statRequest.toString());
+
+		if(StringUtils.isBlank(statRequest.getObjectType()) || MatchType.valueOf(statRequest.getObjectType()) == null) {
+			statRequest.setObjectType(MatchType.OBJECT.toString());
+		}
 		statRequest.setObjectName(statRequest.getObjectName().toLowerCase());
 		statRequest.setStatName(statRequest.getStatName().toLowerCase());
 		return new StatResponse(iroriService.getStat(statRequest));

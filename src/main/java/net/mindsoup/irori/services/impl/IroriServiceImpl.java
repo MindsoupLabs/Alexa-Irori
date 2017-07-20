@@ -37,7 +37,7 @@ public class IroriServiceImpl implements IroriService {
 		}
 
 		// attempt to fix alexa's inability to understand some words
-		statRequest.setObjectName(textService.getClosestMatch(statRequest.getObjectName(), MatchType.OBJECT));
+		statRequest.setObjectName(textService.getClosestMatch(statRequest.getObjectName(), MatchType.valueOf(statRequest.getObjectType())));
 
 		// see if this object is in our db
 		IroriObject iroriObject = objectRepository.findByName(statRequest.getObjectName());

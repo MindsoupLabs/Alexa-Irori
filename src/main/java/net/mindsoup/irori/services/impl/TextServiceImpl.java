@@ -31,6 +31,9 @@ public class TextServiceImpl implements TextService {
 		synonyms = initializeSynonyms();
 		matchesAndMappingsMap.put(MatchType.OBJECT, new MatchesAndMappings(MatchType.OBJECT, getNamesFromFile("alexa/slottypes/LIST_OF_OBJECTS.txt")));
 		matchesAndMappingsMap.put(MatchType.STAT, new MatchesAndMappings(MatchType.OBJECT, getNamesFromFile("alexa/slottypes/LIST_OF_STATS.txt")));
+		matchesAndMappingsMap.put(MatchType.SPELL, new MatchesAndMappings(MatchType.SPELL, getNamesFromFile("alexa/slottypes/LIST_OF_SPELLS.txt")));
+		matchesAndMappingsMap.put(MatchType.MONSTER, new MatchesAndMappings(MatchType.MONSTER, getNamesFromFile("alexa/slottypes/LIST_OF_MONSTERS.txt")));
+		matchesAndMappingsMap.put(MatchType.ITEM, new MatchesAndMappings(MatchType.ITEM, getNamesFromFile("alexa/slottypes/LIST_OF_ITEMS.txt")));
 	}
 
 	@Override

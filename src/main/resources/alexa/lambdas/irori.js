@@ -37,7 +37,38 @@ exports.handler = (event, context) => {
 						console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
 						var payload = {
 							"objectName": event.request.intent.slots.Object.value,
-							"statName": event.request.intent.slots.Stat.value
+							"statName": event.request.intent.slots.Stat.value,
+							"objectType": "OBJECT"
+						};
+						processPostRequest(context, '/irori/stat', "GetStat", payload);
+
+						break;
+					case "GetSpellStat":
+						console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
+						var payload = {
+							"objectName": event.request.intent.slots.Object.value,
+							"statName": event.request.intent.slots.Stat.value,
+							"objectType": "SPELL"
+						};
+						processPostRequest(context, '/irori/stat', "GetStat", payload);
+
+						break;
+					case "GetMonsterStat":
+						console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
+						var payload = {
+							"objectName": event.request.intent.slots.Object.value,
+							"statName": event.request.intent.slots.Stat.value,
+							"objectType": "MONSTER"
+						};
+						processPostRequest(context, '/irori/stat', "GetStat", payload);
+
+						break;
+					case "GetItemStat":
+						console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
+						var payload = {
+							"objectName": event.request.intent.slots.Object.value,
+							"statName": event.request.intent.slots.Stat.value,
+							"objectType": "ITEM"
 						};
 						processPostRequest(context, '/irori/stat', "GetStat", payload);
 
@@ -55,7 +86,38 @@ exports.handler = (event, context) => {
 						console.log(`Hit the GetInfo request: ${JSON.stringify(event.request.intent.slots)}`);
 						var payload = {
 							"objectName": event.request.intent.slots.Object.value,
-							"statName": "description"
+							"statName": "description",
+							"objectType": "OBJECT"
+						};
+						processPostRequest(context, '/irori/stat', "GetStat", payload);
+
+						break;
+					case "GetSpellInfo":
+						console.log(`Hit the GetInfo request: ${JSON.stringify(event.request.intent.slots)}`);
+						var payload = {
+							"objectName": event.request.intent.slots.Object.value,
+							"statName": "description",
+							"objectType": "SPELL"
+						};
+						processPostRequest(context, '/irori/stat', "GetStat", payload);
+
+						break;
+					case "GetMonsterInfo":
+						console.log(`Hit the GetInfo request: ${JSON.stringify(event.request.intent.slots)}`);
+						var payload = {
+							"objectName": event.request.intent.slots.Object.value,
+							"statName": "description",
+							"objectType": "MONSTER"
+						};
+						processPostRequest(context, '/irori/stat', "GetStat", payload);
+
+						break;
+					case "GetItemInfo":
+						console.log(`Hit the GetInfo request: ${JSON.stringify(event.request.intent.slots)}`);
+						var payload = {
+							"objectName": event.request.intent.slots.Object.value,
+							"statName": "description",
+							"objectType": "ITEM"
 						};
 						processPostRequest(context, '/irori/stat', "GetStat", payload);
 

@@ -18,7 +18,7 @@
 	  "slots": [
 		{
 		  "name": "Object",
-		  "type": "LIST_OF_OBJECTS"
+		  "type": "LIST_OF_FORMULAS"
 		}
 	  ]
 	},

@@ -6,6 +6,7 @@ package net.mindsoup.irori.dtos.request;
 public class StatRequest {
 	private String statName;
 	private String objectName;
+	private String objectType;
 
 	public String getStatName() {
 		return statName;
@@ -24,6 +25,14 @@ public class StatRequest {
 	}
 
 	public String toString() {
-		return "{objectName: " + getObjectName() + ", statName: " + getStatName() + "}";
+		return String.format("{objectName: %s, objectType: %s, statName: %s", getObjectName(), getObjectType(), getStatName());
+	}
+
+	public String getObjectType() {
+		return objectType;
+	}
+
+	public void setObjectType(String objectType) {
+		this.objectType = objectType;
 	}
 }

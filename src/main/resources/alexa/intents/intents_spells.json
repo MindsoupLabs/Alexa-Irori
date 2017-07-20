@@ -1,0 +1,26 @@
+{
+  "intents": [
+	{
+	  "intent": "GetSpellStat",
+	  "slots": [
+		{
+		  "name": "Object",
+		  "type": "LIST_OF_SPELLS"
+		},
+		{
+		  "name": "Stat",
+		  "type": "LIST_OF_STATS"
+		}
+	  ]
+	},
+	{
+	  "intent": "GetSpellInfo",
+	  "slots": [
+		{
+		  "name": "Object",
+		  "type": "LIST_OF_SPELLS"
+		}
+	  ]
+	}
+  ]
+}

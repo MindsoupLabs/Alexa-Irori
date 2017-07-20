@@ -1,0 +1,18 @@
+GetMonsterStat what is {Stat} of a {Object}
+GetMonsterStat for the {Stat} of a {Object}
+GetMonsterStat for the {Stat} for {Object}
+GetMonsterStat what the {Stat} is of a {Object}
+GetMonsterStat what the {Stat} of a {Object} is
+
+GetMonsterStat what is {Stat} of {Object}
+GetMonsterStat for the {Stat} of {Object}
+GetMonsterStat what the {Stat} is of {Object}
+GetMonsterStat what the {Stat} of {Object} is
+
+GetMonsterInfo what is {Object}
+GetMonsterInfo what is a {Object}
+GetMonsterInfo what {Object} is
+GetMonsterInfo what a {Object} is
+GetMonsterInfo to tell me about {Object}
+GetMonsterInfo to describe {Object}
+GetMonsterInfo to explain {Object}
