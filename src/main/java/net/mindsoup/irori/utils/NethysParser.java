@@ -72,7 +72,7 @@ public class NethysParser {
 		while (matcher.find()) {
 			IroriStat iroriStat = new IroriStat();
 			iroriStat.setStatName(Constants.Stats.DESCRIPTION);
-			iroriStat.setStatValue(transformHtmlString(matcher.group(1).trim()));
+			iroriStat.setStatValue(transformValue(matcher.group(1).trim()));
 
 			if(StringUtils.isNotBlank(iroriStat.getStatValue())) {
 				stats.add(iroriStat);
@@ -85,7 +85,7 @@ public class NethysParser {
 		while (matcher.find()) {
 			IroriStat iroriStat = new IroriStat();
 			iroriStat.setStatName(Constants.Stats.REQUIREMENTS);
-			iroriStat.setStatValue(transformHtmlString(matcher.group(1).trim()));
+			iroriStat.setStatValue(transformValue(matcher.group(1).trim()));
 
 			if(StringUtils.isNotBlank(iroriStat.getStatValue())) {
 				// remove previous requirements stat if it exists
@@ -99,12 +99,16 @@ public class NethysParser {
 		return stats;
 	}
 
+	private static String unifyQuotes(String string) {
+		return string.replace("`", "'").replace("’", "'");
+	}
+
 	private static String transformHtmlString(String description) {
 		return Jsoup.parse(description).text();
 	}
 
 	private static String transformValue(String value) {
-		return transformHtmlString(value.replace("/level", " per level").replace("—", "none").replace("—/—", "none"));
+		return unifyQuotes(transformHtmlString(value.replace("/level", " per level").replace("—", "none").replace("—/—", "none")));
 	}
 
 	private static String transformStatName(String stat) {

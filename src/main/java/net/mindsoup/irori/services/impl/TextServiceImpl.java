@@ -1,6 +1,6 @@
 package net.mindsoup.irori.services.impl;
 
-import net.mindsoup.irori.MatchType;
+import net.mindsoup.irori.enums.MatchType;
 import net.mindsoup.irori.services.TextService;
 import org.apache.commons.text.similarity.LevenshteinDistance;
 import org.slf4j.Logger;
@@ -15,6 +15,8 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * Created by Valentijn on 15-7-2017.
@@ -72,6 +74,29 @@ public class TextServiceImpl implements TextService {
 		LOG.info(String.format("Added %s to match mappings for %s", name, closestMatch));
 
 		return closestMatch;
+	}
+
+	@Override
+	public Set<String> getNameAliases(String name) {
+		Set<String> aliases = new HashSet<>();
+
+		name = stripBracketsFromName(name);
+
+		aliases.add(name);
+
+		// only add this alias if it's different from the name
+		String alias = getCommaAlias(name);
+		if(!alias.equals(name)) {
+			aliases.add(alias);
+		}
+
+		// only add this alias if it's different from the name
+		alias = getEyeAlias(alias);
+		if(!alias.equals(name)) {
+			aliases.add(alias);
+		}
+
+		return aliases;
 	}
 
 	private String getClosestPhoneticMatch(String name, MatchType type) {
@@ -134,6 +159,70 @@ public class TextServiceImpl implements TextService {
 		}
 
 		return objectNames;
+	}
+
+	private String stripBracketsFromName(String name) {
+		return name.replaceAll("\\(.+\\)", "").trim();
+	}
+
+	private String getCommaAlias(String name) {
+		// if this name does not contain a comma, early out
+		if(!name.contains(",")) {
+			return name;
+		}
+
+		// split the name in two pieces on the comma
+		String[] splitResults = name.split(",");
+
+		splitResults[0] = splitResults[0].trim();
+		splitResults[1] = splitResults[1].trim();
+
+		// reverse places, so "restoration, lesser" becomes "lesser restoration"
+		String result = String.format("%s %s", splitResults[1], splitResults[0]);
+
+		// if the second part of the name contains the first part (for example "Giant, Rune Giant")
+		// just ignore the first part entirely
+		if(splitResults[1].contains(splitResults[0])) {
+			result = splitResults[1];
+		}
+
+		return result;
+	}
+
+	/**
+	 * Add an alias for words containing the word 'eye', which alexa often interprets as 'I', or 'eyes' as 'ice'
+	 */
+	private String getEyeAlias(String name) {
+		// if this name does not contain 'eye', early out
+		if(!name.contains("eye")) {
+			return name;
+		}
+
+		// eyes to ice
+		if(name.contains("eyes")) {
+			name = name.replace("eyes", "ice");
+		}
+
+		// eye to I
+		Pattern pattern = Pattern.compile("(.*)eye(.*)");
+		Matcher matcher = pattern.matcher(name);
+
+		while(matcher.find()) {
+			// reconstruct name, with eye replaced as i
+
+			String replacement = "i";
+			if(matcher.group(1).matches(".*[a-zA-Z]")) {
+				replacement = " " + replacement;
+			}
+
+			if(matcher.group(2).matches("[a-zA-Z].*")) {
+				replacement = replacement + " ";
+			}
+
+			name = matcher.group(1) + replacement + matcher.group(2);
+		}
+
+		return name;
 	}
 
 	private class MatchesAndMappings {

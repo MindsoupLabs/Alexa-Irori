@@ -1,4 +1,4 @@
-package net.mindsoup.irori;
+package net.mindsoup.irori.enums;
 
 /**
  * Created by Valentijn on 19-7-2017

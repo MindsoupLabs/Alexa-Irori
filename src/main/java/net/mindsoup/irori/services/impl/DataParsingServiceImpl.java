@@ -43,6 +43,8 @@ public class DataParsingServiceImpl implements DataParsingService {
 
 		iroriData.getStats().forEach(e -> e.setStatName(textService.getSynonym(e.getStatName(), type)));
 
+		iroriData.setAliases(textService.getNameAliases(iroriObject.getName()));
+
 		return iroriData;
 	}
 
@@ -53,7 +55,7 @@ public class DataParsingServiceImpl implements DataParsingService {
 		}
 
 		// strip possessive apostrophe from names (like bear's endurance)
-		name = name.replace("'","").replace("`","");
+		name = name.replace("'","").replace("`","").replace("’", "");
 
 		return name;
 	}

@@ -1,6 +1,6 @@
 package net.mindsoup.irori.services.impl;
 
-import net.mindsoup.irori.MatchType;
+import net.mindsoup.irori.enums.MatchType;
 import net.mindsoup.irori.dtos.request.StatRequest;
 import net.mindsoup.irori.exceptions.InvalidInputException;
 import net.mindsoup.irori.exceptions.ObjectNotFoundException;

@@ -1,4 +1,4 @@
-import net.mindsoup.irori.MatchType;
+import net.mindsoup.irori.enums.MatchType;
 import net.mindsoup.irori.services.TextService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -8,8 +8,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 /**
  * Created by Valentijn on 18-7-2017
@@ -59,5 +61,45 @@ public class TextServiceTests {
 		for(String key : synonyms.keySet()) {
 			assertEquals(synonyms.get(key), textService.getSynonym(key, "monster"));
 		}
+	}
+
+	@Test
+	public void test_aliases() {
+		Set<String> aliases = textService.getNameAliases("magic missile");
+		assertEquals(1, aliases.size());
+
+		aliases = textService.getNameAliases("restoration, lesser");
+		assertEquals(2, aliases.size());
+
+		aliases = textService.getNameAliases("giant, rune giant");
+		assertEquals(2, aliases.size());
+		assertTrue(aliases.contains("rune giant"));
+
+		aliases = textService.getNameAliases("eyebite");
+		assertEquals(2, aliases.size());
+		assertTrue(aliases.contains("i bite"));
+
+		aliases = textService.getNameAliases("countless eyes");
+		assertEquals(2, aliases.size());
+		assertTrue(aliases.contains("countless ice"));
+
+		aliases = textService.getNameAliases("gnoll, eye of lamashtu");
+		assertEquals(3, aliases.size());
+		assertTrue(aliases.contains("i of lamashtu gnoll"));
+
+		aliases = textService.getNameAliases("arcane eye");
+		assertEquals(2, aliases.size());
+		assertTrue(aliases.contains("arcane i"));
+
+		aliases = textService.getNameAliases("arrow, bamboo shaft (10)");
+		assertEquals(2, aliases.size());
+		assertTrue(aliases.contains("arrow, bamboo shaft"));
+		assertTrue(aliases.contains("bamboo shaft arrow"));
+
+		aliases = textService.getNameAliases("dragon (imperial, sea), young sea dragon");
+		assertEquals(2, aliases.size());
+		assertTrue(aliases.contains("dragon , young sea dragon"));
+		assertTrue(aliases.contains("young sea dragon"));
+
 	}
 }
