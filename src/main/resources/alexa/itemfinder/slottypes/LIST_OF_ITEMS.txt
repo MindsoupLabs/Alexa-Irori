@@ -3,9 +3,11 @@ abjurant salt
 abrogalian corset
 absorbing shield
 accent pill
+acid bolt
 acrobat slippers
 adamantine battleaxe
 adamantine breastplate
+adamantine bullet
 adamantine dagger
 admixture vial
 advocates armor
@@ -35,6 +37,7 @@ aligned horn of valhalla
 alkenstar fortress plate
 all-seeing armor
 all-seeing eye
+all-seeing i
 all tools vest
 alluring golden apple
 alpine ice axe
@@ -136,6 +139,7 @@ armillary amulet
 armor of fragmenting stone
 armor of grim triumph (orc)
 armor of insults
+armor of skulls relic of kazavon
 armor of the pious
 armor of the pure legion
 armor of the sands
@@ -148,11 +152,12 @@ arms of the marilith
 arrow magnet
 arrow of charming
 arrow splitter
-arrow, bamboo shaft (10)
-arrow, iron-tipped distance (20)
+arrow, bamboo shaft
+arrow, iron-tipped distance
 arrowmasters bracers
-arrows (20)
+arrows
 artrosa ring
+asheia sword of lust
 ashes of unluck
 aspect mask
 aspergillum cloak
@@ -198,6 +203,7 @@ baldric of magical stability (garundi)
 balgorrah
 ballista net
 balm of impish grace
+bamboo shaft arrow
 bamboo shaft arrows
 band of the stalwart warrior
 bandages of rapid recovery
@@ -211,6 +217,7 @@ banner of the ancient kings
 banner of the rushing horde
 banner of the scarlet rose
 banshees howl
+baraket sword of pride
 barbazu beard
 barbed arrow
 barbed pentacle of asmodeus
@@ -300,6 +307,7 @@ blackmarrow altar
 blackwick cauldron
 blade boot
 blade of binding
+blade of the leopard en-nebi
 blade of the rising sun
 blade of the sword-saint
 blade of the willing martyr
@@ -329,9 +337,9 @@ bloodstones of arazni
 bloodthirst dagger
 blouse of the boastful bastard
 blowgun
-blowgun darts (10)
+blowgun darts
 blunderbuss
-blunt arrows (20)
+blunt arrows
 bo staff
 boar spear
 boarding axe
@@ -346,7 +354,7 @@ bolas bolts
 bolt, acid
 bolt, drow poison
 bolt, fire
-bolts, heartstake (5)
+bolts, heartstake
 bondbreakers boots
 bone beads
 bone bearers cutter
@@ -414,6 +422,8 @@ bottled yeti fur
 boulder bag
 boulder bullet
 boulderhead mace
+bouncing rod of metamagic
+bound blade relic of kazavon
 boundary chalk
 bountiful bottle
 bow of ashes
@@ -450,6 +460,7 @@ brazen head
 brazier of conjuring fire elementals
 breach barrier
 breastplate
+breastplate armor
 breastplate of command
 breastplate of vanishing
 briar
@@ -478,8 +489,9 @@ buckler
 buckler gun
 buffering cap
 bulette bulwark
+bullet or pellet) alchemical cartridge (paper
 bullet, adamantine
-bullets, groaning (10)
+bullets, groaning
 bullroarers of outburst
 buoyant harpoon
 burdenstone
@@ -487,6 +499,7 @@ burglar boots (major)
 burglar boots (minor)
 burglars bracers
 burglars buckler
+burning rod of metamagic
 burnished
 burrowers bridle
 burrowing bullet
@@ -544,6 +557,7 @@ cat-o-nine-tails
 cat burglars boots
 catching cape
 cats eye crown
+cats i crown
 catskin leather
 cauldron of brewing
 cauldron of flying
@@ -600,6 +614,7 @@ charts of the fair winds
 chastising baton
 chelish crux
 chelish listening trumpet
+chellan sword of greed
 chest of defending
 chest of keeping
 chest of preparedness
@@ -682,6 +697,7 @@ coin of the untrodden road
 cold iron masterwork longsword
 coldfire wrappings
 coldwarp key
+collapsible kumade
 collapsible tower
 collar of obedience
 collar of the true companion
@@ -696,6 +712,7 @@ commanders helm (dwarf)
 composite longbow
 composite shortbow
 concealing pocket
+concussive rod of metamagic
 conduit rod
 conflagration pike
 congregants compass
@@ -730,7 +747,7 @@ crimson thorny (normal) ioun stone
 crook
 crook and flail of kings
 crook of the ancient serpent
-crossbow bolts (10)
+crossbow bolts
 crossbow of retribution
 crowcaller
 crown of ash
@@ -739,6 +756,7 @@ crown of blasting (minor)
 crown of challenge
 crown of conquest
 crown of false rule
+crown of fangs relic of kazavon
 crown of heaven
 crown of infernal majesty
 crown of swords
@@ -798,6 +816,8 @@ dawnflower sash
 dawnflowers kiss
 dawnflowers light
 daystar half-plate
+dazing rod of metamagic
+dead i leather
 dead mans headband
 dead mans shroud
 deadened shadows cloak
@@ -816,6 +836,7 @@ deaths head coffer
 deaths head talisman
 deaths preservation banded mail
 deathwatch eyes
+deathwatch ice
 decanter of endless water
 decemvirate helm
 deck of doors
@@ -867,6 +888,7 @@ discretion charm
 discriminating cube
 disk of ghol-gan
 displacing stone
+disruptive rod of metamagic
 dissidents gloves
 diviners blight
 dizzying bullet
@@ -913,6 +935,8 @@ dreamwing cape
 driftwood shield
 drinking horn of bottomless valor
 drinking horn of the panacea
+drow poison bolt
+drow razor
 drowning medallion
 druids vestment
 drum of advance and retreat
@@ -944,12 +968,16 @@ dust of weighty burdens
 dustburst bullet
 dusty rose prism (normal) ioun stone
 dwarfbond hammer
+dwarven boulder helmet
 dwarven dorn-dergar
 dwarven double waraxe
+dwarven longaxe
+dwarven longhammer
 dwarven maulaxe
 dwarven plate
 dwarven thrower
 dwarven urgrosh
+dwarven war-shield
 dwarven waraxe
 dweomers essence
 dwindling bullet
@@ -967,7 +995,11 @@ earthfire shuriken
 earthquake boots
 eastern star (normal) ioun stone
 ebon thorn
+ebon wayfinder
 ebony bolero
+echoing rod of metamagic
+eclipsed rod of metamagic
+ectoplasmic rod of metamagic
 eel skin armor
 efficient quiver
 effigy of anubis
@@ -985,6 +1017,7 @@ elemental bulwark
 elemental chain
 elemental earth belt
 elemental gem
+elemental rod of metamagic
 elemental storing stone
 elephant shield
 elixir of amnesia
@@ -1026,15 +1059,18 @@ emei piercer
 emerald ellipsoid (normal) ioun stone
 emissarys breastplate
 emperors mammoth
+empower rod of metamagic
 empty hands
 empyreal armor
 en-nebi, blade of the leopard
 enchanted eelskin
 endless bandolier
 enduring bloom
+enemy of all enemies ovinrbaane
 enervating pistol
 enervative shadowcraft weapon
 engineers workgloves
+enlarge rod of metamagic
 enmity fetish
 entangling aiguillette
 entwined syrinx
@@ -1063,6 +1099,7 @@ exorcists aspergillum
 expedition pavilion
 explorers pith helmet
 explosion pocket
+extend rod of metamagic
 extraction scarificator
 extractors gloves
 eye-stealing locket
@@ -1095,6 +1132,7 @@ falcon crown
 false coin
 false face
 false flag tabard
+familiar rod of metamagic
 familiars soulstone
 famine rod
 fan of autumn
@@ -1111,6 +1149,7 @@ fate-readers lenses
 fate blade
 fates shears
 fathers forgehammer
+fearsome rod of metamagic
 feast of rats
 feather step slippers
 feather tokens
@@ -1125,6 +1164,7 @@ fey map
 feychild necklace
 field medics breastplate
 field plate
+field plate armor
 field scriveners desk
 fiends relief
 fiery nimbus rod
@@ -1134,10 +1174,10 @@ figurine of the concealed companion
 figurines of wondrous power
 final blade
 final word
+fire bolt
 fire goddesss blade
 fire lance
-firearm bullet (1)
-firearm bullet (30)
+firearm bullet
 firearm bullet, silver
 firedrake pistol
 firefoot powder
@@ -1150,6 +1190,7 @@ flame of bakrakhan
 flame of guidance
 flame tongue
 flamma horacalcum
+flaring rod of metamagic
 flask of ebon flame
 flask of endless sake
 flask of the reaper
@@ -1159,7 +1200,7 @@ flaying halberd
 flechette bolt
 fleshhook of mythic sustenance
 fleshwarped scorpions tail
-flight arrows (20)
+flight arrows
 flindbar
 floating sail
 flowing fortress armor
@@ -1171,6 +1212,7 @@ flying platform
 flying skiff
 flying sled
 flying talon
+focused rod of metamagic
 focused shadowcraft weapon
 focusing flask
 fog-cutting lenses
@@ -1209,10 +1251,12 @@ frozen heart of cocytus
 fugitive finder
 fugitives grenade
 full plate
+full plate armor
 full plate of the corpse
 fuming blood sabre
 funeral mask of the four pharaohs of ascension
 funerary crown of the true king
+furious rod of metamagic
 gale armor
 gallows rope
 gamboge nodule (normal) ioun stone
@@ -1221,6 +1265,7 @@ gandasa
 ganji doll
 ganji doll (greater)
 garrote
+garvok sword of wrath
 gas-trap cylinder
 gas cylinder
 gastraphetes
@@ -1350,7 +1395,17 @@ great terbutje
 greataxe
 greatclub
 greatcube of jayalakshmi
+greater (varisian) hallowed chain
+greater assassins sight
+greater best friend pendant
+greater casters shield
+greater channel-thieving belt
+greater coat of the undercity
+greater dire collar
 greater hat of disguise
+greater monster almanac
+greater murderers machete
+greater time bomb
 greathelm of the mammoth lord
 greatsword
 greenblood scourge
@@ -1359,12 +1414,14 @@ gremlin-skin drum
 gremlin bell
 grim gloom mail
 grim lantern
+groaning bullets
 groundbreaker cloak
 grounding rod
 grudge blade
 guard of man
 guardian gorget
 guardian key
+guardian of the amatatsu suishen
 guarding blade
 guerrilla bandanna
 guiding vellum
@@ -1383,12 +1440,12 @@ half-plate of the dark prince
 halflight charm
 halflight charm (greater)
 halfling double sling
-halfling little starstones (10)
+halfling little starstones
 halfling rope-shot
-halfling sharpstones (10)
+halfling sharpstones
 halfling sling staff
-halfling softstones (10)
-halfling spongestones (10)
+halfling softstones
+halfling spongestones
 halfling stitched sling
 hallowed chain (varisian)
 hallowed chain, greater (varisian)
@@ -1467,6 +1524,7 @@ heartripper blade
 hearts bane
 hearts edge
 heartspit
+heartstake bolts
 heartswood spear
 heavy crank crossbow
 heavy crossbow
@@ -1475,8 +1533,8 @@ heavy mace
 heavy pick
 heavy shield
 heavy slavers crossbow
-heavy steel
-heavy wooden
+heavy steel shield
+heavy wooden shield
 heavy wrist launcher
 heavyload belt
 helicyon
@@ -1486,6 +1544,7 @@ hellknight half-plate
 hellknight leather
 hellknight plate
 hells eye
+hells i
 hellscourge
 helm of brilliance
 helm of brilliance (lesser)
@@ -1512,7 +1571,7 @@ hex nail
 hexing doll
 hexing runes
 hezzilreens spellbook
-hide
+hide armor
 hide of the dragonrider
 hide shirt
 high elven bracers
@@ -1534,6 +1593,7 @@ hook hand
 hooked axe
 hooked lance
 hooked massacre
+horn lamellar armor
 horn of antagonism
 horn of assured victory
 horn of battle clarity
@@ -1571,6 +1631,7 @@ hourglass of transfiguration
 hourglass quarterstaff
 howling bracers
 howling helm
+howling horn relic of kazavon
 howling skull armor
 hunga munga
 hunters band
@@ -1591,8 +1652,29 @@ hyena spirit skin
 hyperboreal robe
 hypnotic tattoo
 hypnotic wayfinder
+i-stealing locket
+i of abenatrex
+i of brokerage
+i of horus amulet
+i of rapture
+i of scrying
+i of the mantis
+i of the overwatched
+i of the void
+i orb
+i patch of infamy (half-orc)
+i piercings
 ice fang
 ice floe elixir
+ice of charming
+ice of doom
+ice of i bite
+ice of keen sight
+ice of mind reading (android)
+ice of the dragon
+ice of the eagle
+ice of the liar
+ice of the owl
 icecrown of irrisen
 icelink chainmail
 icicle wand
@@ -1601,6 +1683,7 @@ icon of order
 icon of the midwife
 id portrait
 idol of the eye
+idol of the i
 ikarikurusai, the raging cyclone
 imago lens
 immolation cloak
@@ -1641,14 +1724,18 @@ insistent doorknocker
 instant bridge
 instant fortress
 instant muzzle
+intensified rod of metamagic
 investigators pipe
 invidian eye
+invidian i
 invincible armor
 inviolate marker
 ioun spite bracers
 ioun stones, thassilonian
 ioun torch
 iridescent spindle (normal) ioun stone
+irom lamellar armor
+iron-tipped distance arrow
 iron band of iron mind
 iron bands of binding
 iron brush
@@ -1705,7 +1792,7 @@ keffiyeh of cooling
 kerambit
 kerchief of remembrance
 kestros
-kestros dart (10)
+kestros dart
 key of lock jamming
 key of the second vault
 keyhole stiletto
@@ -1743,12 +1830,12 @@ labrys of the stone idol
 lacerating rapier
 ladys spiral
 lambent window
-lamellar (horn)
-lamellar (iron)
-lamellar (leather)
-lamellar (steel)
-lamellar (stone)
 lamellar cuirass
+lamellar horn armor
+lamellar iron armor
+lamellar leather armor
+lamellar steel armor
+lamellar stone armor
 lamp of fiery visions
 lance
 lance of jousting
@@ -1772,8 +1859,10 @@ lava rod
 lavender and green ellipsoid (normal) ioun stone
 lawrence 1917 flamethrower
 lawrence 1917 flamethrower fuel tank
+leader lamellar armor
 leaf armor
-leather
+leather armor
+leather madu
 legendsbane
 legion armor
 leng flail
@@ -1795,6 +1884,7 @@ liars robe
 liberators key
 liberators rod
 life-reading eyes
+life-reading ice
 life drinker
 life lantern
 life link badge
@@ -1807,11 +1897,12 @@ light mace
 light pick
 light shield
 light slavers crossbow
-light steel
-light steel quickdraw
-light wooden
-light wooden quickdraw
+light steel quickdraw shield
+light steel shield
+light wooden quickdraw shield
+light wooden shield
 lightning gun
+lingering rod of metamagic
 linnorms lament
 lion cloak
 lions shield
@@ -1826,6 +1917,7 @@ locked gauntlet
 locket of true and false friends (half-elf)
 lockpick shield
 locust cuirass
+logical rod of metamagic
 longarm bracers
 longaxe, dwarven
 longbow
@@ -1862,7 +1954,6 @@ mace of terror
 machete
 machete of clearing
 madsen light machine gun
-madu (leather)
 madu (leather/steel)
 madu (steel)
 maelstrom shield
@@ -1912,6 +2003,7 @@ manual of quickness of action
 manual of war
 map of the high ice
 mariners eye patch
+mariners i patch
 marionette crux
 markers monocle
 marrowcracker
@@ -1928,6 +2020,7 @@ mask of stolen identities (gillman)
 mask of stolen mien
 mask of stony demeanor
 mask of the cursed eye
+mask of the cursed i
 mask of the forgotten pharaoh
 mask of the krenshar
 mask of the mantis
@@ -1947,6 +2040,7 @@ maul of the titans
 maw of the wyrm
 maxim m1910 machine gun
 maxim of suppressive fire
+maximize rod of metamagic
 medal of the heros heart
 medalion of sar-gorog
 medallion of thoughts
@@ -1960,8 +2054,10 @@ memoriam root
 memory box
 memory musk gourd
 merciful baldric
+merciful rod of metamagic
 merciful vambraces
 mere club
+merfolk) coat of shells (gillmen
 merform belt
 meridian belt
 mesmerizing tattoo
@@ -1977,7 +2073,11 @@ mind sentinel medallion
 mindbind figurine
 minderhals forge
 mindmasters eyes
+mindmasters ice
 minds eye blade
+minds i blade
+minor bag of holding
+minor runewell
 minotaur belt
 mirror of guarding reflections
 mirror of life trapping
@@ -2027,6 +2127,7 @@ mossy disk (normal) ioun stone
 mothman memento
 mount-splitting pick (dwarf)
 mountain pattern
+mountain pattern armor
 mountainshapers girdle
 mournful razor
 mouthpiece of the dominion
@@ -2041,6 +2142,7 @@ murderers machete
 murderers machete, greater
 murderers silence
 murktouch cloak
+murky rod of metamagic
 mushroom vest
 music box trap
 musket
@@ -2143,6 +2245,7 @@ orb of utter chaos
 orbicular sac
 orbs of dragonkind
 orc double axe
+orc hornbow
 orc skull ram
 orgone accumulator
 origami swarm
@@ -2155,7 +2258,7 @@ otyugh hide
 overflowing rod
 ovinrbaane, enemy of all enemies
 pact parchment
-padded
+padded armor
 padma blossom
 page of spell knowledge
 pain ward of the ostiarius
@@ -2174,7 +2277,7 @@ panoply of the fierani knight (elf)
 pantheistic clasp
 paper flower
 papyrus of eternal rest
-parade
+parade armor
 paradox box
 paralyzing snare
 parley ward
@@ -2219,6 +2322,7 @@ periapt of temporary familiar
 periapt of wound closure
 perilous gloves
 perilous puzzle box
+persistent rod of metamagic
 phalanx shield
 phaleros
 phantasmal gem
@@ -2242,6 +2346,7 @@ physicians spectacles
 pick of stonecleaving
 pickaxe
 pickpockets bandolier
+piercing rod of metamagic
 pilum
 pink and green sphere (flawed) ioun stone
 pink rhomboid (flawed) ioun stone
@@ -2255,6 +2360,7 @@ pipes of the sewers
 pipes of the warren guardian
 pirates arm
 pirates eye patch
+pirates i patch
 pistol
 pistol of the infinite sky
 piston maul
@@ -2332,11 +2438,13 @@ quick action slippers
 quick block buckler
 quick runners shirt
 quickchange cloak
+quicken rod of metamagic
 quickfingers gloves
 quickmetal bracers
 quicksand cloak
 quicksilver gloves
 quilted cloth
+quilted cloth armor
 rabbits blade
 racing broom of flying
 radiance
@@ -2354,6 +2462,7 @@ rapier of battlefield movement
 rapier of puncturing
 rat-tread boots
 ratcheting gauntlets
+ratfolk tailblade
 raucous canard
 raven bracers
 ravenous blade
@@ -2362,6 +2471,7 @@ razor-sharp
 razor, drow
 razored
 razored ropes
+reach rod of metamagic
 reapers mask
 reavers scythe
 rechargeable cube of force
@@ -2382,7 +2492,7 @@ relic of kazavon, staff of the slain
 relic of kazavon, throne of nalt
 remote activation cube
 rending claw blade
-repeating crossbow bolts (5)
+repeating crossbow bolts
 repeating hand crossbow
 repeating heavy crossbow
 repeating light crossbow
@@ -2413,6 +2523,7 @@ riftcarver
 righteous fist amulet
 righteous medal
 rime-stride boots
+rime rod of metamagic
 rimeblade
 rimeheart amulet
 rimepelt
@@ -2430,6 +2541,7 @@ robe of bones
 robe of components
 robe of eyes
 robe of gates
+robe of ice
 robe of infinite twine
 robe of magma
 robe of needles
@@ -2633,6 +2745,7 @@ scarf of glorious histories (varisian)
 scarf of the suggestive dance
 scarlet and blue sphere (flawed) ioun stone
 scarlet and green cabochon (normal) ioun stone
+scarring rod of metamagic
 scavenger s stone
 scepter of ages
 scepter of divine providence
@@ -2641,6 +2754,7 @@ scepter of shibaxet
 scepter of the arclords
 scepter of the shining lord
 school of eyes
+school of ice
 scimitar
 scimitar of the spellthief
 scimitar of the striking wing
@@ -2674,6 +2788,7 @@ seed of fire
 seekers sight
 seers tea
 seishinru, spirit elixir
+selective rod of metamagic
 sensory deprivation hood
 sentinel scorpion
 sepia ellipsoid (normal) ioun stone
@@ -2724,6 +2839,7 @@ shard of sloth
 shard of winter
 shard of wrath
 shark tooth amulet
+sharpened combat scabbard
 sharpshooter’s blade
 shatterspike
 shatterstone hammer
@@ -2750,6 +2866,7 @@ shieldsplitter lance
 shifters headband
 shifters sorrow
 shifting jerkin
+shin-tari sword of sloth
 shining wayfinder
 shinobi fuhonsen
 shirt of immolation
@@ -2767,16 +2884,18 @@ shortspear
 shotel
 shotgun
 shozoku of the night wind
+shredskin relic of kazavon
 shrillshaft javelin
 shrivelblade
 shroud of disintegration
 shroud of flies
 shrouded demise
 shrunken head
-shuriken (5)
+shuriken
 siangham
 sibat
 sica
+sickening rod of metamagic
 sickle
 sickle-sword
 sigil chalk
@@ -2786,8 +2905,10 @@ sihedron medallion
 sihedron tome
 silent aviary
 silent blade vest
+silent rod of metamagic
 silent sentry crossbow
 silken ceremonial
+silver firearm bullet
 silver maiden
 silver nail
 silver nocking point
@@ -2823,7 +2944,7 @@ slaying arrow
 sleep arrow
 sleeves of many garments
 sling
-sling bullets (10)
+sling bullets
 sling glove
 slippers of buttwalking
 slippers of spider climbing
@@ -2851,6 +2972,7 @@ sniper goggles (greater)
 snipers helmet
 snowfall orb
 snowshoes of northern pursuit
+snuffing rod of metamagic
 soaring cathedra
 soles of the silent stride
 solidsmoke pipeweed
@@ -2864,6 +2986,7 @@ soul lens
 soul portrait
 soul soap
 soulbound eye
+soulbound i
 soulforge
 soulspeaker
 soultheft glass
@@ -2914,6 +3037,7 @@ spiral tiles (pharasma)
 spire transport token
 spirit blade
 spirit caller
+spirit elixir seishinru
 spirit mirror
 spirit planchette
 spirit revivification incense
@@ -2921,17 +3045,21 @@ spirit slate
 spiritwalk armor
 spiteful cookie
 splint mail
+splint mail armor
 splitting bolt
 sporeblade
 sporecrafters kindness
 spring blade
 spy eyes
+spy ice
 spyglass of discovery (human)
+stable rod of metamagic
 staff of eldritch sovereignty
 staff of elemental castigation
 staff of rightful rule
 staff of the hooded cobra
 staff of the magi
+staff of the slain relic of kazavon
 stagger-proof boots
 stags helm
 stake of the righteous
@@ -2953,7 +3081,12 @@ starsong mail
 steadfast grapple
 steadfast gut-stone
 steadfast urumi
+steam rod of metamagic
 steel-mind cap
+steel lamellar armor
+steel quickdraw shield
+steel snarlshield
+steel terbutje
 steelbone frame
 stench spray amulet
 sterling salt
@@ -2970,6 +3103,7 @@ stone cloak (minor)
 stone coat
 stone familiar
 stone horse
+stone lamellar armor
 stone of alarm
 stone of alliance
 stone of conjuring earth elementals
@@ -2979,7 +3113,7 @@ stonebow
 stonefist gloves
 stonemeld boots
 stonemist cloak
-stoneplate
+stoneplate armor
 storm goggles
 storm kindlers rod
 stormcaller
@@ -2992,7 +3126,7 @@ storvals thunder (shoanti)
 storytellers dust
 strand of prayer beads
 stubborn nail
-studded leather
+studded leather armor
 stunstone
 style-stealing vambrace
 subtle slippers
@@ -3000,6 +3134,7 @@ suggestive tea
 suishen, guardian of the amatatsu
 summon-slave crystal
 summoner slayer eyes
+summoner slayer ice
 summoners robe
 summoners sorrow
 summoning shackle
@@ -3012,6 +3147,7 @@ suspension piercings
 sustaining spoon
 suzerain scepter
 svinglis eye
+svinglis i
 swallowtail bracers
 swarm bullet
 swarmbane clasp
@@ -3073,6 +3209,7 @@ talonstrike sword
 tamers whip
 tangle bolt
 tankard of the drunken hero
+tannaris sword of envy
 tarnhelm
 tatami-do
 tathlum
@@ -3092,43 +3229,54 @@ terendelevs scales
 terra-cotta talisman
 tessaraels book of infinite spells
 tetsubo
+thanatopic rod of metamagic
 thark rifle
+thassilonian ioun stones
 thaumaturgic powder
 the aqualinth
 the brazen claw
+the cutting light karusetsu
 the demonscope
 the dreamstone
 the elder decks
 the gasping pearl
 the gluttonous tome
 the impossible eye
+the impossible i
 the jewel of everlasting gold
+the kyton scourge rythius
 the last theorem
 the lymirin discourses
 the masters name
 the moaning diamond
 the morrowfall
 the pendulate divan of emperor fortigré
+the petrified spider mog-lathar
+the raging cyclone ikarikurusai
 the red ravens cape
 the shield of the sun
+the silent crane tsuruhashi
 the storied orb
 the thundering blade of the house of sugimatu
 the totemrix
 the viridian crown
 third eye
+third i
 thistle arrow
 thoqqua snake
 thorn bow
 thorn bracer
 thorncrown of iomedae
 thorned manacles
-thorns (20)
+thorns
 thought record
 three reasons to live
 thremyrs beard
+threnodic rod of metamagic
 threshold guardian
 throne of blasphemy
 throne of fetters
+throne of nalt relic of kazavon
 throne of pleasing mien
 throne of the ardent defense
 throne of the sky-father
@@ -3138,6 +3286,7 @@ throwing arrow cord
 throwing axe
 throwing shield
 thunder strap
+thundering rod of metamagic
 tidefinder
 tidewater cutlass
 tidy trunk
@@ -3166,6 +3315,7 @@ tome of understanding
 tonfa
 tongi
 toothpick of pyrotechnics
+toppling rod of metamagic
 torc of bloody rage
 torc of enmity
 torc of innocuous gems
@@ -3179,7 +3329,7 @@ totem of angazhan
 totem spear
 touch of avolition
 tourmaline sphere (normal) ioun stone
-tower
+tower shield
 toxin sponge
 tracer bullet
 trackless boots
@@ -3195,6 +3345,7 @@ trapped beverage
 trapped puzzle box
 trapped sword
 trapspringers gloves
+traumatic rod of metamagic
 travelers any-tool
 travelers grandiose carrying case
 travelers translator
@@ -3206,6 +3357,7 @@ treeform cloak
 treekeepers staff (elf)
 tremor bar (kobold)
 tremor boots
+tri-bladed katar
 tri-point double-edged sword
 trident
 trident of fish command
@@ -3214,6 +3366,7 @@ trident of the storm captain
 trident of warning
 triple-stinging blade (calistria)
 triple eyes of vivid auras
+triple ice of vivid auras
 tritons trident
 trollbane blanch
 trollblood elixir
@@ -3247,6 +3400,7 @@ underwater light crossbow
 unerring compass
 unerring grenade
 unfettered shirt
+ungarato sword of gluttony
 unguent of revivification
 unguent of timelessness
 unicorns blackened horn
@@ -3269,11 +3423,13 @@ vampiric gloves
 vanishing sheath
 vanishing wayfinder
 vanitys eye
+vanitys i
 varisian dancing scarves
 veil of fleeting glances
 veil of veils
 veiled chain
 veiled eye
+veiled i
 vengeful kiss
 venomous whisper dart
 venomsweat salve
@@ -3366,6 +3522,7 @@ wayfinder of revelation
 wayfinder of spellbreaking
 wayfinder of the planes
 wayfinder of the sleeping eye
+wayfinder of the sleeping i
 wayfinder of the stars
 wayfinder of zephyrs
 wayfinder, ebon
@@ -3390,7 +3547,8 @@ whispering gloves
 whispering shell
 whispering shrike
 whistle of calling
-whistling arrows (20)
+whistling arrows
+widen rod of metamagic
 wind-caller compass
 wind fan
 windreaders bow
@@ -3419,7 +3577,9 @@ withershot
 wizard hook
 wizards mail
 wolf callers horn
-wooden
+wooden armor
+wooden quickdraw shield
+wooden snarlshield
 wooden stake
 word bottle
 wound paste

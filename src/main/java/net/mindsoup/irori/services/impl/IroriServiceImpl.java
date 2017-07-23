@@ -1,13 +1,13 @@
 package net.mindsoup.irori.services.impl;
 
-import net.mindsoup.irori.enums.MatchType;
 import net.mindsoup.irori.dtos.request.StatRequest;
+import net.mindsoup.irori.enums.MatchType;
 import net.mindsoup.irori.exceptions.InvalidInputException;
 import net.mindsoup.irori.exceptions.ObjectNotFoundException;
 import net.mindsoup.irori.exceptions.StatNotFoundException;
-import net.mindsoup.irori.models.IroriObject;
+import net.mindsoup.irori.models.IroriAlias;
 import net.mindsoup.irori.models.IroriStat;
-import net.mindsoup.irori.repositories.ObjectRepository;
+import net.mindsoup.irori.repositories.AliasRepository;
 import net.mindsoup.irori.repositories.StatRepository;
 import net.mindsoup.irori.services.IroriService;
 import net.mindsoup.irori.services.TextService;
@@ -25,7 +25,7 @@ public class IroriServiceImpl implements IroriService {
 	private TextService textService;
 
 	@Autowired
-	private ObjectRepository objectRepository;
+	private AliasRepository aliasRepository;
 
 	@Autowired
 	private StatRepository statRepository;
@@ -40,18 +40,18 @@ public class IroriServiceImpl implements IroriService {
 		statRequest.setObjectName(textService.getClosestMatch(statRequest.getObjectName(), MatchType.valueOf(statRequest.getObjectType().toUpperCase())));
 
 		// see if this object is in our db
-		IroriObject iroriObject = objectRepository.findByName(statRequest.getObjectName());
+		IroriAlias iroriAlias = aliasRepository.findByAlias(statRequest.getObjectName());
 
-		if(iroriObject == null) {
+		if(iroriAlias == null) {
 			// not in the db, throw an exception so we can let the user know
 			throw new ObjectNotFoundException(statRequest.getObjectName());
 		}
 
 		// set any stat synonyms to the correct stat name ('A.C.' to 'armor class', etc)
-		statRequest.setStatName(textService.getClosestMatch(textService.getSynonym(statRequest.getStatName(), iroriObject.getType()), MatchType.STAT));
+		statRequest.setStatName(textService.getClosestMatch(textService.getSynonym(statRequest.getStatName(), iroriAlias.getObject().getType()), MatchType.STAT));
 
 		// the object is in our db, lets see if we know the stat the user is asking for
-		IroriStat iroriStat = statRepository.findByObjectAndStatName(iroriObject, statRequest.getStatName());
+		IroriStat iroriStat = statRepository.findByObjectAndStatName(iroriAlias.getObject(), statRequest.getStatName());
 
 		if(iroriStat == null) {
 			// we don't have the stat in our db, throw an exception to let the user know

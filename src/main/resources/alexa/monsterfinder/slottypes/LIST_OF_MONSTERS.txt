@@ -1,19 +1,52 @@
 aashaqs wyvern
 aasimar
+abaddon gigas
 abaia
 aballonian
 abandoned one
 aboleth
 aboleth, veiled master
 abrakarn viper
+abrikandilu demon
 abysogh
 abyss gigas
+accomplice devil
+accuser devil
 achaekek, the mantis god
 achaierai
+acrididaemon
+adamantine golem
 adaro
 addu
 adherer
+adhukait asura
 adlet
+adult black dragon
+adult blue dragon
+adult brass dragon
+adult brine dragon
+adult bronze dragon
+adult cloud dragon
+adult copper dragon
+adult crystal dragon
+adult forest dragon
+adult gold dragon
+adult green dragon
+adult lunar dragon
+adult magma dragon
+adult red dragon
+adult sea dragon
+adult silver dragon
+adult sky dragon
+adult solar dragon
+adult sovereign dragon
+adult time dragon
+adult umbral dragon
+adult underworld dragon
+adult void dragon
+adult vortex dragon
+adult white dragon
+advodaza devil
 aeon, akhana
 aeon, bythos
 aeon, paracletus
@@ -31,31 +64,73 @@ agathion, mustelidal
 agathion, procyal
 agathion, silvanshee
 agathion, vulpinal
+aghash div
+aghasura
 agmazar the star titan
+agyra kaiju
 ahkhat
+ahmuuth psychopomp
 ahriman, lord of all divs
 ahuizotl
+air ossumental
 akaruzug
 akata
+akhana aeon
 akhlut
 akilep, lady of stone
+akvan div
+albino cave solifugid
+alchemical golem
 alchemical ooze swarm, choleric ooze swarm
 alchemical ooze swarm, melancholic ooze swarm
 alchemical ooze swarm, phlegmatic ooze swarm
 alchemical ooze swarm, sanguine ooze swarm
 allip
+allosaurus
+allosaurus dinosaur
+almara kazaar the would-be queen
 almiraj
 alpluachra
 alraune
 alter ego, annis hag alter ego
 aluum
 amalya
+amanusya rakshasa
 ammut
+amoeba swarm
 amoeba, amoeba swarm
 amoeba, giant amoeba
 amphisbaena
+ancient black dragon
+ancient blue dragon
+ancient brass dragon
+ancient brine dragon
+ancient bronze dragon
+ancient cloud dragon
+ancient copper dragon
+ancient crystal dragon
+ancient forest dragon
+ancient gold dragon
+ancient gravedigger ghoul
+ancient green dragon
+ancient lunar dragon
+ancient magma dragon
+ancient red dragon
+ancient sea dragon
+ancient silver dragon
+ancient sky dragon
+ancient solar dragon
+ancient sovereign dragon
+ancient time dragon
+ancient umbral dragon
+ancient underworld dragon
+ancient void dragon
+ancient vortex dragon
+ancient white dragon
+andrazku demon
 android
-angazhani (high girallon)
+androsphinx
+angazhani
 angel, astral deva
 angel, balisse
 angel, cassisian
@@ -70,6 +145,7 @@ angel, ninkonda
 angel, planetar
 angel, solar
 angelic guardian
+angustiden shark
 animal lord, cat lord
 animate aria
 animate dream
@@ -79,16 +155,31 @@ animus shade, medusa animus shade
 ankheg
 ankhrav
 ankou
+ankylosaurus
+ankylosaurus dinosaur
+annihilator robot
+annis hag
+annis hag alter ego
 ant lion, giant adult ant lion
 ant lion, giant ant lion
 ant, army ant swarm
 ant, giant ant
+antelope herd animal
 aoandon
-ape, dire ape (gigantopithecus)
+ape, dire ape
 ape, gorilla
+apocalypse zombie
+apocrisiarius kyton
 apostasy wraith
+apostate devil
+apostle kyton
+arachnid robot
 aranea
+arbiter inevitable
 arcanaton
+arcanotheign herald
+archaeopteryx familiar
+archelon megafauna
 archon swarm, mote archon swarm
 archon, codex archon
 archon, hammer archon
@@ -102,11 +193,22 @@ archon, spyglass archon
 archon, stag archon
 archon, star archon
 archon, trumpet archon
+arctic hare familiar
+arctic tern familiar
 argorth
 aridus, the deserts howl
+armadillo familiar
+armored ogre skeleton
+army ant swarm
+arsinoitherium megafauna
 ascomoid
+ash giant
+ash hag
+asp snake
 aspidochelone
 assassin vine
+astradaemon
+astral deva angel
 astral leviathan
 asura, adhukait
 asura, aghasura
@@ -114,12 +216,20 @@ asura, asurendra
 asura, tripurasura
 asura, upasunda
 asura, vayuphak
+asurendra asura
+atamahuta oni
 ataxian
 athach
 atomie
 attic whisperer
+augnagar qlippoth
+augur kyton
+aurochs herd animal
 aurumvorax
+avatarana rakshasa
 avernus razorback
+avoral agathion
+awakened agent gillman
 axe beak
 axiomite
 ayandamahla, the crimson lotus
@@ -141,9 +251,11 @@ azi, sruvara
 azi, zahhak
 azlanti chariot beetle
 azruverda
+azuretzi protean
 baba yagas rider, black rider
 baba yagas rider, red rider
 baba yagas rider, white rider
+babau demon
 baboon
 badger
 badger, dire badger
@@ -151,25 +263,35 @@ bagman
 bakekujira
 baku
 baku dreamweaver
+balisse angel
+balor demon
 balravnus, lord of the deep pools
+baluchitherium megafauna
 bandersnatch
 banshee
+baphomet demon lord
+barbed devil
 baregara
 barghest
 barghest, greater barghest
 barometz
 barrow hound
 basidirond
+basileus herald
 basilisk
+basilosaurus megafauna
+bat familiar
+bat swarm
 bat, bat swarm
 bat, dire bat
 bat, mobat
 bat, skaveling
 bat, sootwing bat
 baykok
-bear, dire bear (cave bear)
+bear, dire bear
 bear, grizzly bear
 bear, polar bear
+bearded devil
 beatific one
 bebilith
 bee-man of bellis
@@ -189,44 +311,69 @@ beheaded, giant beheaded
 beheaded, medusa head
 beheaded, severed head
 beheaded, skull swarm
+behemoth golem
+behemoth hippopotamus
 behemoth, ravener
 behemoth, tempest behemoth
 behemoth, thalassic behemoth
 behemoth, thunder behemoth
 behir
+belier devil
 belker
 belostomatid
-benaioh, benaioh (clay vessel)
-benaioh, benaioh (ooze form)
+benaioh
 berbalang
 bezilak, the silken fang
+bezravnis kaiju
 bhole
 bhuta
 biloko
 birelu
+bishop agathion
+bison herd animal
 black jinni
 black magga
 black pudding
+black rider baba yagas rider
+black scorpion
+black spot urchin
 blackwisp egret
+blackwood satyr
 blast shadow
-blighted fey (satyr)
+blighted fey
 blightspawn of ghlaunder
 blindheim
 blink dog
 blodeuwedd
+blood golem
+blood hag
 blood queen
 bloodbrush
 bloodhaze mosquito swarm
 bloodless vessel
+blue-ringed octopus familiar
+blue whale cetacean
+bluetip eurypterid
 boar
 boar, bristle boar
-boar, dire boar (daeodon)
+boar, dire boar
 bodak
 bodythief
 bodythief, pod-spawned guard captain
 bog strider
 bogeyman
 boggard
+boggard abyssal warrior
+boggard brute
+boggard champion
+boggard farcroaker
+boggard hunter
+boggard priest-king
+boggard prophet
+boggard savage
+boggard scarred one
+boggard stalker
+boggard swampseer
 boggard, boggard abyssal warrior
 boggard, boggard brute
 boggard, boggard champion
@@ -242,21 +389,50 @@ boggart
 bogwid
 bogwiggle
 boilborn
+bokrug great old one
+bone devil
+bone golem
+bone idol
 bone priest
 bonestorm
+boreal annis hag boreal creature
 boreal creature, boreal annis hag
 boreal creature, boreal manticore
 boreal creature, boreal wolf
+boreal manticore boreal creature
+boreal wolf boreal creature
 boruta
+botfly swarm
 botfly, botfly swarm
 botfly, giant botfly
+bottled armada ship in a bottle
+brachiosaurus
+brachiosaurus dinosaur
 brain ooze
+bralani azata
 brambleblight
+brass golem
 breathless orchid
 brethedan
+brijidine azata
+brimorak demon
+bristle boar
+broken soul lillend
 broken soul, broken soul lillend
+bronze sentinel thassilonian sentinel
 brownie
+brush thylacine
 bugbear
+bugbear ambusher
+bugbear bloodmage
+bugbear cultist
+bugbear echohusk
+bugbear flesh glutton
+bugbear gnasher
+bugbear lurker
+bugbear shadow sneak
+bugbear stalker
+bugbear tyrant
 bugbear, bugbear ambusher
 bugbear, bugbear bloodmage
 bugbear, bugbear cultist
@@ -269,45 +445,69 @@ bugbear, bugbear tyrant
 buggane
 bulabar
 bulette
+bull of zagresh war beast of belkzen
+bull shark
 bunyip
 buraq
 burleev
 burning child
+bythos aeon
+cabal devil
+cacodaemon
+cairn linnorm
 calathgar
 caliban
 caligraphy wyrm
 calikang
 calpina
+cambion demon
+camel herd animal
 camulatz
 candlestone courtier
+cannon golem
 canopy creeper
+cantor kyton
 capacitor ooze
 capramace
 captain ignisco
 carbuncle
 carnivorous blob
 carnivorous crystal
+carrion golem
 carrionstorm
 caryatid column
+cassisian angel
+cat familiar
+cat lord animal lord
 cat sith
 cat, cheetah
 cat, leopard
 catfolk
 catoblepas
+catrina psychopomp
+cauchemar nightmare
 caulborn
+caulborn thoughtkeeper
 caulborn, caulborn thoughtkeeper
 caulborn, chrestomath
 caustic stalker
 cave fisher
+cave giant
+cave scorpion
 cayhound
 caypup
 cecaelia
 centaur
+centaur charger
+centaur forager
+centaur greenspeaker
+centaur outcast
 centaur, centaur charger
 centaur, centaur forager
 centaur, centaur greenspeaker
 centaur, centaur outcast
 centianima
+centipede swarm
 centipede, centipede swarm
 centipede, giant centipede
 centipede, giant whiptail centipede
@@ -318,12 +518,18 @@ cerberi
 cerberus worm
 cerebric cyst
 cerebric fungus
+cernunnos empyreal lord
 ceru
+cervapral agathion
+cervinal agathion
 cervine protector
+cetaceal agathion
 cetacean, blue whale
 cetacean, crimson whale
 cetacean, narwhal
+ceustodaemon
 chained spirit
+chalicotherium megafauna
 chalkost
 changeling
 chaos beast
@@ -336,20 +542,45 @@ charda
 charnel colossus
 charybdis
 chatterer swarm
+cheetah cat
+chelish hell-bred dog
+chemnosit spawn of rovagug
 chemosit
+chernobue qlippoth
 chickcharney
+chicken familiar
 chimara, legendary chimera
 chimera
+chimney troll
 choker
+choleric ooze swarm alchemical ooze swarm
 chon chon
+chon chon swarm
 chon chon, chon chon swarm
+choral angel
+chortov devil
+chosen of lamashtu gnoll
 choxani
+chrestomath caulborn
 chupacabra
 chuul
 chyzaedu
 cinder wolf
 clawbat
+clay golem
+cliff giant
 cloaker
+clockwork dragon
+clockwork familiar
+clockwork golem
+clockwork goliath
+clockwork leviathan
+clockwork mage
+clockwork servant
+clockwork snail
+clockwork soldier
+clockwork spy
+clockwork steed
 clockwork, clockwork dragon
 clockwork, clockwork familiar
 clockwork, clockwork goliath
@@ -362,19 +593,32 @@ clockwork, clockwork spy
 clockwork, clockwork steed
 clockwork, mechanical efreeti
 clockwork, toy golem
+cloud giant
+cloud giant oligarch orania
 cockatrice
+cockroach swarm
 cockroach, cockroach swarm
 cockroach, flesh-eating cockroach swarm
 cockroach, giant cockroach
 cockroach, monstrous cockroach
+codex archon
 coeurl
+coffin guard vampire servant
 cold rider
+collector robot
 colour out of space
+coloxus demon
 combusted
+common eurypterid
 comozant wyrd
+compsognathus
+compsognathus dinosaur
+constrictor snake
 contemplative
 contemplative, enlightened contemplative
+contract devil
 coral capuchin
+coral golem
 cordulegaster
 cordulegaster, elder cordulegaster
 corpse lotus
@@ -383,14 +627,20 @@ couatl
 couatl, lord sun-warrior
 couatl, xiuh couatl
 courage heart
+coven ooze hag eye ooze
+coven ooze hag i ooze
+crab swarm
 crab, crab swarm
 crab, giant crab
 crab, shark-eating crab
 crab, shipwrecker crab
+crag linnorm
 crag spider
 crawling hand
 crawling hand, giant crawling hand
 crepitus
+crimson whale cetacean
+criosphinx
 croaker
 crocodile
 crocodile, dire crocodile
@@ -400,10 +650,19 @@ crocodilians, marine crocodile
 crocodilians, saltwater crocodile
 crone queen
 cruciarus
+crucidaemon
 crypt thing
 crysmal
+cthulhu great old one
+curse devil
 cutlass spider
 cyclops
+cyclops grand-eye
+cyclops grand-i
+cyclops lorekeeper
+cyclops manhunter
+cyclops smasher
+cyclops tyrant mardahamman
 cyclops, cyclops grand-eye
 cyclops, cyclops lorekeeper
 cyclops, cyclops manhunter
@@ -411,6 +670,8 @@ cyclops, cyclops smasher
 cyclops, great cyclops
 cyclops, oracular cyclops
 cyclops, savage great cyclops
+cynosphinx
+cythnigot qlippoth
 cytillesh zombie
 cytillipede
 d’ziriak
@@ -439,9 +700,16 @@ daemon, temerdaemon
 daemon, thanadaemon
 daemon, venedaemon
 daemon, vulnudaemon
+dagon demon lord
 dahzagan
 dancing hut of baba yaga
+dandasuka rakshasa
 danse macabre
+dapsara angel
+dark caller dark folk
+dark creeper dark folk
+dark dancer dark folk
+dark empath dark folk
 dark folk, dark caller
 dark folk, dark creeper
 dark folk, dark dancer
@@ -449,23 +717,37 @@ dark folk, dark empath
 dark folk, dark slayer
 dark folk, dark stalker
 dark ice brownie
+dark naga
+dark slayer dark folk
+dark spitter beetle
+dark stalker dark folk
 dark young of shub-niggurath
 darklands sentinel
 darkmantle
 daughter of urgathoa
 dawn piper
 deadfall dweller
+deadfall scorpion
+deadfall tracker charau-ka
+deadly mantis
 death dog
 death worm
+death worm leviathan
 death worm, death worm leviathan
+death’s head jellyfish
 deathtrap ooze
 deathweb
 decapus
 deep crow
 deep sea serpent
 deeplit
+deinonychus
+deinonychus dinosaur
+deinosuchus crocodilians
+deinotherium megafauna
 delgeth
 delver
+demilich
 demodand, shaggy demodand
 demodand, slimy demodand
 demodand, stringy demodand
@@ -521,61 +803,77 @@ demon, vilsteth
 demon, vrock
 demon, vrolikai
 demon, yaenit
+demonic deadfall scorpion demonic vermin
+demonic giant spider demonic vermin
 demonic vermin, demonic deadfall scorpion
 demonic vermin, demonic giant spider
 denizen of leng
+derakni demon
+derghodaemon
 derhii
 derro
+derro bodysnatcher
+derro brainwasher
+derro magister
 derro, derro bodysnatcher
 derro, derro brainwasher
 derro, derro magister
 derro, urban stalker
 derro, white-eyed torturer
+desert drake
+desert giant
 desert vermin, giant assassin bug
 desert vermin, giant ground wasp
 desert vermin, giant walking stick
+deskari demon lord
 destrachan
-devil, accomplice devil (hesperian)
-devil, accuser devil (zebub)
+devil, accomplice devil
+devil, accuser devil
 devil, advodaza
-devil, apostate devil (deimauigga)
-devil, barbed devil (hamatula)
-devil, bearded devil (barbazu)
-devil, belier devil (bdellavritra)
-devil, bone devil (osyluth)
-devil, cabal devil (uniila)
+devil, apostate devil
+devil, barbed devil
+devil, bearded devil
+devil, belier devil
+devil, bone devil
+devil, cabal devil
 devil, chortov
-devil, contract devil (phistophilus)
-devil, curse devil (phiam)
-devil, drowning devil (sarglagon)
+devil, contract devil
+devil, curse devil
+devil, drowning devil
 devil, erinyes
-devil, gambling devil (magadaz)
-devil, handmaiden devil (gylou)
-devil, heresy devil (ayngauhaul)
-devil, horned devil (cornugon)
-devil, host devil, greater (magaav)
-devil, host devil, lesser (gaav)
-devil, ice devil (gelugon)
-devil, immolation devil (puragaus)
+devil, gambling devil
+devil, handmaiden devil
+devil, heresy devil
+devil, horned devil
+devil, host devil, greater
+devil, host devil, lesser
+devil, ice devil
+devil, immolation devil
 devil, imp
 devil, lemure
 devil, mnemor
-devil, nemesis devil (advodaza)
+devil, nemesis devil
 devil, nupperibo
 devil, pit fiend
-devil, possession devil, greater (gidim)
-devil, possession devil, lesser (gidim)
-devil, rust devil (ferrugon)
+devil, possession devil, greater
+devil, rust devil
 devil, salikotal
-devil, sire devil (patraavex)
-devil, tinder devil (ukobach)
-devil, warmonger devil (levaloch)
+devil, sire devil
+devil, tinder devil
+devil, warmonger devil
 devilbound creature, devilbound sorcerer
+devilbound sorcerer devilbound creature
 devilfish
+devotee of the ravener king charau-ka
 devourer
 dhabba
 dhampir
+dhirgiska hydra
 dimensional shambler
+dimetrodon
+dimetrodon dinosaur
+dimorphodon
+dimorphodon dinosaur
 dinosaur, allosaurus
 dinosaur, ankylosaurus
 dinosaur, brachiosaurus
@@ -596,7 +894,24 @@ dinosaur, triceratops
 dinosaur, tylosaurus
 dinosaur, tyrannosaurus
 dinosaur, velociraptor
+diplodocus
+diplodocus dinosaur
+dire ape
+dire badger
+dire bat
+dire bear
+dire boar
 dire corby
+dire crocodile
+dire hyena
+dire lion
+dire rat
+dire shark
+dire tiger
+dire weasel
+dire wolf
+dire wolverine
+director robot
 disenchanter
 div, aghash
 div, akvan
@@ -605,95 +920,105 @@ div, ghawwas
 div, pairaka
 div, sepid
 div, shira
+divine chieftain girtablilu
+divine guardian hydra
 divine guardian, divine guardian hydra
+djinni genie
+dodo familiar
 dog
 dog, riding dog
 doll, soulbound
 dolphin
 dolphin, orca
 dolphin, popoto
+domovoi house spirit
+donkey rat familiar
 doppelganger
+doru div
 dorvae
+dosojin kami
 dossenus
-dragon (black), adult black dragon
-dragon (black), ancient black dragon
-dragon (black), young black dragon
-dragon (blue), adult blue dragon
-dragon (blue), ancient blue dragon
-dragon (blue), young blue dragon
-dragon (brass), adult brass dragon
-dragon (brass), ancient brass dragon
-dragon (brass), young brass dragon
-dragon (bronze), adult bronze dragon
-dragon (bronze), ancient bronze dragon
-dragon (bronze), young bronze dragon
-dragon (copper), adult copper dragon
-dragon (copper), ancient copper dragon
-dragon (copper), young copper dragon
-dragon (gold), adult gold dragon
-dragon (gold), ancient gold dragon
-dragon (gold), young gold dragon
-dragon (green), adult green dragon
-dragon (green), ancient green dragon
-dragon (green), young green dragon
-dragon (imperial, forest), adult forest dragon
-dragon (imperial, forest), ancient forest dragon
-dragon (imperial, forest), young forest dragon
-dragon (imperial, sea), adult sea dragon
-dragon (imperial, sea), ancient sea dragon
-dragon (imperial, sea), young sea dragon
-dragon (imperial, sky), adult sky dragon
-dragon (imperial, sky), ancient sky dragon
-dragon (imperial, sky), young sky dragon
-dragon (imperial, sovereign), adult sovereign dragon
-dragon (imperial, sovereign), ancient sovereign dragon
-dragon (imperial, sovereign), young sovereign dragon
-dragon (imperial, underworld), adult underworld dragon
-dragon (imperial, underworld), ancient underworld dragon
-dragon (imperial, underworld), young underworld dragon
-dragon (other), faerie dragon
-dragon (other), prism dragon
-dragon (other), spine dragon
-dragon (other), tidepool dragon
-dragon (outer, lunar), adult lunar dragon
-dragon (outer, lunar), ancient lunar dragon
-dragon (outer, lunar), young lunar dragon
-dragon (outer, solar), adult solar dragon
-dragon (outer, solar), ancient solar dragon
-dragon (outer, solar), young solar dragon
-dragon (outer, time), adult time dragon
-dragon (outer, time), ancient time dragon
-dragon (outer, time), young time dragon
-dragon (outer, void), adult void dragon
-dragon (outer, void), ancient void dragon
-dragon (outer, void), young void dragon
-dragon (outer, vortex), adult vortex dragon
-dragon (outer, vortex), ancient vortex dragon
-dragon (outer, vortex), young vortex dragon
-dragon (primal, brine), adult brine dragon
-dragon (primal, brine), ancient brine dragon
-dragon (primal, brine), young brine dragon
-dragon (primal, cloud), adult cloud dragon
-dragon (primal, cloud), ancient cloud dragon
-dragon (primal, cloud), young cloud dragon
-dragon (primal, crystal), adult crystal dragon
-dragon (primal, crystal), ancient crystal dragon
-dragon (primal, crystal), young crystal dragon
-dragon (primal, magma), adult magma dragon
-dragon (primal, magma), ancient magma dragon
-dragon (primal, magma), young magma dragon
-dragon (primal, umbral), adult umbral dragon
-dragon (primal, umbral), ancient umbral dragon
-dragon (primal, umbral), young umbral dragon
-dragon (red), adult red dragon
-dragon (red), ancient red dragon
-dragon (red), young red dragon
-dragon (silver), adult silver dragon
-dragon (silver), ancient silver dragon
-dragon (silver), young silver dragon
-dragon (white), adult white dragon
-dragon (white), ancient white dragon
-dragon (white), young white dragon
+dottari troop troops
+draconal agathion
+dragon , adult black dragon
+dragon , adult blue dragon
+dragon , adult brass dragon
+dragon , adult brine dragon
+dragon , adult bronze dragon
+dragon , adult cloud dragon
+dragon , adult copper dragon
+dragon , adult crystal dragon
+dragon , adult forest dragon
+dragon , adult gold dragon
+dragon , adult green dragon
+dragon , adult lunar dragon
+dragon , adult magma dragon
+dragon , adult red dragon
+dragon , adult sea dragon
+dragon , adult silver dragon
+dragon , adult sky dragon
+dragon , adult solar dragon
+dragon , adult sovereign dragon
+dragon , adult time dragon
+dragon , adult umbral dragon
+dragon , adult underworld dragon
+dragon , adult void dragon
+dragon , adult vortex dragon
+dragon , adult white dragon
+dragon , ancient black dragon
+dragon , ancient blue dragon
+dragon , ancient brass dragon
+dragon , ancient brine dragon
+dragon , ancient bronze dragon
+dragon , ancient cloud dragon
+dragon , ancient copper dragon
+dragon , ancient crystal dragon
+dragon , ancient forest dragon
+dragon , ancient gold dragon
+dragon , ancient green dragon
+dragon , ancient lunar dragon
+dragon , ancient magma dragon
+dragon , ancient red dragon
+dragon , ancient sea dragon
+dragon , ancient silver dragon
+dragon , ancient sky dragon
+dragon , ancient solar dragon
+dragon , ancient sovereign dragon
+dragon , ancient time dragon
+dragon , ancient umbral dragon
+dragon , ancient underworld dragon
+dragon , ancient void dragon
+dragon , ancient vortex dragon
+dragon , ancient white dragon
+dragon , faerie dragon
+dragon , prism dragon
+dragon , spine dragon
+dragon , tidepool dragon
+dragon , young black dragon
+dragon , young blue dragon
+dragon , young brass dragon
+dragon , young brine dragon
+dragon , young bronze dragon
+dragon , young cloud dragon
+dragon , young copper dragon
+dragon , young crystal dragon
+dragon , young forest dragon
+dragon , young gold dragon
+dragon , young green dragon
+dragon , young lunar dragon
+dragon , young magma dragon
+dragon , young red dragon
+dragon , young sea dragon
+dragon , young silver dragon
+dragon , young sky dragon
+dragon , young solar dragon
+dragon , young sovereign dragon
+dragon , young time dragon
+dragon , young umbral dragon
+dragon , young underworld dragon
+dragon , young void dragon
+dragon , young vortex dragon
+dragon , young white dragon
 dragon horse
 dragon turtle
 dragonkin
@@ -710,13 +1035,30 @@ drake, sea drake
 drake, shadow drake
 drake, spire drake
 draugr
+draugr captain undead pirate
+draugr pirate undead pirate
 dread lord
+dream naga
 dream spider
 dreamspawn creature, dreamspawn hungry fog
+dreamspawn hungry fog dreamspawn creature
+dreamthief hag
 drekavac
+dretch demon
+drexin gremlin
+drider fleshwarp
 drocha swarm
 drochtac
 drow
+drow demonic champion
+drow house captain
+drow house guard
+drow master scout
+drow matron
+drow noble
+drow poisoner
+drow priest
+drow scout
 drow, drow demonic champion
 drow, drow house captain
 drow, drow house guard
@@ -726,8 +1068,20 @@ drow, drow noble
 drow, drow poisoner
 drow, drow priest
 drow, drow scout
+drowning devil
 dryad
 duergar
+duergar anvil
+duergar bombardier
+duergar captain
+duergar hammer
+duergar high priest
+duergar lieutenant
+duergar sergeant
+duergar sharpshooter
+duergar slaver
+duergar taskmaster
+duergar tyrant
 duergar, duergar anvil
 duergar, duergar bombardier
 duergar, duergar captain
@@ -740,92 +1094,133 @@ duergar, duergar slaver
 duergar, duergar taskmaster
 duergar, duergar tyrant
 dullahan
+dunagh kami
+dune strider girtablilu
+dunkleosteus fish
 duppy
 dust digger
+dvorovoi house spirit
+dwarf caiman familiar
 dweomercat
+dweomercat cub
 dweomercat, dweomercat cub
 dwiergeth
 dybbuk
 eagle
 eagle, giant eagle
 eaisge
+earth ossumental
+earth yai oni
 ebon acolytus
 echohusk, bugbear echohusk
 ecorche
 ectoplasmic creature, ectoplasmic human
+ectoplasmic human ectoplasmic creature
 edimmu
 eel, electric eel
 eel, giant moray eel
 eel, sand
+efreeti genie
 egophage
 eidolon, unfettered
 einherji
 ekekeh
+elasmosaurus
+elasmosaurus dinosaur
+elder air elemental
+elder cordulegaster
+elder earth elemental
+elder fire elemental
+elder ice elemental
+elder lightning elemental
+elder magma elemental
+elder mud elemental
+elder nirento
+elder sphinx
 elder thing
-elemental (air), elder air elemental
-elemental (air), greater air elemental
-elemental (air), huge air elemental
-elemental (air), large air elemental
-elemental (air), medium air elemental
-elemental (air), small air elemental
-elemental (earth), elder earth elemental
-elemental (earth), greater earth elemental
-elemental (earth), huge earth elemental
-elemental (earth), large earth elemental
-elemental (earth), medium earth elemental
-elemental (earth), small earth elemental
-elemental (fire), elder fire elemental
-elemental (fire), greater fire elemental
-elemental (fire), huge fire elemental
-elemental (fire), large fire elemental
-elemental (fire), medium fire elemental
-elemental (fire), small fire elemental
-elemental (ice), elder ice elemental
-elemental (ice), greater ice elemental
-elemental (ice), huge ice elemental
-elemental (ice), large ice elemental
-elemental (ice), medium ice elemental
-elemental (ice), small ice elemental
-elemental (lightning), elder lightning elemental
-elemental (lightning), greater lightning elemental
-elemental (lightning), huge lightning elemental
-elemental (lightning), large lightning elemental
-elemental (lightning), medium lightning elemental
-elemental (lightning), small lightning elemental
-elemental (magma), elder magma elemental
-elemental (magma), greater magma elemental
-elemental (magma), huge magma elemental
-elemental (magma), large magma elemental
-elemental (magma), medium magma elemental
-elemental (magma), small magma elemental
-elemental (mud), elder mud elemental
-elemental (mud), greater mud elemental
-elemental (mud), huge mud elemental
-elemental (mud), large mud elemental
-elemental (mud), medium mud elemental
-elemental (mud), small mud elemental
-elemental (water), elder water elemental
-elemental (water), greater water elemental
-elemental (water), huge water elemental
-elemental (water), large water elemental
-elemental (water), medium water elemental
-elemental (water), small water elemental
+elder water elemental
+electric eel
+elemental , elder air elemental
+elemental , elder earth elemental
+elemental , elder fire elemental
+elemental , elder ice elemental
+elemental , elder lightning elemental
+elemental , elder magma elemental
+elemental , elder mud elemental
+elemental , elder water elemental
+elemental , greater air elemental
+elemental , greater earth elemental
+elemental , greater fire elemental
+elemental , greater ice elemental
+elemental , greater lightning elemental
+elemental , greater magma elemental
+elemental , greater mud elemental
+elemental , greater water elemental
+elemental , huge air elemental
+elemental , huge earth elemental
+elemental , huge fire elemental
+elemental , huge ice elemental
+elemental , huge lightning elemental
+elemental , huge magma elemental
+elemental , huge mud elemental
+elemental , huge water elemental
+elemental , large air elemental
+elemental , large earth elemental
+elemental , large fire elemental
+elemental , large ice elemental
+elemental , large lightning elemental
+elemental , large magma elemental
+elemental , large mud elemental
+elemental , large water elemental
+elemental , medium air elemental
+elemental , medium earth elemental
+elemental , medium fire elemental
+elemental , medium ice elemental
+elemental , medium lightning elemental
+elemental , medium magma elemental
+elemental , medium mud elemental
+elemental , medium water elemental
+elemental , small air elemental
+elemental , small earth elemental
+elemental , small fire elemental
+elemental , small ice elemental
+elemental , small lightning elemental
+elemental , small magma elemental
+elemental , small mud elemental
+elemental , small water elemental
 elephant
 elephant, mastodon
+elk herd animal
+elysian titan
 embalming bear
+ember weaver psychopomp
+embolotherium megafauna
 emerald automaton
 emkrah
+emperor cobra snake
 emperor of scales
+emperor walrus
 empyreal lord, cernunnos
 empyreal lord, korada
 empyreal lord, vildeis
+ends voice herald
+enlightened contemplative
+enlightened vampire
 ephemeral echo
+ephialtes kyton
+equine bone golem
 ercinee
+erelim angel
+eremite kyton
+erinat gremlin
+erinyes devil
 erlking
+erodaemon
 erotundee, keeper of the risen light
 escorite
-estuarine worm, estuarine worm (ahket form)
-estuarine worm, estuarine worm (shemu form)
+esobok psychopomp
+estuarine worm
+estuarine worm, estuarine worm
 ettercap
 ettin
 eudranis
@@ -834,13 +1229,21 @@ eurypterid, common eurypterid
 eurypterid, ochre eurypterid
 eurypterid, spiny eurypterid
 eurypterid, spitting eurypterid
+evaluator robot
+executioners hood lurking ray
+exoskeleton giant cockroach
+exoskeleton giant stag beetle
+exoskeleton titan centipede
 exoskeleton, exoskeleton giant cockroach
 exoskeleton, exoskeleton giant stag beetle
 exoskeleton, exoskeleton titan centipede
+eye of lamashtu gnoll
+eygreas medusa
 ez-azael
 faceless stalker
 faceless whale
 fachen
+faerie dragon
 fafnheir
 fallen
 familiar, archaeopteryx
@@ -901,23 +1304,40 @@ fell flotsam
 fellsig
 feranth
 festering spirit
+festering ulunat spawn of rovagug
 festrog
 fetchling
 fext
 fey animal
 fey creature, fey giant toad
-fiend-bred animal, chelish hell-bred dog
-fiend-bred animal, quillcat
-fiend-bred animal, stygian hot-blooded horse
+fey giant toad fey creature
+fiend-infused golem
+fire beetle
+fire giant
+fire giant doombringer
+fire giant glaive
+fire giant king
+fire giant king orynox marchelin
+fire giant lieutenant
+fire giant magmablade
+fire giant queen
+fire giant strongarm
+fire ossumental
+fire yai oni
 first blade
 fish, dunkleosteus
 fish, giant blowfish
 fish, swordfish
 fish, tiger fish
 fish, varisian hagfish
+fjord linnorm
 flail snail
+flame drake
+flaming skull beheaded
 flea, giant flea
 flea, mammoth flea
+flesh-eating cockroach swarm
+flesh golem
 fleshdreg
 fleshdreg swarm
 fleshwarp, drider
@@ -926,48 +1346,92 @@ fleshwarp, grothlut
 fleshwarp, halsora
 fleshwarp, irnakurse
 fleshwarp, oronci
+flind gnoll
+flood troll
+floodslain arsinoitherium floodslain creature
 floodslain creature, floodslain arsinoitherium
 floodslain creature, floodslain orc
+floodslain orc floodslain creature
 flumph
 flying polyp
+flying squirrel familiar
 foo creature, foo dog
 foo creature, foo lion
+foo dog foo creature
+foo lion foo creature
+forest drake
 forge spurned
-forgefiend (scanderig)
+forgefiend
 forlarren
+formian myrmarch
+formian queen
+formian taskmaster
+formian warrior
+formian worker
 formian, formian myrmarch
 formian, formian queen
 formian, formian taskmaster
 formian, formian warrior
 formian, formian worker
+forsaken arbalester forsaken legion
+forsaken defender forsaken legion
+forsaken foot soldier forsaken legion
 forsaken legion, forsaken arbalester
 forsaken legion, forsaken defender
 forsaken legion, forsaken foot soldier
+forsaken lich
 fossegrim
+fossil golem
+four-armed gargoyle
+four-armed mudra skeleton
+four-armed mutant sahuagin mutant
+fox familiar
 freezing flow
+freshwater merrow
 frightful haunter
 frog, giant frog
 frog, poison frog
 froghemoth
+frost drake
 frost fir
+frost giant
+frost giant battle priest
+frost giant elite scout
+frost giant houndmaster
+frost giant hunter
+frost giant ice mage
+frost giant jarl
+frost giant jarl valonesse hergrut
+frost giant raider
 frost worm
 frostfallen creature, frostfallen mammoth
+frostfallen mammoth frostfallen creature
 frosty chiseler
+fuath gremlin
+fukujin kami
 fungal crawler
 fungal creature, fungal nymph
+fungal nymph fungal creature
+fungus leshy
 fungus queen
 fyndylsnitch the shadowking
 gaki
 gale spirit
 gallowdead
+gallu demon
 galundari, the scourge of heaven
 galvo
+gambling devil
 gammenore
+gandareva azi
 gar
 gar, giant gar
 garden ooze
+gare linnorm
 gargiya
 gargoyle
+gargoyle abductor
+gargoyle guardian
 gargoyle, four-armed gargoyle
 gargoyle, gargoyle abductor
 gargoyle, gargoyle guardian
@@ -977,6 +1441,7 @@ garuda
 gashadokuro
 gathlain
 gearghost
+gearsman robot
 geist
 gelatinous cube
 genie, djinni
@@ -984,17 +1449,28 @@ genie, efreeti
 genie, janni
 genie, marid
 genie, shaitan
+genthodaemon
 geomaw
 gerbie
 get of iblis
+ghaele azata
 ghalshoaton
+ghawwas div
 ghelarn
 gholdako
+ghonhatine fleshwarp
 ghoran
 ghorazagh
 ghost
+ghost captain undead pirate
+ghost scorpion
 ghoul
+ghoul commander
+ghoul creeper
 ghoul hound
+ghoul huntsmaster
+ghoul monarch
+ghoul stalker
 ghoul, ancient gravedigger
 ghoul, ghoul commander
 ghoul, ghoul creeper
@@ -1004,31 +1480,91 @@ ghoul, ghoul stalker
 ghoul, masked murderer
 ghristah
 ghul
-giant (fire), fire giant
-giant (fire), fire giant doombringer
-giant (fire), fire giant glaive
-giant (fire), fire giant king
-giant (fire), fire giant lieutenant
-giant (fire), fire giant magmablade
-giant (fire), fire giant queen
-giant (fire), fire giant strongarm
-giant (frost), frost giant
-giant (frost), frost giant battle priest
-giant (frost), frost giant elite scout
-giant (frost), frost giant houndmaster
-giant (frost), frost giant hunter
-giant (frost), frost giant ice mage
-giant (frost), frost giant jarl
-giant (frost), frost giant raider
+giant , fire giant
+giant , fire giant doombringer
+giant , fire giant glaive
+giant , fire giant king
+giant , fire giant lieutenant
+giant , fire giant magmablade
+giant , fire giant queen
+giant , fire giant strongarm
+giant , frost giant
+giant , frost giant battle priest
+giant , frost giant elite scout
+giant , frost giant houndmaster
+giant , frost giant hunter
+giant , frost giant ice mage
+giant , frost giant jarl
+giant , frost giant raider
+giant adult ant lion
+giant amoeba
+giant anaconda snake
+giant ant
+giant ant lion
+giant assassin bug desert vermin
+giant bee
+giant beheaded
+giant black widow spider
+giant blowfish
+giant botfly
+giant centipede
+giant chameleon lizard
+giant cockroach
+giant crab
+giant crab spider
+giant crawling hand
 giant dragonfly
+giant dragonfly nymph
 giant dragonfly, giant dragonfly nymph
+giant eagle
+giant emperor scorpion
+giant flea
 giant fly
 giant flytrap
+giant frilled lizard
+giant frog
+giant gar
+giant gecko lizard
+giant ground wasp desert vermin
 giant hellgrammite
+giant hook fly
+giant isopod familiar
+giant jellyfish
+giant leech
+giant locust
 giant maggot
+giant mantis
+giant moray eel
+giant mosquito
+giant octopus
+giant owl
+giant phantom armor
+giant porcupine
+giant queen bee
 giant raven
+giant rot grub
+giant scorpion
 giant sea anemone
+giant sea snake
+giant seahorse
+giant skunk
 giant slug
+giant snapping turtle
+giant spider
+giant squid
+giant stag beetle
+giant stymphalidies stymphalide
+giant tarantula spider
+giant tick
+giant toad
+giant tortoise
+giant vulture
+giant walking stick desert vermin
+giant wasp
+giant water strider
+giant weasel
+giant whiptail centipede
+giant zombie
 giant, ash giant
 giant, cave giant
 giant, cliff giant
@@ -1048,6 +1584,7 @@ giant, taiga giant
 giant, tomb giant
 giant, wood giant
 gibbering mouther
+gibrileth demon
 gigas, abaddon gigas
 gigas, hell
 gillman
@@ -1055,16 +1592,31 @@ gillman, awakened agent
 gillman, ship scavenger
 gillman, squall seer
 gillman, wet-house emissary
+giraffe herd animal
 girallon
 girtablilu
 girtablilu, divine chieftain
 girtablilu, dune strider
 girtablilu, quick striker
 girtablilu, raging sting
+glabrezu demon
+glacier toad
+glass golem
+glass urchin
 globster
 gloomwasp
 gloomwing
+glorious reclamation troops
+glutton of the green shaorhaz
 gnoll
+gnoll bouda
+gnoll bruiser
+gnoll lieutenant
+gnoll packlord
+gnoll rageborn
+gnoll ravager
+gnoll sergeant
+gnoll warden
 gnoll, chosen of lamashtu
 gnoll, eye of lamashtu
 gnoll, flind
@@ -1078,9 +1630,18 @@ gnoll, gnoll sergeant
 gnoll, gnoll warden
 gnoll, unchosen
 gnoph-keh
+goat familiar
 goblin
+goblin chief
+goblin commando
 goblin dog
+goblin firestarter
+goblin frog-talker
+goblin outrider
 goblin snake
+goblin sneak
+goblin stickylord
+goblin vulture pilot
 goblin, goblin chief
 goblin, goblin commando
 goblin, goblin firestarter
@@ -1125,20 +1686,49 @@ golem, shadow golem
 golem, stone golem
 golem, wax golem
 golem, wood golem
+goliath spider
+goliath stag beetle
+gongorinan qlippoth
 gorgon
+gorilla ape
+gorthek orc
+gorthek rider orc
 gorynych
+gourd leshy
+governess of casnoriva kaltestrua
 grand defender
 granule construct swarm
+gravedragger herald
 graveknight
 graven guardian
 gravitic globe
 gray goo
 gray ooze
 gray render
+great cyclops
+great diadem urchin
+great elder iuu herald
+great horned owl
 great old one, bokrug
 great old one, cthulhu
 great old one, hastur
 great old one, ithaqua
+great white shark
+great white whale
+greater air elemental
+greater barghest
+greater earth elemental
+greater fire elemental
+greater ice elemental
+greater lightning elemental
+greater magma elemental
+greater mud elemental
+greater shadow
+greater verduous ooze verdurous ooze
+greater water elemental
+greater witchcrow
+green hag
+greensting scorpion
 gremlin, drexin
 gremlin, erinat
 gremlin, fuath
@@ -1154,23 +1744,35 @@ grick
 griffon
 griffon, karadoon
 grig
+grim reaper
+grimple gremlin
 grimslake
 grindylow
 grioth
 grippli
+grizzled rider goblin
+grizzly bear
 grodair
 grootslang
+grothlut fleshwarp
+ground wasp swarm
 gryph
 guardian doll
+guardian naga
+guardian phantom armor
 guardian scroll
+guardian spirit imp
 guardian spirit, guardian spirit imp
 guecubu
 gug
 gunpowder ooze
 gutdragging lurcher
+gylptodon megafauna
+gynosphinx
 hadhayosh
 hag eye ooze
 hag eye ooze, coven ooze
+hag i ooze
 hag, annis hag
 hag, ash hag
 hag, blood hag
@@ -1181,16 +1783,32 @@ hag, night hag
 hag, sea hag
 hag, storm hag
 hag, winter hag
-half-celestial (unicorn)
-half-dragon (black dragon, basilisk)
-half-fiend (minotaur)
+hala demon
+half-celestial
+half-dragon
+half-fiend
+half-fiend scion urdefhan
+halsora fleshwarp
 hamadryad
+hammer archon
+hammerhead shark
+hand of the inheritor herald
+handmaiden devil
 hangman tree
+haniver gremlin
 hanshepsu
+harbinger archon
 harionago
 harpy
 harridan
+hastur great old one
 havero
+hawk familiar
+hedgehog familiar
+hegessik protean
+hekatonkheires titan
+helicoprion shark
+hell gigas
 hell hound
 hell hound, nessian warhound
 hellcat
@@ -1219,7 +1837,6 @@ herald, the old man
 herald, the prince in chains
 herald, the spirit of adoration
 herald, the stabbing beast
-herald, the stabbing beast (scorpion form)
 herald, yethazmari
 herd animal, antelope
 herd animal, aurochs
@@ -1230,19 +1847,37 @@ herd animal, giraffe
 herd animal, ram
 herd animal, river elk
 herd animal, stag
+herecite of asmodeus
 herecite, herecite of asmodeus
+heresy devil
 herne
+hetkoshu crocodile
+hezrou demon
+hieracosphinx
+hill giant
+hill giant chieftain urburg armbreaker
 hippocampus
 hippogriff
 hippopotamus
 hippopotamus, behemoth hippopotamus
 hiracapath
+hive larva swarm
 hive mind beetle swarm
+hive queen
+hive warrior
 hive, hive larva swarm
 hive, hive queen
 hive, hive warrior
 hoary muntjac
 hobgoblin
+hobgoblin battle priest
+hobgoblin battlefield zealot
+hobgoblin bombardier
+hobgoblin commander
+hobgoblin forerunner
+hobgoblin lieutenant
+hobgoblin paragon
+hobgoblin sergeant
 hobgoblin, hobgoblin battle priest
 hobgoblin, hobgoblin battlefield zealot
 hobgoblin, hobgoblin bombardier
@@ -1252,45 +1887,81 @@ hobgoblin, hobgoblin lieutenant
 hobgoblin, hobgoblin paragon
 hobgoblin, hobgoblin sergeant
 hodag
+hollow helm phantom armor
 hollow serpent
 hollow serpent, lesser hollow serpent
 homunculus
+honored of kaoling kanabo
+hook fly swarm
 hook fly, giant hook fly
 hook fly, hook fly swarm
+horned devil
 horse
 horse, pony
+host devil
+hound archon
+hound archon troop troops
 hound of tindalos
+house centipede familiar
 house spirit, domovoi
 house spirit, dvorovoi
 house spirit, ovinnik
 howler
 huecuva
+huge air elemental
+huge earth elemental
+huge fire elemental
+huge ice elemental
+huge lightning elemental
+huge magma elemental
+huge mud elemental
+huge water elemental
 huldra
+human skeleton
+human zombie
 humbaba
+hungerer lamia-kin
 hungry flesh
 hungry fog
 hungry mist
+hunter urchin
 hyakume
 hydra
 hydra, dhirgiska
+hydrodaemon
 hyena
-hyena, dire hyena (hyaenodon)
+hyena, dire hyena
 hypnalis
+i of lamashtu gnoll
+iathavos qlippoth
+ice devil
+ice golem
+ice linnorm
+ice troll
+ice yai oni
 idol, bone
 idol, jade
 idol, stone
 idol, wood
 ifrit
+iguanodon
+iguanodon dinosaur
 ijiraq
 ikelos
 iku-turso
 ilzunae, the gloom widow
+imentesh protean
+immense tortoise
+immolation devil
 immortal ichor
 immured
+imp devil
 impaler shrike
 implacable stalker
 impundulu
+incubus demon
 incutilis
+incutilis lord
 incutilis, incutilis lord
 indarugant
 indescribable swarm, pallid wriggler swarm
@@ -1303,33 +1974,60 @@ inevitable, marut
 inevitable, yarahkut
 inevitable, zelekhut
 inkanyamba
+inquisitor troop troops
 intellect devourer
+interlocutor kyton
 inverted giant
 invisible stalker
+iophanite angel
+ioun wyrd familiar
 irlgaunt
+irnakurse fleshwarp
 iron cobra
+iron golem
 iron rhinoceros
 irradiated dead
 isitoq
+itaraak champion strix
+ithaqua great old one
 ixion worm
+ja noi oni
 jabberwock
 jack-o-lantern
 jackal
 jackalwere
+jade idol
+janni genie
+jellyfish swarm
 jellyfish, death’s head jellyfish
 jellyfish, giant jellyfish
 jellyfish, jellyfish swarm
 jellyfish, sapphire jellyfish
+jiang-shi vampire
+jigsaw shark
+jinkin gremlin
 jinmenju
+jinushigami kami
 jorogumo
+jotund troll
 jubjub bird
 juggerloathe
 juggernaut
+juggernaut beetle
+juggernaut robot
+juju zombie
+jungle giant
+jungle trickster charau-ka
+junk golem
+juvenile rukh
+juvenile seps
 jyoti
 kaiju, agyra
 kaiju, bezravnis
 kaiju, mogaru
+kakapo familiar
 kakuen-taka
+kalavakus demon
 kallas devil
 kaltestrua, governess of casnoriva
 kamadan
@@ -1343,26 +2041,50 @@ kami, shikigami
 kami, suijin
 kami, toshigami
 kami, zuishin
+kaminari
 kanabo, honored of kaoling
 kangaroo
+kapoacinth hunter gargoyle
 kappa
 kapre
+karadoon griffon
 karkinoi
+karkinoi brood swarm
 karkinoi, karkinoi brood swarm
 karumzek
 kasatha
+katpaskir demon
 katroome
 kech
+keeper of the risen light erotundee
+keketar protean
 kelpie
-kelpie’s wrath
+kelpies wrath
+kere psychopomp
 khaei
 khala
 khalirai, the ivory queen
 kijimuna
+killer seahorse
+kin seeker ogrekin
+king crab familiar
 kirin
 kirrix
+kithangian demon
 kitsune
+koala familiar
 kobold
+kobold battle master
+kobold blade
+kobold bomber
+kobold chieftain
+kobold devilspeaker
+kobold guilecaster
+kobold master trapper
+kobold monster wrangler
+kobold scalecaster
+kobold sniper
+kobold yapper
 kobold, kobold battle master
 kobold, kobold blade
 kobold, kobold bomber
@@ -1374,16 +2096,25 @@ kobold, kobold monster wrangler
 kobold, kobold scalecaster
 kobold, kobold sniper
 kobold, kobold yapper
+kodama kami
 kokogiak
+kolyarut inevitable
 kongamato
 kongmato
+korada empyreal lord
 korir-kokembe
 korred
+kostchtchie demon lord
 kraken
 kraken, qwoshokk
+kreegwood stalker ogrekin
 krenshar
+kronosaurus primeval sea creature
+kuchrima lamia-kin
+kuribu angel
 kurshu the undying
 kuru
+kuwa oni
 kyrana
 kyton
 kyton, apocrisiarius
@@ -1397,6 +2128,10 @@ kyton, lampadarius
 kyton, ostiarius
 kyton, sacristan
 kyton, termagant
+labyrinth guardian minotaur
+labyrinth minotaur
+lacridaemon
+lady of stone akilep
 lamhigyn
 lamia
 lamia-kin, hungerer
@@ -1404,27 +2139,59 @@ lamia-kin, kuchrima
 lamia matriarch
 lammasu
 lampad
+lampadarius kyton
+lantern archon
+lapsudaemon
 lar
 larabay
+large air elemental
+large earth elemental
+large fire elemental
+large ice elemental
+large lightning elemental
+large magma elemental
+large mud elemental
+large spriggan
+large water elemental
+larva demon
 lashunta
+latten mechanism herald
 lava child
+lava drake
 lava lurker
+lawgiver herald
+leaf leshy
 leaf ray
+leech swarm
 leech, giant leech
 leech, leech swarm
 leechroot
+legendary chimera chimara
+legion archon
+lemming familiar
+lemure devil
 leng spider
+leonal agathion
+leopard cat
+leopard slug familiar
 leprechaun
 leshy, fungus leshy
 leshy, gourd leshy
 leshy, leaf leshy
 leshy, seaweed leshy
+lesser hollow serpent
+lesser host devil
+lesser possession devil
 leucrotta
+leukodaemon
+lhaksharut inevitable
 liavaran dreamer
 lich
 lich, demilich
 lich, forsaken lich
 lich, psychic lich
+lilitu demon
+lillend azata
 linnorm, cairn linnorm
 linnorm, crag linnorm
 linnorm, fjord linnorm
@@ -1434,20 +2201,30 @@ linnorm, taiga linnorm
 linnorm, tarn linnorm
 linnorm, tor linnorm
 lion
-lion, dire lion (spotted lion)
+lion, dire lion
 living cave painting
 living effigy
 living mirage
 living rune
-living sandstorm, living sandstorm (humanoid)
-living sandstorm, living sandstorm (sandstorm)
+living sandstorm
+living sandstorm, living sandstorm
 living topiary
 living wall
+lizard familiar
+lizard scion lizardfolk
 lizard, giant chameleon
 lizard, giant frilled lizard
 lizard, giant gecko
 lizard, monitor lizard
 lizardfolk
+lizardfolk berserker
+lizardfolk champion
+lizardfolk clutch mother
+lizardfolk rattler
+lizardfolk sorcerer
+lizardfolk stalker
+lizardfolk swamp lurker
+lizardfolk vanguard
 lizardfolk, lizard scion
 lizardfolk, lizardfolk berserker
 lizardfolk, lizardfolk champion
@@ -1459,58 +2236,85 @@ lizardfolk, lizardfolk swamp lurker
 lizardfolk, lizardfolk vanguard
 llama
 locathah
+locust swarm
+locust variant worm that walks
 locust, giant locust
 locust, locust swarm
 locust, plague locust swarm
+lord of all divs ahriman
+lord of the deep pools balravnus
+lord sun-warrior couatl
 lorelei
 lorthact
 lukwata
+lunar naga
 lunarma
+lurker above lurking ray
 lurker in light
 lurking ray, executioners hood
 lurking ray, lurker above
 lurking ray, trapper
 lusca
-lycanthrope, silverblood lycanthrope (human form)
-lycanthrope, silverblood werewolf (hybrid form)
-lycanthrope, werebat (human form)
-lycanthrope, werebat (hybrid form)
-lycanthrope, werebear (human form)
-lycanthrope, werebear (hybrid form)
-lycanthrope, wereboar (human form)
-lycanthrope, wereboar (hybrid form)
-lycanthrope, werecrocodile (human form)
-lycanthrope, werecrocodile (hybrid form)
-lycanthrope, wererat (human form)
-lycanthrope, wererat (hybrid form)
-lycanthrope, wereshark (human form)
-lycanthrope, wereshark (hybrid form)
-lycanthrope, weretiger (human form)
-lycanthrope, weretiger (hybrid form)
-lycanthrope, werewolf (human form)
-lycanthrope, werewolf (hybrid form)
+lycanthrope, silverblood werewolf
+lycanthrope, werebat
+lycanthrope, wereboar
+lycanthrope, werecrocodile
+lycanthrope, wererat
+lycanthrope, wereshark
+lycanthrope, weretiger
+lycanthrope, werewolf
+lyrakien azata
 lythirium
 maenad
 maftet
 magma ooze
 magmin
+magnetitie golem
 malbolgian cerberi
+malenti sahuagin mutant
 malsandra
 malziarax, rune giant overlord
 mamiwa
+mammoth flea
 man-eating animal, man-eating aurochs
-mana wastes mutant (gnoll)
+man-eating aurochs man-eating animal
+mana wastes mutant
 manananggal
 mandragora
 mangvhune, the temple hill slasher
 manitou
+mannequin robot
+manta ray
 manticore
 mantis, deadly mantis
 mantis, giant mantis
+marai rakshasa
 marax
+marble sentinel thassilonian sentinel
 mardahamman, cyclops tyrant
+marid genie
+marilith demon
+marine crocodile crocodilians
+marrowstone golem
+marsh giant
+marsh giant high priest oozlosh
+marut inevitable
+mask golem
+masked murderer ghoul
+mastodon elephant
+mechanical efreeti clockwork
 mederach
+medium air elemental
+medium earth elemental
+medium fire elemental
+medium ice elemental
+medium lightning elemental
+medium magma elemental
+medium mud elemental
+medium water elemental
 medusa
+medusa animus shade
+medusa head beheaded
 medusa, eygreas
 megafauna, archelon
 megafauna, arsinoitherium
@@ -1523,7 +2327,14 @@ megafauna, gylptodon
 megafauna, megalania
 megafauna, megaloceros
 megafauna, megatherium
+megalania megafauna
+megaloceros megafauna
+megapiranha swarm
+megatherium megafauna
+meladaemon
+melancholic ooze swarm alchemical ooze swarm
 melfesh monster
+memitim psychopomp
 menotherian
 mephit
 mercane
@@ -1538,45 +2349,80 @@ mihstu
 mimic
 mindslaver mold
 mindspin ram
+minor reaper
 minotaur
+minotaur marauder
 minotaur, labyrinth guardian
 minotaur, labyrinth minotaur
 minotaur, minotaur marauder
 minotaur, prophet of baphomet
 minotaur, tangle tender
 mirror man
+mist drake
 mite
+mithral golem
+mnemor devil
+mobat
 mobogo
 mockingfey
+mogaru kaiju
 mohrg
 moit of shub-niggurath, spawning canker
 mokele-mbembe
+mole familiar
+monaciello gremlin
+monadic deva angel
+mongrel cave giant mongrel giant
 mongrel giant, mongrel cave giant
 mongrelman
+monitor lizard
+monkey familiar
+monkey goblin
 monkey swarm
+monstrous cockroach
 moon-beast
+moon spider
 moonflower
 moose
 morgodea
 morlock
+morrigna psychopomp
+mosquito swarm
 mosquito, giant mosquito
 mosquito, mosquito swarm
+mote archon swarm
+mother’s maw herald
 mothers maw
 mothman
+mothman elder
 mothman, mothman elder
+mountain troll
+movanic deva angel
 moxix
 mu spore
 mudlord
+multiplying t-rex skeleton
 mummified animals, mummified baboon
 mummified animals, mummified crocodile
 mummified animals, mummified elephant
 mummified animals, mummified hippopotamus
+mummified baboon mummified animals
 mummified creature, mummified gynosphinx
+mummified crocodile mummified animals
+mummified elephant mummified animals
+mummified gynosphinx mummified creature
+mummified hippopotamus mummified animals
 mummy
 mummy lord
 munavri
+mustelidal agathion
+mutant goblin
+mutant orc
 mutant, mutant orc
+mute hag
 myceloid
+myrmidon robot
+nabasu demon
 naga, dark naga
 naga, dream naga
 naga, guardian naga
@@ -1586,11 +2432,15 @@ naga, slime naga
 naga, spirit naga
 naga, water naga
 nagaji
+nalfeshnee demon
 narrik
+narwhal cetacean
+naunet protean
 necrocraft
 necrophidius
 neh-thalggu
 nehushtan
+nemesis devil
 nemhain
 neothelid
 neothelid overlord
@@ -1598,36 +2448,73 @@ nependis
 nephilim
 nereid
 neshmaal
+nessian warhound hell hound
 ngoga
+night hag
+night monarch herald
+nightcrawler nightshade
 nightgaunt
 nightmare bats
-nightmare creature, nightmare ettercap
+nightmare ettercap
 nightmare, cauchemar
+nightprowler nightshade
 nightripper
 nightshade, nightcrawler
 nightshade, nightprowler
 nightshade, nightwalker
 nightshade, nightwave
 nightshade, nightwing
+nightwalker nightshade
+nightwave nightshade
+nightwing nightshade
 nihiloi
 ningyo
 ningyo, undead ningyo
+ninkonda angel
 nirento
 nirento, elder nirento
 nixie
+nixudaemon
+nocticula demon lord
+nogitsune oni
+noqual golem
 norn
+nosferatu vampire
+nosoi psychopomp
+nothosaur primeval sea creature
+nualidu azata
 nuckelavee
 nue
+nuglub gremlin
 nukkefeen
+nupperibo devil
 nycar
 nymph
+nymph water strider
+nyogoth qlippoth
 obambo
+obcisidaemon
+observer robot
+observer robot swarm
 occulari
+ocean giant
 oceanid
+ochre eurypterid
 ochre jelly
 octopus
 octopus, giant octopus
 ogre
+ogre boss
+ogre brute
+ogre destroyer
+ogre glutton
+ogre hunter
+ogre king
+ogre mage oni
+ogre mancatcher
+ogre priest
+ogre spider
+ogre stalker
 ogre, ogre boss
 ogre, ogre brute
 ogre, ogre destroyer
@@ -1643,9 +2530,11 @@ ogrekin, kreegwood stalker
 ogrekin, stroud apprentice
 ogrekin, thanegraves looter
 old wulunga
+olethrodaemon
 oliphaunt of jandelay
 oma
 omnipath
+omox demon
 oneirogen
 oni, atamahuta
 oni, earth yai
@@ -1661,9 +2550,20 @@ oni, water yai
 oni, wind yai
 oni, yamabushi tengu
 onwu azu
+oolioddroo demon
 oozlosh, marsh giant high priest
+oracular cyclops
 orania, cloud giant oligarch
 orc
+orc chieftain
+orc lieutenant
+orc mystic
+orc scout
+orc sergeant
+orc thug
+orc war drummer
+orc warlord
+orc witch doctor
 orc, gorthek
 orc, gorthek rider
 orc, orc chieftain
@@ -1675,35 +2575,55 @@ orc, orc thug
 orc, orc war drummer
 orc, orc warlord
 orc, orc witch doctor
+orca dolphin
 oread
+oronci fleshwarp
 orphne
 orsheval
+orvian necromancer urdefhan
 orynox marchelin, fire giant king
 osirion mummy
-ossumental, ossumental (air)
-ossumental, ossumental (earth)
-ossumental, ossumental (fire)
-ossumental, ossumental (water)
+ostiarius kyton
 ostrich
+otter familiar
 otyugh
+ourdivar protean
+ovinnik house spirit
 owb
+owl familiar
 owl, giant owl
 owl, great horned owl
 owlbear
 paakis-si
+pachycephalosaurus
+pachycephalosaurus dinosaur
+painajai demon
+pairaka div
 pale stranger
+pallid wriggler swarm indescribable swarm
 panda
 panotti
+panthereon golem
 papa chupar
+paracletus aeon
+parasaurolophus
+parasaurolophus dinosaur
 pard
+patchwork insect swarm indescribable swarm
 pavbagha
+pazuzu demon lord
+peacock familiar
 pech
 pegasus
+pelagastr protean
 peluda
 penanggalen
+penguin familiar
 peri
+personification of fury herald
 peryton
 petitioner
+petrifern familiar
 petrified maiden
 petromin
 phantom armor, giant phantom armor
@@ -1711,33 +2631,55 @@ phantom armor, guardian phantom armor
 phantom armor, hollow helm
 phantom armor, phantom lancer
 phantom fungus
+phantom lancer phantom armor
 pharaonic guardian
 phase spider
+phasmadaemon
+phlegmatic ooze swarm alchemical ooze swarm
 phoenix
 phoenix, pyralisia, the rain of embers
 phycomid
 pickled punk
+pig familiar
 pilo
 pipefox
 piranha swarm
 piranha swarm, megapiranha swarm
+piscodaemon
+pit fiend devil
 pixie
+plague locust swarm
 plagued beast, plagued steed
+plagued steed plagued beast
+planetar angel
 plasma ooze
+platypus familiar
+pleroma aeon
+pod-spawned guard captain bodythief
+poison frog
+polar bear
 polevik
 poltergeist
 poludnica
+pony horse
 pooka
 popobala
+popoto dolphin
+poppet
 poppet, poppet, small
 poppet, poppet, tiny
 porcupine
 porcupine, giant porcupine
+possession devil
 prana ghost
+preceptor archon
 primeval sea creature, kronosaurus
 primeval sea creature, nothosaur
 primeval sea creature, zeuglodon
+prism dragon
 prismatic orrery
+procyal agathion
+prophet of baphomet minotaur
 protean, azuretzi
 protean, hegessik
 protean, imentesh
@@ -1750,7 +2692,10 @@ pseudodragon
 pseudosphinx
 pseudowyvern
 psyche serpent
+psychic lich
 psychic stalker
+psychic vampire
+psychoplasmic behir psychoplasmic creature
 psychoplasmic creature, psychoplasmic behir
 psychopomp, ahmuuth
 psychopomp, catrina
@@ -1764,11 +2709,19 @@ psychopomp, shoki
 psychopomp, vanth
 psychopomp, viduus
 psychopomp, yamaraj
+ptarmigan familiar
+pteranodon
+pteranodon dinosaur
 pterosaur, quetzalcoatlus
 pterosaur, rhamphorhynchus
+pufferfish familiar
+puffin familiar
+pugwampi gremlin
 pukwudgie
 purple worm
+purrodaemon
 putrid ooze
+pyralisia phoenix
 pyrausta
 pyropiscis
 qaishan yeti
@@ -1782,14 +2735,25 @@ qlippoth, nyogoth
 qlippoth, shoggti
 qlippoth, thognorok
 qlippoth, thulgant
+quantium golem
+quasit demon
+quetzalcoatlus pterosaur
 quetzutrhul
+quick striker girtablilu
 quickling
 quickwood
+quillcat
+qwoshokk kraken
+rabbit familiar
+raccoon familiar
+raelis azata
 ragewight
+raging sting girtablilu
 rahstalshan, stone giant elder
 raiju
 rajbut ambari
 rakshasa
+rakshasa maharaja
 rakshasa, amanusya
 rakshasa, avatarana
 rakshasa, dandasuka
@@ -1797,11 +2761,24 @@ rakshasa, marai
 rakshasa, rakshasa maharaja
 rakshasa, raktavarna
 rakshasa, tataka
+raktavarna rakshasa
+ram herd animal
 rast
+rat familiar
 rat king
+rat swarm
 rat, dire rat
 rat, rat swarm
 ratfolk
+ratfolk bravo
+ratfolk caravan guard
+ratfolk chemist
+ratfolk elder
+ratfolk expedition leader
+ratfolk sage
+ratfolk tinkerer
+ratfolk troubleshooter
+ratfolk warden
 ratfolk, ratfolk bravo
 ratfolk, ratfolk caravan guard
 ratfolk, ratfolk chemist
@@ -1812,22 +2789,36 @@ ratfolk, ratfolk tinkerer
 ratfolk, ratfolk troubleshooter
 ratfolk, ratfolk warden
 ratling
+raven familiar
+ravener behemoth
 ravener, red wyrm ravener
+ravenous urchin swarm
 ray, manta ray
 ray, stingray
 reaper, grim reaper
 reaper, minor reaper
+reborn samsaran
+reclamation robot
 red reaver
+red rider baba yagas rider
+red wyrm ravener
 redcap
 reefclaw
 remacera
 remorhaz
 retriever
 revenant
+rhamphorhynchus pterosaur
 rhinoceros
 rhinoceros, woolly rhinoceros
 rhu-chalik
+riding dog
+rift drake
 riftcreeper
+river drake
+river elk herd animal
+river giant
+robot golem
 robot, annihilator robot
 robot, arachnid robot
 robot, collector robot
@@ -1846,25 +2837,44 @@ robot, thought harvester robot
 robot, torturer robot
 robot, warden robot
 roc
+rock troll
 rokurokubi
 roper
 rorkoun
 roseblood sprite
+rot grub swarm
 rot grub, giant rot grub
 rot grub, rot grub swarm
+royal naga
 rukh
 rukh, juvenile rukh
+rune giant
+rune giant overlord malziarax
 rune guardian
+runeslave hill giant
 runeslave, runeslave hill giant
 rusalka
 rust-risen
+rust devil
 rust monster
 sabosan
+sacristan kyton
 sagari
 saguaroi
 sahuagin
+sahuagin baron
+sahuagin brute
+sahuagin champion
+sahuagin deep racer
+sahuagin high priestess
+sahuagin infiltrator
+sahuagin lieutenant
 sahuagin mutant, four-armed mutant
 sahuagin mutant, malenti
+sahuagin prince
+sahuagin scout
+sahuagin shark sentry
+sahuagin underpriestess
 sahuagin, sahuagin baron
 sahuagin, sahuagin brute
 sahuagin, sahuagin champion
@@ -1877,11 +2887,18 @@ sahuagin, sahuagin scout
 sahuagin, sahuagin shark sentry
 sahuagin, sahuagin underpriestess
 salamander
+salikotal devil
+saltwater crocodile crocodilians
+saltwater merrow
 samsaran
 samsaran, reborn samsaran
+sand eel
 sandman
 sandpoint devil
 sangoi
+sangudaemon
+sanguine ooze swarm alchemical ooze swarm
+sapphire jellyfish
 sarcovalt
 sard
 sargassum fiend
@@ -1889,12 +2906,16 @@ sasquatch
 satyr
 satyr, blackwood satyr
 saumen kar
+savage great cyclops
 sawdust slough
 sayona
+scarab beetle
 scarab swarm
 scarecrow
+scarlet spider
 scarlet walker
 sceaduinar
+schir demon
 scorpion, black scorpion
 scorpion, cave scorpion
 scorpion, deadfall scorpion
@@ -1902,12 +2923,15 @@ scorpion, ghost scorpion
 scorpion, giant emperor scorpion
 scorpion, giant scorpion
 scorpion, greensting scorpion
+scrapyard robot
 scrivenite
 scyld hranni, storm giant matriarch
 scylla
 scythe glass swarm
 sea bonze
 sea cat
+sea drake
+sea hag
 sea scourge
 sea serpent
 sea snake
@@ -1920,12 +2944,23 @@ sea urchin, giant, ravenous urchin swarm
 sea urchin, giant, spear urchin
 seahorse, giant seahorse
 seahorse, killer seahorse
+seal familiar
+seaweed leshy
 seaweed siren
 selkie
 sentinel hut
+sepid div
 seps
 seps, juvenile seps
+seraptis demon
 serpentfolk
+serpentfolk bone prophet
+serpentfolk high priest
+serpentfolk hunter
+serpentfolk illusionist
+serpentfolk reclaimer
+serpentfolk spellblade
+serpentfolk spy
 serpentfolk, serpentfolk bone prophet
 serpentfolk, serpentfolk high priest
 serpentfolk, serpentfolk hunter
@@ -1937,18 +2972,30 @@ serpopard
 seru
 set guardian
 seugathi
+seugathi savant
 seugathi, seugathi savant
+severed head beheaded
+sewer troll
 sha
 shabti
+shachath demon
 shadow
 shadow creature, shadow roper
+shadow demon
+shadow drake
+shadow giant
+shadow golem
 shadow mastiff
+shadow roper shadow creature
 shadow, greater shadow
-shadowfire creature, shadowfire fire elemental (large)
+shadowfire creature, shadowfire fire elemental
+shadowfire fire elemental shadowfire creature
 shadowgarm
 shadowy lurker
 shae
+shaggy demodand
 shaghal
+shaitan genie
 shalkeshka
 shambling mound
 shamira
@@ -1956,39 +3003,61 @@ shantak
 shaorhaz, glutton of the green
 shard slag
 shark
+shark-eating crab
 shark, angustiden
 shark, bull shark
-shark, dire shark (megalodon)
+shark, dire shark
 shark, great white shark
 shark, hammerhead shark
 shark, helicoprion
 shark, jigsaw shark
 shasalqu
+shax demon lord
 shedu
 shell sentinel
+shemhazian demon
 shenzuzhou
+shield archon
+shikigami kami
 shinigami
 shining child
 shining child of thassilon
 ship in a bottle
 ship in a bottle, bottled armada
+ship scavenger gillman
 ship sentinel
 shipmind
+shipwrecker crab
+shira div
 shobhad
 shocker lizard
 shoggoth
+shoggti qlippoth
+shoki psychopomp
 shotalashu
 shredskin
 shriezyx
 shulsaga
 siabrae
+sifkesh demon lord
+sightless sea sailor urdefhan
 sikari macaque swarm
+silvanshee agathion
+silverblood werewolf
+silverblood werewolf lycanthrope
+simian sharpshooter charau-ka
 simurgh
 sin seeker
 sinspawn
+sire devil
 siren
 siyokoy
 skapraun
+skaveling bat
+skaveling rider urdefhan
+skeletal champion skeleton
+skeletal mage skeleton
+skeletal mount skeleton
 skeleton, armored ogre skeleton
 skeleton, four-armed mudra skeleton
 skeleton, human skeleton
@@ -2002,15 +3071,29 @@ skinstitch
 skittergoat
 skulk
 skull ripper
+skull swarm beheaded
 skum
 skunk
 skunk, giant skunk
 skvader
+slag giant
 slaugrak
+slicer beetle
 slime mold
+slime naga
+slimy demodand
 slithering pit
 slithering tracker
+sloth familiar
 slurk
+small air elemental
+small earth elemental
+small fire elemental
+small ice elemental
+small lightning elemental
+small magma elemental
+small mud elemental
+small water elemental
 smoke haunt
 snake swarm
 snake swarm, venomous snake swarm
@@ -2020,10 +3103,13 @@ snake, emperor cobra
 snake, giant anaconda
 snake, venomous snake
 snallygaster
+snapping turtle
 snowdrifter
+solar angel
 solifugid, albino cave solifugid
 somalcygot
 son of perdition
+sootwing bat
 sorico
 soucouyant
 soul eater
@@ -2033,11 +3119,13 @@ soulbound shell
 soulsliver
 spark nettle
 spartolos
-spawn of rovagug, chemnosit (the monarch worm)
-spawn of rovagug, festering ulunat (the unholy first)
-spawn of rovagug, volnagur (the end-singer)
-spawn of rovagug, xotani (the firebleeder)
+spawn of rovagug, chemnosit
+spawn of rovagug, festering ulunat
+spawn of rovagug, volnagur
+spawn of rovagug, xotani
 spawn of yog-sothoth
+spawning canker moit of shub-niggurath
+spear urchin
 spectre
 spellgorger
 spellscar fext
@@ -2048,6 +3136,7 @@ sphinx, elder sphinx
 sphinx, gynosphinx
 sphinx, hieracosphinx
 spider eater
+spider swarm
 spider, giant black widow
 spider, giant crab spider
 spider, giant spider
@@ -2057,117 +3146,241 @@ spider, moon spider
 spider, ogre spider
 spider, scarlet spider
 spider, spider swarm
+spine dragon
+spinosaurus
+spinosaurus dinosaur
+spiny eurypterid
+spire drake
+spirit naga
 spirit of adoration
+spirit oni
 spiroskek
-spriggan, spriggan (large size)
-spriggan, spriggan (normal size)
+spitting eurypterid
+spriggan
 spring-heeled jack
 sprite
+sprite swarm
 sprite, sprite swarm
+spyglass archon
+squall seer gillman
 squid
 squid, giant squid
+squirrel familiar
+sruvara azi
+stag archon
+stag herd animal
+stalk beetle
 star-spawn of cthulhu
+star archon
 star monarch
 steam hog
+stegosaurus
+stegosaurus dinosaur
+steward of the skein herald
+stingray
 stirge
+stone giant
+stone giant elder rahstalshan
+stone golem
+stone idol
 storm aurochs
+storm giant
+storm giant matriarch scyld hranni
+storm hag
 stormghost
 stranglereed
+stringy demodand
 strix
+strix infiltrator
+strix rokoa
+strix voyager
 strix, itaraak champion
 strix, strix infiltrator
 strix, strix rokoa
 strix, strix voyager
+stroud apprentice ogrekin
+stygian hot-blooded horse
 stygira
 stymphalide, giant stymphalidies
 stymphalide, stymphalides swarm
+stymphalides swarm
 stymphalidies
+styracosaurus
+styracosaurus dinosaur
+succubus demon
+suijin kami
 suli
 sun falcon
+sunbaked zombie
+sunlord thalachos herald
+surgeon robot
+suspiridaemon
 svartalfar
 svathurim
 svirfneblin
+swaithe demon
 swamp barracuda
 swan maiden
 swan, trumpeter swan
+swimming eye swarm indescribable swarm
+swimming i swarm indescribable swarm
+swordfish
 sylph
+synesis aeon
 syrinx
+taiga giant
+taiga giant shaman tanaq mammoth-eater
+taiga linnorm
 talmandor
 tanaq mammoth-eater, taiga giant shaman
+tangle tender minotaur
 taniniver
 tanuki
 taotieh
 targotha
+tarn linnorm
+tarrasque herald
+tarry demodand
+tataka rakshasa
 tattoo guardian
 tatzlwyrm
 tear of nuruugal
 tekenu
+temerdaemon
+tempest behemoth
 tendriculos
 tenebrous blight
 tenebrous worm
 tengu
 tenome
 tentamort
+termagant kyton
 terra-cotta soldier
 tetrolimulus
+thais herald
+thalassic behemoth
+thanadaemon
+thanatotic titan
+thanegraves looter ogrekin
 thassilonian sentinel, bronze sentinel
 thassilonian sentinel, marble sentinel
 thath-malal, the eyeless prince
 thawn
+the crimson lotus ayandamahla
+the deserts howl aridus
+the eyeless prince thath-malal
+the first blade herald
+the gloom widow ilzunae
+the grand defender herald
+the grim white stag herald
+the i less prince thath-malal
+the ivory queen khalirai
+the mantis god achaekek
+the menotherian herald
+the misbegotten prince uvaglor
 the mistress of the fen
 the moldering emperor
 the mourning one
+the old man herald
+the prince in chains herald
 the sandpoint devil
+the scourge of heaven galundari
+the silken fang bezilak
+the spirit of adoration herald
+the stabbing beast herald
 the surface caller
+the temple hill slasher mangvhune
 the would-be queen, almara kazaar
+theletos aeon
 thin man
+thognorok qlippoth
 thoqqua
 thorgothrel
+thorny vegepygmy
+thought harvester robot
+thoxel demon
 thrasfyr
 thremindyr
+thriae dancer
+thriae queen
+thriae seer
+thriae soldier
 thriae, thriae dancer
 thriae, thriae queen
 thriae, thriae seer
 thriae, thriae soldier
+thrush familiar
+thulgant qlippoth
+thunder behemoth
 thunderbird
 thylacine
 thylacine, brush thylacine
+thyrlien azata
 tiberolith
+tick swarm
 tick, giant tick
 tick, tick swarm
+tidepool dragon
 tiefling
 tiger
-tiger, dire tiger (smilodon)
+tiger fish
+tiger, dire tiger
 tikbalang
 tikoloshe
+timber wolf
+tinder devil
+tiny poppet
+titan centipede
 titan, elysian
 titan, hekatonkheires
 titan, thanatotic
 tizheruk
+toad familiar
 toad, giant toad
 toad, glacier toad
-tobongo (mwangi treant)
+tobongo
 tojanida
+tomb giant
 tongue of rebuke
 tooth fairy
 tophet
+tor linnorm
 torble
+torble swarm
 torble, torble swarm
 tortoise, giant tortoise
 tortoise, immense tortoise
+torturer robot
+toshigami kami
 totenmaske
+toy golem clockwork
 trailgaunt
+trained wolliped
+trapper lurking ray
 treant
 treerazor
 trench mist
 trench mist, trench zombie
+trench zombie trench mist
 triaxian
 triaza
 tribal totem
+triceratops
+triceratops dinosaur
+tripurasura
 triton
 troggle
+troggle raider
 troggle, troggle raider
 troglodyte
+troglodyte beast-speaker
+troglodyte champion
+troglodyte chieftain
+troglodyte priest
+troglodyte scale-rider
+troglodyte sorcerer
+troglodyte tyrant
+troglodyte warren guard
 troglodyte, troglodyte beast-speaker
 troglodyte, troglodyte champion
 troglodyte, troglodyte chieftain
@@ -2177,6 +3390,15 @@ troglodyte, troglodyte sorcerer
 troglodyte, troglodyte tyrant
 troglodyte, troglodyte warren guard
 troll
+troll acolyte
+troll berserker
+troll brute
+troll elder matron
+troll fury
+troll monarch
+troll render
+troll ripper
+troll warden
 troll, chimney troll
 troll, flood troll
 troll, ice troll
@@ -2200,7 +3422,10 @@ troops, glorious reclamation
 troops, hound archon troop
 troops, inquisitor troop
 trox
+trumpet archon
+trumpeter swan
 tsaalgrend
+tuatara familiar
 tunche
 tupilaq
 turtle
@@ -2209,24 +3434,37 @@ turtle, snapping turtle
 tuyewera
 twigjack
 tychilarius
+tylosaurus
+tylosaurus dinosaur
 typhilipede
+tyrannosaurus
+tyrannosaurus dinosaur
 tzitzimitl
+ubashki lynx
+ubashki swarm
 ubashki, ubashki lynx
 ubashki, ubashki swarm
 uchurah
 ugothokra
+uinuja azata
+ulkreth demon
 umasi
 umbral shepherd
 umdhlebi
+unchosen gnoll
+undead ningyo
 undead pirate, draugr captain
 undead pirate, draugr pirate
 undead pirate, ghost captain
 undine
 undrella
+unfettered eidolon
 unicorn
 unknown
+upasunda asura
 uraeus
 urannag
+urban stalker derro
 urburg armbreaker, hill giant chieftain
 urdefhan
 urdefhan, half-fiend scion
@@ -2238,9 +3476,13 @@ uvaglor, the misbegotten prince
 valkyrie
 valonesse hergrut, frost giant jarl
 vampire
+vampire lord
+vampire savage
+vampire seducer
 vampire servant, coffin guard
 vampire servant, weird butler
 vampire spawn
+vampire warrior
 vampire, enlightened vampire
 vampire, jiang-shi
 vampire, nosferatu
@@ -2252,63 +3494,121 @@ vampire, vampire warrior
 vampire, vetala
 vampiric mist
 vanara
+vanth psychopomp
 vargouille
+varisian hagfish
+vavakia demon
+vayuphak asura
 ved
 vegepygmy
 vegepygmy, thorny
+veiled master aboleth
+velociraptor
+velociraptor dinosaur
 vemerak
 vendenopterix
+venedaemon
+venomous snake
+venomous snake swarm
+veranallia azata
 verdurous ooze
 verdurous ooze, greater verduous ooze
+vermlek demon
 vescavor queen
 vescavor swarm
 vespergaunt
+vetala vampire
+vexgit gremlin
+viduus psychopomp
+vildeis empyreal lord
 vilkacis
+vilsteth demon
 violet fungus
+viper familiar
 viper vine
 vireseed swarm
 vishkanya
 vodyanoi
+void yai oni
 voidstick zombie
+voidworm protean
+volnagur spawn of rovagug
 voonith
 vouivre
+vrock demon
+vrolikai demon
 vrykolakas
+vulnudaemon
+vulpinal agathion
 vulture
 vulture, giant vulture
 vulture, whisperfall vulture
 vydrarch
 waldgeist
+wallaby familiar
 walrus
 walrus, emperor walrus
 war beast of belkzen, bull of zagresh
 war beast of belkzen, warcat of rull
+warcat of rull war beast of belkzen
+warden robot
+warmonger devil
 warmonger wasp
 warped one
 warsworn
+wasp swarm
 wasp, giant wasp
 wasp, ground wasp swarm
 wasp, wasp swarm
+water naga
 water orm
+water ossumental
 water strider swarm
 water strider, giant water strider
 water strider, nymph water strider
 water wraith
+water yai oni
+wax golem
 waxwork creature
 wayang
+weasel familiar
 weasel, dire weasel
 weasel, giant weasel
 weaverworm
 weedwhip
+weird butler vampire servant
 wendigo
+werebat
+werebat lycanthrope
+wereboar
+wereboar lycanthrope
+werecrocodile
+werecrocodile lycanthrope
+wererat
+wererat lycanthrope
+wereshark
+wereshark lycanthrope
+weretiger
+weretiger lycanthrope
+werewolf
+werewolf lycanthrope
+wet-house emissary gillman
 whale
 whale, great white whale
 whirlmaw
+whisperfall vulture
+white-eyed torturer derro
+white-i d torturer derro
+white rider baba yagas rider
 wickerman
 wight
 wikkawak
 will-o’-wisp
+wind yai oni
 wings of protection
-winter fey (redcap)
+winter fey
+winter hag
+winter wolf worg
 winterwight
 witchcrow
 witchcrow, greater witchcrow
@@ -2319,12 +3619,15 @@ wolf-in-sheep’s-clothing
 wolf-in-sheeps-clothing
 wolf, dire wolf
 wolf, timber wolf
-wolliped, wolliped (combat trained)
-wolliped, wolliped (domesticated or wild)
+wolliped
 wolpertinger
 wolverine
 wolverine, dire wolverine
+wood giant
+wood golem
+wood idol
 wooden protector
+woolly rhinoceros
 worg
 worg, winter wolf
 worm that walks
@@ -2340,34 +3643,76 @@ xacarba
 xanthos
 xenopterid
 xill
+xill matriarch
 xill, xill matriarch
-xiomorn, xiomorn (vault keeper)
+xiomorn
+xiomorn, xiomorn
+xiuh couatl
 xocothian
 xorn
+xotani spawn of rovagug
+xoveron demon lord
 xtabay
 xulgath
+yaenit demon
 yah-thelgaad
+yamabushi tengu oni
+yamah azata
+yamaraj psychopomp
 yamasoth
 yangethe
 yaoguai
+yarahkut inevitable
 yellow musk creeper
 yeth hound
+yethazmari herald
 yeti
 yhohm
 yithian
 yithian elder
 yolubilis heron
+young black dragon
+young blue dragon
+young brass dragon
+young brine dragon
+young bronze dragon
+young cloud dragon
+young copper dragon
+young crystal dragon
+young forest dragon
+young gold dragon
+young green dragon
+young lunar dragon
+young magma dragon
+young red dragon
+young sea dragon
+young silver dragon
+young sky dragon
+young solar dragon
+young sovereign dragon
+young time dragon
+young umbral dragon
+young underworld dragon
+young void dragon
+young vortex dragon
+young white dragon
 ypotryll
 yrldak
 yrthak
 yuki-onna
 yzobu
+zahhak azi
 zana
 zealot wraith
+zelekhut inevitable
 zelishkar of the bitter flame
 zentragt
+zeuglodon primeval sea creature
 zhen worm
 zhyen
+zombie
+zombie lord
+zombie wolf
 zombie, apocalypse zombie
 zombie, giant zombie
 zombie, human zombie
@@ -2377,4 +3722,5 @@ zombie, zombie lord
 zombie, zombie wolf
 zomok
 zoog
+zuishin kami
 zuvembie

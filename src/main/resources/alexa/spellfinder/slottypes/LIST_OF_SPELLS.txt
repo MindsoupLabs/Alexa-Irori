@@ -118,6 +118,7 @@ arcane cannon
 arcane concordance
 arcane disruption
 arcane eye
+arcane i
 arcane lock
 arcane mark
 arcane pocket
@@ -281,6 +282,7 @@ boiling blood
 bolt of glory
 bolts of bedevilment
 bombers eye
+bombers i
 bone fists
 bone flense
 boneshaker
@@ -423,6 +425,7 @@ color spray
 command
 command plants
 command undead
+communal tongues
 commune
 commune with birds
 commune with nature
@@ -476,6 +479,7 @@ corruption resistance
 cosmic ray
 counterbalancing aura
 countless eyes
+countless ice
 covetous aura
 cowards cowl
 cowards lament
@@ -557,6 +561,8 @@ daze monster
 dazzling blade
 deadeyes arrow
 deadeyes lore
+deadice arrow
+deadice lore
 deadly finale
 deadly juggernaut
 deafening song bolt
@@ -718,6 +724,7 @@ dwarven veil
 dweomer retaliation
 eagle aerie
 eagle eye
+eagle i
 eagles splendor
 eagles splendor, mass
 eaglesoul
@@ -993,6 +1000,12 @@ gravity bow
 gravity sphere
 gravity well
 grease
+greater celestial healing
+greater polymorph
+greater prying eyes
+greater prying ice
+greater sealed life
+greater status
 green caress
 greensight
 grim stalker
@@ -1081,6 +1094,7 @@ holy smite
 holy sword
 holy whisper
 holy word
+hon i d tongue
 honeyed tongue
 horn of pursuit
 horrid wilting
@@ -1097,6 +1111,7 @@ hunters blessing
 hunters eye
 hunters friend
 hunters howl
+hunters i
 hunters lore
 huntmasters spear
 hurricane blast
@@ -1107,9 +1122,11 @@ hymn of peace
 hypercognition
 hypnotic pattern
 hypnotism
+i bite
 ice armor
 ice body
 ice crystal teleport
+ice of the void
 ice slick
 ice spears
 ice storm
@@ -1171,6 +1188,7 @@ instant enemy
 instant fake
 instant portrait
 instant restoration
+instant suffocation
 instant summons
 instant weapon
 instigate psychic duel
@@ -1247,6 +1265,22 @@ legend lore
 legendary proportions
 lend judgment
 lend path
+lesser age resistance
+lesser angelic aspect
+lesser create demiplane
+lesser curse terrain
+lesser entice fey
+lesser evolution surge
+lesser geas
+lesser guardian monument
+lesser nondetection
+lesser object possession
+lesser planar ally
+lesser rejuvenate eidolon
+lesser restore eidolon
+lesser spellcasting contract
+lesser spellcrash
+lesser summon genie
 levitate
 liberating command
 life blast
@@ -1365,6 +1399,13 @@ martyrs last blessing
 mask dweomer
 mask from divination
 masochistic shadow
+mass cure critical wounds
+mass cure light wounds
+mass cure moderate wounds
+mass cure serious wounds
+mass eagles splendor
+mass inflict pain
+mass repair undead
 massacre
 masters escape
 masters mutation
@@ -1628,6 +1669,7 @@ protective penumbra
 protective spirit
 prying eyes
 prying eyes, greater
+prying ice
 psychic asylum
 psychic crush
 psychic image
@@ -1834,6 +1876,7 @@ secret sign
 secret speech
 secure shelter
 seducers eyes
+seducers ice
 see alignment
 see beyond
 see invisibility
@@ -2418,6 +2461,7 @@ warp wood
 wartrain mount
 watchful animal
 watchful eye
+watchful i
 water breathing
 water shield
 water walk

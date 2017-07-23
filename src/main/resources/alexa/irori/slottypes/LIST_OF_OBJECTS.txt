@@ -2,6 +2,7 @@ aasen mortar
 aashaqs wyvern
 aasimar
 abadars truthtelling
+abaddon gigas
 abaia
 aballonian
 abandoned one
@@ -13,6 +14,7 @@ aboleth
 aboleth, veiled master
 aboleths lung
 abrakarn viper
+abrikandilu demon
 abrogalian corset
 absolution
 absorb rune
@@ -29,24 +31,31 @@ abyssal vermin
 accelerate poison
 accent pill
 accept affliction
+accomplice devil
 accursed glare
+accuser devil
 achaekek, the mantis god
 achaierai
 acid arrow
+acid bolt
 acid fog
 acid maw
 acid splash
 acidic spray
+acrididaemon
 acrobat slippers
 acute senses
 adamantine battleaxe
 adamantine breastplate
+adamantine bullet
 adamantine dagger
+adamantine golem
 adaro
 addu
 adherer
 adhesive blood
 adhesive spittle
+adhukait asura
 adjuring step
 adjustable disguise
 adjustable polymorph
@@ -55,8 +64,34 @@ admixture vial
 admonishing ray
 adoration
 adroit retrieval
+adult black dragon
+adult blue dragon
+adult brass dragon
+adult brine dragon
+adult bronze dragon
+adult cloud dragon
+adult copper dragon
+adult crystal dragon
+adult forest dragon
+adult gold dragon
+adult green dragon
+adult lunar dragon
+adult magma dragon
+adult red dragon
+adult sea dragon
+adult silver dragon
+adult sky dragon
+adult solar dragon
+adult sovereign dragon
+adult time dragon
+adult umbral dragon
+adult underworld dragon
+adult void dragon
+adult vortex dragon
+adult white dragon
 advanced scurvy
 advocates armor
+advodaza devil
 aegis
 aegis of recovery
 aeon, akhana
@@ -82,6 +117,8 @@ age resistance, lesser
 agents clasp (taldan)
 aggravate affliction
 aggressive thundercloud
+aghash div
+aghasura
 agile alpenstock
 agile breastplate
 agile half-plate
@@ -89,7 +126,9 @@ agmazar the star titan
 agonize
 agonizing rebuke
 agrimmosh
+agyra kaiju
 ahkhat
+ahmuuth psychopomp
 ahriman, lord of all divs
 ahuizotl
 aid
@@ -98,25 +137,30 @@ air breathing
 air bubble
 air geyser
 air of authority
+air ossumental
 air step
 air walk
 akaruzug
 akashic communion
 akashic form
 akata
+akhana aeon
 akhentepis armor
 akhlut
 akilep, lady of stone
 akitonian blade
 aklys
+akvan div
 alarm
 alaznists jinx
+albino cave solifugid
 alchemical allocation
 alchemical cartridge (dragons breath)
 alchemical cartridge (entangling shot)
 alchemical cartridge (flare)
 alchemical cartridge (paper, bullet or pellet)
 alchemical cartridge (salt shot)
+alchemical golem
 alchemical ooze swarm, choleric ooze swarm
 alchemical ooze swarm, melancholic ooze swarm
 alchemical ooze swarm, phlegmatic ooze swarm
@@ -133,6 +177,7 @@ aligned horn of valhalla
 alkenstar fortress plate
 all-seeing armor
 all-seeing eye
+all-seeing i
 all tools vest
 allegro
 alleviate addiction
@@ -140,9 +185,12 @@ alleviate corruption
 allfood
 allied cloak
 allip
+allosaurus
+allosaurus dinosaur
 alluring golden apple
 alluring spores
 ally across time
+almara kazaar the would-be queen
 almiraj
 alpine ice axe
 alpluachra
@@ -176,6 +224,7 @@ alter summoned monster
 alter winds
 aluum
 amalya
+amanusya rakshasa
 amatatsu seal
 amazing tools of manufacture
 amber spindle (normal) ioun stone
@@ -184,6 +233,7 @@ ambush cauldron
 amentum
 amethyst pyramid (normal) ioun stone
 ammut
+amoeba swarm
 amoeba, amoeba swarm
 amoeba, giant amoeba
 amphisbaena
@@ -233,8 +283,36 @@ ancestral regression
 anchored step
 anchoring belt
 anchoring bracers
+ancient black dragon
+ancient blue dragon
+ancient brass dragon
+ancient brine dragon
+ancient bronze dragon
+ancient cloud dragon
+ancient copper dragon
+ancient crystal dragon
+ancient forest dragon
+ancient gold dragon
+ancient gravedigger ghoul
+ancient green dragon
+ancient lunar dragon
+ancient magma dragon
+ancient red dragon
+ancient sea dragon
+ancient silver dragon
+ancient sky dragon
+ancient solar dragon
+ancient sovereign dragon
+ancient time dragon
+ancient umbral dragon
+ancient underworld dragon
+ancient void dragon
+ancient vortex dragon
+ancient white dragon
+andrazku demon
 android
-angazhani (high girallon)
+androsphinx
+angazhani
 angel, astral deva
 angel, balisse
 angel, cassisian
@@ -252,6 +330,7 @@ angelfall bow
 angelic aspect, lesser
 angelic guardian
 angels clarion
+angustiden shark
 anima focus
 animal ambassador
 animal aspect
@@ -279,13 +358,19 @@ ankheg
 ankhrav
 ankou
 ankus
+ankylosaurus
+ankylosaurus dinosaur
 annihilation spectacles
+annihilator robot
+annis hag
+annis hag alter ego
 anonymous interaction
 ant haul
 ant lion, giant adult ant lion
 ant lion, giant ant lion
 ant, army ant swarm
 ant, giant ant
+antelope herd animal
 anthropomorphic animal
 anti-incorporeal shell
 anti-summoning shield
@@ -302,12 +387,16 @@ anvil of the skyseeker (dwarf)
 aoandon
 apathy
 ape walk
-ape, dire ape (gigantopithecus)
+ape, dire ape
 ape, gorilla
 aphasia
 apocalypse box
+apocalypse zombie
+apocrisiarius kyton
 apollyon ring
 apostasy wraith
+apostate devil
+apostle kyton
 apparatus of the crab
 apparatus of the octopus
 apparent master
@@ -323,10 +412,12 @@ aquatic trail
 aqueous orb
 arachnid goggles
 arachnid harness
+arachnid robot
 arachnids fang
 aram zeys focus
 aram zeys trap ward
 aranea
+arbiter inevitable
 arbitrament
 arboreal armor
 arboreal hammer
@@ -337,11 +428,15 @@ arcane cannon
 arcane concordance
 arcane disruption
 arcane eye
+arcane i
 arcane lock
 arcane mark
 arcane pocket
 arcane reinforcement
 arcane sight
+arcanotheign herald
+archaeopteryx familiar
+archelon megafauna
 archon swarm, mote archon swarm
 archon, codex archon
 archon, hammer archon
@@ -358,20 +453,23 @@ archon, trumpet archon
 archons aura
 archons torch
 archons trumpet
+arctic hare familiar
+arctic tern familiar
 ardors onslaught
 argental font
 argorth
 aridus, the deserts howl
+armadillo familiar
 armband of the golden serpent
 armbands of the brawler
 armigers armor
 armigers panoply
 armillary amulet
-armor class
 armor of darkness
 armor of fragmenting stone
 armor of grim triumph (orc)
 armor of insults
+armor of skulls relic of kazavon
 armor of the pious
 armor of the pure legion
 armor of the sands
@@ -380,7 +478,9 @@ armor of the unquenchable fire
 armor spikes
 armored coat
 armored kilt
+armored ogre skeleton
 arms of the marilith
+army ant swarm
 arodens magic army
 arodens spellbane
 arodens spellsword
@@ -389,16 +489,21 @@ arrow magnet
 arrow of charming
 arrow of law
 arrow splitter
-arrow, bamboo shaft (10)
-arrow, iron-tipped distance (20)
+arrow, bamboo shaft
+arrow, iron-tipped distance
 arrowmasters bracers
-arrows (20)
+arrows
+arsinoitherium megafauna
 artificers curse
 artrosa ring
 ascension
 ascomoid
+ash giant
+ash hag
 ash storm
+asheia sword of lust
 ashes of unluck
+asp snake
 aspect mask
 aspect of the bear
 aspect of the falcon
@@ -416,6 +521,8 @@ assassins sight, greater
 assisting gloves
 assume appearance
 assumed likeness
+astradaemon
+astral deva angel
 astral leviathan
 astral projection
 astralabe
@@ -426,6 +533,8 @@ asura, asurendra
 asura, tripurasura
 asura, upasunda
 asura, vayuphak
+asurendra asura
+atamahuta oni
 atavism
 atavistic splinter
 ataxian
@@ -438,6 +547,8 @@ attentive mirror
 attic whisperer
 auditory hallucination
 augmenting wall
+augnagar qlippoth
+augur kyton
 augury
 aura alteration
 aura of cannibalism
@@ -447,18 +558,22 @@ aura of greater courage
 aura of inviolate ownership
 aura of the unremarkable
 aura sight
+aurochs herd animal
 aurumvorax
 authenticating gaze
 autonomous cartographer
 avalanche shield
 avalanche sling staff
+avatarana rakshasa
 avernus claw
 avernus razorback
 aversion
 aviary of spirits
+avoral agathion
 awaken
 awaken construct
 awaken the devoured
+awakened agent gillman
 axe beak
 axe musket
 axe of felling
@@ -489,11 +604,13 @@ azlant pendant
 azlanti chariot beetle
 azlanti sealstone
 azruverda
+azuretzi protean
 baba yagas besom
 baba yagas mortar and pestle
 baba yagas rider, black rider
 baba yagas rider, red rider
 baba yagas rider, white rider
+babau demon
 babble
 baboon
 backbiters focus
@@ -518,10 +635,14 @@ baldric of magical stability (garundi)
 baleful polymorph
 baleful shadow transmutation
 balgorrah
+balisse angel
 ball lightning
 ballista net
 balm of impish grace
+balor demon
 balravnus, lord of the deep pools
+baluchitherium megafauna
+bamboo shaft arrow
 bamboo shaft arrows
 ban corruption
 band of the stalwart warrior
@@ -543,10 +664,13 @@ banner of the scarlet rose
 banshee
 banshee blast
 banshees howl
+baphomet demon lord
 baphomets blessing
+baraket sword of pride
 barbazu beard
 barbed arrow
 barbed chains
+barbed devil
 barbed pentacle of asmodeus
 barbed spear
 bardiche
@@ -561,13 +685,17 @@ barracudas bite
 barrow haze
 barrow hound
 basidirond
+basileus herald
 basilisk
+basilosaurus megafauna
 bastard sword
 bastards sting
 bastion banner
 bastion boots
 bastion crown
 bastion of the inheritor
+bat familiar
+bat swarm
 bat, bat swarm
 bat, dire bat
 bat, mobat
@@ -594,9 +722,10 @@ bead of force
 bead of newt prevention
 beanstalk
 bear pelt of the bonebreaker
-bear, dire bear (cave bear)
+bear, dire bear
 bear, grizzly bear
 bear, polar bear
+bearded devil
 bears endurance
 beast-bond brand
 beast shape
@@ -628,12 +757,15 @@ beheaded, giant beheaded
 beheaded, medusa head
 beheaded, severed head
 beheaded, skull swarm
+behemoth golem
 behemoth golem manual
+behemoth hippopotamus
 behemoth, ravener
 behemoth, tempest behemoth
 behemoth, thalassic behemoth
 behemoth, thunder behemoth
 behir
+belier devil
 belker
 belkzen battle standard (orc)
 bell of mercy
@@ -662,8 +794,7 @@ belt of the snake king
 belt of the weasel
 belt of thunderous charging
 belt of tumbling
-benaioh, benaioh (clay vessel)
-benaioh, benaioh (ooze form)
+benaioh
 beneficial bandolier
 berbalang
 besmaras bicorne
@@ -679,6 +810,7 @@ bestow grace of the champion
 bestow insight
 bestow weapon proficiency
 bezilak, the silken fang
+bezravnis kaiju
 bhole
 bhuta
 bichhwa
@@ -692,6 +824,8 @@ binding
 binding contract (chelaxian)
 binding earth
 birelu
+bishop agathion
+bison herd animal
 bit of luck
 bite the hand
 biting bracelet
@@ -710,8 +844,11 @@ black marketeers bag
 black powder (dose)
 black powder (keg)
 black pudding
+black rider baba yagas rider
+black scorpion
 black soul shard
 black spot
+black spot urchin
 black sword of war
 black tentacles
 blackaxe
@@ -722,6 +859,7 @@ blacklight
 blackmarrow altar
 blackwick cauldron
 blackwisp egret
+blackwood satyr
 blade barrier
 blade boot
 blade lash
@@ -729,6 +867,7 @@ blade of binding
 blade of bright victory
 blade of dark triumph
 blade of light
+blade of the leopard en-nebi
 blade of the rising sun
 blade of the sword-saint
 blade of the willing martyr
@@ -769,7 +908,7 @@ blessing of the watch
 blight
 blightburn arrow
 blightburn weapon
-blighted fey (satyr)
+blighted fey
 blightspawn of ghlaunder
 blind helm
 blind mans fold
@@ -789,6 +928,8 @@ blood blaze
 blood boil
 blood chest
 blood crow strike
+blood golem
+blood hag
 blood in the water
 blood mist
 blood money
@@ -825,16 +966,19 @@ bloody tears and jagged smile
 blot
 blouse of the boastful bastard
 blowgun
-blowgun darts (10)
+blowgun darts
+blue-ringed octopus familiar
+blue whale cetacean
+bluetip eurypterid
 blunderbuss
-blunt arrows (20)
+blunt arrows
 blur
 blurred movement
 bo staff
 boar
 boar spear
 boar, bristle boar
-boar, dire boar (daeodon)
+boar, dire boar
 boarding axe
 boarding pike
 boarding pike of repelling
@@ -849,6 +993,17 @@ bog boots
 bog strider
 bogeyman
 boggard
+boggard abyssal warrior
+boggard brute
+boggard champion
+boggard farcroaker
+boggard hunter
+boggard priest-king
+boggard prophet
+boggard savage
+boggard scarred one
+boggard stalker
+boggard swampseer
 boggard, boggard abyssal warrior
 boggard, boggard brute
 boggard, boggard champion
@@ -866,6 +1021,7 @@ bogwid
 bogwiggle
 boilborn
 boiling blood
+bokrug great old one
 bolas
 bolas bolts
 bolt of glory
@@ -873,14 +1029,18 @@ bolt, acid
 bolt, drow poison
 bolt, fire
 bolts of bedevilment
-bolts, heartstake (5)
+bolts, heartstake
 bombers eye
+bombers i
 bondbreakers boots
 bone beads
 bone bearers cutter
+bone devil
 bone fists
 bone flense
+bone golem
 bone house
+bone idol
 bone priest
 bone razor
 bonebreaker bracers
@@ -935,9 +1095,12 @@ boots of the vengeful behir
 boots of the winter jarl
 boots of the winterlands
 boots of vaulting
+boreal annis hag boreal creature
 boreal creature, boreal annis hag
 boreal creature, boreal manticore
 boreal creature, boreal wolf
+boreal manticore boreal creature
+boreal wolf boreal creature
 boro bead
 borrow corruption
 borrow fortune
@@ -945,6 +1108,7 @@ borrow skill
 borrowed time
 boruta
 bosuns call
+botfly swarm
 botfly, botfly swarm
 botfly, giant botfly
 bottle of air
@@ -952,6 +1116,7 @@ bottle of messages
 bottle of shadows
 bottle of shifting sand
 bottle of the bound
+bottled armada ship in a bottle
 bottled misfortune
 bottled scream
 bottled sunlight
@@ -960,7 +1125,9 @@ boulder bag
 boulder bullet
 boulderhead mace
 bouncing bomb admixture
+bouncing rod of metamagic
 bouncy body
+bound blade relic of kazavon
 boundary chalk
 bountiful banquet
 bountiful bottle
@@ -989,14 +1156,18 @@ bracers of the glib entertainer
 bracers of the immortal hunt
 bracers of the merciful knight
 bracers of the shield mates
+brachiosaurus
+brachiosaurus dinosaur
 brain cylinder
 brain ooze
+bralani azata
 brambleblight
 branch of life
 brand
 brand of conformity
 brand of hobbling
 brand of tracking
+brass golem
 brass knife
 brass knuckles
 brass spider
@@ -1008,6 +1179,7 @@ breach barrier
 break
 break enchantment
 breastplate
+breastplate armor
 breastplate of command
 breastplate of vanishing
 breath of life
@@ -1016,19 +1188,24 @@ breeze
 brethedan
 briar
 bridle of tricks
+brijidine azata
 brilliant bulwark
 brilliant flash symbol
 brilliant inspiration
+brimorak demon
 brimstone barbazu
 brine’s sting
 brinyas love
 bristle
+bristle boar
 brittle portal
 broadside bulwark
 broken chain of the beast
 broken rune bracers (shoanti)
+broken soul lillend
 broken soul, broken soul lillend
 bronze sentinel
+bronze sentinel thassilonian sentinel
 bronze skinning knife
 bronze whisperers shield
 brooch of amber sparks
@@ -1038,6 +1215,7 @@ broom of flying
 brow gasher
 brown thorny (normal) ioun stone
 brownie
+brush thylacine
 brutal axe
 brutally weighted
 bubble vault
@@ -1046,6 +1224,16 @@ buckler
 buckler gun
 buffering cap
 bugbear
+bugbear ambusher
+bugbear bloodmage
+bugbear cultist
+bugbear echohusk
+bugbear flesh glutton
+bugbear gnasher
+bugbear lurker
+bugbear shadow sneak
+bugbear stalker
+bugbear tyrant
 bugbear, bugbear ambusher
 bugbear, bugbear bloodmage
 bugbear, bugbear cultist
@@ -1060,10 +1248,13 @@ build trust
 bulabar
 bulette
 bulette bulwark
+bull of zagresh war beast of belkzen
+bull shark
+bullet or pellet) alchemical cartridge (paper
 bullet shield
 bullet ward
 bullet, adamantine
-bullets, groaning (10)
+bullets, groaning
 bullroarers of outburst
 bulls strength
 bungle
@@ -1084,6 +1275,7 @@ burning child
 burning disarm
 burning gaze
 burning hands
+burning rod of metamagic
 burning sands
 burnished
 burrow
@@ -1104,13 +1296,17 @@ butt diadem
 butt engineer badge
 butterfly knife
 butterfly sword
+bythos aeon
+cabal devil
 cackling hags blouse
 cackling skull
+cacodaemon
 cacophonous call
 caduceus rod
 cage of captivity
 caging bomb admixture
 cailean fighting tankard
+cairn linnorm
 calabash of last draughts
 calamitous mail
 calathgar
@@ -1137,6 +1333,8 @@ calm spirit
 calpina
 caltrop bead
 caltrop boots
+cambion demon
+camel herd animal
 campfire bead
 campfire wall
 camulatz
@@ -1148,11 +1346,13 @@ candle of invocation
 candle of spirit protection
 candle of truth
 candlestone courtier
+cannon golem
 canopic conversion
 canopic jar
 canopic jar of unlife
 canopic wrap
 canopy creeper
+cantor kyton
 cantorian spring
 cap of darkest dreams (changeling)
 cap of enervation
@@ -1179,11 +1379,13 @@ carousers retort
 carpet of comfort
 carpet of flying
 carrion compass
+carrion golem
 carrionstorm
 carry companion
 cartouche of distinctive warding
 carve passage
 caryatid column
+cassisian angel
 cassock of the black monk
 cassock of the clergy
 cast out
@@ -1193,6 +1395,8 @@ casters tattoo
 castigate
 cat-o-nine-tails
 cat burglars boots
+cat familiar
+cat lord animal lord
 cat sith
 cat, cheetah
 cat, leopard
@@ -1200,10 +1404,14 @@ catatonia
 catching cape
 catfolk
 catoblepas
+catrina psychopomp
 cats eye crown
 cats grace
+cats i crown
 catskin leather
+cauchemar nightmare
 caulborn
+caulborn thoughtkeeper
 caulborn, caulborn thoughtkeeper
 caulborn, chrestomath
 cauldron of brewing
@@ -1224,6 +1432,8 @@ cautionary creance
 cavalrymans bow
 cave dwellers greataxe
 cave fisher
+cave giant
+cave scorpion
 cavern compass
 cavers bolt
 cavers hammock
@@ -1241,12 +1451,17 @@ censer of conjuring air elementals
 censer of dreams
 censer of sanctuary
 centaur
+centaur charger
+centaur forager
+centaur greenspeaker
+centaur outcast
 centaur, centaur charger
 centaur, centaur forager
 centaur, centaur greenspeaker
 centaur, centaur outcast
 centering jewl
 centianima
+centipede swarm
 centipede, centipede swarm
 centipede, giant centipede
 centipede, giant whiptail centipede
@@ -1258,13 +1473,18 @@ cerberus worm
 cerebric cyst
 cerebric fungus
 ceremony
+cernunnos empyreal lord
 certain grip
 ceru
+cervapral agathion
+cervinal agathion
 cervine protector
 cestus
+cetaceal agathion
 cetacean, blue whale
 cetacean, crimson whale
 cetacean, narwhal
+ceustodaemon
 chadas harpoon
 chain coat
 chain lightning
@@ -1280,6 +1500,7 @@ chalice of communal dweomer
 chalice of ozem
 chalice of poison
 chalice of poison weeping
+chalicotherium megafauna
 chalkost
 challenge evil
 challengers gloves
@@ -1327,16 +1548,22 @@ charybdis
 chastise
 chastising baton
 chatterer swarm
+cheetah cat
 cheetahs sprint
 chelish crux
+chelish hell-bred dog
 chelish listening trumpet
+chellan sword of greed
+chemnosit spawn of rovagug
 chemosit
+chernobue qlippoth
 chest of defending
 chest of keeping
 chest of preparedness
 chest of the mercane
 chest piercings
 chickcharney
+chicken familiar
 chill metal
 chill touch
 chimara, legendary chimera
@@ -1346,15 +1573,22 @@ chime of opening
 chime of resounding silence
 chime of storm calling
 chimera
+chimney troll
 choker
 choker of body alteration
 choker of the rough beast
 choker of the siphoning scorpion
+choleric ooze swarm alchemical ooze swarm
 chon chon
 chon chon elixir
+chon chon swarm
 chon chon, chon chon swarm
+choral angel
 chord of shards
+chortov devil
+chosen of lamashtu gnoll
 choxani
+chrestomath caulborn
 chronicle of the righteous
 chupacabra
 chupar pick
@@ -1380,6 +1614,7 @@ clavis somnus
 clawbat
 clawhand shield
 claws of the ice bear
+clay golem
 cleanse
 cleansing fire
 clear grove
@@ -1387,6 +1622,7 @@ clear spindle (normal) ioun stone
 clenched fist
 cleromancy
 clever sling staff (halfling)
+cliff giant
 climbing beanstalk
 cloak of arachnida
 cloak of blood alarm (ratfolk)
@@ -1429,8 +1665,19 @@ cloaker
 clockwork arm
 clockwork armor
 clockwork bug
+clockwork dragon
+clockwork familiar
+clockwork golem
+clockwork goliath
 clockwork key (abadar)
+clockwork leviathan
+clockwork mage
 clockwork prosthesis
+clockwork servant
+clockwork snail
+clockwork soldier
+clockwork spy
+clockwork steed
 clockwork, clockwork dragon
 clockwork, clockwork familiar
 clockwork, clockwork goliath
@@ -1445,6 +1692,8 @@ clockwork, mechanical efreeti
 clockwork, toy golem
 clone
 closing offer
+cloud giant
+cloud giant oligarch orania
 cloud of seasickness
 cloud shape
 cloudkill
@@ -1456,15 +1705,18 @@ coat of the undercity, greater
 coat pistol
 cockatrice
 cockatrice grit
+cockroach swarm
 cockroach, cockroach swarm
 cockroach, flesh-eating cockroach swarm
 cockroach, giant cockroach
 cockroach, monstrous cockroach
 cocoon cloak
 codespeak
+codex archon
 codex of conversations
 codex of the infinite planes
 coeurl
+coffin guard vampire servant
 cognitive block
 coin of the untrodden road
 coin shot
@@ -1475,13 +1727,16 @@ cold rider
 coldfire wrappings
 coldwarp key
 collaborative thaumaturgy
+collapsible kumade
 collapsible tower
 collar of obedience
 collar of the true companion
 collar of unliving servitude
+collector robot
 color spray
 colossus draught
 colour out of space
+coloxus demon
 combat sandals
 combat scabbard
 combat scabbard, sharpened
@@ -1492,6 +1747,8 @@ command plants
 command undead
 commanders banner
 commanders helm (dwarf)
+common eurypterid
+communal tongues
 commune
 commune with birds
 commune with nature
@@ -1506,9 +1763,12 @@ compelling rant
 composite longbow
 composite shortbow
 comprehend languages
+compsognathus
+compsognathus dinosaur
 compulsive liar
 concealed breath
 concealing pocket
+concussive rod of metamagic
 condensed ether
 conditional favor
 conduit rod
@@ -1524,6 +1784,7 @@ conjure deadfall
 conquering brand
 consecrate
 constricting coils
+constrictor snake
 constrictors gauntlets
 construct channel brick
 contact entity
@@ -1541,6 +1802,7 @@ contingent action
 contingent scroll
 contingent wayfinder
 continual flame
+contract devil
 control construct
 control plants
 control summoned creature
@@ -1554,6 +1816,7 @@ cookbook of arcane augmentation
 coordinated effort
 copycat siphon
 coral capuchin
+coral golem
 cord of stubborn resolve
 cordulegaster
 cordulegaster, elder cordulegaster
@@ -1578,13 +1841,17 @@ couatl, lord sun-warrior
 couatl, xiuh couatl
 counterbalancing aura
 countless eyes
+countless ice
 courage heart
 couriers secure pouch
 courtesans ire
+coven ooze hag eye ooze
+coven ooze hag i ooze
 covetous aura
 cowardly crouching cloak
 cowards cowl
 cowards lament
+crab swarm
 crab, crab swarm
 crab, giant crab
 crab, shark-eating crab
@@ -1592,6 +1859,7 @@ crab, shipwrecker crab
 crafters curse
 crafters fortune
 crafters nightmare
+crag linnorm
 crag linnorm plate
 crag spider
 crashing boots
@@ -1623,6 +1891,8 @@ crimson breath
 crimson confession
 crimson sphere (normal) ioun stone
 crimson thorny (normal) ioun stone
+crimson whale cetacean
+criosphinx
 croaker
 crocodile
 crocodile, dire crocodile
@@ -1634,7 +1904,7 @@ crone queen
 crook
 crook and flail of kings
 crook of the ancient serpent
-crossbow bolts (10)
+crossbow bolts
 crossbow of retribution
 crowcaller
 crown of ash
@@ -1643,6 +1913,7 @@ crown of blasting (minor)
 crown of challenge
 crown of conquest
 crown of false rule
+crown of fangs relic of kazavon
 crown of glory
 crown of heaven
 crown of infernal majesty
@@ -1651,6 +1922,7 @@ crown of the iron king
 crown of the kobold king
 crown of the simurgh
 cruciarus
+crucidaemon
 cruel jaunt
 crusaders bible
 crusaders edge
@@ -1666,6 +1938,7 @@ crystal chakram
 crystal control rod
 crystal of healing hands
 crystalline starknife
+cthulhu great old one
 cube of force
 cube of frost resistance
 cube of varied force walls
@@ -1686,6 +1959,7 @@ cure moderate wounds
 cure moderate wounds, mass
 cure serious wounds
 cure serious wounds, mass
+curse devil
 curse item
 curse of befouled fortune
 curse of burning sleep
@@ -1705,7 +1979,13 @@ cutlass spider
 cutthroats apprentice
 cyclic reincarnation
 cyclops
+cyclops grand-eye
+cyclops grand-i
 cyclops helm
+cyclops lorekeeper
+cyclops manhunter
+cyclops smasher
+cyclops tyrant mardahamman
 cyclops, cyclops grand-eye
 cyclops, cyclops lorekeeper
 cyclops, cyclops manhunter
@@ -1713,6 +1993,8 @@ cyclops, cyclops smasher
 cyclops, great cyclops
 cyclops, oracular cyclops
 cyclops, savage great cyclops
+cynosphinx
+cythnigot qlippoth
 cytillesh zombie
 cytillipede
 d’ziriak
@@ -1751,6 +2033,7 @@ dagger of venom
 dagger pistol
 daggermark blade
 daggermarks exchange
+dagon demon lord
 dahaks release
 dahzagan
 daikyu of commanding presence
@@ -1766,12 +2049,18 @@ dancing hut of baba yaga
 dancing lantern
 dancing lights
 dancing wasp
+dandasuka rakshasa
 danse macabre
+dapsara angel
 daredevil boots
 daredevil softpaws
 daring dancers
 dark-light
 dark blue rhomboid (normal) ioun stone
+dark caller dark folk
+dark creeper dark folk
+dark dancer dark folk
+dark empath dark folk
 dark folk, dark caller
 dark folk, dark creeper
 dark folk, dark dancer
@@ -1782,6 +2071,10 @@ dark green rhomboid (normal) ioun stone
 dark grimoire
 dark ice brownie
 dark lens alter
+dark naga
+dark slayer dark folk
+dark spitter beetle
+dark stalker dark folk
 dark whispers
 dark young of shub-niggurath
 darklands goggles
@@ -1811,7 +2104,9 @@ daystar half-plate
 daywalker
 daze
 daze monster
+dazing rod of metamagic
 dazzling blade
+dead i leather
 dead mans headband
 dead mans shroud
 deadened shadows cloak
@@ -1819,11 +2114,16 @@ deadeye leather
 deadeyes arrow
 deadeyes lore
 deadfall dweller
+deadfall scorpion
+deadfall tracker charau-ka
+deadice arrow
+deadice lore
 deadlimb pins
 deadly draught
 deadly finale
 deadly juggernaut
 deadly kiss
+deadly mantis
 deadshot vest
 deafening song bolt
 death bill
@@ -1838,7 +2138,9 @@ death pact
 death ward
 death wardens bandolier
 death worm
+death worm leviathan
 death worm, death worm leviathan
+death’s head jellyfish
 deathbalm talisman
 deathgag elixir
 deathless
@@ -1849,6 +2151,7 @@ deaths preservation banded mail
 deathtrap ooze
 deathwatch
 deathwatch eyes
+deathwatch ice
 deathweb
 deathwine
 debilitating portent
@@ -1885,6 +2188,10 @@ deflection
 defoliant polish
 defoliate
 deft digits
+deinonychus
+deinonychus dinosaur
+deinosuchus crocodilians
+deinotherium megafauna
 deivons parry
 deja vu
 delay disease
@@ -1898,6 +2205,7 @@ delusional pride
 delver
 demand
 demand offering
+demilich
 demodand, shaggy demodand
 demodand, slimy demodand
 demodand, stringy demodand
@@ -1957,6 +2265,8 @@ demon, vilsteth
 demon, vrock
 demon, vrolikai
 demon, yaenit
+demonic deadfall scorpion demonic vermin
+demonic giant spider demonic vermin
 demonic smiths gloves
 demonic vermin, demonic deadfall scorpion
 demonic vermin, demonic giant spider
@@ -1966,18 +2276,26 @@ denizen of leng
 denounce
 depilate
 depth charger
+derakni demon
+derghodaemon
 derhii
 derro
+derro bodysnatcher
+derro brainwasher
+derro magister
 derro, derro bodysnatcher
 derro, derro brainwasher
 derro, derro magister
 derro, urban stalker
 derro, white-eyed torturer
 desecrate
+desert drake
+desert giant
 desert vermin, giant assassin bug
 desert vermin, giant ground wasp
 desert vermin, giant walking stick
 desiccating dust
+deskari demon lord
 deskaris tooth
 desperate weapon
 destabilize powder
@@ -2013,48 +2331,50 @@ detoxify
 devastating dog whistle
 devil catcher
 devil snare
-devil, accomplice devil (hesperian)
-devil, accuser devil (zebub)
+devil, accomplice devil
+devil, accuser devil
 devil, advodaza
-devil, apostate devil (deimauigga)
-devil, barbed devil (hamatula)
-devil, bearded devil (barbazu)
-devil, belier devil (bdellavritra)
-devil, bone devil (osyluth)
-devil, cabal devil (uniila)
+devil, apostate devil
+devil, barbed devil
+devil, bearded devil
+devil, belier devil
+devil, bone devil
+devil, cabal devil
 devil, chortov
-devil, contract devil (phistophilus)
-devil, curse devil (phiam)
-devil, drowning devil (sarglagon)
+devil, contract devil
+devil, curse devil
+devil, drowning devil
 devil, erinyes
-devil, gambling devil (magadaz)
-devil, handmaiden devil (gylou)
-devil, heresy devil (ayngauhaul)
-devil, horned devil (cornugon)
-devil, host devil, greater (magaav)
-devil, host devil, lesser (gaav)
-devil, ice devil (gelugon)
-devil, immolation devil (puragaus)
+devil, gambling devil
+devil, handmaiden devil
+devil, heresy devil
+devil, horned devil
+devil, host devil, greater
+devil, host devil, lesser
+devil, ice devil
+devil, immolation devil
 devil, imp
 devil, lemure
 devil, mnemor
-devil, nemesis devil (advodaza)
+devil, nemesis devil
 devil, nupperibo
 devil, pit fiend
-devil, possession devil, greater (gidim)
-devil, possession devil, lesser (gidim)
-devil, rust devil (ferrugon)
+devil, possession devil, greater
+devil, rust devil
 devil, salikotal
-devil, sire devil (patraavex)
-devil, tinder devil (ukobach)
-devil, warmonger devil (levaloch)
+devil, sire devil
+devil, tinder devil
+devil, warmonger devil
 devilbound creature, devilbound sorcerer
+devilbound sorcerer devilbound creature
 devilfish
 devils key
 devolution
+devotee of the ravener king charau-ka
 devourer
 dhabba
 dhampir
+dhirgiska hydra
 dhoti of style mastery
 diabolical masquerade mask
 diadem of inspiring rule
@@ -2073,10 +2393,14 @@ dimensional grenade
 dimensional lock
 dimensional shackles
 dimensional shambler
+dimetrodon
+dimetrodon dinosaur
 diminish plants
 diminish resistance
 diminished detection
 diminishing sash
+dimorphodon
+dimorphodon dinosaur
 dinosaur-killer
 dinosaur, allosaurus
 dinosaur, ankylosaurus
@@ -2098,12 +2422,29 @@ dinosaur, triceratops
 dinosaur, tylosaurus
 dinosaur, tyrannosaurus
 dinosaur, velociraptor
+diplodocus
+diplodocus dinosaur
 diplomats traveling stick
+dire ape
+dire badger
+dire bat
+dire bear
+dire boar
 dire bolas
 dire collar
 dire collar, greater
 dire corby
+dire crocodile
 dire flail
+dire hyena
+dire lion
+dire rat
+dire shark
+dire tiger
+dire weasel
+dire wolf
+dire wolverine
+director robot
 dirge of the victorious knights
 dirgesingers choir
 disable construct
@@ -2140,6 +2481,7 @@ disrupt link
 disrupt silence
 disrupt undead
 disrupting weapon
+disruptive rod of metamagic
 dissidents gloves
 dissolution
 distracting cacophony
@@ -2154,7 +2496,9 @@ div, shira
 divide mind
 divination
 divine arrow
+divine chieftain girtablilu
 divine favor
+divine guardian hydra
 divine guardian, divine guardian hydra
 divine power
 divine pursuit
@@ -2163,8 +2507,10 @@ divine vessel
 diviners blight
 dizzying bullet
 djezet skin
+djinni genie
 do-maru
 do-maru of broken flesh
+dodo familiar
 dog
 dog, riding dog
 dogslicer
@@ -2177,16 +2523,21 @@ dominate animal
 dominate monster
 dominate person
 domination link
+domovoi house spirit
 dongun shapers touch
+donkey rat familiar
 doom
 doomharp
 doomsday key
 doppelganger
 doppelgangers sword
 doru
+doru div
 dorvae
+dosojin kami
 dossal of salt and tears
 dossenus
+dottari troop troops
 double-barreled musket
 double-barreled pistol
 double-barreled shotgun
@@ -2198,89 +2549,90 @@ double hackbut
 double walking stick katana
 doubleshot pepperbox
 dowsing syrup
+draconal agathion
 draconic ally
 draconic malice
 draconic reservoir
 draconic suppression
-dragon (black), adult black dragon
-dragon (black), ancient black dragon
-dragon (black), young black dragon
-dragon (blue), adult blue dragon
-dragon (blue), ancient blue dragon
-dragon (blue), young blue dragon
-dragon (brass), adult brass dragon
-dragon (brass), ancient brass dragon
-dragon (brass), young brass dragon
-dragon (bronze), adult bronze dragon
-dragon (bronze), ancient bronze dragon
-dragon (bronze), young bronze dragon
-dragon (copper), adult copper dragon
-dragon (copper), ancient copper dragon
-dragon (copper), young copper dragon
-dragon (gold), adult gold dragon
-dragon (gold), ancient gold dragon
-dragon (gold), young gold dragon
-dragon (green), adult green dragon
-dragon (green), ancient green dragon
-dragon (green), young green dragon
-dragon (imperial, forest), adult forest dragon
-dragon (imperial, forest), ancient forest dragon
-dragon (imperial, forest), young forest dragon
-dragon (imperial, sea), adult sea dragon
-dragon (imperial, sea), ancient sea dragon
-dragon (imperial, sea), young sea dragon
-dragon (imperial, sky), adult sky dragon
-dragon (imperial, sky), ancient sky dragon
-dragon (imperial, sky), young sky dragon
-dragon (imperial, sovereign), adult sovereign dragon
-dragon (imperial, sovereign), ancient sovereign dragon
-dragon (imperial, sovereign), young sovereign dragon
-dragon (imperial, underworld), adult underworld dragon
-dragon (imperial, underworld), ancient underworld dragon
-dragon (imperial, underworld), young underworld dragon
-dragon (other), faerie dragon
-dragon (other), prism dragon
-dragon (other), spine dragon
-dragon (other), tidepool dragon
-dragon (outer, lunar), adult lunar dragon
-dragon (outer, lunar), ancient lunar dragon
-dragon (outer, lunar), young lunar dragon
-dragon (outer, solar), adult solar dragon
-dragon (outer, solar), ancient solar dragon
-dragon (outer, solar), young solar dragon
-dragon (outer, time), adult time dragon
-dragon (outer, time), ancient time dragon
-dragon (outer, time), young time dragon
-dragon (outer, void), adult void dragon
-dragon (outer, void), ancient void dragon
-dragon (outer, void), young void dragon
-dragon (outer, vortex), adult vortex dragon
-dragon (outer, vortex), ancient vortex dragon
-dragon (outer, vortex), young vortex dragon
-dragon (primal, brine), adult brine dragon
-dragon (primal, brine), ancient brine dragon
-dragon (primal, brine), young brine dragon
-dragon (primal, cloud), adult cloud dragon
-dragon (primal, cloud), ancient cloud dragon
-dragon (primal, cloud), young cloud dragon
-dragon (primal, crystal), adult crystal dragon
-dragon (primal, crystal), ancient crystal dragon
-dragon (primal, crystal), young crystal dragon
-dragon (primal, magma), adult magma dragon
-dragon (primal, magma), ancient magma dragon
-dragon (primal, magma), young magma dragon
-dragon (primal, umbral), adult umbral dragon
-dragon (primal, umbral), ancient umbral dragon
-dragon (primal, umbral), young umbral dragon
-dragon (red), adult red dragon
-dragon (red), ancient red dragon
-dragon (red), young red dragon
-dragon (silver), adult silver dragon
-dragon (silver), ancient silver dragon
-dragon (silver), young silver dragon
-dragon (white), adult white dragon
-dragon (white), ancient white dragon
-dragon (white), young white dragon
+dragon , adult black dragon
+dragon , adult blue dragon
+dragon , adult brass dragon
+dragon , adult brine dragon
+dragon , adult bronze dragon
+dragon , adult cloud dragon
+dragon , adult copper dragon
+dragon , adult crystal dragon
+dragon , adult forest dragon
+dragon , adult gold dragon
+dragon , adult green dragon
+dragon , adult lunar dragon
+dragon , adult magma dragon
+dragon , adult red dragon
+dragon , adult sea dragon
+dragon , adult silver dragon
+dragon , adult sky dragon
+dragon , adult solar dragon
+dragon , adult sovereign dragon
+dragon , adult time dragon
+dragon , adult umbral dragon
+dragon , adult underworld dragon
+dragon , adult void dragon
+dragon , adult vortex dragon
+dragon , adult white dragon
+dragon , ancient black dragon
+dragon , ancient blue dragon
+dragon , ancient brass dragon
+dragon , ancient brine dragon
+dragon , ancient bronze dragon
+dragon , ancient cloud dragon
+dragon , ancient copper dragon
+dragon , ancient crystal dragon
+dragon , ancient forest dragon
+dragon , ancient gold dragon
+dragon , ancient green dragon
+dragon , ancient lunar dragon
+dragon , ancient magma dragon
+dragon , ancient red dragon
+dragon , ancient sea dragon
+dragon , ancient silver dragon
+dragon , ancient sky dragon
+dragon , ancient solar dragon
+dragon , ancient sovereign dragon
+dragon , ancient time dragon
+dragon , ancient umbral dragon
+dragon , ancient underworld dragon
+dragon , ancient void dragon
+dragon , ancient vortex dragon
+dragon , ancient white dragon
+dragon , faerie dragon
+dragon , prism dragon
+dragon , spine dragon
+dragon , tidepool dragon
+dragon , young black dragon
+dragon , young blue dragon
+dragon , young brass dragon
+dragon , young brine dragon
+dragon , young bronze dragon
+dragon , young cloud dragon
+dragon , young copper dragon
+dragon , young crystal dragon
+dragon , young forest dragon
+dragon , young gold dragon
+dragon , young green dragon
+dragon , young lunar dragon
+dragon , young magma dragon
+dragon , young red dragon
+dragon , young sea dragon
+dragon , young silver dragon
+dragon , young sky dragon
+dragon , young solar dragon
+dragon , young sovereign dragon
+dragon , young time dragon
+dragon , young umbral dragon
+dragon , young underworld dragon
+dragon , young void dragon
+dragon , young vortex dragon
+dragon , young white dragon
 dragon herald vestments
 dragon horse
 dragon pistol
@@ -2314,6 +2666,8 @@ drake, shadow drake
 drake, spire drake
 drakesbane horn
 draugr
+draugr captain undead pirate
+draugr pirate undead pirate
 drazmorgs stasis crucible
 dread bolt
 dread heart of life
@@ -2325,6 +2679,7 @@ dream council
 dream dalliance
 dream feast
 dream journal of the pallid seer
+dream naga
 dream reality
 dream scan
 dream shield
@@ -2333,16 +2688,32 @@ dream travel
 dream voyage
 dreamcatcher
 dreamspawn creature, dreamspawn hungry fog
+dreamspawn hungry fog dreamspawn creature
+dreamthief hag
 dreamwing cape
 drekavac
 drench
 dress corpse
+dretch demon
+drexin gremlin
+drider fleshwarp
 driftwood shield
 drinking horn of bottomless valor
 drinking horn of the panacea
 drocha swarm
 drochtac
 drow
+drow demonic champion
+drow house captain
+drow house guard
+drow master scout
+drow matron
+drow noble
+drow poison bolt
+drow poisoner
+drow priest
+drow razor
+drow scout
 drow, drow demonic champion
 drow, drow house captain
 drow, drow house guard
@@ -2352,6 +2723,7 @@ drow, drow noble
 drow, drow poisoner
 drow, drow priest
 drow, drow scout
+drowning devil
 drowning medallion
 druids vestment
 drum of advance and retreat
@@ -2368,6 +2740,17 @@ dueling dagger
 duelists comate
 duelists vambraces
 duergar
+duergar anvil
+duergar bombardier
+duergar captain
+duergar hammer
+duergar high priest
+duergar lieutenant
+duergar sergeant
+duergar sharpshooter
+duergar slaver
+duergar taskmaster
+duergar tyrant
 duergar, duergar anvil
 duergar, duergar bombardier
 duergar, duergar captain
@@ -2381,9 +2764,12 @@ duergar, duergar taskmaster
 duergar, duergar tyrant
 dull gray stone (normal) ioun stone
 dullahan
+dunagh kami
 dune boat
+dune strider girtablilu
 dunestrider boots
 dungeonsight
+dunkleosteus fish
 duplicate familiar
 duppy
 dust bolt
@@ -2404,17 +2790,24 @@ dust of weighty burdens
 dust ward
 dustburst bullet
 dusty rose prism (normal) ioun stone
+dvorovoi house spirit
+dwarf caiman familiar
 dwarfbond hammer
+dwarven boulder helmet
 dwarven dorn-dergar
 dwarven double waraxe
+dwarven longaxe
+dwarven longhammer
 dwarven maulaxe
 dwarven plate
 dwarven thrower
 dwarven urgrosh
 dwarven veil
+dwarven war-shield
 dwarven waraxe
 dweomer retaliation
 dweomercat
+dweomercat cub
 dweomercat, dweomercat cub
 dweomers essence
 dwiergeth
@@ -2425,6 +2818,7 @@ eagle
 eagle aerie
 eagle cape
 eagle eye
+eagle i
 eagle knight dress uniform
 eagle, giant eagle
 eagles splendor
@@ -2439,7 +2833,9 @@ earth breaker
 earth breaker of righted injustice
 earth child faceguard
 earth glide
+earth ossumental
 earth root boots
+earth yai oni
 earthbind rod
 earthcracker
 earthenflail
@@ -2449,14 +2845,19 @@ earthquake boots
 eastern star (normal) ioun stone
 ebon acolytus
 ebon thorn
+ebon wayfinder
 ebony bolero
 echeans excellent enclosure
 echohusk, bugbear echohusk
+echoing rod of metamagic
 echolocation
+eclipsed rod of metamagic
 ecorche
 ectoplasmic creature, ectoplasmic human
 ectoplasmic eruption
 ectoplasmic hand
+ectoplasmic human ectoplasmic creature
+ectoplasmic rod of metamagic
 ectoplasmic snare
 edimmu
 eel skin armor
@@ -2470,6 +2871,7 @@ effortless armor
 effortless lace
 effulgent geode
 efreeti bottle
+efreeti genie
 efreeti horns
 ego whip
 egophage
@@ -2479,60 +2881,74 @@ eidolon, unfettered
 einherji
 ekekeh
 ekujae jungle armor
+elasmosaurus
+elasmosaurus dinosaur
+elder air elemental
+elder cordulegaster
+elder earth elemental
+elder fire elemental
+elder ice elemental
+elder lightning elemental
+elder magma elemental
+elder mud elemental
+elder nirento
 elder sign
+elder sphinx
 elder thing
+elder water elemental
 eldritch conduit
 eldritch egress
 eldritch fever
 eldritch scholars monocle
-elemental (air), elder air elemental
-elemental (air), greater air elemental
-elemental (air), huge air elemental
-elemental (air), large air elemental
-elemental (air), medium air elemental
-elemental (air), small air elemental
-elemental (earth), elder earth elemental
-elemental (earth), greater earth elemental
-elemental (earth), huge earth elemental
-elemental (earth), large earth elemental
-elemental (earth), medium earth elemental
-elemental (earth), small earth elemental
-elemental (fire), elder fire elemental
-elemental (fire), greater fire elemental
-elemental (fire), huge fire elemental
-elemental (fire), large fire elemental
-elemental (fire), medium fire elemental
-elemental (fire), small fire elemental
-elemental (ice), elder ice elemental
-elemental (ice), greater ice elemental
-elemental (ice), huge ice elemental
-elemental (ice), large ice elemental
-elemental (ice), medium ice elemental
-elemental (ice), small ice elemental
-elemental (lightning), elder lightning elemental
-elemental (lightning), greater lightning elemental
-elemental (lightning), huge lightning elemental
-elemental (lightning), large lightning elemental
-elemental (lightning), medium lightning elemental
-elemental (lightning), small lightning elemental
-elemental (magma), elder magma elemental
-elemental (magma), greater magma elemental
-elemental (magma), huge magma elemental
-elemental (magma), large magma elemental
-elemental (magma), medium magma elemental
-elemental (magma), small magma elemental
-elemental (mud), elder mud elemental
-elemental (mud), greater mud elemental
-elemental (mud), huge mud elemental
-elemental (mud), large mud elemental
-elemental (mud), medium mud elemental
-elemental (mud), small mud elemental
-elemental (water), elder water elemental
-elemental (water), greater water elemental
-elemental (water), huge water elemental
-elemental (water), large water elemental
-elemental (water), medium water elemental
-elemental (water), small water elemental
+electric eel
+elemental , elder air elemental
+elemental , elder earth elemental
+elemental , elder fire elemental
+elemental , elder ice elemental
+elemental , elder lightning elemental
+elemental , elder magma elemental
+elemental , elder mud elemental
+elemental , elder water elemental
+elemental , greater air elemental
+elemental , greater earth elemental
+elemental , greater fire elemental
+elemental , greater ice elemental
+elemental , greater lightning elemental
+elemental , greater magma elemental
+elemental , greater mud elemental
+elemental , greater water elemental
+elemental , huge air elemental
+elemental , huge earth elemental
+elemental , huge fire elemental
+elemental , huge ice elemental
+elemental , huge lightning elemental
+elemental , huge magma elemental
+elemental , huge mud elemental
+elemental , huge water elemental
+elemental , large air elemental
+elemental , large earth elemental
+elemental , large fire elemental
+elemental , large ice elemental
+elemental , large lightning elemental
+elemental , large magma elemental
+elemental , large mud elemental
+elemental , large water elemental
+elemental , medium air elemental
+elemental , medium earth elemental
+elemental , medium fire elemental
+elemental , medium ice elemental
+elemental , medium lightning elemental
+elemental , medium magma elemental
+elemental , medium mud elemental
+elemental , medium water elemental
+elemental , small air elemental
+elemental , small earth elemental
+elemental , small fire elemental
+elemental , small ice elemental
+elemental , small lightning elemental
+elemental , small magma elemental
+elemental , small mud elemental
+elemental , small water elemental
 elemental assessor
 elemental aura
 elemental body
@@ -2542,6 +2958,7 @@ elemental chain
 elemental earth belt
 elemental gem
 elemental mastery
+elemental rod of metamagic
 elemental speech
 elemental storing stone
 elemental swarm
@@ -2573,6 +2990,7 @@ elixir of truth
 elixir of tumbling
 elixir of two worlds
 elixir of vision
+elk herd animal
 eloko bell
 elude time
 elven branched spear
@@ -2583,11 +3001,14 @@ elven still (elf)
 elven thornblade
 elven vengeance
 elysian shield
+elysian titan
 embalming bear
 embalming thread
+ember weaver psychopomp
 emberchill
 emblazon crest
 emblem of greed
+embolotherium megafauna
 embrace destiny
 emei piercer
 emerald automaton
@@ -2597,9 +3018,12 @@ emissarys breastplate
 emkrah
 emotive block
 empathy conduit
+emperor cobra snake
 emperor of scales
+emperor walrus
 emperors mammoth
 empower holy water
+empower rod of metamagic
 empty hands
 empyreal armor
 empyreal lord, cernunnos
@@ -2611,10 +3035,12 @@ enchantment foil
 enchantment sight
 endless bandolier
 endothermic touch
+ends voice herald
 endure elements
 enduring bloom
 enemy hammer
 enemy insight
+enemy of all enemies ovinrbaane
 enemys heart
 energy drain
 energy hack
@@ -2626,8 +3052,11 @@ engineers workgloves
 enhance water
 enhanced diplomacy
 enlarge person
+enlarge rod of metamagic
 enlarge tail
+enlightened contemplative
 enlightened step
+enlightened vampire
 enmity fetish
 enshroud thoughts
 entangle
@@ -2642,15 +3071,22 @@ entropic shield
 entwined syrinx
 envious urge
 ephemeral echo
+ephialtes kyton
 epidemic
 equalizer shield
 equestrian belt
 equestrian plate
+equine bone golem
 erase
 erase impressions
 ercinee
+erelim angel
+eremite kyton
+erinat gremlin
 erinyes company cloak
+erinyes devil
 erlking
+erodaemon
 erode defenses
 erotundee, keeper of the risen light
 errani kamaki (gillmen)
@@ -2660,10 +3096,11 @@ escape dust
 escape ladder
 escaping ward
 escorite
+esobok psychopomp
 essence of wandering dreams
 estoc
-estuarine worm, estuarine worm (ahket form)
-estuarine worm, estuarine worm (shemu form)
+estuarine worm
+estuarine worm, estuarine worm
 eternal egg
 eternal iron breastplate
 ethereal envelope
@@ -2682,6 +3119,7 @@ eurypterid, common eurypterid
 eurypterid, ochre eurypterid
 eurypterid, spiny eurypterid
 eurypterid, spitting eurypterid
+evaluator robot
 evaluators lens
 everbloom thorn
 everblooms rose
@@ -2694,7 +3132,11 @@ evidentiary dust
 evolution surge, lesser
 excruciating deformation
 executioners hand
+executioners hood lurking ray
 exorcists aspergillum
+exoskeleton giant cockroach
+exoskeleton giant stag beetle
+exoskeleton titan centipede
 exoskeleton, exoskeleton giant cockroach
 exoskeleton, exoskeleton giant stag beetle
 exoskeleton, exoskeleton titan centipede
@@ -2709,6 +3151,7 @@ explosion of rot
 explosion pocket
 explosive runes
 exquisite accompaniment
+extend rod of metamagic
 extraction scarificator
 extractors gloves
 extreme buoyancy
@@ -2717,6 +3160,7 @@ eye-stealing locket
 eye of abenatrex
 eye of brokerage
 eye of horus amulet
+eye of lamashtu gnoll
 eye of rapture
 eye of scrying
 eye of the mantis
@@ -2736,6 +3180,7 @@ eyes of the eagle
 eyes of the liar
 eyes of the owl
 eyes of the void
+eygreas medusa
 ez-azael
 fable tapestry
 fabricate
@@ -2746,6 +3191,7 @@ face of the devourer
 faceless stalker
 faceless whale
 fachen
+faerie dragon
 faerie fire
 fafnheir
 fairness
@@ -2767,6 +3213,7 @@ false life
 false vision
 familiar figment
 familiar melding
+familiar rod of metamagic
 familiar, archaeopteryx
 familiar, arctic hare
 familiar, arctic tern
@@ -2839,6 +3286,7 @@ fear eater
 fear the sun
 feargaunt
 fearsome duplicate
+fearsome rod of metamagic
 feast of ashes
 feast of rats
 feast on fear
@@ -2858,6 +3306,7 @@ fellsig
 feranth
 fester
 festering spirit
+festering ulunat spawn of rovagug
 festrog
 fetchling
 fetish of natural armor
@@ -2866,15 +3315,15 @@ fext
 fey animal
 fey creature, fey giant toad
 fey gate
+fey giant toad fey creature
 fey map
 feychild necklace
 fickle winds
 field medics breastplate
 field plate
+field plate armor
 field scriveners desk
-fiend-bred animal, chelish hell-bred dog
-fiend-bred animal, quillcat
-fiend-bred animal, stygian hot-blooded horse
+fiend-infused golem
 fiends relief
 fiery body
 fiery nimbus rod
@@ -2894,12 +3343,24 @@ find the path
 find traps
 finger of death
 fins to feet
+fire beetle
+fire bolt
 fire breath
+fire giant
+fire giant doombringer
+fire giant glaive
+fire giant king
+fire giant king orynox marchelin
+fire giant lieutenant
+fire giant magmablade
+fire giant queen
+fire giant strongarm
 fire goddesss blade
 fire lance
 fire of entanglement
 fire of judgment
 fire of vengeance
+fire ossumental
 fire seeds
 fire shield
 fire snake
@@ -2907,8 +3368,8 @@ fire sneeze
 fire storm
 fire trail
 fire trap
-firearm bullet (1)
-firearm bullet (30)
+fire yai oni
+firearm bullet
 firearm bullet, silver
 fireball
 firebelly
@@ -2928,21 +3389,25 @@ fish, giant blowfish
 fish, swordfish
 fish, tiger fish
 fish, varisian hagfish
+fjord linnorm
 flail snail
 flailpole
 flak
 flambard
 flame arrow
 flame blade
+flame drake
 flame of bakrakhan
 flame of guidance
 flame strike
 flame tongue
 flames of the faithful
 flaming aura
+flaming skull beheaded
 flaming sphere
 flamma horacalcum
 flare
+flaring rod of metamagic
 flash fire
 flash forward
 flask of ebon flame
@@ -2956,6 +3421,8 @@ flea, mammoth flea
 flechette bolt
 fleeting defect
 fleeting memory
+flesh-eating cockroach swarm
+flesh golem
 flesh puppet
 flesh to ooze
 flesh to stone
@@ -2977,12 +3444,16 @@ fleshy facade
 flexible fury
 flexile curse
 flickering lights
-flight arrows (20)
+flight arrows
+flind gnoll
 flindbar
 floating disk
 floating sail
+flood troll
+floodslain arsinoitherium floodslain creature
 floodslain creature, floodslain arsinoitherium
 floodslain creature, floodslain orc
+floodslain orc floodslain creature
 flowing fortress armor
 fluid form
 flumph
@@ -2996,7 +3467,9 @@ flying platform
 flying polyp
 flying skiff
 flying sled
+flying squirrel familiar
 flying talon
+focused rod of metamagic
 focused scrutiny
 focused shadowcraft weapon
 focusing flask
@@ -3010,6 +3483,8 @@ follow aura
 font of spirit magic
 foo creature, foo dog
 foo creature, foo lion
+foo dog foo creature
+foo lion foo creature
 fools forbiddance
 fools gold
 fools scepter
@@ -3029,13 +3504,14 @@ forced repentance
 forceful hand
 forceful strike
 foresight
+forest drake
 forest friend
 foretell failure
 forge fist amulet
 forge spurned
 forgefathers half-plate
 forgefathers sledge
-forgefiend (scanderig)
+forgefiend
 forgers friend
 forgetful slumber
 fork of the forgotten one
@@ -3044,25 +3520,39 @@ form-fixing gauntlets
 form of the alien dragon
 form of the dragon
 form of the exotic dragon
+formian myrmarch
+formian queen
+formian taskmaster
+formian warrior
+formian worker
 formian, formian myrmarch
 formian, formian queen
 formian, formian taskmaster
 formian, formian warrior
 formian, formian worker
 formula alembic
+forsaken arbalester forsaken legion
 forsaken banded mail
+forsaken defender forsaken legion
+forsaken foot soldier forsaken legion
 forsaken legion, forsaken arbalester
 forsaken legion, forsaken defender
 forsaken legion, forsaken foot soldier
+forsaken lich
 fortifying leeches
 fortifying stone
 fortress shield
 fortunate charm
 fortunes arrow
 fossegrim
+fossil golem
 foster hatred
+four-armed gargoyle
+four-armed mudra skeleton
+four-armed mutant sahuagin mutant
 four-leaf clover
 four-mirror
+fox familiar
 foxs cunning
 fractions of heal and harm
 free swim
@@ -3071,6 +3561,7 @@ freedom of movement
 freedoms toast
 freezing flow
 freezing sphere
+freshwater merrow
 frightful aspect
 frightful haunter
 frigid souls
@@ -3081,15 +3572,26 @@ froghemoth
 frontoviks gas mask
 frost-thunder hammer
 frost brand
+frost drake
 frost fall
 frost fir
 frost fist amulet
+frost giant
+frost giant battle priest
+frost giant elite scout
+frost giant houndmaster
+frost giant hunter
+frost giant ice mage
+frost giant jarl
+frost giant jarl valonesse hergrut
+frost giant raider
 frost mammoth
 frost worm
 frostbite
 frostbite sling
 frostblood axe
 frostfallen creature, frostfallen mammoth
+frostfallen mammoth frostfallen creature
 frosthammer
 frostkiss whip
 frostwild bridle
@@ -3098,9 +3600,12 @@ frosty chiseler
 frozen crossbow
 frozen heart of cocytus
 frozen note
+fuath gremlin
 fugitive finder
 fugitives grenade
+fukujin kami
 full plate
+full plate armor
 full plate of the corpse
 full pouch
 fumblestep
@@ -3111,8 +3616,11 @@ funerary crown of the true king
 fungal crawler
 fungal creature, fungal nymph
 fungal infestation
+fungal nymph fungal creature
+fungus leshy
 fungus queen
 furious fire barrage
+furious rod of metamagic
 fury of the sun
 fyndylsnitch the shadowking
 gaki
@@ -3121,11 +3629,14 @@ gale spirit
 gallant inspiration
 gallowdead
 gallows rope
+gallu demon
 galundari, the scourge of heaven
 galvo
+gambling devil
 gamboge nodule (normal) ioun stone
 game of fortunate passing
 gammenore
+gandareva azi
 gandasa
 ganji doll
 ganji doll (greater)
@@ -3133,8 +3644,11 @@ gar
 gar, giant gar
 garden of peril
 garden ooze
+gare linnorm
 gargiya
 gargoyle
+gargoyle abductor
+gargoyle guardian
 gargoyle, four-armed gargoyle
 gargoyle, gargoyle abductor
 gargoyle, gargoyle guardian
@@ -3143,6 +3657,7 @@ garipan
 garrote
 garrulous grin
 garuda
+garvok sword of wrath
 gas-trap cylinder
 gas cylinder
 gaseous form
@@ -3161,6 +3676,7 @@ gauntlets of the unchained
 gauntlets of the weaponmaster
 gauntlets of twisting vines
 gearghost
+gearsman robot
 geas, lesser
 gebs hammer
 geist
@@ -3178,6 +3694,7 @@ genie, marid
 genie, shaitan
 geniekind
 genius avaricious
+genthodaemon
 gentle breeze
 gentle repose
 gentlemans foil (taldan)
@@ -3187,18 +3704,23 @@ get of iblis
 getaway
 getaway boots
 geyser
+ghaele azata
 ghalshoaton
+ghawwas div
 ghelarn
 gholdako
+ghonhatine fleshwarp
 ghoran
 ghorazagh
 ghost
 ghost brand
+ghost captain undead pirate
 ghost iron scimitar
 ghost mirror
 ghost mirror armor
 ghost needle
 ghost powder
+ghost scorpion
 ghost sound
 ghost whip
 ghost wolf
@@ -3207,9 +3729,14 @@ ghostlight lantern
 ghostly disguise
 ghostvision gloves
 ghoul
+ghoul commander
+ghoul creeper
 ghoul hide
 ghoul hound
 ghoul hunger
+ghoul huntsmaster
+ghoul monarch
+ghoul stalker
 ghoul stone
 ghoul touch
 ghoul, ancient gravedigger
@@ -3224,34 +3751,94 @@ ghouls lament
 ghristah
 ghul
 giant-hide armor
-giant (fire), fire giant
-giant (fire), fire giant doombringer
-giant (fire), fire giant glaive
-giant (fire), fire giant king
-giant (fire), fire giant lieutenant
-giant (fire), fire giant magmablade
-giant (fire), fire giant queen
-giant (fire), fire giant strongarm
-giant (frost), frost giant
-giant (frost), frost giant battle priest
-giant (frost), frost giant elite scout
-giant (frost), frost giant houndmaster
-giant (frost), frost giant hunter
-giant (frost), frost giant ice mage
-giant (frost), frost giant jarl
-giant (frost), frost giant raider
+giant , fire giant
+giant , fire giant doombringer
+giant , fire giant glaive
+giant , fire giant king
+giant , fire giant lieutenant
+giant , fire giant magmablade
+giant , fire giant queen
+giant , fire giant strongarm
+giant , frost giant
+giant , frost giant battle priest
+giant , frost giant elite scout
+giant , frost giant houndmaster
+giant , frost giant hunter
+giant , frost giant ice mage
+giant , frost giant jarl
+giant , frost giant raider
+giant adult ant lion
+giant amoeba
+giant anaconda snake
+giant ant
+giant ant lion
+giant assassin bug desert vermin
+giant bee
+giant beheaded
+giant black widow spider
+giant blowfish
+giant botfly
+giant centipede
+giant chameleon lizard
+giant cockroach
+giant crab
+giant crab spider
+giant crawling hand
 giant dragonfly
+giant dragonfly nymph
 giant dragonfly, giant dragonfly nymph
+giant eagle
+giant emperor scorpion
 giant fist gauntlets
+giant flea
 giant fly
 giant flytrap
 giant form
+giant frilled lizard
+giant frog
+giant gar
+giant gecko lizard
+giant ground wasp desert vermin
 giant hellgrammite
+giant hook fly
+giant isopod familiar
+giant jellyfish
+giant leech
+giant locust
 giant maggot
+giant mantis
+giant moray eel
+giant mosquito
+giant octopus
+giant owl
+giant phantom armor
+giant porcupine
+giant queen bee
 giant raven
+giant rot grub
+giant scorpion
 giant sea anemone
+giant sea snake
+giant seahorse
+giant skunk
 giant slug
+giant snapping turtle
+giant spider
+giant squid
+giant stag beetle
+giant stymphalidies stymphalide
+giant tarantula spider
+giant tick
+giant toad
+giant tortoise
 giant vermin
+giant vulture
+giant walking stick desert vermin
+giant wasp
+giant water strider
+giant weasel
+giant whiptail centipede
+giant zombie
 giant, ash giant
 giant, cave giant
 giant, cliff giant
@@ -3272,6 +3859,7 @@ giant, tomb giant
 giant, wood giant
 giants nail scale mail
 gibbering mouther
+gibrileth demon
 gift of the deep
 gigas, abaddon gigas
 gigas, hell
@@ -3281,6 +3869,7 @@ gillman, awakened agent
 gillman, ship scavenger
 gillman, squall seer
 gillman, wet-house emissary
+giraffe herd animal
 girallon
 gird ally
 girtablilu
@@ -3289,13 +3878,17 @@ girtablilu, dune strider
 girtablilu, quick striker
 girtablilu, raging sting
 glabrezu claw
+glabrezu demon
+glacier toad
 gladiators sandals
 gladius
 glaive
 glaive-guisarme
 glaive-guisarme of the vanguard
 glarecutter goggles
+glass golem
 glass of veils
+glass urchin
 glibness
 glide
 glimpse of the akashic
@@ -3310,6 +3903,7 @@ gloom blade
 gloomblind bolts
 gloomwasp
 gloomwing
+glorious reclamation troops
 glorious tabard
 glory medallion
 glove of familiars touch
@@ -3340,9 +3934,18 @@ gloves of unfolding wind
 glowing glove
 glowing gourd
 glue seal
+glutton of the green shaorhaz
 glyph of warding
 glyphbane gloves
 gnoll
+gnoll bouda
+gnoll bruiser
+gnoll lieutenant
+gnoll packlord
+gnoll rageborn
+gnoll ravager
+gnoll sergeant
+gnoll warden
 gnoll, chosen of lamashtu
 gnoll, eye of lamashtu
 gnoll, flind
@@ -3361,14 +3964,23 @@ gnome pincher
 gnome scrap armor (gnome)
 gnoph-keh
 goad of obedience
+goat familiar
 goblet of liquefied cognition
 goblet of quenching
 goblin
+goblin chief
+goblin commando
 goblin dog
 goblin fire drum
+goblin firestarter
+goblin frog-talker
+goblin outrider
 goblin plate (goblin)
 goblin skull bomb
 goblin snake
+goblin sneak
+goblin stickylord
+goblin vulture pilot
 goblin, goblin chief
 goblin, goblin commando
 goblin, goblin firestarter
@@ -3428,13 +4040,19 @@ golem, stone golem
 golem, wax golem
 golem, wood golem
 golembane scarab
+goliath spider
+goliath stag beetle
+gongorinan qlippoth
 good hope
 goodberry
 goreclaw of thercerrod
 gorget of living whispers
 gorgon
 gorgon belt
+gorilla ape
 gorthek masks
+gorthek orc
+gorthek rider orc
 gorums armor
 gorums thorn
 gory beacon
@@ -3442,7 +4060,9 @@ gorynych
 gossamer amberstone
 gossip glass
 gossipers gourd
+gourd leshy
 gourd of fire burping
+governess of casnoriva kaltestrua
 goz mask
 gozrehs trident
 grace
@@ -3461,6 +4081,7 @@ grave candle
 grave marker arrow
 grave salt
 grave words
+gravedragger herald
 graveknight
 gravel vortex
 graven guardian
@@ -3479,20 +4100,56 @@ gray ooze
 gray render
 grease
 great barghest hero cloak
+great cyclops
+great diadem urchin
+great elder iuu herald
+great horned owl
 great old one, bokrug
 great old one, cthulhu
 great old one, hastur
 great old one, ithaqua
 great terbutje
+great white shark
+great white whale
 greataxe
 greatclub
 greatcube of jayalakshmi
+greater (varisian) hallowed chain
+greater air elemental
+greater assassins sight
+greater barghest
+greater best friend pendant
+greater casters shield
+greater celestial healing
+greater channel-thieving belt
+greater coat of the undercity
+greater dire collar
+greater earth elemental
+greater fire elemental
 greater hat of disguise
+greater ice elemental
+greater lightning elemental
+greater magma elemental
+greater monster almanac
+greater mud elemental
+greater murderers machete
+greater polymorph
+greater prying eyes
+greater prying ice
+greater sealed life
+greater shadow
+greater status
+greater time bomb
+greater verduous ooze verdurous ooze
+greater water elemental
+greater witchcrow
 greathelm of the mammoth lord
 greatsword
 green caress
+green hag
 greenblood scourge
 greensight
+greensting scorpion
 greensurge bomb
 gremlin-skin drum
 gremlin bell
@@ -3513,13 +4170,20 @@ griffon, karadoon
 grig
 grim gloom mail
 grim lantern
+grim reaper
 grim stalker
+grimple gremlin
 grimslake
 grindylow
 grioth
 grippli
+grizzled rider goblin
+grizzly bear
+groaning bullets
 grodair
 grootslang
+grothlut fleshwarp
+ground wasp swarm
 groundbreaker cloak
 grounding rod
 groundswell
@@ -3532,8 +4196,12 @@ guardian doll
 guardian gorget
 guardian key
 guardian monument, lesser
+guardian naga
 guardian of faith
+guardian of the amatatsu suishen
+guardian phantom armor
 guardian scroll
+guardian spirit imp
 guardian spirit, guardian spirit imp
 guarding blade
 guarding knowledge
@@ -3556,10 +4224,13 @@ gust of wind
 gusting sphere
 gutbite belt
 gutdragging lurcher
+gylptodon megafauna
+gynosphinx
 habit of the winter explorer
 hadhayosh
 hag eye ooze
 hag eye ooze, coven ooze
+hag i ooze
 hag, annis hag
 hag, ash hag
 hag, blood hag
@@ -3572,22 +4243,24 @@ hag, storm hag
 hag, winter hag
 hags shabble
 hairline fractures
+hala demon
 halberd
 half-blood extraction
-half-celestial (unicorn)
-half-dragon (black dragon, basilisk)
-half-fiend (minotaur)
+half-celestial
+half-dragon
+half-fiend
+half-fiend scion urdefhan
 half-plate
 half-plate of the dark prince
 halflight charm
 halflight charm (greater)
 halfling double sling
-halfling little starstones (10)
+halfling little starstones
 halfling rope-shot
-halfling sharpstones (10)
+halfling sharpstones
 halfling sling staff
-halfling softstones (10)
-halfling spongestones (10)
+halfling softstones
+halfling spongestones
 halfling stitched sling
 hallow
 hallowed chain (varisian)
@@ -3596,12 +4269,15 @@ hallucinatory terrain
 hallucinogenic smoke
 halo of inner calm
 halo of menace
+halsora fleshwarp
 halt undead
 hamadryad
 hamatula hide
 hamatulatsu robe
+hammer archon
 hammer of mending
 hammer of thunderbolts
+hammerhead shark
 hammertail
 hanbo
 hand crossbow
@@ -3610,20 +4286,24 @@ hand of glory
 hand of hoarded deaths
 hand of stone
 hand of the honest man
+hand of the inheritor herald
 hand of the mage
 hand of the theurge
 hand wraps of blinding ki
 handaxe
 handflower of genocide
 handkerchief of finding
+handmaiden devil
 handstraps of roofjumping
 handy grapnel
 handy haversack
 hangman tree
 hangmans noose
+haniver gremlin
 hanshepsu
 hanspurs flotsam vessel
 haramaki
+harbinger archon
 hardening
 harionago
 harm
@@ -3642,6 +4322,7 @@ harrowing
 harvest season
 harvesting lens
 haste
+hastur great old one
 hat of disguise
 hat of infinite disguises
 haunt siphon
@@ -3651,6 +4332,7 @@ haunting choir
 haunting mists
 haunting reminder
 havero
+hawk familiar
 haykalis house of cards
 haze of dreams
 head piercings
@@ -3699,6 +4381,7 @@ heartripper blade
 hearts bane
 hearts edge
 heartspit
+heartstake bolts
 heartswood spear
 heat metal
 heatstroke
@@ -3709,16 +4392,21 @@ heavy mace
 heavy pick
 heavy shield
 heavy slavers crossbow
-heavy steel
+heavy steel shield
 heavy water
-heavy wooden
+heavy wooden shield
 heavy wrist launcher
 heavyload belt
 heckle
+hedgehog familiar
 hedging weapons
+hegessik protean
 heightened awareness
 heightened reflexes
+hekatonkheires titan
+helicoprion shark
 helicyon
+hell gigas
 hell hound
 hell hound, nessian warhound
 hellcallers edge
@@ -3731,6 +4419,7 @@ hellknight leather
 hellknight plate
 hellmouth lash
 hells eye
+hells i
 hellscourge
 hellwasp swarm
 helm of brilliance
@@ -3773,7 +4462,6 @@ herald, the old man
 herald, the prince in chains
 herald, the spirit of adoration
 herald, the stabbing beast
-herald, the stabbing beast (scorpion form)
 herald, yethazmari
 herbs of the primal beast
 herd animal, antelope
@@ -3785,7 +4473,9 @@ herd animal, giraffe
 herd animal, ram
 herd animal, river elk
 herd animal, stag
+herecite of asmodeus
 herecite, herecite of asmodeus
+heresy devil
 heretics tongue
 hermean potential
 hermetic flask
@@ -3799,19 +4489,21 @@ heros blade
 heros defiance
 heros hauberk
 heros release pendant
+hetkoshu crocodile
 hex glyph
 hex nail
 hex vulnerability
 hex ward
 hexing doll
 hexing runes
+hezrou demon
 hezzilreens spellbook
 hibernate
 hidden blades
 hidden knowledge
 hidden presence
 hidden speech
-hide
+hide armor
 hide campsite
 hide from animals
 hide from undead
@@ -3819,21 +4511,35 @@ hide of the dragonrider
 hide shirt
 hide weapon
 hideous laughter
+hieracosphinx
 high elven bracers
 highwaymans cape
+hill giant
+hill giant chieftain urburg armbreaker
 hippocampus
 hippogriff
 hippopotamus
 hippopotamus, behemoth hippopotamus
 hiracapath
+hive larva swarm
 hive mind beetle swarm
+hive queen
+hive warrior
 hive, hive larva swarm
 hive, hive queen
 hive, hive warrior
 hivebrain symbiote
 hoary muntjac
 hobgoblin
+hobgoblin battle priest
 hobgoblin battle standard
+hobgoblin battlefield zealot
+hobgoblin bombardier
+hobgoblin commander
+hobgoblin forerunner
+hobgoblin lieutenant
+hobgoblin paragon
+hobgoblin sergeant
 hobgoblin, hobgoblin battle priest
 hobgoblin, hobgoblin battlefield zealot
 hobgoblin, hobgoblin bombardier
@@ -3849,6 +4555,7 @@ hold person
 hold portal
 holdout wand wrap
 hollow blades
+hollow helm phantom armor
 hollow rod
 hollow serpent
 hollow serpent, lesser hollow serpent
@@ -3867,17 +4574,21 @@ holy word
 home stone
 homunculus
 homunculus clay
+hon i d tongue
 honeyed tongue
 honeytongue elixir
+honored of kaoling kanabo
 honors panoply
 hood of privacy
 hood of the living
+hook fly swarm
 hook fly, giant hook fly
 hook fly, hook fly swarm
 hook hand
 hooked axe
 hooked lance
 hooked massacre
+horn lamellar armor
 horn of antagonism
 horn of assured victory
 horn of battle clarity
@@ -3894,6 +4605,7 @@ horn of the tritons
 horn of the war-leader (half-orc)
 horn of valhalla
 hornbow, orc
+horned devil
 horned helm of the wild stag
 horns of naraga
 horrid wilting
@@ -3914,14 +4626,18 @@ horseshoes of mist
 horseshoes of sacred silver
 horseshoes of speed
 hospitalitys hammock
+host devil
 hostile juxtaposition
 hostile levitation
 hotchkiss 6 pounder
+hound archon
+hound archon troop troops
 hound of tindalos
 hourglass of last chances
 hourglass of shadows
 hourglass of transfiguration
 hourglass quarterstaff
+house centipede familiar
 house spirit, domovoi
 house spirit, dvorovoi
 house spirit, ovinnik
@@ -3929,24 +4645,38 @@ howler
 howling agony
 howling bracers
 howling helm
+howling horn relic of kazavon
 howling skull armor
 huecuva
+huge air elemental
+huge earth elemental
+huge fire elemental
+huge ice elemental
+huge lightning elemental
+huge magma elemental
+huge mud elemental
+huge water elemental
 huldra
 human potential
+human skeleton
+human zombie
 humbaba
 hunga munga
 hunger for flesh
+hungerer lamia-kin
 hungry darkness
 hungry earth
 hungry flesh
 hungry fog
 hungry mist
+hunter urchin
 hunters band
 hunters blessing
 hunters cloak
 hunters eye
 hunters friend
 hunters howl
+hunters i
 hunters lore
 hunters mambele (mwangi)
 hunters nose ring
@@ -3965,12 +4695,13 @@ hydra
 hydra, dhirgiska
 hydraulic push
 hydraulic torrent
+hydrodaemon
 hydrodaemon runestone
 hydrophobia
 hyena
 hyena shawl
 hyena spirit skin
-hyena, dire hyena (hyaenodon)
+hyena, dire hyena
 hymn of peace
 hyperboreal robe
 hypercognition
@@ -3979,14 +4710,44 @@ hypnotic pattern
 hypnotic tattoo
 hypnotic wayfinder
 hypnotism
+i-stealing locket
+i bite
+i of abenatrex
+i of brokerage
+i of horus amulet
+i of lamashtu gnoll
+i of rapture
+i of scrying
+i of the mantis
+i of the overwatched
+i of the void
+i orb
+i patch of infamy (half-orc)
+i piercings
+iathavos qlippoth
 ice armor
 ice body
 ice crystal teleport
+ice devil
 ice fang
 ice floe elixir
+ice golem
+ice linnorm
+ice of charming
+ice of doom
+ice of i bite
+ice of keen sight
+ice of mind reading (android)
+ice of the dragon
+ice of the eagle
+ice of the liar
+ice of the owl
+ice of the void
 ice slick
 ice spears
 ice storm
+ice troll
+ice yai oni
 icecrown of irrisen
 icelink chainmail
 icicle dagger
@@ -3999,12 +4760,15 @@ id insinuation
 id portrait
 identify
 idol of the eye
+idol of the i
 idol, bone
 idol, jade
 idol, stone
 idol, wood
 ifrit
 ignoble form
+iguanodon
+iguanodon dinosaur
 ijiraq
 ikarikurusai, the raging cyclone
 ikelos
@@ -4027,10 +4791,14 @@ imbue with aura
 imbue with elemental might
 imbue with flight
 imbue with spell ability
+imentesh protean
+immense tortoise
 immolation cloak
+immolation devil
 immortal ichor
 immovable rod
 immured
+imp devil
 impact gauntlets
 impaler of thorns
 impaler shrike
@@ -4062,7 +4830,9 @@ incense of meditation
 incense of open thoughts
 incense of transcendence
 incorporeal chains
+incubus demon
 incutilis
+incutilis lord
 incutilis, incutilis lord
 indarugant
 independent cube of force
@@ -4102,6 +4872,7 @@ inkanyamba
 inner focus
 innocence
 innocuous shape
+inquisitor troop troops
 inquisitors bastion vambraces
 inquisitors monocle
 insanity
@@ -4120,13 +4891,16 @@ instant fortress
 instant muzzle
 instant portrait
 instant restoration
+instant suffocation
 instant summons
 instant weapon
 instigate psychic duel
 instrument of agony
 intellect devourer
 intellect fortress
+intensified rod of metamagic
 intensify psyche
+interlocutor kyton
 interplanetary teleport
 interposing hand
 interrogation
@@ -4135,6 +4909,7 @@ inverted giant
 investigative mind
 investigators pipe
 invidian eye
+invidian i
 invigorate
 invigorating poison
 invigorating repose
@@ -4147,11 +4922,16 @@ invisibility purge
 invisibility sphere
 invisible stalker
 invoke primal power
+iophanite angel
 ioun spite bracers
 ioun stones, thassilonian
 ioun torch
+ioun wyrd familiar
 iridescent spindle (normal) ioun stone
 irlgaunt
+irnakurse fleshwarp
+irom lamellar armor
+iron-tipped distance arrow
 iron band of iron mind
 iron bands of binding
 iron body
@@ -4161,6 +4941,7 @@ iron cobra
 iron cobra gauntlet
 iron collar of the unbound coven
 iron flask
+iron golem
 iron guard pauldrons
 iron lash
 iron lords transforming slivers
@@ -4184,17 +4965,22 @@ irresistible dance
 irriseni mirror sight
 isitoq
 isolate
+itaraak champion strix
 itching curse
+ithaqua great old one
 ivory baton
 ixion worm
+ja noi oni
 jabberwock
 jack-o-lantern
 jackal
 jackals blade
 jackalwere
+jade idol
 jade mantis
 jagged hooks
 jalhazars wheel
+janni genie
 jar of dragons teeth
 jar of haunt siphoning
 jar of lightning
@@ -4207,13 +4993,18 @@ javelin of lightning
 jawbone of the venerable galevius
 jealous rage
 jellyfish cape
+jellyfish swarm
 jellyfish, death’s head jellyfish
 jellyfish, giant jellyfish
 jellyfish, jellyfish swarm
 jellyfish, sapphire jellyfish
 jesters jaunt
+jiang-shi vampire
+jigsaw shark
 jingasa of the fortunate soldier
+jinkin gremlin
 jinmenju
+jinushigami kami
 jinx eaters shirt (tengu)
 jitterbugs
 jolt
@@ -4221,6 +5012,7 @@ jolting dart
 jolting portent
 jorngarls harm
 jorogumo
+jotund troll
 joyful rapture
 jubjub bird
 judges wig
@@ -4228,19 +5020,29 @@ judgment light
 judicial hammer
 juggerloathe
 juggernaut
+juggernaut beetle
+juggernaut robot
 juggernauts pauldrons
+juju zombie
 jump
 jumping cinder
 jungle boots
+jungle giant
 jungle mind
+jungle trickster charau-ka
+junk golem
 junkblade (goblin)
 jury-rig
 jutte
+juvenile rukh
+juvenile seps
 jyoti
 kaiju, agyra
 kaiju, bezravnis
 kaiju, mogaru
+kakapo familiar
 kakuen-taka
+kalavakus demon
 kalistocrats coin
 kalistocrats gloves
 kalistocrats nightmare
@@ -4258,12 +5060,16 @@ kami, shikigami
 kami, suijin
 kami, toshigami
 kami, zuishin
+kaminari
 kanabo, honored of kaoling
 kangaroo
+kapoacinth hunter gargoyle
 kappa
 kapre
 kapre cigar
+karadoon griffon
 karkinoi
+karkinoi brood swarm
 karkinoi, karkinoi brood swarm
 karmic blessing
 karumzek
@@ -4274,18 +5080,22 @@ kasatha
 kasatha spinal sword
 katana
 katar, tri-bladed
+katpaskir demon
 katroome
 kech
 keen edge
 keen senses
 keep watch
+keeper of the risen light erotundee
 keffiyeh of cooling
+keketar protean
 kelpie
-kelpie’s wrath
+kelpies wrath
 kerambit
 kerchief of remembrance
+kere psychopomp
 kestros
-kestros dart (10)
+kestros dart
 key of lock jamming
 key of the second vault
 keyhole stiletto
@@ -4303,10 +5113,13 @@ ki shout
 kijimuna
 kikko
 kikuyas sensu
+killer seahorse
 kimlé coat
+kin seeker ogrekin
 kinbonded bow
 kinetic reverberation
 kineticists diadem
+king crab familiar
 kings castle
 kins face tattoo
 kinsight goggles
@@ -4314,6 +5127,7 @@ kirin
 kirrix
 kiss of noctura
 kiss of the first world
+kithangian demon
 kitharodian pen
 kitsune
 kitsune star gem
@@ -4328,7 +5142,19 @@ know peerage
 know the enemy
 knuckle axe
 knucklebone of fickle fortune
+koala familiar
 kobold
+kobold battle master
+kobold blade
+kobold bomber
+kobold chieftain
+kobold devilspeaker
+kobold guilecaster
+kobold master trapper
+kobold monster wrangler
+kobold scalecaster
+kobold sniper
+kobold yapper
 kobold, kobold battle master
 kobold, kobold blade
 kobold, kobold bomber
@@ -4340,24 +5166,33 @@ kobold, kobold monster wrangler
 kobold, kobold scalecaster
 kobold, kobold sniper
 kobold, kobold yapper
+kodama kami
 kohl of uncanny discernment
 kokogiak
+kolyarut inevitable
 kongamato
 kongmato
+korada empyreal lord
 korir-kokembe
 korred
+kostchtchie demon lord
 kraken
 kraken, qwoshokk
+kreegwood stalker ogrekin
 kreightons perusal
 krenshar
+kronosaurus primeval sea creature
+kuchrima lamia-kin
 kukri
 kumade
 kumade, collapsible
 kunai
+kuribu angel
 kurshu the undying
 kuru
 kusari gusoku
 kusarigama
+kuwa oni
 kybwaka war mask
 kyoketsu shoge
 kyonin bliss
@@ -4375,15 +5210,19 @@ kyton, ostiarius
 kyton, sacristan
 kyton, termagant
 labrys of the stone idol
+labyrinth guardian minotaur
+labyrinth minotaur
 lacerating rapier
+lacridaemon
+lady of stone akilep
 ladys spiral
 lambent window
-lamellar (horn)
-lamellar (iron)
-lamellar (leather)
-lamellar (steel)
-lamellar (stone)
 lamellar cuirass
+lamellar horn armor
+lamellar iron armor
+lamellar leather armor
+lamellar steel armor
+lamellar stone armor
 lament of summers last breath
 lamhigyn
 lamia
@@ -4393,17 +5232,30 @@ lamia matriarch
 lammasu
 lamp of fiery visions
 lampad
+lampadarius kyton
 lance
 lance of jousting
 languid bomb admixture
 languid venom
+lantern archon
 lantern of auras
 lantern of concealment
 lantern of dancing shadows
 lantern of hidden light
 lantern of revealing
+lapsudaemon
 lar
 larabay
+large air elemental
+large earth elemental
+large fire elemental
+large ice elemental
+large lightning elemental
+large magma elemental
+large mud elemental
+large spriggan
+large water elemental
+larva demon
 lash of the astradaemon
 lash of the howler
 lashing aklys
@@ -4413,32 +5265,43 @@ lasso
 last azlantis defending sword
 last leaves of the autumn dryad
 lastwall banner
+latten mechanism herald
 launcher of distrarction
 launching crossbow
 laurel of command
 laurel of the champion
 laurel wreath
 lava child
+lava drake
 lava lurker
 lava rod
 lavender and green ellipsoid (normal) ioun stone
+lawgiver herald
 lawrence 1917 flamethrower
 lawrence 1917 flamethrower fuel tank
 lay of the land
 lead anchor
 lead blades
 lead plating
+leader lamellar armor
 leaf armor
+leaf leshy
 leaf ray
 leashed shackles
-leather
+leather armor
+leather madu
+leech swarm
 leech, giant leech
 leech, leech swarm
 leechroot
 legend lore
+legendary chimera chimara
 legendary proportions
 legendsbane
+legion archon
 legion armor
+lemming familiar
+lemure devil
 lend judgment
 lend path
 leng flail
@@ -4453,6 +5316,9 @@ lenses of detection
 lenses of figment piercing
 lenses of situational sight
 lenses of the predators gaze
+leonal agathion
+leopard cat
+leopard slug familiar
 lepidstadt investigators hat
 leprechaun
 leshy mulch manual
@@ -4460,10 +5326,31 @@ leshy, fungus leshy
 leshy, gourd leshy
 leshy, leaf leshy
 leshy, seaweed leshy
+lesser age resistance
+lesser angelic aspect
+lesser create demiplane
+lesser curse terrain
+lesser entice fey
+lesser evolution surge
+lesser geas
+lesser guardian monument
+lesser hollow serpent
 lesser horn of the tritons
+lesser host devil
+lesser nondetection
+lesser object possession
+lesser planar ally
+lesser possession devil
+lesser rejuvenate eidolon
+lesser restore eidolon
+lesser spellcasting contract
+lesser spellcrash
+lesser summon genie
 leucrotta
+leukodaemon
 levitate
 levitating land mine
+lhaksharut inevitable
 liars robe
 liavaran dreamer
 liberating command
@@ -4474,6 +5361,7 @@ lich, demilich
 lich, forsaken lich
 lich, psychic lich
 life-reading eyes
+life-reading ice
 life blast
 life bubble
 life channel
@@ -4498,10 +5386,10 @@ light pick
 light prison
 light shield
 light slavers crossbow
-light steel
-light steel quickdraw
-light wooden
-light wooden quickdraw
+light steel quickdraw shield
+light steel shield
+light wooden quickdraw shield
+light wooden shield
 lighten object
 lightfingers
 lightning arc
@@ -4509,11 +5397,14 @@ lightning bolt
 lightning gun
 lightning lash
 lightning lash bomb admixture
+lilitu demon
+lillend azata
 lily pad stride
 limited wish
 limp lash
 line in the sand
 linebreaker
+lingering rod of metamagic
 linked legacy
 linnorm, cairn linnorm
 linnorm, crag linnorm
@@ -4526,7 +5417,7 @@ linnorm, tor linnorm
 linnorms lament
 lion
 lion cloak
-lion, dire lion (spotted lion)
+lion, dire lion
 lions shield
 lipstitch
 liquefy
@@ -4551,17 +5442,27 @@ living effigy
 living garments
 living mirage
 living rune
-living sandstorm, living sandstorm (humanoid)
-living sandstorm, living sandstorm (sandstorm)
+living sandstorm
+living sandstorm, living sandstorm
 living steel heavy shield
 living topiary
 living wall
+lizard familiar
 lizard king war trident
+lizard scion lizardfolk
 lizard, giant chameleon
 lizard, giant frilled lizard
 lizard, giant gecko
 lizard, monitor lizard
 lizardfolk
+lizardfolk berserker
+lizardfolk champion
+lizardfolk clutch mother
+lizardfolk rattler
+lizardfolk sorcerer
+lizardfolk stalker
+lizardfolk swamp lurker
+lizardfolk vanguard
 lizardfolk, lizard scion
 lizardfolk, lizardfolk berserker
 lizardfolk, lizardfolk champion
@@ -4588,9 +5489,12 @@ lockjaw
 lockpick shield
 locksight
 locust cuirass
+locust swarm
+locust variant worm that walks
 locust, giant locust
 locust, locust swarm
 locust, plague locust swarm
+logical rod of metamagic
 long arm
 longarm bracers
 longaxe, dwarven
@@ -4600,6 +5504,9 @@ longshot
 longspear
 longstrider
 longsword
+lord of all divs ahriman
+lord of the deep pools balravnus
+lord sun-warrior couatl
 lords banner
 lore needle
 lorelei
@@ -4622,11 +5529,13 @@ lukwata
 lullaby
 luminous facet
 luminous lockpicks
+lunar naga
 lunar veil
 lunarma
 lungchuan tamo
 lupine rageskin
 lupine robe
+lurker above lurking ray
 lurker in light
 lurking ray, executioners hood
 lurking ray, lurker above
@@ -4635,24 +5544,15 @@ lusca
 lute of the battle ready
 luthiers rapier
 lycanthrope skin (skinwalker)
-lycanthrope, silverblood lycanthrope (human form)
-lycanthrope, silverblood werewolf (hybrid form)
-lycanthrope, werebat (human form)
-lycanthrope, werebat (hybrid form)
-lycanthrope, werebear (human form)
-lycanthrope, werebear (hybrid form)
-lycanthrope, wereboar (human form)
-lycanthrope, wereboar (hybrid form)
-lycanthrope, werecrocodile (human form)
-lycanthrope, werecrocodile (hybrid form)
-lycanthrope, wererat (human form)
-lycanthrope, wererat (hybrid form)
-lycanthrope, wereshark (human form)
-lycanthrope, wereshark (hybrid form)
-lycanthrope, weretiger (human form)
-lycanthrope, weretiger (hybrid form)
-lycanthrope, werewolf (human form)
-lycanthrope, werewolf (hybrid form)
+lycanthrope, silverblood werewolf
+lycanthrope, werebat
+lycanthrope, wereboar
+lycanthrope, werecrocodile
+lycanthrope, wererat
+lycanthrope, wereshark
+lycanthrope, weretiger
+lycanthrope, werewolf
+lyrakien azata
 lyre of building
 lyre of storms
 lyrune-quah klar
@@ -4669,7 +5569,6 @@ mad monkeys
 mad sultans memory
 maddening oubliette
 madsen light machine gun
-madu (leather)
 madu (leather/steel)
 madu (steel)
 maelstrom shield
@@ -4713,6 +5612,7 @@ magma ooze
 magmin
 magnetic field
 magnetists gloves
+magnetitie golem
 magnificent map
 magnifying chime
 maidens aegis
@@ -4729,6 +5629,7 @@ malbolgian cerberi
 malediction
 malediction (hero points)
 maleficus spike
+malenti sahuagin mutant
 malfunction
 malicious spite
 malleable symbol
@@ -4736,18 +5637,22 @@ mallet of building
 malsandra
 malziarax, rune giant overlord
 mamiwa
+mammoth flea
 mammoth hide
 mammoth lance
 man-eating animal, man-eating aurochs
+man-eating aurochs man-eating animal
 man mountain armor
-mana wastes mutant (gnoll)
+mana wastes mutant
 manacles of cooperation
 manananggal
 mancatcher
 mandragora
 mangvhune, the temple hill slasher
 manitou
+mannequin robot
 manople
+manta ray
 manteau of the mouse
 manticore
 mantis blade
@@ -4773,11 +5678,17 @@ manual of gainful exercise
 manual of quickness of action
 manual of war
 map of the high ice
+marai rakshasa
 marax
+marble sentinel thassilonian sentinel
 marching chant
 mardahamman, cyclops tyrant
+marid genie
 marids mastery
+marilith demon
+marine crocodile crocodilians
 mariners eye patch
+mariners i patch
 marionette crux
 marionette possession
 mark of blood
@@ -4787,14 +5698,19 @@ mark of the reptile god
 markers monocle
 marks of forbiddance
 marrowcracker
+marrowstone golem
+marsh giant
+marsh giant high priest oozlosh
 martial marionette
 martial telekinesis
 martyrs bargain
 martyrs last blessing
 martyrs tear
+marut inevitable
 marvelous pigments
 mask dweomer
 mask from divination
+mask golem
 mask of a thousand tomes
 mask of anonymous mien
 mask of conflicting energies
@@ -4806,12 +5722,21 @@ mask of stolen identities (gillman)
 mask of stolen mien
 mask of stony demeanor
 mask of the cursed eye
+mask of the cursed i
 mask of the forgotten pharaoh
 mask of the krenshar
 mask of the mantis
 mask of the mesmerist
 mask of the skull
+masked murderer ghoul
 masochistic shadow
+mass cure critical wounds
+mass cure light wounds
+mass cure moderate wounds
+mass cure serious wounds
+mass eagles splendor
+mass inflict pain
+mass repair undead
 massacre
 master vidlians squeeze-box
 masterful gray gloves
@@ -4824,6 +5749,7 @@ masters perfect golden bell
 masters woe stiletto
 masterwork silver dagger
 masterwork transformation
+mastodon elephant
 matchmaker
 mathematical curse
 mattock
@@ -4833,15 +5759,27 @@ maw of chaos
 maw of the wyrm
 maxim m1910 machine gun
 maxim of suppressive fire
+maximize rod of metamagic
 maze
 maze of madness and suffering
+mechanical efreeti clockwork
 medal of the heros heart
 medalion of sar-gorog
 medallion of thoughts
 mederach
 medicinal bezoar
+medium air elemental
+medium earth elemental
+medium fire elemental
+medium ice elemental
+medium lightning elemental
+medium magma elemental
+medium mud elemental
+medium water elemental
 mediums harrow mat
 medusa
+medusa animus shade
+medusa head beheaded
 medusa mask
 medusa, eygreas
 medusas bane
@@ -4857,10 +5795,17 @@ megafauna, gylptodon
 megafauna, megalania
 megafauna, megaloceros
 megafauna, megatherium
+megalania megafauna
+megaloceros megafauna
+megapiranha swarm
+megatherium megafauna
+meladaemon
+melancholic ooze swarm alchemical ooze swarm
 meld into stone
 melding cloak
 meldrels underwater orb
 melfesh monster
+memitim psychopomp
 memoriam root
 memorize page
 memory box
@@ -4874,9 +5819,11 @@ mental block
 mephit
 mercane
 merciful baldric
+merciful rod of metamagic
 merciful vambraces
 mere club
 merfolk
+merfolk) coat of shells (gillmen
 merform belt
 merge with familiar
 meridian belt
@@ -4919,18 +5866,24 @@ minderhals forge
 mindlink
 mindlocked messenger
 mindmasters eyes
+mindmasters ice
 minds eye blade
+minds i blade
 mindscape door
 mindshock
 mindslaver mold
 mindspin ram
 mindwipe
+minor bag of holding
 minor creation
 minor dream
 minor image
 minor phantom object
+minor reaper
+minor runewell
 minotaur
 minotaur belt
+minotaur marauder
 minotaur, labyrinth guardian
 minotaur, labyrinth minotaur
 minotaur, minotaur marauder
@@ -4956,36 +5909,48 @@ miserable pity
 misers mask
 mislead
 missive stone
+mist drake
 mistcaller
 mistmail
 mite
 mithral full plate of speed
+mithral golem
 mithral heavy shield
 mithral rose
 mithral shirt
 mitre of the hierophant
 mnemonic enhancer
 mnemonic vestment
+mnemor devil
+mobat
 mobogo
 mockingfey
 mockingskull
 modify memory
 mog-lathar, the petrified spider
+mogaru kaiju
 mohrg
 moit of shub-niggurath, spawning canker
 mokele-mbembe
 mokele-mbembe tail whip
+mole familiar
 molech
 molten orb
 molvënn
 moment of greatness
 moment of prescience
+monaciello gremlin
+monadic deva angel
 monastic warden
+mongrel cave giant mongrel giant
 mongrel giant, mongrel cave giant
 mongrelman
+monitor lizard
 monkey belt
 monkey belt (greater)
+monkey familiar
 monkey fish
+monkey goblin
 monkey swarm
 monkeys paw
 monks robe
@@ -4996,12 +5961,14 @@ monocle of unveiled auras
 monster almanac
 monster almanac, greater
 monster killers folio
+monstrous cockroach
 monstrous dye
 monstrous extremities
 monstrous physique
 moon-beast
 moon circlet
 moon clock
+moon spider
 moonflower
 moonlight lantern
 moonstone cat
@@ -5013,25 +5980,33 @@ morlock
 morlock hide
 morning sun
 morningstar
+morrigna psychopomp
 mortal terror
 mortuary mask
 mosin-nagant m1891 rifle
+mosquito swarm
 mosquito, giant mosquito
 mosquito, mosquito swarm
 moss cloak
 mosswater stained leather
 mossy disk (normal) ioun stone
+mote archon swarm
 motes of dusk and dawn
+mother’s maw herald
 mothers maw
 mothman
+mothman elder
 mothman memento
 mothman, mothman elder
 mount
 mount-splitting pick (dwarf)
 mountain pattern
+mountain pattern armor
+mountain troll
 mountainshapers girdle
 mournful razor
 mouthpiece of the dominion
+movanic deva angel
 move earth
 moxix
 mu spore
@@ -5042,13 +6017,19 @@ mudstone minion
 muffle sound
 mulberry pentacle (normal) ioun stone
 muleback cords
+multiplying t-rex skeleton
 mummers ruff
 mummified animals, mummified baboon
 mummified animals, mummified crocodile
 mummified animals, mummified elephant
 mummified animals, mummified hippopotamus
+mummified baboon mummified animals
 mummified creature, mummified gynosphinx
+mummified crocodile mummified animals
+mummified elephant mummified animals
 mummified guardian
+mummified gynosphinx mummified creature
+mummified hippopotamus mummified animals
 mummy
 mummy lord
 munavri
@@ -5060,22 +6041,29 @@ murderers silence
 murderous command
 murderous crow
 murktouch cloak
+murky rod of metamagic
 mushroom vest
 music box trap
 music of the spheres
 musket
+mustelidal agathion
 mutagenic touch
+mutant goblin
+mutant orc
 mutant, mutant orc
 mute dart
+mute hag
 mute marionette
 mutineers bane earring
 muzzle of suppression
 mwangi spirit shield
 myceloid
 mydriatic spontaneity
+myrmidon robot
 mythic amulet of the abyss
 mythic severance
 mythopoeic sphinx
+nabasu demon
 nacreous gray sphere (normal) ioun stone
 naga-scale bindi
 naga shape
@@ -5095,15 +6083,18 @@ nahyndrian chisel
 nahyndrian crystal
 nahyndrian elixir
 nail of the princess
+nalfeshnee demon
 named bullet
 nap stack
 nargryms steel hand
 narrik
+narwhal cetacean
 natron fang
 natural rhythm
 natures exile
 natures paths
 natures ravages
+naunet protean
 nauseating dart
 nauseating trail
 necklace of adaptation
@@ -5127,6 +6118,7 @@ negate aroma
 negative reaction
 neh-thalggu
 nehushtan
+nemesis devil
 nemhain
 neothelid
 neothelid overlord
@@ -5136,6 +6128,7 @@ nereid
 nereids grace
 nesas coin
 neshmaal
+nessian warhound hell hound
 nest revealer
 net
 net of snaring
@@ -5146,9 +6139,12 @@ neutralize poison
 nexus crystal
 ngoga
 night blindness
+night hag
+night monarch herald
 night of blades
 night terrors
 nightbane quiver
+nightcrawler nightshade
 nightdrops
 nightgaunt
 nightgaunt mask
@@ -5156,11 +6152,12 @@ nightglass
 nightmare
 nightmare bats
 nightmare boots
-nightmare creature, nightmare ettercap
+nightmare ettercap
 nightmare horseshoes
 nightmare rod
 nightmare tears
 nightmare, cauchemar
+nightprowler nightshade
 nightripper
 nightshade, nightcrawler
 nightshade, nightprowler
@@ -5169,6 +6166,9 @@ nightshade, nightwave
 nightshade, nightwing
 nightskin
 nightstone of sorrow
+nightwalker nightshade
+nightwave nightshade
+nightwing nightshade
 nihiloi
 nimble
 nimble whip
@@ -5180,30 +6180,43 @@ nine lives
 nine lives stealer
 ningyo
 ningyo, undead ningyo
+ninkonda angel
 nirento
 nirento, elder nirento
 nixie
 nixies lure
+nixudaemon
 nobles vigilant pillbox
+nocticula demon lord
 nodachi
 node of blasting
+nogitsune oni
 noisemaker wayfinder
 nondetection
 nondetection, lesser
 noose of terminal embrace
+noqual golem
 noriznigath
 norn
 nose ring of unearthly scent
+nosferatu vampire
+nosoi psychopomp
+nothosaur primeval sea creature
+nualidu azata
 nuckelavee
 nue
+nuglub gremlin
 nukkefeen
 numerian resistance plate
 numerological evocation
 numerological resistance
 nunchaku
+nupperibo devil
 nursing necklace
 nycar
 nymph
+nymph water strider
+nyogoth qlippoth
 o-yoroi
 o-yoroi of imperial rule
 oakstewards favor
@@ -5215,6 +6228,7 @@ oath of peace
 oathbow
 oathtaker
 obambo
+obcisidaemon
 object possession, lesser
 object reading
 obliviating flail
@@ -5222,15 +6236,30 @@ obscure object
 obscure posion
 obscured script
 obscuring mist
+observer robot
+observer robot swarm
 obsidian flow
 occulari
+ocean giant
 oceanid
+ochre eurypterid
 ochre jelly
 octopus
 octopus, giant octopus
 oculus of abaddon
 ogre
+ogre boss
+ogre brute
+ogre destroyer
+ogre glutton
 ogre hook
+ogre hunter
+ogre king
+ogre mage oni
+ogre mancatcher
+ogre priest
+ogre spider
+ogre stalker
 ogre, ogre boss
 ogre, ogre brute
 ogre, ogre destroyer
@@ -5252,10 +6281,12 @@ ointment of void sealing
 okeno madu
 old salts curse
 old wulunga
+olethrodaemon
 oliphaunt of jandelay
 oma
 omats sarcophagus
 omnipath
+omox demon
 one-way window
 oneiric horror
 oneirogen
@@ -5274,6 +6305,7 @@ oni, wind yai
 oni, yamabushi tengu
 onwu azu
 onyx rhomboid (normal) ioun stone
+oolioddroo demon
 oozlosh, marsh giant high priest
 opalescent white pyramid (normal) ioun stone
 open and shut
@@ -5283,6 +6315,7 @@ open/close
 oppressive boredom
 oracles burden
 oracles vessel
+oracular cyclops
 orange prism (normal) ioun stone
 orange thorny (normal) ioun stone
 orania, cloud giant oligarch
@@ -5301,8 +6334,18 @@ orb of utter chaos
 orbicular sac
 orbs of dragonkind
 orc
+orc chieftain
 orc double axe
+orc hornbow
+orc lieutenant
+orc mystic
+orc scout
+orc sergeant
 orc skull ram
+orc thug
+orc war drummer
+orc warlord
+orc witch doctor
 orc, gorthek
 orc, gorthek rider
 orc, orc chieftain
@@ -5314,27 +6357,29 @@ orc, orc thug
 orc, orc war drummer
 orc, orc warlord
 orc, orc witch doctor
+orca dolphin
 orchids drop
 orders wrath
 oread
 orgone accumulator
 origami swarm
 ornament of healing light
+oronci fleshwarp
 orphne
 orrery of distant worlds
 orsheval
+orvian necromancer urdefhan
 orynox marchelin, fire giant king
 osirian spirit jars
 osirion mummy
 ossuary mask
-ossumental, ossumental (air)
-ossumental, ossumental (earth)
-ossumental, ossumental (fire)
-ossumental, ossumental (water)
+ostiarius kyton
 ostrich
 otherworldly kimono
+otter familiar
 otyugh
 otyugh hide
+ourdivar protean
 out of sight
 overflowing rod
 overland flight
@@ -5342,22 +6387,28 @@ overlook
 overwhelming grief
 overwhelming poison
 overwhelming presence
+ovinnik house spirit
 ovinrbaane, enemy of all enemies
 owb
+owl familiar
 owl, giant owl
 owl, great horned owl
 owlbear
 owls wisdom
 paakis-si
+pachycephalosaurus
+pachycephalosaurus dinosaur
 pack empathy
 pact parchment
-padded
+padded armor
 padma blossom
 page-bound epiphany
 page of spell knowledge
 pain strike
 pain ward of the ostiarius
+painajai demon
 painspike armor
+pairaka div
 paladins sacrifice
 pale blue rhomboid (normal) ioun stone
 pale green prism (flawed) ioun stone
@@ -5369,19 +6420,24 @@ pale stranger
 palelight torch
 pallid chain
 pallid crystal
+pallid wriggler swarm indescribable swarm
 panacea flask
 panda
 panoply of the fierani knight (elf)
 panotti
 pantheistic clasp
+panthereon golem
 papa chupar
 paper flower
 papyrus of eternal rest
-parade
+paracletus aeon
+parade armor
 paradox box
 paragon surge
 paralyzing snare
 paranoia
+parasaurolophus
+parasaurolophus dinosaur
 parasitic soul
 parchment swarm
 pard
@@ -5391,6 +6447,7 @@ pass without trace
 passing fancy
 passwall
 pata
+patchwork insect swarm indescribable swarm
 path of glory
 path of the winds
 pathfinder greatcoat
@@ -5405,10 +6462,12 @@ pauldrons of unflinching fortitude
 paupers robes
 paupers thighbone
 pavbagha
+pazuzu demon lord
 peace bond
 peacebond
 peacekeeping pistol
 peacemakers parley
+peacock familiar
 pearl of power
 pearl of the sirines
 pearly white spindle (flawed) ioun stone
@@ -5416,6 +6475,7 @@ peasant armaments
 pech
 peerless integrity
 pegasus
+pelagastr protean
 pellet blast
 pellets (30 handfuls)
 pellets (handful)
@@ -5428,6 +6488,7 @@ penanggalen
 pendant of the blood scarab
 pendant of the souk
 penetrating whetstone
+penguin familiar
 penitents robes
 pentacle token
 penumbra
@@ -5455,13 +6516,16 @@ permanency
 permanent image
 pernicious poison
 persistent image
+persistent rod of metamagic
 persistent vigor
+personification of fury herald
 persuasive goad
 peryton
 pesh addiction
 pesh vigor
 pessimism
 petitioner
+petrifern familiar
 petrified maiden
 petromin
 petulengros validation
@@ -5485,6 +6549,7 @@ phantom driver
 phantom entourage
 phantom fungus
 phantom hunt
+phantom lancer phantom armor
 phantom limb
 phantom steed
 phantom trap
@@ -5494,9 +6559,11 @@ phase arrow
 phase door
 phase spider
 phasic challange
+phasmadaemon
 philanderous contract
 philosophers stone
 philter of love
+phlegmatic ooze swarm alchemical ooze swarm
 phlegmatic talisman
 phlogiston vial
 phobia
@@ -5520,7 +6587,9 @@ pickpockets bandolier
 pied piping
 pierce disguise
 pierce facade
+piercing rod of metamagic
 piercing shriek
+pig familiar
 pilfering hand
 pillar of life
 pilo
@@ -5540,14 +6609,18 @@ piranha swarm
 piranha swarm, megapiranha swarm
 pirates arm
 pirates eye patch
+pirates i patch
+piscodaemon
 pistol
 pistol of the infinite sky
 piston maul
+pit fiend devil
 pitted bullet
 pixie
 placebo effect
 plague bearer
 plague carrier
+plague locust swarm
 plague mask
 plague rat belt
 plague rat belt (greater)
@@ -5555,6 +6628,7 @@ plague storm
 plaguebringer
 plaguebringers mask
 plagued beast, plagued steed
+plagued steed plagued beast
 planar adaptation
 planar ally
 planar ally, lesser
@@ -5565,6 +6639,7 @@ planar parchment
 planar refuge
 plane shift
 planeslayers call
+planetar angel
 planetarium
 planetary adaptation
 planned assault
@@ -5575,17 +6650,21 @@ plant voice
 plasma ooze
 plate armor of the deep
 platter of exquisite feasting
+platypus familiar
 play instrument
 players prize
+pleroma aeon
 pliant gloves
 plume of panache
 plumed mantle
 plundered power
 pocket prey
 pocketful of vipers
+pod-spawned guard captain bodythief
 poets cloak
 poison
 poison breath
+poison frog
 poison gum
 poison popcushion
 poison vial of distance
@@ -5595,6 +6674,7 @@ poisoners gloves
 poisoners jacket (greater)
 poisoners jacket (lesser)
 poisonous balm
+polar bear
 polar midnight
 polar ray
 polarity hammer
@@ -5610,8 +6690,11 @@ polymorph familiar
 polymorph, greater
 polymorphic pouch
 polypurpose panacea
+pony horse
 pooka
 popobala
+popoto dolphin
+poppet
 poppet, poppet, small
 poppet, poppet, tiny
 porcupine
@@ -5622,6 +6705,7 @@ portable stalactite
 portal network
 portrait of health
 possession
+possession devil
 possession trap
 pouncing fury
 powder horn
@@ -5634,6 +6718,7 @@ praenomen
 prana ghost
 prayer
 prayer wheel of ethical strength
+preceptor archon
 prediction of failure
 prehensile pilfer
 preklikins book of cults
@@ -5650,6 +6735,7 @@ primeval sea creature, kronosaurus
 primeval sea creature, nothosaur
 primeval sea creature, zeuglodon
 primordial symbol
+prism dragon
 prismatic orrery
 prismatic plate
 prismatic sphere
@@ -5657,12 +6743,14 @@ prismatic spray
 prismatic wall
 private palanquin
 probe history
+procyal agathion
 produce flame
 profane nimbus
 programmed image
 project image
 project weakness
 pronged arrow
+prophet of baphomet minotaur
 prophetic paraphernalia
 prophets pectoral
 propitious metumbe
@@ -5686,6 +6774,7 @@ protective penumbra
 protective spirit
 prying eyes
 prying eyes, greater
+prying ice
 prying star
 pseudodragon
 pseudosphinx
@@ -5696,10 +6785,13 @@ psychic aurascope
 psychic crush
 psychic image
 psychic leech
+psychic lich
 psychic reading
 psychic stalker
 psychic surgery
+psychic vampire
 psychonaut manifestation
+psychoplasmic behir psychoplasmic creature
 psychoplasmic creature, psychoplasmic behir
 psychopomp, ahmuuth
 psychopomp, catrina
@@ -5713,9 +6805,15 @@ psychopomp, shoki
 psychopomp, vanth
 psychopomp, viduus
 psychopomp, yamaraj
+ptarmigan familiar
+pteranodon
+pteranodon dinosaur
 pterosaur, quetzalcoatlus
 pterosaur, rhamphorhynchus
+pufferfish familiar
+puffin familiar
 pugwampi braid
+pugwampi gremlin
 pugwampis grace
 pukwudgie
 pull-ring of scent
@@ -5732,9 +6830,11 @@ purify food and drink
 purifying ointment
 purifying pearl
 purple worm
+purrodaemon
 putrefy food and drink
 putrid ooze
 puzzle box
+pyralisia phoenix
 pyrausta
 pyre bead
 pyre salt
@@ -5757,22 +6857,27 @@ qlippoth, thulgant
 quadrens
 quake cannon
 qualm
+quantium golem
 quarterstaff
 quarterstaff of contemplation
 quarterstaff of entwined serpents
 quarterstaff of vaulting
+quasit demon
 quasit key
 quell energy
 quench
 questing stone
+quetzalcoatlus pterosaur
 quetzutrhul
 quick-change mask
 quick action slippers
 quick block buckler
 quick change
 quick runners shirt
+quick striker girtablilu
 quick throwing
 quickchange cloak
+quicken rod of metamagic
 quickfingers gloves
 quickling
 quickmetal bracers
@@ -5780,9 +6885,14 @@ quicksand cloak
 quicksilver gloves
 quickwood
 quieting weapons
+quillcat
 quilted cloth
+quilted cloth armor
 quintessence
+qwoshokk kraken
+rabbit familiar
 rabbits blade
+raccoon familiar
 racing broom of flying
 radiance
 radiant panel
@@ -5790,9 +6900,11 @@ radiant tattoo
 radiation ward
 radium pistol
 radium rifle
+raelis azata
 rage
 ragewight
 raging rubble
+raging sting girtablilu
 rags to riches
 rahstalshan, stone giant elder
 raiju
@@ -5804,6 +6916,7 @@ rainbow pattern
 raise dead
 rajbut ambari
 rakshasa
+rakshasa maharaja
 rakshasa, amanusya
 rakshasa, avatarana
 rakshasa, dandasuka
@@ -5811,7 +6924,9 @@ rakshasa, marai
 rakshasa, rakshasa maharaja
 rakshasa, raktavarna
 rakshasa, tataka
+raktavarna rakshasa
 rally point
+ram herd animal
 rampart
 ranged piton
 ranseur
@@ -5822,11 +6937,23 @@ rapier of battlefield movement
 rapier of puncturing
 rast
 rat-tread boots
+rat familiar
 rat king
+rat swarm
 rat, dire rat
 rat, rat swarm
 ratcheting gauntlets
 ratfolk
+ratfolk bravo
+ratfolk caravan guard
+ratfolk chemist
+ratfolk elder
+ratfolk expedition leader
+ratfolk sage
+ratfolk tailblade
+ratfolk tinkerer
+ratfolk troubleshooter
+ratfolk warden
 ratfolk, ratfolk bravo
 ratfolk, ratfolk caravan guard
 ratfolk, ratfolk chemist
@@ -5839,8 +6966,11 @@ ratfolk, ratfolk warden
 ratling
 raucous canard
 raven bracers
+raven familiar
+ravener behemoth
 ravener, red wyrm ravener
 ravenous blade
+ravenous urchin swarm
 ravens flight
 ravens head
 ray of enfeeblement
@@ -5852,6 +6982,7 @@ razor-sharp
 razor, drow
 razored
 razored ropes
+reach rod of metamagic
 read magic
 read weather
 reaper, grim reaper
@@ -5860,6 +6991,7 @@ reapers coterie
 reapers mask
 reavers scythe
 reboot
+reborn samsaran
 rebuke
 rebuke technology
 recentering drone
@@ -5867,6 +6999,7 @@ recharge
 recharge innate magic
 rechargeable cube of force
 reckless infatuation
+reclamation robot
 recoil fire
 recondite holy symbol
 recondite rod
@@ -5874,7 +7007,9 @@ recorporeal incarnation
 red feather fan
 red hand of the killer
 red reaver
+red rider baba yagas rider
 red stalker armor
+red wyrm ravener
 redcap
 redemptors blessing
 redlusts daughter
@@ -5916,7 +7051,7 @@ rending claw blade
 renovation
 repair undead
 repair undead, mass
-repeating crossbow bolts (5)
+repeating crossbow bolts
 repeating hand crossbow
 repeating heavy crossbow
 repeating light crossbow
@@ -5978,6 +7113,7 @@ revenant armor
 reverse gravity
 reviving finale
 revolver
+rhamphorhynchus pterosaur
 rhino hide
 rhinoceros
 rhinoceros, woolly rhinoceros
@@ -5991,9 +7127,11 @@ ricochet shot
 riddling khopesh
 ride the lightning
 ride the waves
+riding dog
 riding possession
 rifle
 rift-born sphere
+rift drake
 rift of ruin
 riftcarver
 riftcreeper
@@ -6004,6 +7142,7 @@ righteous might
 righteous vigor
 rigor mortis
 rime-stride boots
+rime rod of metamagic
 rimeblade
 rimeheart amulet
 rimepelt
@@ -6015,6 +7154,9 @@ ripsaw glaive
 risen blade
 rite of bodily purity
 rite of centered mind
+river drake
+river elk herd animal
+river giant
 river of wind
 river whip
 riverseer plate
@@ -6027,6 +7169,7 @@ robe of bones
 robe of components
 robe of eyes
 robe of gates
+robe of ice
 robe of infinite twine
 robe of magma
 robe of needles
@@ -6039,6 +7182,7 @@ robe of the overmind
 robe of the rifts
 robe of useful items
 robes of xin-shalast
+robot golem
 robot, annihilator robot
 robot, arachnid robot
 robot, collector robot
@@ -6058,6 +7202,7 @@ robot, torturer robot
 robot, warden robot
 roc
 roc rider badge
+rock troll
 rock whip
 rockfall cloak
 rod of abrupt hexes
@@ -6174,11 +7319,13 @@ roseblood sprite
 rosewood armor
 rostland edge
 rosy hauberk
+rot grub swarm
 rot grub, giant rot grub
 rot grub, rot grub swarm
 rotcarver
 rotting alliance
 rovagugs fury
+royal naga
 rubberskin
 rubble gloves
 ruby circlet
@@ -6187,6 +7334,8 @@ ruby skull of chast
 rukh
 rukh, juvenile rukh
 rumormonger
+rune giant
+rune giant overlord malziarax
 rune guardian
 rune of durability
 rune of jandelay
@@ -6199,6 +7348,7 @@ runes of the crones coven
 runes of the old faith
 runescarred dragonship
 runeslave cauldron
+runeslave hill giant
 runeslave, runeslave hill giant
 runestone of power
 runeward tattoo
@@ -6208,6 +7358,7 @@ runewell, minor
 runic overload
 rusalka
 rust-risen
+rust devil
 rust monster
 rust monster antenna whip
 rusting grasp
@@ -6230,6 +7381,7 @@ sacrificial dagger of the blood mother
 sacrificial oath
 sacrificial spear
 sacrificial sword
+sacristan kyton
 saddle of the sky-river
 saddle surge
 sadists lash
@@ -6240,8 +7392,19 @@ saga of the linnorm kings
 sagari
 saguaroi
 sahuagin
+sahuagin baron
+sahuagin brute
+sahuagin champion
+sahuagin deep racer
+sahuagin high priestess
+sahuagin infiltrator
+sahuagin lieutenant
 sahuagin mutant, four-armed mutant
 sahuagin mutant, malenti
+sahuagin prince
+sahuagin scout
+sahuagin shark sentry
+sahuagin underpriestess
 sahuagin, sahuagin baron
 sahuagin, sahuagin brute
 sahuagin, sahuagin champion
@@ -6257,8 +7420,11 @@ sai
 saint cuthberts mace
 saints protection charm
 salamander
+salikotal devil
 saline purge
 salt lamp
+saltwater crocodile crocodilians
+saltwater merrow
 salvage
 salve of slipperiness
 salve of the second chance
@@ -6269,6 +7435,7 @@ sanctify armor
 sanctify corpse
 sanctify weapons
 sanctuary
+sand eel
 sand whirlwind
 sandals of interception
 sandals of quick reaction
@@ -6280,11 +7447,14 @@ sandsculpt resin
 sandstorm dust
 sandstorm sandals
 sangoi
+sangudaemon
+sanguine ooze swarm alchemical ooze swarm
 sanguine talisman of sheel leroung
 sanpkhang
 sansetsukon
 sap
 sapling rod
+sapphire jellyfish
 sarcovalt
 sard
 sargassum fiend
@@ -6297,6 +7467,7 @@ sasquatch
 satyr
 satyr, blackwood satyr
 saumen kar
+savage great cyclops
 savage maw
 savage sting
 saving finale
@@ -6321,6 +7492,7 @@ scalerazor (azlanti)
 scales of deflection
 scamper
 scar of destiny
+scarab beetle
 scarab breastplate
 scarab of khepri
 scarab of mummy defense
@@ -6334,7 +7506,9 @@ scarf of glorious histories (varisian)
 scarf of the suggestive dance
 scarlet and blue sphere (flawed) ioun stone
 scarlet and green cabochon (normal) ioun stone
+scarlet spider
 scarlet walker
+scarring rod of metamagic
 scavenger s stone
 sceaduinar
 scent trail
@@ -6344,7 +7518,9 @@ scepter of heaven
 scepter of shibaxet
 scepter of the arclords
 scepter of the shining lord
+schir demon
 school of eyes
+school of ice
 scimitar
 scimitar of the spellthief
 scimitar of the striking wing
@@ -6371,6 +7547,7 @@ scouring winds
 scouting cartridge
 scouting leather
 scrap collectors strap
+scrapyard robot
 screaming blade
 screaming bolt
 screaming flames
@@ -6394,6 +7571,8 @@ sea-knife
 sea banshee coat
 sea bonze
 sea cat
+sea drake
+sea hag
 sea scourge
 sea serpent
 sea snake
@@ -6410,6 +7589,7 @@ seafaring stanchions
 seafoam shawl
 seahorse, giant seahorse
 seahorse, killer seahorse
+seal familiar
 sealed life
 sealed life, greater
 sealed sending
@@ -6418,6 +7598,7 @@ seamless skin
 searching shadows
 searing arrow
 searing light
+seaweed leshy
 seaweed siren
 secluded grimoire
 secret chest
@@ -6429,6 +7610,7 @@ secure shelter
 security belt
 seducers bane
 seducers eyes
+seducers ice
 see alignment
 see beyond
 see invisibility
@@ -6444,6 +7626,7 @@ seers bane
 seers tea
 seishinru, spirit elixir
 selective invisibility
+selective rod of metamagic
 selkie
 semblance of flesh
 sending
@@ -6459,17 +7642,26 @@ sentinel scorpion
 sentry skull
 sepia ellipsoid (normal) ioun stone
 sepia snake sigil
+sepid div
 seps
 seps, juvenile seps
 sequester
 sequester thoughts
 seraphic pistol
+seraptis demon
 serenity
 serithtial
 serpent-necked flail
 serpent belt
 serpent belt (greater)
 serpentfolk
+serpentfolk bone prophet
+serpentfolk high priest
+serpentfolk hunter
+serpentfolk illusionist
+serpentfolk reclaimer
+serpentfolk spellblade
+serpentfolk spy
 serpentfolk, serpentfolk bone prophet
 serpentfolk, serpentfolk high priest
 serpentfolk, serpentfolk hunter
@@ -6491,12 +7683,16 @@ seru
 sessile spirit
 set guardian
 seugathi
+seugathi savant
 seugathi, seugathi savant
 seven-branched sword
 seven-league boots
 severed fate
+severed head beheaded
+sewer troll
 sha
 shabti
+shachath demon
 shackle
 shackles ensign
 shackles of compliance
@@ -6513,17 +7709,22 @@ shadow bomb admixture
 shadow cleaver (elf)
 shadow conjuration
 shadow creature, shadow roper
+shadow demon
 shadow dragon aspect
+shadow drake
 shadow enchantment
 shadow endurance
 shadow evocation
 shadow falconers glove
 shadow fletching
+shadow giant
+shadow golem
 shadow hand smoke pellet
 shadow jumpers tunic
 shadow mastiff
 shadow of doubt
 shadow projection
+shadow roper shadow creature
 shadow spike
 shadow step
 shadow transmutation
@@ -6539,7 +7740,8 @@ shadowbond tunic
 shadowbound chains
 shadowcraft weapon
 shadowfade
-shadowfire creature, shadowfire fire elemental (large)
+shadowfire creature, shadowfire fire elemental
+shadowfire fire elemental shadowfire creature
 shadowform
 shadowform belt
 shadowgarm
@@ -6550,7 +7752,9 @@ shadowwraith heart
 shadowy haven
 shadowy lurker
 shae
+shaggy demodand
 shaghal
+shaitan genie
 shalkeshka
 shambler
 shambling mound
@@ -6580,14 +7784,16 @@ shared sacrifice
 shared suffering
 sharesister
 shark
+shark-eating crab
 shark tooth amulet
 shark, angustiden
 shark, bull shark
-shark, dire shark (megalodon)
+shark, dire shark
 shark, great white shark
 shark, hammerhead shark
 shark, helicoprion
 shark, jigsaw shark
+sharpened combat scabbard
 sharpshooter’s blade
 shasalqu
 shatter
@@ -6597,15 +7803,18 @@ shawl of life-keeping
 shawl of shadowy disguise
 shawl of the crone
 shawl of the lingering phantom
+shax demon lord
 shearing sword
 sheath of bladestealth
 shedu
 sheet lightning
 shelana the mother deck
 shell sentinel
+shemhazian demon
 shenzuzhou
 shepsi-aks funerary mask
 shield
+shield archon
 shield cloak
 shield companion
 shield of aroden
@@ -6635,7 +7844,9 @@ shifters sorrow
 shifting jerkin
 shifting sand
 shifting shadows
+shikigami kami
 shillelagh
+shin-tari sword of sloth
 shinigami
 shining child
 shining child of thassilon
@@ -6644,8 +7855,11 @@ shining wayfinder
 shinobi fuhonsen
 ship in a bottle
 ship in a bottle, bottled armada
+ship scavenger gillman
 ship sentinel
 shipmind
+shipwrecker crab
+shira div
 shirt of immolation
 shirt of inconspicuousness (halfling)
 shoanti bolas
@@ -6660,6 +7874,8 @@ shockwave blunderbuss
 shoes of lightning leaping
 shoes of the firewalker
 shoggoth
+shoggti qlippoth
+shoki psychopomp
 shooting starknife
 short sword
 shortbow
@@ -6670,6 +7886,7 @@ shotgun
 shout
 shozoku of the night wind
 shredskin
+shredskin relic of kazavon
 shriezyx
 shrillshaft javelin
 shrink item
@@ -6680,17 +7897,20 @@ shroud of innocuity
 shrouded demise
 shrunken head
 shulsaga
-shuriken (5)
+shuriken
 siabrae
 siangham
 sibat
 sica
+sickening rod of metamagic
 sickening strikes
 sickle
 sickle-sword
 siege of trees
 siege scatter
+sifkesh demon lord
 sift
+sightless sea sailor urdefhan
 sigil chalk
 sign of the dawnflower
 sign of wrath
@@ -6704,11 +7924,14 @@ silence
 silent aviary
 silent blade vest
 silent image
+silent rod of metamagic
 silent sentry crossbow
 silent table
 silk to steel
 silken ceremonial
+silvanshee agathion
 silver darts
+silver firearm bullet
 silver maiden
 silver nail
 silver nocking point
@@ -6716,9 +7939,12 @@ silver smite bracelet
 silver soul cord
 silver spindle (normal) ioun stone
 silver thorny (normal) ioun stone
+silverblood werewolf
+silverblood werewolf lycanthrope
 silverfang
 silverlight
 silversheen
+simian sharpshooter charau-ka
 simulacrum
 simurgh
 sin seeker
@@ -6729,6 +7955,7 @@ sinspawn
 siphon magic
 siphon might
 sipping jacket
+sire devil
 siren
 sirocco
 sirocco cannon
@@ -6736,6 +7963,11 @@ sistrum of bastet
 siyokoy
 sizzling arrow
 skapraun
+skaveling bat
+skaveling rider urdefhan
+skeletal champion skeleton
+skeletal mage skeleton
+skeletal mount skeleton
 skeleton anchor
 skeleton crew
 skeleton, armored ogre skeleton
@@ -6759,6 +7991,7 @@ skulk
 skulking snipers blowgun
 skull of ydersius
 skull ripper
+skull swarm beheaded
 skullcrusher gauntlets
 skullsoul
 skum
@@ -6770,6 +8003,7 @@ sky swim
 skyplate armor
 skyrocket crossbow
 skyshroud
+slag giant
 slashing cloak
 slaugrak
 slave collar
@@ -6784,10 +8018,13 @@ sleepwalk
 sleepwalking suggestion
 sleet storm
 sleeves of many garments
+slicer beetle
 slick walls
 slime mold
+slime naga
+slimy demodand
 sling
-sling bullets (10)
+sling bullets
 sling glove
 slippers of buttwalking
 slippers of spider climbing
@@ -6796,11 +8033,20 @@ slipstream
 slithering pit
 slithering tracker
 sliver of the amalgam mind
+sloth familiar
 slough
 slow
 slowing mud
 slumbering
 slurk
+small air elemental
+small earth elemental
+small fire elemental
+small ice elemental
+small lightning elemental
+small magma elemental
+small mud elemental
+small water elemental
 smear of seeing
 smite abomination
 smoke arrow
@@ -6828,6 +8074,7 @@ snakeskin tunic
 snallygaster
 snapdragon fireworks
 snapleaf
+snapping turtle
 snare
 snarlshield, steel
 snarlshield, wooden
@@ -6839,8 +8086,10 @@ snowball
 snowdrifter
 snowfall orb
 snowshoes of northern pursuit
+snuffing rod of metamagic
 soaring cathedra
 soften earth and stone
+solar angel
 soles of the silent stride
 solid fog
 solid note
@@ -6859,6 +8108,7 @@ soothe construct
 soothing lyre
 soothing word
 soothsayers raiment
+sootwing bat
 sorcerers robe
 sorcerous pigments
 sorico
@@ -6873,6 +8123,7 @@ soul soap
 soul transfer
 soulbound doll
 soulbound eye
+soulbound i
 soulbound mannequin
 soulbound shell
 soulforge
@@ -6892,12 +8143,13 @@ sparkwake starknife
 spartoi seeds
 spartolos
 spawn calling
-spawn of rovagug, chemnosit (the monarch worm)
-spawn of rovagug, festering ulunat (the unholy first)
-spawn of rovagug, volnagur (the end-singer)
-spawn of rovagug, xotani (the firebleeder)
+spawn of rovagug, chemnosit
+spawn of rovagug, festering ulunat
+spawn of rovagug, volnagur
+spawn of rovagug, xotani
 spawn of yog-sothoth
 spawn ward
+spawning canker moit of shub-niggurath
 speak local language
 speak with animals
 speak with dead
@@ -6909,6 +8161,7 @@ spear of manhunting
 spear of purity
 spear of the honored ancestors
 spear of the watchful guardian
+spear urchin
 spectacles of lip reading
 spectacles of understanding
 spectral hand
@@ -6920,7 +8173,6 @@ speechreaders sight
 spell-capturing gem
 spell-sharing collar
 spell absorption
-spell DC
 spell gauge
 spell immunity
 spell lattice
@@ -6960,6 +8212,7 @@ spider-leg sickle
 spider-silk bodysuit
 spider climb
 spider eater
+spider swarm
 spider, giant black widow
 spider, giant crab spider
 spider, giant spider
@@ -6980,18 +8233,26 @@ spiked gauntlet
 spiked heavy shield
 spiked light shield
 spindle of perfect knowledge
+spine dragon
 spine flail
 spined shield
+spinosaurus
+spinosaurus dinosaur
+spiny eurypterid
 spiral rapier
 spiral tiles (pharasma)
+spire drake
 spire transport token
 spirit-bound blade
 spirit blade
 spirit bonds
 spirit call
 spirit caller
+spirit elixir seishinru
 spirit mirror
+spirit naga
 spirit of adoration
+spirit oni
 spirit planchette
 spirit revivification incense
 spirit slate
@@ -7003,7 +8264,9 @@ spiroskek
 spit venom
 spite
 spiteful cookie
+spitting eurypterid
 splint mail
+splint mail armor
 splinter spell resistance
 splitting bolt
 spontaneous immolation
@@ -7011,31 +8274,41 @@ spore burst
 sporeblade
 sporecrafters kindness
 spotlight
-spriggan, spriggan (large size)
-spriggan, spriggan (normal size)
+spriggan
 spring-heeled jack
 spring blade
 sprite
+sprite swarm
 sprite, sprite swarm
 spy eyes
+spy ice
+spyglass archon
 spyglass of discovery (human)
+squall seer gillman
 squeeze
 squid
 squid, giant squid
+squirrel familiar
+sruvara azi
 stabilize
 stabilize powder
 stabilize pressure
+stable rod of metamagic
 staff of eldritch sovereignty
 staff of elemental castigation
 staff of rightful rule
 staff of the hooded cobra
 staff of the magi
+staff of the slain relic of kazavon
+stag archon
+stag herd animal
 stage fright
 stagger-proof boots
 staggering fall
 stags helm
 stake of the righteous
 stalagmite seed
+stalk beetle
 stalkers crossbow
 stalkers fang (shoanti)
 stalkers mask
@@ -7046,6 +8319,7 @@ stampede drum (kellid)
 standard of the celestial heir (aasimar)
 stannum crown
 star-spawn of cthulhu
+star archon
 star cinder
 star monarch
 starbow
@@ -7069,14 +8343,23 @@ steal voice
 steal years
 steam hog
 steam ray fusillade
+steam rod of metamagic
 steel-mind cap
+steel lamellar armor
+steel quickdraw shield
+steel snarlshield
+steel terbutje
 steelbone frame
+stegosaurus
+stegosaurus dinosaur
 stench of prey
 stench spray amulet
 sterling salt
+steward of the skein herald
 stewards iron key
 stingchuck
 stinging stiletto
+stingray
 stinking cloud
 stirge
 stirge dart
@@ -7093,7 +8376,12 @@ stone coat
 stone discus
 stone familiar
 stone fist
+stone giant
+stone giant elder rahstalshan
+stone golem
 stone horse
+stone idol
+stone lamellar armor
 stone of alarm
 stone of alliance
 stone of conjuring earth elementals
@@ -7108,10 +8396,13 @@ stonebow
 stonefist gloves
 stonemeld boots
 stonemist cloak
-stoneplate
+stoneplate armor
 stoneskin
 storm aurochs
+storm giant
+storm giant matriarch scyld hranni
 storm goggles
+storm hag
 storm kindlers rod
 storm of blades
 storm of vengeance
@@ -7133,33 +8424,44 @@ strand of the tangled knot
 stranglereed
 strangling hair
 stricken heart
+stringy demodand
 strip scales
 strix
+strix infiltrator
+strix rokoa
+strix voyager
 strix, itaraak champion
 strix, strix infiltrator
 strix, strix rokoa
 strix, strix voyager
 strong jaw
 strong wings
+stroud apprentice ogrekin
 stubborn nail
-studded leather
+studded leather armor
 stumble gap
 stunning barrier
 stunning finale
 stunstone
+stygian hot-blooded horse
 stygira
 style-stealing vambrace
 stymphalide, giant stymphalidies
 stymphalide, stymphalides swarm
+stymphalides swarm
 stymphalidies
+styracosaurus
+styracosaurus dinosaur
 subjective reality
 submerge ship
 substitute trail
 subtle slippers
+succubus demon
 suffocation
 suffocation, instant
 suggestion
 suggestive tea
+suijin kami
 suishen, guardian of the amatatsu
 suli
 summon-slave crystal
@@ -7196,6 +8498,7 @@ summon totem creature (shoanti)
 summon vanth
 summoner conduit
 summoner slayer eyes
+summoner slayer ice
 summoners robe
 summoners sorrow
 summoning shackle
@@ -7205,11 +8508,13 @@ sun falcon pectoral
 sun metal
 sun orchid elixir
 sun wukongs puzzle box
+sunbaked zombie
 sunbeam
 sunburst
 sunder breaker
 sundered serpent coil
 sundering shards
+sunlord thalachos herald
 suns disdain
 sunstalker
 suppress charms and compulsions
@@ -7220,15 +8525,19 @@ surefoot boots
 surefooted shield
 surelife
 surface excursion
+surgeon robot
 surmount affliction
 suspension piercings
+suspiridaemon
 sustaining legend
 sustaining spoon
 suzerain scepter
 svartalfar
 svathurim
 svinglis eye
+svinglis i
 svirfneblin
+swaithe demon
 swallow poison
 swallow your fear
 swallowtail bracers
@@ -7244,6 +8553,8 @@ swarmlords jar
 swashbucklers rapier
 sweat poison
 swift obsidian greataxe
+swimming eye swarm indescribable swarm
+swimming i swarm indescribable swarm
 swipe
 swirling smoke tattoo
 switchblade knife
@@ -7266,6 +8577,7 @@ sword of vengeance
 sword of wrath, garvok
 sword to snake
 swordbreaker dagger
+swordfish
 swordlords cloak
 swordmasters blindfold
 swordmasters flair
@@ -7303,6 +8615,7 @@ sympathy
 synapse overload
 synaptic pulse
 synaptic scramble
+synesis aeon
 synesthesia
 syringe spear
 syrinx
@@ -7315,6 +8628,9 @@ tactical insight
 tactical miscalculation
 tactically adapted
 taiaha
+taiga giant
+taiga giant shaman tanaq mammoth-eater
+taiga linnorm
 tail strike
 tailblade, ratfolk
 talisman (greater)
@@ -7339,8 +8655,10 @@ talonstrike sword
 tamers whip
 tanaq mammoth-eater, taiga giant shaman
 tangle bolt
+tangle tender minotaur
 taniniver
 tankard of the drunken hero
+tannaris sword of envy
 tanuki
 taotieh
 tap inner beauty
@@ -7348,7 +8666,11 @@ tar ball
 tar pool
 targeted bomb admixture
 targotha
+tarn linnorm
 tarnhelm
+tarrasque herald
+tarry demodand
+tataka rakshasa
 tatami-do
 tathlum
 tattoo guardian
@@ -7381,6 +8703,8 @@ teleport structure
 teleport trap
 teleportation circle
 teleporting climbing rig
+temerdaemon
+tempest behemoth
 tempest shield
 temple sword
 temporal divergence
@@ -7403,6 +8727,7 @@ teratoid caress
 terbutje
 terbutje, steel
 terendelevs scales
+termagant kyton
 terra-cotta soldier
 terra-cotta talisman
 terraform
@@ -7411,8 +8736,15 @@ terrible remorse
 tessaraels book of infinite spells
 tetrolimulus
 tetsubo
+thais herald
+thalassic behemoth
+thanadaemon
+thanatopic rod of metamagic
 thanatotic fury
+thanatotic titan
+thanegraves looter ogrekin
 thark rifle
+thassilonian ioun stones
 thassilonian sentinel, bronze sentinel
 thassilonian sentinel, marble sentinel
 thath-malal, the eyeless prince
@@ -7421,36 +8753,64 @@ thaumaturgic powder
 thawn
 the aqualinth
 the brazen claw
+the crimson lotus ayandamahla
+the cutting light karusetsu
 the demonscope
+the deserts howl aridus
 the dreamstone
 the elder decks
+the eyeless prince thath-malal
+the first blade herald
 the gasping pearl
+the gloom widow ilzunae
 the gluttonous tome
+the grand defender herald
+the grim white stag herald
+the i less prince thath-malal
 the impossible eye
+the impossible i
+the ivory queen khalirai
 the jewel of everlasting gold
+the kyton scourge rythius
 the last theorem
 the lymirin discourses
+the mantis god achaekek
 the masters name
+the menotherian herald
+the misbegotten prince uvaglor
 the mistress of the fen
 the moaning diamond
 the moldering emperor
 the morrowfall
 the mourning one
+the old man herald
 the pendulate divan of emperor fortigré
+the petrified spider mog-lathar
+the prince in chains herald
+the raging cyclone ikarikurusai
 the red ravens cape
 the sandpoint devil
+the scourge of heaven galundari
 the shield of the sun
+the silent crane tsuruhashi
+the silken fang bezilak
+the spirit of adoration herald
+the stabbing beast herald
 the storied orb
 the surface caller
+the temple hill slasher mangvhune
 the thundering blade of the house of sugimatu
 the totemrix
 the viridian crown
 the would-be queen, almara kazaar
 theft ward
+theletos aeon
 they know
 thin man
 third eye
+third i
 thistle arrow
+thognorok qlippoth
 thoqqua
 thoqqua snake
 thorgothrel
@@ -7461,8 +8821,10 @@ thorn javelin
 thorn snare
 thorncrown of iomedae
 thorned manacles
-thorns (20)
+thorns
+thorny vegepygmy
 thought echo
+thought harvester robot
 thought record
 thought shield
 thought worm
@@ -7470,6 +8832,7 @@ thought worm ii
 thought worm iii
 thought worm iv
 thoughtsense
+thoxel demon
 thrasfyr
 three reasons to live
 threefold aspect
@@ -7477,13 +8840,19 @@ threefold face
 threefold sight
 thremindyr
 thremyrs beard
+threnodic rod of metamagic
 threshold guardian
+thriae dancer
+thriae queen
+thriae seer
+thriae soldier
 thriae, thriae dancer
 thriae, thriae queen
 thriae, thriae seer
 thriae, thriae soldier
 throne of blasphemy
 throne of fetters
+throne of nalt relic of kazavon
 throne of pleasing mien
 throne of the ardent defense
 throne of the sky-father
@@ -7492,31 +8861,40 @@ throwing arrow
 throwing arrow cord
 throwing axe
 throwing shield
+thrush familiar
+thulgant qlippoth
+thunder behemoth
 thunder fire
 thunder strap
 thunderbird
 thundering drums
+thundering rod of metamagic
 thunderous footfalls
 thunderstomp
 thylacine
 thylacine, brush thylacine
+thyrlien azata
 tiberolith
+tick swarm
 tick, giant tick
 tick, tick swarm
 tidefinder
+tidepool dragon
 tidewater cutlass
 tidy trunk
 tiefling
 tieldlaras feint
 tiger
+tiger fish
 tiger fork
-tiger, dire tiger (smilodon)
+tiger, dire tiger
 tigers hide
 tightfit belt
 tigresss strand
 tikbalang
 tikoloshe
 tillers pendant
+timber wolf
 time bomb
 time bomb, greater
 time shudder
@@ -7524,24 +8902,29 @@ time stop
 timeglass
 timely inspiration
 tin cap
+tinder devil
 tiny hut
+tiny poppet
 tireless pursuit
 tireless tracking hide
 tireless wayfinder
+titan centipede
 titan, elysian
 titan, hekatonkheires
 titan, thanatotic
 titanic anchoring
 tizheruk
+toad familiar
 toad, giant toad
 toad, glacier toad
 toastmasters teacup
-tobongo (mwangi treant)
+tobongo
 toilers armor
 toilsome chant
 tojanida
 token of gallantry
 token of the eldest
+tomb giant
 tomb guard
 tomb legion
 tome of clear thought
@@ -7558,7 +8941,10 @@ tongues, communal
 tooth fairy
 toothpick of pyrotechnics
 tophet
+toppling rod of metamagic
+tor linnorm
 torble
+torble swarm
 torble, torble swarm
 torc of bloody rage
 torc of enmity
@@ -7573,6 +8959,8 @@ torpid reanimation
 torrent of elemental rage
 tortoise, giant tortoise
 tortoise, immense tortoise
+torturer robot
+toshigami kami
 totem of angazhan
 totem spear
 totenmaske
@@ -7591,11 +8979,12 @@ touch of slumber
 touch of the sea
 tough crowd
 tourmaline sphere (normal) ioun stone
-tower
 tower of iron will
+tower shield
 toxic gift
 toxic rupture
 toxin sponge
+toy golem clockwork
 trace teleport
 tracer bullet
 track ship
@@ -7607,6 +8996,7 @@ trailblazors spade
 trailgaunt
 trailwalker
 trained barding
+trained wolliped
 traitorous blaster
 traitors blade
 transfer familiar
@@ -7631,7 +9021,9 @@ trapmakers sack
 trapped beverage
 trapped puzzle box
 trapped sword
+trapper lurking ray
 trapspringers gloves
+traumatic rod of metamagic
 travelers any-tool
 travelers grandiose carrying case
 travelers translator
@@ -7651,12 +9043,16 @@ tremor bar (kobold)
 tremor boots
 trench mist
 trench mist, trench zombie
+trench zombie trench mist
+tri-bladed katar
 tri-point double-edged sword
 trial by fire
 trial of fire and acid
 triaxian
 triaza
 tribal totem
+triceratops
+triceratops dinosaur
 trident
 trident of fish command
 trident of stability
@@ -7664,12 +9060,23 @@ trident of the storm captain
 trident of warning
 triple-stinging blade (calistria)
 triple eyes of vivid auras
+triple ice of vivid auras
+tripurasura
 tripvine
 triton
 tritons trident
 troggle
+troggle raider
 troggle, troggle raider
 troglodyte
+troglodyte beast-speaker
+troglodyte champion
+troglodyte chieftain
+troglodyte priest
+troglodyte scale-rider
+troglodyte sorcerer
+troglodyte tyrant
+troglodyte warren guard
 troglodyte, troglodyte beast-speaker
 troglodyte, troglodyte champion
 troglodyte, troglodyte chieftain
@@ -7679,6 +9086,15 @@ troglodyte, troglodyte sorcerer
 troglodyte, troglodyte tyrant
 troglodyte, troglodyte warren guard
 troll
+troll acolyte
+troll berserker
+troll brute
+troll elder matron
+troll fury
+troll monarch
+troll render
+troll ripper
+troll warden
 troll, chimney troll
 troll, flood troll
 troll, ice troll
@@ -7721,11 +9137,14 @@ trueforge
 truefrost elixir
 truesight goggles
 truespeak
+trumpet archon
 trumpet of spirit speaking
+trumpeter swan
 truthseeker wayfinder
 tsaalgrend
 tsunami
 tsuruhashi, the silent crane
+tuatara familiar
 tube arrow shooter
 tunche
 tuned bowstring
@@ -7750,13 +9169,21 @@ twisted innards
 twisted space
 two-bladed sword
 tychilarius
+tylosaurus
+tylosaurus dinosaur
 typhilipede
+tyrannosaurus
+tyrannosaurus dinosaur
 tyrants mark
 tzitzimitl
+ubashki lynx
+ubashki swarm
 ubashki, ubashki lynx
 ubashki, ubashki swarm
 uchurah
 ugothokra
+uinuja azata
+ulkreth demon
 umasi
 umbral chain
 umbral infusion
@@ -7768,8 +9195,10 @@ unadulterated loathing
 unbearable brightness
 unbreakable construct
 unbreakable heart
+unchosen gnoll
 unconscious agenda
 undead anatomy
+undead ningyo
 undead pirate, draugr captain
 undead pirate, draugr pirate
 undead pirate, ghost captain
@@ -7790,7 +9219,9 @@ unerring grenade
 unerring tracker
 unerring weapon
 unfetter
+unfettered eidolon
 unfettered shirt
+ungarato sword of gluttony
 unguent of revivification
 unguent of timelessness
 unhallow
@@ -7819,10 +9250,12 @@ untouchable jacket
 unwelcome halo
 unwilling shield
 unwitting ally
+upasunda asura
 uplifting boots
 uraeus
 urannag
 urban grace
+urban stalker derro
 urban step
 urburg armbreaker, hill giant chieftain
 urdefhan
@@ -7850,9 +9283,13 @@ vambraces of defense
 vambraces of the genie
 vambraces of the tactician
 vampire
+vampire lord
+vampire savage
+vampire seducer
 vampire servant, coffin guard
 vampire servant, weird butler
 vampire spawn
+vampire warrior
 vampire, enlightened vampire
 vampire, jiang-shi
 vampire, nosferatu
@@ -7872,8 +9309,13 @@ vanish
 vanishing sheath
 vanishing wayfinder
 vanitys eye
+vanitys i
+vanth psychopomp
 vargouille
 varisian dancing scarves
+varisian hagfish
+vavakia demon
+vayuphak asura
 ved
 vegepygmy
 vegepygmy, thorny
@@ -7885,8 +9327,13 @@ veil of positive energy
 veil of veils
 veiled chain
 veiled eye
+veiled i
+veiled master aboleth
+velociraptor
+velociraptor dinosaur
 vemerak
 vendenopterix
+venedaemon
 vengeful comets
 vengeful kiss
 vengeful outrage
@@ -7894,9 +9341,12 @@ vengeful stinger
 venomous bite
 venomous bolt
 venomous promise
+venomous snake
+venomous snake swarm
 venomous whisper dart
 venomsweat salve
 ventriloquism
+veranallia azata
 verdant boots
 verdant vine
 verdict of the nether court
@@ -7907,6 +9357,7 @@ vermilion rhomboid (normal) ioun stone
 vermillion rhomboid (cracked) ioun stone
 vermin shape
 verminous transformation
+vermlek demon
 vernal key
 versatile design
 versatile vest
@@ -7926,7 +9377,9 @@ vest of the vengeful tracker
 vestment of the champion
 vestments of false faith
 vestments of war
+vetala vampire
 vex giant
+vexgit gremlin
 vexing miscalculation
 vial of efficacious medicine
 vibrant frog hide
@@ -7934,10 +9387,13 @@ vibrant purple prism (flawed) ioun stone
 vicarious view
 vicious link
 victors belt
+viduus psychopomp
 vigor
+vildeis empyreal lord
 vile dog transformation
 vilkacis
 village veil
+vilsteth demon
 vindictive harpoon
 vine strike
 vinetrap
@@ -7945,6 +9401,7 @@ violent accident
 violet fungus
 violet thorny (normal) ioun stone
 viper bomb admixture
+viper familiar
 viper tattoo
 viper vine
 vireseed swarm
@@ -7971,22 +9428,29 @@ void dust
 void funnel
 void pennant
 void scythe
+void yai oni
 voidfrost robe
 voidlight lantern
 voidstick
 voidstick zombie
+voidworm protean
 volatile vaporizer
 volcanic shield
 volcanic storm
+volnagur spawn of rovagug
 voluminous vocabulary
 vomit swarm
 vomit twin
 voonith
 vortex
 vouivre
+vrock demon
+vrolikai demon
 vrykolakas
 vudran ashak helmet
 vulnerability bolt
+vulnudaemon
+vulpinal agathion
 vulture
 vulture, giant vulture
 vulture, whisperfall vulture
@@ -8016,6 +9480,7 @@ wall of split illumination
 wall of stone
 wall of suppression
 wall of thorns
+wallaby familiar
 walrus
 walrus, emperor walrus
 wand key ring
@@ -8035,11 +9500,13 @@ war paint of the terrible visage
 war razor
 war saddle
 warbringer
+warcat of rull war beast of belkzen
 warchanters torch (goblin)
 ward of the season
 ward shield
 ward the faithful
 warden of the woods
+warden robot
 wardens cudgel
 warding box
 warding lips
@@ -8048,6 +9515,7 @@ wardstone
 wardstone shard
 warhammer
 warhammer musket
+warmonger devil
 warmonger wasp
 warp metal
 warp wood
@@ -8056,14 +9524,18 @@ warsworn
 wartrain mount
 was scepter
 wasp nest of swarming
+wasp swarm
 wasp, giant wasp
 wasp, ground wasp swarm
 wasp, wasp swarm
 watchful animal
 watchful eye
+watchful i
 watchtower tattoo
 water breathing
+water naga
 water orm
+water ossumental
 water scorpion
 water shield
 water strider swarm
@@ -8071,6 +9543,7 @@ water strider, giant water strider
 water strider, nymph water strider
 water walk
 water wraith
+water yai oni
 waters of lamashtu
 waters of transfiguration
 wave form
@@ -8082,6 +9555,7 @@ waves of blood
 waves of ecstasy
 waves of exhaustion
 waves of fatigue
+wax golem
 wax of defiance
 waxen image
 waxwork creature
@@ -8095,6 +9569,7 @@ wayfinder of revelation
 wayfinder of spellbreaking
 wayfinder of the planes
 wayfinder of the sleeping eye
+wayfinder of the sleeping i
 wayfinder of the stars
 wayfinder of zephyrs
 wayfinder, ebon
@@ -8105,6 +9580,7 @@ weapon of awe
 weapon tattoo
 weapons against evil
 weaponwand
+weasel familiar
 weasel, dire weasel
 weasel, giant weasel
 weaverworm
@@ -8116,6 +9592,7 @@ weedwhip
 weighted bolt
 weighted spear
 weird
+weird butler vampire servant
 weird queens magpie
 weirding watch
 well of many worlds
@@ -8123,8 +9600,23 @@ well of stars
 well of the welcome respite
 wendifisa spear
 wendigo
+werebat
+werebat lycanthrope
+wereboar
+wereboar lycanthrope
+werecrocodile
+werecrocodile lycanthrope
+wererat
+wererat lycanthrope
+wereshark
+wereshark lycanthrope
+weretiger
+weretiger lycanthrope
 werewhistle
+werewolf
+werewolf lycanthrope
 western star (normal) ioun stone
+wet-house emissary gillman
 whale
 whale, great white whale
 whip
@@ -8132,6 +9624,7 @@ whip of spiders
 whirlmaw
 whirlwind
 whisper and shadow
+whisperfall vulture
 whispering amulet
 whispering coin
 whispering gloves
@@ -8140,9 +9633,13 @@ whispering shell
 whispering shrike
 whispering wind
 whistle of calling
-whistling arrows (20)
+whistling arrows
+white-eyed torturer derro
+white-i d torturer derro
+white rider baba yagas rider
 wickerman
 widen auras
+widen rod of metamagic
 wight
 wikkawak
 wild instinct
@@ -8153,6 +9650,7 @@ wind blades
 wind fan
 wind walk
 wind wall
+wind yai oni
 windreaders bow
 winds of vengeance
 windsong lute
@@ -8170,9 +9668,11 @@ wings of protection
 wings of the gargoyle
 winter collector
 winter feathers
-winter fey (redcap)
+winter fey
+winter hag
 winter wolf headband
 winter wolf runetooth
+winter wolf worg
 winters grasp
 winters heart
 wintertide candle
@@ -8201,16 +9701,21 @@ wolf-in-sheeps-clothing
 wolf callers horn
 wolf, dire wolf
 wolf, timber wolf
-wolliped, wolliped (combat trained)
-wolliped, wolliped (domesticated or wild)
+wolliped
 wolpertinger
 wolverine
 wolverine, dire wolverine
+wood giant
+wood golem
+wood idol
 wood shape
-wooden
+wooden armor
 wooden phalanx
 wooden protector
+wooden quickdraw shield
+wooden snarlshield
 wooden stake
+woolly rhinoceros
 word bottle
 word of chaos
 word of recall
@@ -8246,42 +9751,84 @@ xanthuun tablets
 xenopterid
 xill
 xill carapace armor
+xill matriarch
 xill, xill matriarch
-xiomorn, xiomorn (vault keeper)
+xiomorn
+xiomorn, xiomorn
+xiuh couatl
 xocothian
 xorn
 xorn robe
+xotani spawn of rovagug
+xoveron demon lord
 xtabay
 xulgath
+yaenit demon
 yah-thelgaad
+yamabushi tengu oni
+yamah azata
+yamaraj psychopomp
 yamasoth
 yangethe
 yaoguai
+yarahkut inevitable
 yellow musk creeper
 yeth hound
+yethazmari herald
 yeti
 yhohm
 yithian
 yithian elder
 yolubilis heron
+young black dragon
+young blue dragon
+young brass dragon
+young brine dragon
+young bronze dragon
+young cloud dragon
+young copper dragon
+young crystal dragon
+young forest dragon
+young gold dragon
+young green dragon
+young lunar dragon
+young magma dragon
+young red dragon
+young sea dragon
+young silver dragon
+young sky dragon
+young solar dragon
+young sovereign dragon
+young time dragon
+young umbral dragon
+young underworld dragon
+young void dragon
+young vortex dragon
+young white dragon
 youthful appearance
 ypotryll
 yrldak
 yrthak
 yuki-onna
 yzobu
+zahhak azi
 zana
 zealot wraith
+zelekhut inevitable
 zelishkar of the bitter flame
 zellaras harrow deck
 zenj spirit fetish
 zentragt
 zephyrs fleetness
+zeuglodon primeval sea creature
 zhen worm
 zhyen
 zoic fetish
 zoic of the primeval
+zombie
+zombie lord
 zombie skin shield
+zombie wolf
 zombie, apocalypse zombie
 zombie, giant zombie
 zombie, human zombie
@@ -8295,5 +9842,6 @@ zone of silence
 zone of truth
 zonzon doll of forgiveness
 zoog
+zuishin kami
 zul
 zuvembie
