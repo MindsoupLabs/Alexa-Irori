@@ -115,7 +115,7 @@ public class TextServiceImpl implements TextService {
 			}
 		}
 
-		LOG.info(String.format("found match for %s with levenshtein distance %s: %s", name, closestLevenshteinDistance, closestMatch);
+		LOG.info(String.format("found match for %s with levenshtein distance %s: %s", name, closestLevenshteinDistance, closestMatch));
 
 		return closestMatch;
 	}

@@ -9,7 +9,7 @@ abandoned one
 abeyance
 abjurant salt
 ablative barrier
-ablative sphere (garundi)
+ablative sphere
 aboleth
 aboleth, veiled master
 aboleths lung
@@ -18,6 +18,8 @@ abrikandilu demon
 abrogalian corset
 absolution
 absorb rune
+absorb rune ii
+absorb rune iii
 absorb toxicity
 absorbing inhalation
 absorbing shield
@@ -40,6 +42,7 @@ acid arrow
 acid bolt
 acid fog
 acid maw
+acid pit
 acid splash
 acidic spray
 acrididaemon
@@ -113,10 +116,13 @@ agathion, mustelidal
 agathion, procyal
 agathion, silvanshee
 agathion, vulpinal
+age resistance
+age resistance, greater
 age resistance, lesser
 agents clasp (taldan)
 aggravate affliction
 aggressive thundercloud
+aggressive thundercloud, greater
 aghash div
 aghasura
 agile alpenstock
@@ -140,6 +146,7 @@ air of authority
 air ossumental
 air step
 air walk
+air walk, communal
 akaruzug
 akashic communion
 akashic form
@@ -173,6 +180,7 @@ aldori alacrity
 aldori dueling armor
 aldori dueling sword
 align weapon
+align weapon, communal
 aligned horn of valhalla
 alkenstar fortress plate
 all-seeing armor
@@ -327,6 +335,8 @@ angel, ninkonda
 angel, planetar
 angel, solar
 angelfall bow
+angelic aspect
+angelic aspect, greater
 angelic aspect, lesser
 angelic guardian
 angels clarion
@@ -334,6 +344,7 @@ angustiden shark
 anima focus
 animal ambassador
 animal aspect
+animal aspect, greater
 animal divining pot
 animal growth
 animal lord, cat lord
@@ -344,6 +355,7 @@ animal totem tattoo
 animal trance
 animate aria
 animate dead
+animate dead, lesser
 animate dream
 animate objects
 animate plants
@@ -353,6 +365,7 @@ animated portrait
 animated tank
 animator brush
 animus mine
+animus mine, greater
 animus shade, medusa animus shade
 ankheg
 ankhrav
@@ -366,6 +379,7 @@ annis hag
 annis hag alter ego
 anonymous interaction
 ant haul
+ant haul, communal
 ant lion, giant adult ant lion
 ant lion, giant ant lion
 ant, army ant swarm
@@ -434,6 +448,7 @@ arcane mark
 arcane pocket
 arcane reinforcement
 arcane sight
+arcane sight, greater
 arcanotheign herald
 archaeopteryx familiar
 archelon megafauna
@@ -480,6 +495,7 @@ armored coat
 armored kilt
 armored ogre skeleton
 arms of the marilith
+army across time
 army ant swarm
 arodens magic army
 arodens spellbane
@@ -520,11 +536,13 @@ assassins sight
 assassins sight, greater
 assisting gloves
 assume appearance
+assume appearance, greater
 assumed likeness
 astradaemon
 astral deva angel
 astral leviathan
 astral projection
+astral projection, lesser
 astralabe
 astrologers telescope
 asura, adhukait
@@ -536,6 +554,7 @@ asura, vayuphak
 asurendra asura
 atamahuta oni
 atavism
+atavism, mass
 atavistic splinter
 ataxian
 athach
@@ -545,6 +564,7 @@ atomie
 atonement
 attentive mirror
 attic whisperer
+audiovisual hallucination
 auditory hallucination
 augmenting wall
 augnagar qlippoth
@@ -727,8 +747,12 @@ bear, grizzly bear
 bear, polar bear
 bearded devil
 bears endurance
+bears endurance, mass
 beast-bond brand
 beast shape
+beast shape ii
+beast shape iii
+beast shape iv
 beast wrestlers gauntlets
 beastspeak
 beaststrike club
@@ -805,6 +829,7 @@ best friend pendant
 best friend pendant, greater
 bestow auras
 bestow curse
+bestow curse, greater
 bestow grace
 bestow grace of the champion
 bestow insight
@@ -823,11 +848,13 @@ bind sage
 binding
 binding contract (chelaxian)
 binding earth
+binding earth, mass
 birelu
 bishop agathion
 bison herd animal
 bit of luck
 bite the hand
+bite the hand, mass
 biting bracelet
 biting words
 bitter widows veil
@@ -876,6 +903,7 @@ blade snare
 blade tutors spirit
 bladed belt
 bladed dash
+bladed dash, greater
 bladed scarf
 blancher
 blasphemy
@@ -902,6 +930,7 @@ blessing of courage and life
 blessing of fervor
 blessing of liberty
 blessing of luck and resolve
+blessing of luck and resolve, mass
 blessing of the mole
 blessing of the salamander
 blessing of the watch
@@ -1167,6 +1196,7 @@ brand
 brand of conformity
 brand of hobbling
 brand of tracking
+brand, greater
 brass golem
 brass knife
 brass knuckles
@@ -1178,6 +1208,7 @@ brazier of conjuring fire elementals
 breach barrier
 break
 break enchantment
+break, greater
 breastplate
 breastplate armor
 breastplate of command
@@ -1188,6 +1219,7 @@ breeze
 brethedan
 briar
 bridle of tricks
+brightest light
 brijidine azata
 brilliant bulwark
 brilliant flash symbol
@@ -1257,6 +1289,7 @@ bullet, adamantine
 bullets, groaning
 bullroarers of outburst
 bulls strength
+bulls strength, mass
 bungle
 bunyip
 buoyancy
@@ -1270,7 +1303,7 @@ burglars bracers
 burglars buckler
 burleev
 burn corruption
-burning arc (keleshite)
+burning arc
 burning child
 burning disarm
 burning gaze
@@ -1302,6 +1335,7 @@ cackling hags blouse
 cackling skull
 cacodaemon
 cacophonous call
+cacophonous call, mass
 caduceus rod
 cage of captivity
 caging bomb admixture
@@ -1325,6 +1359,7 @@ call spirit
 call the void
 call weapon
 callback
+callback, greater
 callers feather
 calm air
 calm animals
@@ -1393,6 +1428,7 @@ casters shield
 casters shield, greater
 casters tattoo
 castigate
+castigate, mass
 cat-o-nine-tails
 cat burglars boots
 cat familiar
@@ -1407,6 +1443,7 @@ catoblepas
 catrina psychopomp
 cats eye crown
 cats grace
+cats grace, mass
 cats i crown
 catskin leather
 cauchemar nightmare
@@ -1507,6 +1544,7 @@ challengers gloves
 challenging shield
 chameleon scales
 chameleon stride
+chameleon stride, greater
 champion of the gilded host
 champions banner
 champions bout
@@ -1534,11 +1572,14 @@ charlatans cape
 charlatans symbol
 charm animal
 charm bracelet
+charm fey
 charm monster
+charm monster, mass
 charm of aluum control
 charm of fate
 charm of the thriceborn
 charm person
+charm person, mass
 charmers kiss
 charnel colossus
 charnel house
@@ -1604,6 +1645,7 @@ circlet of petty discord
 circlet of speaking
 circlet of spell-eating
 claim identity
+claim identity, greater
 clairaudience/clairvoyance
 clamor box
 clandestine horseshoes
@@ -1745,10 +1787,36 @@ comforts cloak
 command
 command plants
 command undead
+command, greater
 commanders banner
 commanders helm (dwarf)
 common eurypterid
+communal air walk
+communal align weapon
+communal ant haul
+communal darkvision
+communal delay poison
+communal endure elements
+communal mask dweomer
+communal mind blank
+communal mount
+communal nondetection
+communal phantom steed
+communal protection from arrows
+communal protection from chaos
+communal protection from energy
+communal protection from evil
+communal protection from good
+communal protection from law
+communal reinforce armaments
+communal resist energy
+communal returning weapon
+communal share language
+communal spell immunity
+communal spider climb
+communal stoneskin
 communal tongues
+communal water walk
 commune
 commune with birds
 commune with nature
@@ -1759,7 +1827,9 @@ companion mind link
 compassionate ally
 compel hostility
 compel tongue
+compel tongue, mass
 compelling rant
+complex hallucination
 composite longbow
 composite shortbow
 comprehend languages
@@ -1770,12 +1840,14 @@ concealed breath
 concealing pocket
 concussive rod of metamagic
 condensed ether
+conditional curse
 conditional favor
 conduit rod
 cone of cold
 confess
 conflagration pike
 confusion
+confusion, lesser
 congregants compass
 conjuration foil
 conjure black pudding
@@ -1787,12 +1859,17 @@ constricting coils
 constrictor snake
 constrictors gauntlets
 construct channel brick
+contact entities iv
 contact entity
+contact entity ii
+contact entity iii
 contact high
 contact nalfeshnee
 contact other plane
 contagion
+contagion, greater
 contagious flame
+contagious suggestion
 contagious zeal
 contemplative
 contemplative, enlightened contemplative
@@ -1800,6 +1877,7 @@ contest of skill
 contingency
 contingent action
 contingent scroll
+contingent venom
 contingent wayfinder
 continual flame
 contract devil
@@ -1811,6 +1889,7 @@ control vermin
 control water
 control weather
 control winds
+controlled fireball
 conversing wind
 cookbook of arcane augmentation
 coordinated effort
@@ -1866,12 +1945,15 @@ crashing boots
 crawling hand
 crawling hand, giant crawling hand
 create armaments
+create demiplane
+create demiplane, greater
 create demiplane, lesser
 create drug
 create food and water
 create greater undead
 create holds
 create mindscape
+create mindscape, greater
 create pit
 create soul gem
 create treasure map
@@ -1884,6 +1966,7 @@ creeping ice
 crepitus
 cresset of grisly interrogation
 crest of the fallen
+crime of opportunity
 crime wave
 crimson alter
 crimson bluff
@@ -1945,7 +2028,7 @@ cube of varied force walls
 cubic gate
 culling goggles
 cultural adaptation
-cultural adaptation (taldan)
+cultural adaptation taldan
 culverin
 cup of dust
 cup of forbidden knowledge
@@ -1970,8 +2053,12 @@ curse of magic negation
 curse of night
 curse of the outcast
 curse of unexpected death
+curse terrain
+curse terrain, greater
 curse terrain, lesser
+curse terrain, supreme
 curse water
+curse, major
 cursed earth
 cushioning bands
 cutlass
@@ -2044,6 +2131,7 @@ damnation stride
 damp powder
 dan bong
 dance of a hundred cuts
+dance of a thousand cuts
 dancing darkness
 dancing hut of baba yaga
 dancing lantern
@@ -2085,6 +2173,8 @@ darksire amulet
 darkskull
 darkvault
 darkvision
+darkvision, communal
+darkvision, greater
 darkwood buckler
 darkwood shield
 dart
@@ -2104,8 +2194,10 @@ daystar half-plate
 daywalker
 daze
 daze monster
+daze, mass
 dazing rod of metamagic
 dazzling blade
+dazzling blade, mass
 dead i leather
 dead mans headband
 dead mans shroud
@@ -2124,6 +2216,7 @@ deadly finale
 deadly juggernaut
 deadly kiss
 deadly mantis
+deadmans contingency
 deadshot vest
 deafening song bolt
 death bill
@@ -2133,6 +2226,7 @@ death dog
 death from below
 death knell
 death knell aura
+death knell aura, greater
 death mask
 death pact
 death ward
@@ -2154,6 +2248,7 @@ deathwatch eyes
 deathwatch ice
 deathweb
 deathwine
+debilitating pain, mass
 debilitating portent
 decanter of endless water
 decapitate
@@ -2197,6 +2292,7 @@ deja vu
 delay disease
 delay pain
 delay poison
+delay poison, communal
 delayed blast fireball
 delayed consumption
 delgeth
@@ -2205,6 +2301,8 @@ delusional pride
 delver
 demand
 demand offering
+demanding message
+demanding message, mass
 demilich
 demodand, shaggy demodand
 demodand, slimy demodand
@@ -2304,14 +2402,17 @@ destroy robot
 destruction
 detect aberration
 detect animals or plants
+detect anxities
 detect chaos
 detect charm
 detect demon
+detect desires
 detect evil
 detect fiendish presence
 detect good
 detect law
 detect magic
+detect magic, greater
 detect metal
 detect mindscape
 detect poison
@@ -2384,6 +2485,7 @@ diagnose disease
 diamond spray
 dibilitating pain
 dictum
+die for your master
 dimension door
 dimensional acid
 dimensional anchor
@@ -2455,6 +2557,7 @@ discern next of kin
 discern value
 discerning goggles
 discharge
+discharge, greater
 discord bottle
 discordant blast
 discordant piccolo
@@ -2463,6 +2566,7 @@ discretion charm
 discriminating cube
 disenchanter
 disfiguring touch
+disguise other
 disguise self
 disguise weapon
 disintegrate
@@ -2474,6 +2578,7 @@ dispel evil
 dispel good
 dispel law
 dispel magic
+dispel magic, greater
 displacement
 displacing stone
 display aversion
@@ -2874,6 +2979,10 @@ efreeti bottle
 efreeti genie
 efreeti horns
 ego whip
+ego whip ii
+ego whip iii
+ego whip iv
+ego whip v
 egophage
 egorian diplomacy
 eidolon anchoring harness
@@ -2897,6 +3006,7 @@ elder sphinx
 elder thing
 elder water elemental
 eldritch conduit
+eldritch conduit, greater
 eldritch egress
 eldritch fever
 eldritch scholars monocle
@@ -2952,6 +3062,9 @@ elemental , small water elemental
 elemental assessor
 elemental aura
 elemental body
+elemental body ii
+elemental body iii
+elemental body iv
 elemental bombardment
 elemental bulwark
 elemental chain
@@ -3037,6 +3150,7 @@ endless bandolier
 endothermic touch
 ends voice herald
 endure elements
+endure elements, communal
 enduring bloom
 enemy hammer
 enemy insight
@@ -3045,6 +3159,7 @@ enemys heart
 energy drain
 energy hack
 energy siege shot
+energy siege shot, greater
 enervating pistol
 enervation
 enervative shadowcraft weapon
@@ -3052,6 +3167,7 @@ engineers workgloves
 enhance water
 enhanced diplomacy
 enlarge person
+enlarge person, mass
 enlarge rod of metamagic
 enlarge tail
 enlightened contemplative
@@ -3063,6 +3179,8 @@ entangle
 entangling aiguillette
 enter image
 enthrall
+entice fey
+entice fey, greater
 entice fey, lesser
 enticing adulation
 entomb
@@ -3129,6 +3247,8 @@ evergreen seed pouch
 eversmoking bottle
 everwake amulet
 evidentiary dust
+evolution surge
+evolution surge, greater
 evolution surge, lesser
 excruciating deformation
 executioners hand
@@ -3210,7 +3330,12 @@ false face
 false flag tabard
 false future
 false life
+false life, greater
+false resurrection
+false resurrection, greater
 false vision
+false vision, greater
+familiar double
 familiar figment
 familiar melding
 familiar rod of metamagic
@@ -3293,6 +3418,7 @@ feast on fear
 feather fall
 feather step
 feather step slippers
+feather step, mass
 feather tokens
 featherleaf barding
 featherscale cloak
@@ -3305,6 +3431,7 @@ fellers belt
 fellsig
 feranth
 fester
+fester, mass
 festering spirit
 festering ulunat spawn of rovagug
 festrog
@@ -3405,8 +3532,10 @@ flames of the faithful
 flaming aura
 flaming skull beheaded
 flaming sphere
+flaming sphere, greater
 flamma horacalcum
 flare
+flare burst
 flaring rod of metamagic
 flash fire
 flash forward
@@ -3421,9 +3550,11 @@ flea, mammoth flea
 flechette bolt
 fleeting defect
 fleeting memory
+fleeting memory, mass
 flesh-eating cockroach swarm
 flesh golem
 flesh puppet
+flesh puppet horde
 flesh to ooze
 flesh to stone
 flesh wall
@@ -3438,7 +3569,7 @@ fleshwarp, halsora
 fleshwarp, irnakurse
 fleshwarp, oronci
 fleshwarped scorpions tail
-fleshwarping swarm (drow)
+fleshwarping swarm
 fleshworm infestation
 fleshy facade
 flexible fury
@@ -3460,6 +3591,7 @@ flumph
 flurry of snowballs
 flute of persuasion
 fly
+fly, mass
 flying blade
 flying chest
 flying ointment
@@ -3490,6 +3622,7 @@ fools gold
 fools scepter
 fools teleport
 forbid action
+forbid action, greater
 forbiddance
 force anchor
 force casket
@@ -3518,8 +3651,14 @@ fork of the forgotten one
 forlarren
 form-fixing gauntlets
 form of the alien dragon
+form of the alien dragon ii
+form of the alien dragon iii
 form of the dragon
+form of the dragon ii
+form of the dragon iii
 form of the exotic dragon
+form of the exotic dragon ii
+form of the exotic dragon iii
 formian myrmarch
 formian queen
 formian taskmaster
@@ -3554,6 +3693,7 @@ four-leaf clover
 four-mirror
 fox familiar
 foxs cunning
+foxs cunning, mass
 fractions of heal and harm
 free swim
 freedom
@@ -3678,6 +3818,7 @@ gauntlets of twisting vines
 gearghost
 gearsman robot
 geas, lesser
+geas/quest
 gebs hammer
 geist
 gelatinous cube
@@ -3725,6 +3866,7 @@ ghost sound
 ghost whip
 ghost wolf
 ghostbane dirge
+ghostbane dirge, mass
 ghostlight lantern
 ghostly disguise
 ghostvision gloves
@@ -3794,6 +3936,7 @@ giant flea
 giant fly
 giant flytrap
 giant form
+giant form ii
 giant frilled lizard
 giant frog
 giant gar
@@ -3801,6 +3944,7 @@ giant gecko lizard
 giant ground wasp desert vermin
 giant hellgrammite
 giant hook fly
+giant invisibility bubble
 giant isopod familiar
 giant jellyfish
 giant leech
@@ -3892,10 +4036,12 @@ glass urchin
 glibness
 glide
 glimpse of the akashic
+glimpse of truth
 glitterdust
 glittering trinket
 globe of blizzards
 globe of invulnerability
+globe of invulnerability, lesser
 globe of moonlight
 globe of tranquil water
 globster
@@ -3936,6 +4082,7 @@ glowing gourd
 glue seal
 glutton of the green shaorhaz
 glyph of warding
+glyph of warding, greater
 glyphbane gloves
 gnoll
 gnoll bouda
@@ -4077,6 +4224,7 @@ grasp
 grasping bolas
 grasping corpse
 grasping hand
+grasping tentacles
 grave candle
 grave marker arrow
 grave salt
@@ -4099,6 +4247,7 @@ gray masters leathers
 gray ooze
 gray render
 grease
+grease, greater
 great barghest hero cloak
 great cyclops
 great diadem urchin
@@ -4115,30 +4264,125 @@ greataxe
 greatclub
 greatcube of jayalakshmi
 greater (varisian) hallowed chain
+greater age resistance
+greater aggressive thundercloud
 greater air elemental
+greater angelic aspect
+greater animal aspect
+greater animus mine
+greater arcane sight
 greater assassins sight
+greater assume appearance
 greater barghest
 greater best friend pendant
+greater bestow curse
+greater bladed dash
+greater brand
+greater break
+greater callback
 greater casters shield
 greater celestial healing
+greater chameleon stride
 greater channel-thieving belt
+greater claim identity
 greater coat of the undercity
+greater command
+greater communal spell immunity
+greater contagion
+greater create demiplane
+greater create mindscape
+greater curse terrain
+greater darkvision
+greater death knell aura
+greater detect magic
 greater dire collar
+greater discharge
+greater dispel magic
 greater earth elemental
+greater eldritch conduit
+greater energy siege shot
+greater entice fey
+greater evolution surge
+greater false life
+greater false resurrection
+greater false vision
 greater fire elemental
+greater flaming sphere
+greater forbid action
+greater glyph of warding
+greater grease
+greater guardian monument
+greater harrowing
 greater hat of disguise
+greater heroism
+greater hex glyph
+greater hollow heroism
+greater hostile juxtaposition
+greater hypnotism
 greater ice elemental
+greater illusion of treachery
+greater infernal healing
+greater insect spies
+greater instant summons
+greater interrogation
+greater invisibility
+greater lend judgment
+greater life conduit
 greater lightning elemental
+greater longstrider
+greater magic aura
+greater magic fang
+greater magic siege engine
+greater magic weapon
 greater magma elemental
+greater make whole
 greater monster almanac
 greater mud elemental
 greater murderers machete
+greater named bullet
+greater natures ravages
+greater neutralize poison
+greater object possession
+greater oneiric horror
+greater path of glory
+greater peacebond
+greater planar ally
+greater planar binding
 greater polymorph
+greater possession
 greater prying eyes
 greater prying ice
+greater rejuvenate eidolon
+greater remove radioactivity
+greater restoration
+greater sand whirlwind
+greater scale spikes
+greater scrying
 greater sealed life
+greater seeds of influence
 greater shadow
+greater shadow conjuration
+greater shadow enchantment
+greater shadow evocation
+greater shadow transmutation
+greater share skin
+greater shield of fortification
+greater shield of the dawnflower
+greater shield speech
+greater shout
+greater siege of trees
+greater spell absorption
+greater spell immunity
+greater spellcasting contract
+greater spellcrash
 greater status
+greater steal years
+greater stunning barrier
+greater summon cacodaemon
+greater summon genie
+greater synaptic pulse
+greater teleport
+greater thunderstomp
 greater time bomb
 greater verduous ooze verdurous ooze
 greater water elemental
@@ -4195,6 +4439,7 @@ guardian armor
 guardian doll
 guardian gorget
 guardian key
+guardian monument, greater
 guardian monument, lesser
 guardian naga
 guardian of faith
@@ -4319,6 +4564,7 @@ harridan
 harrow deck of many things
 harrow deck of secret schemes
 harrowing
+harrowing, greater
 harvest season
 harvesting lens
 haste
@@ -4364,6 +4610,7 @@ headhunter wayfinder
 headsmans blade
 heal
 heal mount
+heal, mass
 healers burning glass
 healers gloves
 healers satchel
@@ -4483,14 +4730,17 @@ herne
 heroes feast
 heroic finale
 heroic fortune
+heroic fortune, mass
 heroic invocation
 heroism
+heroism, greater
 heros blade
 heros defiance
 heros hauberk
 heros release pendant
 hetkoshu crocodile
 hex glyph
+hex glyph, greater
 hex nail
 hex vulnerability
 hex ward
@@ -4550,12 +4800,17 @@ hobgoblin, hobgoblin paragon
 hobgoblin, hobgoblin sergeant
 hodag
 hold animal
+hold fey
 hold monster
+hold monster, mass
 hold person
+hold person, mass
 hold portal
 holdout wand wrap
 hollow blades
 hollow helm phantom armor
+hollow heroism
+hollow heroism, greater
 hollow rod
 hollow serpent
 hollow serpent, lesser hollow serpent
@@ -4628,6 +4883,7 @@ horseshoes of speed
 hospitalitys hammock
 host devil
 hostile juxtaposition
+hostile juxtaposition, greater
 hostile levitation
 hotchkiss 6 pounder
 hound archon
@@ -4658,17 +4914,20 @@ huge mud elemental
 huge water elemental
 huldra
 human potential
+human potential, mass
 human skeleton
 human zombie
 humbaba
 hunga munga
 hunger for flesh
+hunger for flesh, mass
 hungerer lamia-kin
 hungry darkness
 hungry earth
 hungry flesh
 hungry fog
 hungry mist
+hungry pit
 hunter urchin
 hunters band
 hunters blessing
@@ -4702,6 +4961,7 @@ hyena
 hyena shawl
 hyena spirit skin
 hyena, dire hyena
+hymn of mercy
 hymn of peace
 hyperboreal robe
 hypercognition
@@ -4710,6 +4970,7 @@ hypnotic pattern
 hypnotic tattoo
 hypnotic wayfinder
 hypnotism
+hypnotism, greater
 i-stealing locket
 i bite
 i of abenatrex
@@ -4756,7 +5017,11 @@ icon of aspects
 icon of order
 icon of the midwife
 icy prison
+icy prison, mass
 id insinuation
+id insinuation ii
+id insinuation iii
+id insinuation iv
 id portrait
 identify
 idol of the eye
@@ -4776,6 +5041,7 @@ iku-turso
 ill omen
 illusion of calm
 illusion of treachery
+illusion of treachery, greater
 illusory crowd
 illusory hoard
 illusory maze
@@ -4817,6 +5083,7 @@ impossible angles
 impossible bottle
 imprisonment
 improve trap
+improved life conduit
 impundulu
 incandescent blue sphere (normal) ioun stone
 incendiary arrow
@@ -4852,14 +5119,19 @@ infensus mucro
 infernal challenger
 infernal cord
 infernal healing
+infernal healing, greater
 infiltrators mail
 infiltrators onyx
 inflict critical wounds
+inflict critical wounds, mass
 inflict light wounds
+inflict light wounds, mass
 inflict moderate wounds
+inflict moderate wounds, mass
 inflict pain
 inflict pain, mass
 inflict serious wounds
+inflict serious wounds, mass
 infuse effigy
 infuse robot
 inheritors breastplate
@@ -4879,6 +5151,7 @@ insanity
 insect plague
 insect scouts
 insect spies
+insect spies, greater
 insidious bear trap
 insignia of valor
 insistent doorknocker
@@ -4893,17 +5166,22 @@ instant portrait
 instant restoration
 instant suffocation
 instant summons
+instant summons, greater
 instant weapon
 instigate psychic duel
 instrument of agony
 intellect devourer
 intellect fortress
+intellect fortress ii
+intellect fortress iii
 intensified rod of metamagic
 intensify psyche
 interlocutor kyton
 interplanetary teleport
 interposing hand
 interrogation
+interrogation, greater
+inveigle monster
 inveigle person
 inverted giant
 investigative mind
@@ -4911,6 +5189,7 @@ investigators pipe
 invidian eye
 invidian i
 invigorate
+invigorate, mass
 invigorating poison
 invigorating repose
 invincible armor
@@ -4918,8 +5197,12 @@ inviolate marker
 invisibility
 invisibility alarm
 invisibility bubble
+invisibility bubble, giant
+invisibility bubble, mass
 invisibility purge
 invisibility sphere
+invisibility, greater
+invisibility, mass
 invisible stalker
 invoke primal power
 iophanite angel
@@ -5263,6 +5546,7 @@ lashing shadowcraft weapon
 lashunta
 lasso
 last azlantis defending sword
+last azlantis defending sword, mass
 last leaves of the autumn dryad
 lastwall banner
 latten mechanism herald
@@ -5303,6 +5587,7 @@ legion armor
 lemming familiar
 lemure devil
 lend judgment
+lend judgment, greater
 lend path
 leng flail
 leng spider
@@ -5328,21 +5613,29 @@ leshy, leaf leshy
 leshy, seaweed leshy
 lesser age resistance
 lesser angelic aspect
+lesser animate dead
+lesser astral projection
+lesser confusion
 lesser create demiplane
 lesser curse terrain
 lesser entice fey
 lesser evolution surge
 lesser geas
+lesser globe of invulnerability
 lesser guardian monument
 lesser hollow serpent
 lesser horn of the tritons
 lesser host devil
 lesser nondetection
 lesser object possession
+lesser pesh addiction
 lesser planar ally
+lesser planar binding
 lesser possession devil
 lesser rejuvenate eidolon
+lesser restoration
 lesser restore eidolon
+lesser simulacrum
 lesser spellcasting contract
 lesser spellcrash
 lesser summon genie
@@ -5366,6 +5659,8 @@ life blast
 life bubble
 life channel
 life conduit
+life conduit, greater
+life conduit, improved
 life current
 life drinker
 life lantern
@@ -5391,6 +5686,7 @@ light steel shield
 light wooden quickdraw shield
 light wooden shield
 lighten object
+lighten object, mass
 lightfingers
 lightning arc
 lightning bolt
@@ -5503,6 +5799,7 @@ longhammer, dwarven
 longshot
 longspear
 longstrider
+longstrider, greater
 longsword
 lord of all divs ahriman
 lord of the deep pools balravnus
@@ -5514,6 +5811,7 @@ lorestone
 lorthact
 lose the trail
 lost legacy
+lost locale
 lost passage
 lotus stone of namrut
 loudshot pistol
@@ -5591,6 +5889,7 @@ magi staff of the mammoth
 magi staff of the necromancer
 magi staff of the scholar
 magic aura
+magic aura, greater
 magic beans
 magic boulder
 magic circle against chaos
@@ -5599,14 +5898,17 @@ magic circle against good
 magic circle against law
 magic circle against technology
 magic fang
+magic fang, greater
 magic jar
 magic missile
 magic mouth
 magic siege engine
+magic siege engine, greater
 magic stone
 magic talking board
 magic vestment
 magic weapon
+magic weapon, greater
 magicians hat
 magma ooze
 magmin
@@ -5622,12 +5924,17 @@ maidens promise
 mail of malevolence
 mail of sly steps (halfling)
 majestic image
+major creation
+major curse
+major image
+major mind swap
 major phantom object
 make lost
 make whole
+make whole, greater
 malbolgian cerberi
 malediction
-malediction (hero points)
+malediction hero points
 maleficus spike
 malenti sahuagin mutant
 malfunction
@@ -5709,6 +6016,7 @@ martyrs tear
 marut inevitable
 marvelous pigments
 mask dweomer
+mask dweomer, communal
 mask from divination
 mask golem
 mask of a thousand tomes
@@ -5730,13 +6038,64 @@ mask of the mesmerist
 mask of the skull
 masked murderer ghoul
 masochistic shadow
+mass atavism
+mass bears endurance
+mass binding earth
+mass bite the hand
+mass blessing of luck and resolve
+mass bulls strength
+mass cacophonous call
+mass castigate
+mass cats grace
+mass charm monster
+mass charm person
+mass compel tongue
 mass cure critical wounds
 mass cure light wounds
 mass cure moderate wounds
 mass cure serious wounds
+mass daze
+mass dazzling blade
+mass debilitating pain
+mass demanding message
 mass eagles splendor
+mass enlarge person
+mass feather step
+mass fester
+mass fleeting memory
+mass fly
+mass foxs cunning
+mass ghostbane dirge
+mass heal
+mass heroic fortune
+mass hold monster
+mass hold person
+mass human potential
+mass hunger for flesh
+mass icy prison
+mass inflict critical wounds
+mass inflict light wounds
+mass inflict moderate wounds
 mass inflict pain
+mass inflict serious wounds
+mass invigorate
+mass invisibility
+mass invisibility bubble
+mass last azlantis defending sword
+mass lighten object
+mass mydriatic spontaneity
+mass owls wisdom
+mass pain strike
+mass passing fancy
+mass planar adaptation
+mass planetary adaptation
+mass reduce person
 mass repair undead
+mass suffocation
+mass suggestion
+mass suns disdain
+mass synesthesia
+mass umbral infusion
 massacre
 master vidlians squeeze-box
 masterful gray gloves
@@ -5815,6 +6174,10 @@ memory of function
 mending
 menotherian
 mental barrier
+mental barrier ii
+mental barrier iii
+mental barrier iv
+mental barrier v
 mental block
 mephit
 mercane
@@ -5854,13 +6217,20 @@ mihstu
 milanite armor
 mimic
 mind blank
+mind blank, communal
 mind fog
 mind maze
 mind over matter
 mind probe
 mind sentinel medallion
 mind swap
+mind swap, major
 mind thrust
+mind thrust ii
+mind thrust iii
+mind thrust iv
+mind thrust v
+mind thrust vi
 mindbind figurine
 minderhals forge
 mindlink
@@ -5965,6 +6335,9 @@ monstrous cockroach
 monstrous dye
 monstrous extremities
 monstrous physique
+monstrous physique ii
+monstrous physique iii
+monstrous physique iv
 moon-beast
 moon circlet
 moon clock
@@ -6000,6 +6373,7 @@ mothman memento
 mothman, mothman elder
 mount
 mount-splitting pick (dwarf)
+mount, communal
 mountain pattern
 mountain pattern armor
 mountain troll
@@ -6059,6 +6433,7 @@ muzzle of suppression
 mwangi spirit shield
 myceloid
 mydriatic spontaneity
+mydriatic spontaneity, mass
 myrmidon robot
 mythic amulet of the abyss
 mythic severance
@@ -6067,6 +6442,8 @@ nabasu demon
 nacreous gray sphere (normal) ioun stone
 naga-scale bindi
 naga shape
+naga shape ii
+naga shape iii
 naga, dark naga
 naga, dream naga
 naga, guardian naga
@@ -6085,6 +6462,7 @@ nahyndrian elixir
 nail of the princess
 nalfeshnee demon
 named bullet
+named bullet, greater
 nap stack
 nargryms steel hand
 narrik
@@ -6094,6 +6472,7 @@ natural rhythm
 natures exile
 natures paths
 natures ravages
+natures ravages, greater
 naunet protean
 nauseating dart
 nauseating trail
@@ -6136,6 +6515,8 @@ netherworld cauldron
 nettles poppet
 neutral buoyancy
 neutralize poison
+neutralize poison, greater
+nexs secret workshop
 nexus crystal
 ngoga
 night blindness
@@ -6193,6 +6574,7 @@ node of blasting
 nogitsune oni
 noisemaker wayfinder
 nondetection
+nondetection, communal
 nondetection, lesser
 noose of terminal embrace
 noqual golem
@@ -6229,6 +6611,8 @@ oathbow
 oathtaker
 obambo
 obcisidaemon
+object possession
+object possession, greater
 object possession, lesser
 object reading
 obliviating flail
@@ -6289,6 +6673,7 @@ omnipath
 omox demon
 one-way window
 oneiric horror
+oneiric horror, greater
 oneirogen
 oni, atamahuta
 oni, earth yai
@@ -6395,6 +6780,7 @@ owl, giant owl
 owl, great horned owl
 owlbear
 owls wisdom
+owls wisdom, mass
 paakis-si
 pachycephalosaurus
 pachycephalosaurus dinosaur
@@ -6405,12 +6791,14 @@ padma blossom
 page-bound epiphany
 page of spell knowledge
 pain strike
+pain strike, mass
 pain ward of the ostiarius
 painajai demon
 painspike armor
 pairaka div
 paladins sacrifice
 pale blue rhomboid (normal) ioun stone
+pale flame
 pale green prism (flawed) ioun stone
 pale lavender ellipsoid (flawed) ioun stone
 pale maiden
@@ -6445,10 +6833,12 @@ parley ward
 particulate form
 pass without trace
 passing fancy
+passing fancy, mass
 passwall
 pata
 patchwork insect swarm indescribable swarm
 path of glory
+path of glory, greater
 path of the winds
 pathfinder greatcoat
 pathfinder pouch
@@ -6465,6 +6855,7 @@ pavbagha
 pazuzu demon lord
 peace bond
 peacebond
+peacebond, greater
 peacekeeping pistol
 peacemakers parley
 peacock familiar
@@ -6513,6 +6904,7 @@ periapt of wound closure
 perilous gloves
 perilous puzzle box
 permanency
+permanent hallucination
 permanent image
 pernicious poison
 persistent image
@@ -6522,6 +6914,7 @@ personification of fury herald
 persuasive goad
 peryton
 pesh addiction
+pesh addiction, lesser
 pesh vigor
 pessimism
 petitioner
@@ -6552,6 +6945,7 @@ phantom hunt
 phantom lancer phantom armor
 phantom limb
 phantom steed
+phantom steed, communal
 phantom trap
 pharaohs key
 pharaonic guardian
@@ -6630,10 +7024,15 @@ plaguebringers mask
 plagued beast, plagued steed
 plagued steed plagued beast
 planar adaptation
+planar adaptation, mass
 planar ally
+planar ally, greater
 planar ally, lesser
 planar binding
+planar binding, greater
+planar binding, lesser
 planar guide
+planar inquiry
 planar orientation
 planar parchment
 planar refuge
@@ -6642,10 +7041,13 @@ planeslayers call
 planetar angel
 planetarium
 planetary adaptation
+planetary adaptation, mass
 planned assault
 planson
 plant growth
 plant shape
+plant shape ii
+plant shape iii
 plant voice
 plasma ooze
 plate armor of the deep
@@ -6704,9 +7106,11 @@ portable pit
 portable stalactite
 portal network
 portrait of health
+possess object
 possession
 possession devil
 possession trap
+possession, greater
 pouncing fury
 powder horn
 power word blind
@@ -6746,6 +7150,7 @@ probe history
 procyal agathion
 produce flame
 profane nimbus
+prognostication
 programmed image
 project image
 project weakness
@@ -6764,8 +7169,17 @@ protean, ourdivar
 protean, pelagastr
 protean, voidworm
 protection from arrows
+protection from arrows, communal
+protection from chaos
+protection from chaos, communal
 protection from energy
+protection from energy, communal
 protection from evil
+protection from evil, communal
+protection from good
+protection from good, communal
+protection from law
+protection from law, communal
 protection from natural attacks
 protection from outsiders
 protection from spells
@@ -6783,6 +7197,10 @@ psyche serpent
 psychic asylum
 psychic aurascope
 psychic crush
+psychic crush ii
+psychic crush iii
+psychic crush iv
+psychic crush v
 psychic image
 psychic leech
 psychic lich
@@ -6911,8 +7329,10 @@ raiju
 raiment of command
 raiment of the shining crusade
 rain of arrows
+rain of frogs
 rainbow lenses
 rainbow pattern
+raise animal companion
 raise dead
 rajbut ambari
 rakshasa
@@ -6976,6 +7396,7 @@ ravens head
 ray of enfeeblement
 ray of exhaustion
 ray of frost
+ray of sickening
 ray, manta ray
 ray, stingray
 razor-sharp
@@ -7015,6 +7436,7 @@ redemptors blessing
 redlusts daughter
 reduce animal
 reduce person
+reduce person, mass
 reefclaw
 refine improvised weapon
 reflexive barrier
@@ -7022,8 +7444,12 @@ refocusing rod
 refuge
 regenerate
 reincarnate
+reincarnte spy
 reinforce armaments
+reinforce armaments, communal
 reinforced tunic
+rejuvenate eidolon
+rejuvenate eidolon, greater
 rejuvenate eidolon, lesser
 release the hounds
 relic of kazavon, armor of skulls
@@ -7045,8 +7471,12 @@ remove disease
 remove fear
 remove paralysis
 remove radioactivity
+remove radioactivity, greater
 remove sickness
 rend body
+rend body ii
+rend body iii
+rend body iv
 rending claw blade
 renovation
 repair undead
@@ -7072,6 +7502,7 @@ resilient reservoir
 resilient sphere
 resinous skin
 resist energy
+resist energy, communal
 resistance
 resize item
 resonating word
@@ -7088,8 +7519,11 @@ restful sleep
 restless lockpicks
 restoration
 restoration dust
+restoration, greater
+restoration, lesser
 restorative ointment
 restore corpse
+restore eidolon
 restore eidolon, lesser
 restore mythic power
 resurgent transformation
@@ -7102,6 +7536,7 @@ retriever
 retriever drone
 retrocognition
 returning weapon
+returning weapon, communal
 reveal emotions
 reveal mirage
 reveal true shape
@@ -7437,6 +7872,7 @@ sanctify weapons
 sanctuary
 sand eel
 sand whirlwind
+sand whirlwind, greater
 sandals of interception
 sandals of quick reaction
 sandals of the lightest step
@@ -7487,6 +7923,7 @@ scabbard of vigor
 scale mail
 scale of the mariner
 scale spikes
+scale spikes, greater
 scaled sash
 scalerazor (azlanti)
 scales of deflection
@@ -7555,10 +7992,12 @@ screaming spear of the sun
 screech
 screen
 scribes binding
+scripted hallucination
 scriveners chant
 scrivenite
 scroll of kakishon
 scrying
+scrying, greater
 sculpt corpse
 sculpt simulacrum
 sculpt sound
@@ -7577,6 +8016,7 @@ sea scourge
 sea serpent
 sea snake
 sea snake, giant sea snake
+sea stallion
 sea steed
 sea tyrants patch
 sea urchin, giant, black spot
@@ -7602,10 +8042,12 @@ seaweed leshy
 seaweed siren
 secluded grimoire
 secret chest
+secret coffer
 secret crossbow
 secret page
 secret sign
 secret speech
+secret vault
 secure shelter
 security belt
 seducers bane
@@ -7618,6 +8060,7 @@ see invisibility sight
 see through stone
 seed of fire
 seeds of influence
+seeds of influence, greater
 seek shelter
 seek thoughts
 seekers sight
@@ -7625,6 +8068,7 @@ seeming
 seers bane
 seers tea
 seishinru, spirit elixir
+selective alarm
 selective invisibility
 selective rod of metamagic
 selkie
@@ -7708,13 +8152,16 @@ shadow body
 shadow bomb admixture
 shadow cleaver (elf)
 shadow conjuration
+shadow conjuration, greater
 shadow creature, shadow roper
 shadow demon
 shadow dragon aspect
 shadow drake
 shadow enchantment
+shadow enchantment, greater
 shadow endurance
 shadow evocation
+shadow evocation, greater
 shadow falconers glove
 shadow fletching
 shadow giant
@@ -7728,6 +8175,7 @@ shadow roper shadow creature
 shadow spike
 shadow step
 shadow transmutation
+shadow transmutation, greater
 shadow trap
 shadow urn
 shadow walk
@@ -7777,11 +8225,15 @@ shard of wrath
 shard slag
 share glory
 share language
+share language, communal
 share memory
 share senses
+share shape
 share skin
+share skin, greater
 shared sacrifice
 shared suffering
+shared wrath
 sharesister
 shark
 shark-eating crab
@@ -7823,15 +8275,18 @@ shield of covered retreat
 shield of darkness
 shield of faith
 shield of fortification
+shield of fortification, greater
 shield of hags
 shield of law
 shield of shards
 shield of sunrise
 shield of the dawnflower
+shield of the dawnflower, greater
 shield of the mazeborn
 shield of wings
 shield other
 shield speech
+shield speech, greater
 shield spikes
 shield the banner
 shieldmarshals pistol
@@ -7884,6 +8339,7 @@ shotalashu
 shotel
 shotgun
 shout
+shout, greater
 shozoku of the night wind
 shredskin
 shredskin relic of kazavon
@@ -7902,11 +8358,13 @@ siabrae
 siangham
 sibat
 sica
+sickening entanglement
 sickening rod of metamagic
 sickening strikes
 sickle
 sickle-sword
 siege of trees
+siege of trees, greater
 siege scatter
 sifkesh demon lord
 sift
@@ -7946,6 +8404,7 @@ silverlight
 silversheen
 simian sharpshooter charau-ka
 simulacrum
+simulacrum, lesser
 simurgh
 sin seeker
 sinderbos
@@ -8036,6 +8495,7 @@ sliver of the amalgam mind
 sloth familiar
 slough
 slow
+slow suffocation
 slowing mud
 slumbering
 slurk
@@ -8081,7 +8541,7 @@ snarlshield, wooden
 sniper goggles
 sniper goggles (greater)
 snipers helmet
-snow shape (ulfen)
+snow shape
 snowball
 snowdrifter
 snowfall orb
@@ -8173,8 +8633,12 @@ speechreaders sight
 spell-capturing gem
 spell-sharing collar
 spell absorption
+spell absorption, greater
 spell gauge
 spell immunity
+spell immunity, communal
+spell immunity, greater
+spell immunity, greater communal
 spell lattice
 spell resistance
 spell scourge
@@ -8185,7 +8649,11 @@ spell ward tower shield
 spell winder (nagaji)
 spellbane shield
 spellbreaker
+spellcasting contract
+spellcasting contract, greater
 spellcasting contract, lesser
+spellcrash
+spellcrash, greater
 spellcrash, lesser
 spellcurse
 spellgorger
@@ -8211,6 +8679,7 @@ sphinx, hieracosphinx
 spider-leg sickle
 spider-silk bodysuit
 spider climb
+spider climb, communal
 spider eater
 spider swarm
 spider, giant black widow
@@ -8232,6 +8701,7 @@ spiked chain
 spiked gauntlet
 spiked heavy shield
 spiked light shield
+spiked pit
 spindle of perfect knowledge
 spine dragon
 spine flail
@@ -8341,6 +8811,7 @@ steal power
 steal size
 steal voice
 steal years
+steal years, greater
 steam hog
 steam ray fusillade
 steam rod of metamagic
@@ -8398,6 +8869,7 @@ stonemeld boots
 stonemist cloak
 stoneplate armor
 stoneskin
+stoneskin, communal
 storm aurochs
 storm giant
 storm giant matriarch scyld hranni
@@ -8441,6 +8913,7 @@ stubborn nail
 studded leather armor
 stumble gap
 stunning barrier
+stunning barrier, greater
 stunning finale
 stunstone
 stygian hot-blooded horse
@@ -8459,7 +8932,10 @@ subtle slippers
 succubus demon
 suffocation
 suffocation, instant
+suffocation, mass
+suffocation, slow
 suggestion
+suggestion, mass
 suggestive tea
 suijin kami
 suishen, guardian of the amatatsu
@@ -8468,7 +8944,9 @@ summon-slave crystal
 summon accuser
 summon ancestral guardian
 summon barghest
+summon barghest ii
 summon cacodaemon
+summon cacodaemon, greater
 summon ceustodaemon
 summon derghodaemon
 summon eidolon
@@ -8477,8 +8955,12 @@ summon elemental steed
 summon erodaemon
 summon flight of eagles
 summon froghemoth
+summon genie
+summon genie, greater
 summon genie, lesser
 summon giant ally
+summon giant ally ii
+summon giant ally iii
 summon greater demon
 summon infernal host
 summon instrument
@@ -8490,11 +8972,27 @@ summon meladaemon
 summon minor ally
 summon minor monster
 summon monster
+summon monster 2
+summon monster 3
+summon monster 4
+summon monster 5
+summon monster 6
+summon monster 7
+summon monster 8
+summon monster 9
 summon natures ally
+summon natures ally 2
+summon natures ally 3
+summon natures ally 4
+summon natures ally 5
+summon natures ally 6
+summon natures ally 7
+summon natures ally 8
+summon natures ally 9
 summon stampede
 summon swarm
 summon thanadaemon
-summon totem creature (shoanti)
+summon totem creature
 summon vanth
 summoner conduit
 summoner slayer eyes
@@ -8516,10 +9014,12 @@ sundered serpent coil
 sundering shards
 sunlord thalachos herald
 suns disdain
+suns disdain, mass
 sunstalker
 suppress charms and compulsions
 suppress primal magic
 suppressing stone
+supreme curse terrain
 sure casting
 surefoot boots
 surefooted shield
@@ -8609,14 +9109,17 @@ symbol of stunning
 symbol of unholy command
 symbol of vulnerability
 symbol of weakness
+sympathetic aura
 sympathetic vibration
 sympathetic wounds
 sympathy
 synapse overload
 synaptic pulse
+synaptic pulse, greater
 synaptic scramble
 synesis aeon
 synesthesia
+synesthesia, mass
 syringe spear
 syrinx
 tablet of languages lost
@@ -8701,6 +9204,7 @@ teleport
 teleport object
 teleport structure
 teleport trap
+teleport, greater
 teleportation circle
 teleporting climbing rig
 temerdaemon
@@ -8822,11 +9326,16 @@ thorn snare
 thorncrown of iomedae
 thorned manacles
 thorns
+thorny entanglement
 thorny vegepygmy
 thought echo
 thought harvester robot
 thought record
 thought shield
+thought shield ii
+thought shield iii
+thought shield iv
+thought shield v
 thought worm
 thought worm ii
 thought worm iii
@@ -8837,6 +9346,7 @@ thrasfyr
 three reasons to live
 threefold aspect
 threefold face
+threefold form
 threefold sight
 thremindyr
 thremyrs beard
@@ -8850,6 +9360,7 @@ thriae, thriae dancer
 thriae, thriae queen
 thriae, thriae seer
 thriae, thriae soldier
+thristing entanglement
 throne of blasphemy
 throne of fetters
 throne of nalt relic of kazavon
@@ -8871,6 +9382,7 @@ thundering drums
 thundering rod of metamagic
 thunderous footfalls
 thunderstomp
+thunderstomp, greater
 thylacine
 thylacine, brush thylacine
 thyrlien azata
@@ -8905,6 +9417,7 @@ tin cap
 tinder devil
 tiny hut
 tiny poppet
+tireless pursuers
 tireless pursuit
 tireless tracking hide
 tireless wayfinder
@@ -8980,6 +9493,10 @@ touch of the sea
 tough crowd
 tourmaline sphere (normal) ioun stone
 tower of iron will
+tower of iron will ii
+tower of iron will iii
+tower of iron will iv
+tower of iron will v
 tower shield
 toxic gift
 toxic rupture
@@ -9030,6 +9547,7 @@ travelers translator
 travelers wet suit
 traveling dream
 traveling masters turban
+treacherous teleport
 treant
 treasure hunters goggles
 treasure stitching
@@ -9058,6 +9576,8 @@ trident of fish command
 trident of stability
 trident of the storm captain
 trident of warning
+triggered hallucination
+triggered suggestion
 triple-stinging blade (calistria)
 triple eyes of vivid auras
 triple ice of vivid auras
@@ -9126,6 +9646,7 @@ trox
 true creation
 true form
 true love locket
+true prognostication
 true resurrection
 true seeing
 true skill
@@ -9187,6 +9708,7 @@ ulkreth demon
 umasi
 umbral chain
 umbral infusion
+umbral infusion, mass
 umbral shepherd
 umbral strike
 umbral weapon
@@ -9198,6 +9720,9 @@ unbreakable heart
 unchosen gnoll
 unconscious agenda
 undead anatomy
+undead anatomy ii
+undead anatomy iii
+undead anatomy iv
 undead ningyo
 undead pirate, draugr captain
 undead pirate, draugr pirate
@@ -9228,6 +9753,7 @@ unhallow
 unholy aura
 unholy blight
 unholy ice
+unholy ice weapon
 unholy sword
 unholy ward
 unicorn
@@ -9236,6 +9762,7 @@ universal formula
 universal solvent
 unknown
 unleash pandemonium
+unlife current
 unliving rage
 unnatural lust
 unprepared combatant
@@ -9356,6 +9883,7 @@ vermicious assumption
 vermilion rhomboid (normal) ioun stone
 vermillion rhomboid (cracked) ioun stone
 vermin shape
+vermin shape ii
 verminous transformation
 vermlek demon
 vernal key
@@ -9542,6 +10070,7 @@ water strider swarm
 water strider, giant water strider
 water strider, nymph water strider
 water walk
+water walk, communal
 water wraith
 water yai oni
 waters of lamashtu
@@ -9620,6 +10149,8 @@ wet-house emissary gillman
 whale
 whale, great white whale
 whip
+whip of ants
+whip of centipedes
 whip of spiders
 whirlmaw
 whirlwind
