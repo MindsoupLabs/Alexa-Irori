@@ -43,10 +43,10 @@ public class ToolsController {
 
 			exportedItems.add(data.getObject().getName());
 
-			//stringBuilder.append(String.format("INSERT INTO irori_objects(name, type) VALUES('%s', '%s');\n", sqlEscapeSingleQuotes(data.getObject().getName()), type));
+			stringBuilder.append(String.format("INSERT INTO irori_objects(name, type) VALUES('%s', '%s');\n", sqlEscapeSingleQuotes(data.getObject().getName()), type));
 
 			for(IroriStat stat : data.getStats()) {
-				//stringBuilder.append(String.format("INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = '%s'), '%s', '%s');\n", sqlEscapeSingleQuotes(data.getObject().getName()), sqlEscapeSingleQuotes(stat.getStatName()), sqlEscapeSingleQuotes(stat.getStatValue())));
+				stringBuilder.append(String.format("INSERT INTO irori_stats(object, stat, value) VALUES( (SELECT id FROM irori_objects WHERE name = '%s'), '%s', '%s');\n", sqlEscapeSingleQuotes(data.getObject().getName()), sqlEscapeSingleQuotes(stat.getStatName()), sqlEscapeSingleQuotes(stat.getStatValue())));
 			}
 
 			for(String alias : data.getAliases()) {

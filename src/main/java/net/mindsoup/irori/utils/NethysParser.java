@@ -41,7 +41,7 @@ public class NethysParser {
 		}
 
 		// strip any text with an h1 header after our stat block
-		Pattern pattern = Pattern.compile(String.format("(<h1 class=\"title\">%s</h1>.+?)<h1",title));
+		Pattern pattern = Pattern.compile(String.format("(%s</h1>.+?)(<h1|$)",title));
 		Matcher matcher = pattern.matcher(nethysContent);
 		while (matcher.find()) {
 			nethysContent = matcher.group(1);
@@ -72,7 +72,7 @@ public class NethysParser {
 		while (matcher.find()) {
 			IroriStat iroriStat = new IroriStat();
 			iroriStat.setStatName(Constants.Stats.DESCRIPTION);
-			iroriStat.setStatValue(transformValue(matcher.group(1).trim()));
+			iroriStat.setStatValue(unifyQuotes(transformHtmlString(matcher.group(1).trim())));
 
 			if(StringUtils.isNotBlank(iroriStat.getStatValue())) {
 				stats.add(iroriStat);
