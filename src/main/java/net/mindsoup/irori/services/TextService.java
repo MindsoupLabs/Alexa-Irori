@@ -9,7 +9,7 @@ import java.util.Set;
  */
 public interface TextService {
 
-	String getSynonym(String name, String objectType);
+	String getSynonym(String name);
 	String getClosestMatch(String name, MatchType type);
 	Set<String> getNameAliases(String name);
 }

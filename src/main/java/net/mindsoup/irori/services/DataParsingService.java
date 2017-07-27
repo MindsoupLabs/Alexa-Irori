@@ -10,5 +10,5 @@ import java.util.List;
  */
 public interface DataParsingService {
 
-	List<IroriData> parseData(List<CsvDataImportItem> items, String type);
+	List<IroriData> parseData(List<CsvDataImportItem> items);
 }

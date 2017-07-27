@@ -59,7 +59,7 @@ public class TextServiceTests {
 		synonyms.put("sq", "special qualities");
 
 		for(String key : synonyms.keySet()) {
-			assertEquals(synonyms.get(key), textService.getSynonym(key, "monster"));
+			assertEquals(synonyms.get(key), textService.getSynonym(key));
 		}
 	}
 

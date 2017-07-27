@@ -24,11 +24,11 @@ public class DataParsingServiceImpl implements DataParsingService {
 	private TextService textService;
 
 	@Override
-	public List<IroriData> parseData(List<CsvDataImportItem> items, String type) {
-		return items.stream().map(e -> parseItem(e, type)).collect(Collectors.toList());
+	public List<IroriData> parseData(List<CsvDataImportItem> items) {
+		return items.stream().map(this::parseItem).collect(Collectors.toList());
 	}
 
-	private IroriData parseItem(CsvDataImportItem item, String type) {
+	private IroriData parseItem(CsvDataImportItem item) {
 		IroriData iroriData = new IroriData();
 
 		IroriObject iroriObject = new IroriObject();
@@ -41,7 +41,7 @@ public class DataParsingServiceImpl implements DataParsingService {
 		stat.setStatValue(item.getSource());
 		iroriData.getStats().add(stat);
 
-		iroriData.getStats().forEach(e -> e.setStatName(textService.getSynonym(e.getStatName(), type)));
+		iroriData.getStats().forEach(e -> e.setStatName(textService.getSynonym(e.getStatName())));
 
 		iroriData.setAliases(textService.getNameAliases(iroriObject.getName()));
 

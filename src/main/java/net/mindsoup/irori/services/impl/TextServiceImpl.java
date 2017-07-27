@@ -40,7 +40,7 @@ public class TextServiceImpl implements TextService {
 	}
 
 	@Override
-	public String getSynonym(String name, String objectType) {
+	public String getSynonym(String name) {
 		if(synonyms.containsKey(name)) {
 			return synonyms.get(name);
 		}

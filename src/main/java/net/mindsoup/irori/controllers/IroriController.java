@@ -1,8 +1,8 @@
 package net.mindsoup.irori.controllers;
 
-import net.mindsoup.irori.enums.MatchType;
 import net.mindsoup.irori.dtos.request.StatRequest;
 import net.mindsoup.irori.dtos.response.*;
+import net.mindsoup.irori.enums.MatchType;
 import net.mindsoup.irori.exceptions.InvalidInputException;
 import net.mindsoup.irori.exceptions.ObjectNotFoundException;
 import net.mindsoup.irori.exceptions.StatNotFoundException;

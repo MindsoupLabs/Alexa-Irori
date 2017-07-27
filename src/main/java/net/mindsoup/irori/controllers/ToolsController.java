@@ -30,7 +30,7 @@ public class ToolsController {
 
 	@RequestMapping("/import")
 	public String runImport(@RequestParam String filename, @RequestParam String type) throws IOException {
-		List<IroriData> iroriData = dataParsingService.parseData(csvFileImportService.readCsv(filename), type);
+		List<IroriData> iroriData = dataParsingService.parseData(csvFileImportService.readCsv(filename));
 
 		StringBuilder stringBuilder = new StringBuilder();
 
