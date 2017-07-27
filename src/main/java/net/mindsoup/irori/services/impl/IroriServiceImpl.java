@@ -95,6 +95,10 @@ public class IroriServiceImpl implements IroriService {
 			throw new InvalidInputException();
 		}
 
+		// lowercase object and stat names
+		statRequest.setObjectName(statRequest.getObjectName().toLowerCase());
+		statRequest.setStatName(statRequest.getStatName().toLowerCase());
+
 		// set any stat synonyms to the correct stat name ('A.C.' to 'armor class', etc)
 		statRequest.setStatName(textService.getClosestMatch(textService.getSynonym(statRequest.getStatName()), MatchType.STAT));
 

@@ -29,16 +29,10 @@ public class IroriController {
 	public IroriResponse getStat(@RequestBody StatRequest statRequest) {
 		LOG.debug(statRequest.toString());
 
-		if(StringUtils.isBlank(statRequest.getObjectName()) || StringUtils.isBlank(statRequest.getStatName())) {
-			return inputError(new InvalidInputException());
-		}
-
 		if(StringUtils.isBlank(statRequest.getObjectType())) {
 			statRequest.setObjectType(MatchType.OBJECT.toString());
 		}
 
-		statRequest.setObjectName(statRequest.getObjectName().toLowerCase());
-		statRequest.setStatName(statRequest.getStatName().toLowerCase());
 		return new StatResponse(iroriService.getStat(statRequest));
 	}
 
