@@ -25,7 +25,7 @@ public class StatRequest {
 	}
 
 	public String toString() {
-		return String.format("{objectName: %s, objectType: %s, statName: %s", getObjectName(), getObjectType(), getStatName());
+		return String.format("{objectName: %s, objectType: %s, statName: %s}", getObjectName(), getObjectType(), getStatName());
 	}
 
 	public String getObjectType() {

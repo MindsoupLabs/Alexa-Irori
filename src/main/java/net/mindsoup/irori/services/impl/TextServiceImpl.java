@@ -11,10 +11,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -103,21 +100,36 @@ public class TextServiceImpl implements TextService {
 		LevenshteinDistance levenshteinDistance = new LevenshteinDistance();
 
 		// find the string with the closest levenshtein distance
-		String closestMatch = name;
 		int closestLevenshteinDistance = name.length();
+
+		// store found matches here
+		LinkedList<String> foundMatches = new LinkedList<>();
+		foundMatches.add(name);
 
 		for(String objectName : matchesAndMappingsMap.get(type).getKnownNames()) {
 			int distance = levenshteinDistance.apply(name, objectName);
 
-			if(distance < closestLevenshteinDistance || (distance == closestLevenshteinDistance && objectName.contains(name))) {
-				closestMatch = objectName;
-				closestLevenshteinDistance = distance;
+			// if we've found a match
+			if(distance <= closestLevenshteinDistance) {
+				// the match is a closer match than the last match
+				if (distance < closestLevenshteinDistance) {
+					// throw all existing matches away
+					foundMatches.clear();
+					closestLevenshteinDistance = distance;
+				}
+
+				// add this match
+				foundMatches.add(objectName);
 			}
 		}
 
-		LOG.info(String.format("found match for %s with levenshtein distance %s: %s", name, closestLevenshteinDistance, closestMatch));
+		if(foundMatches.size() > 1) {
+			LOG.info(String.format("%s matches found for %s with levenshtein distance of %s: %s", foundMatches.size(), name,  closestLevenshteinDistance, foundMatches.toString()));
+		}
 
-		return closestMatch;
+		LOG.info(String.format("found match for %s with levenshtein distance %s: %s", name, closestLevenshteinDistance, foundMatches.getFirst()));
+
+		return foundMatches.getFirst();
 	}
 
 	private Map<String, String> initializeSynonyms() {
