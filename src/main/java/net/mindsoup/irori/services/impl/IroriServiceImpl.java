@@ -12,6 +12,8 @@ import net.mindsoup.irori.repositories.StatRepository;
 import net.mindsoup.irori.services.IroriService;
 import net.mindsoup.irori.services.TextService;
 import org.apache.commons.lang3.StringUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -23,6 +25,8 @@ import java.util.Map;
  */
 @Service
 public class IroriServiceImpl implements IroriService {
+
+	private static final Logger LOG = LoggerFactory.getLogger(IroriServiceImpl.class);
 
 	@Autowired
 	private TextService textService;
@@ -132,6 +136,7 @@ public class IroriServiceImpl implements IroriService {
 
 	private MatchType getMatchTypeForStat(String stat) {
 		if(statMatchTypeMap.containsKey(stat)) {
+			LOG.info(String.format("found MatchType for stat %s: %s", stat, statMatchTypeMap.get(stat)));
 			return statMatchTypeMap.get(stat);
 		}
 
