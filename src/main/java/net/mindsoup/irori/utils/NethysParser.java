@@ -108,7 +108,7 @@ public class NethysParser {
 	}
 
 	private static String transformValue(String value) {
-		return unifyQuotes(transformHtmlString(value.replace("/level", " per level").replace("—", "none").replace("—/—", "none")));
+		return unifyQuotes(transformHtmlString(value.replace("/level", " per level").replace("/2 levels", " per 2 levels").replace("—", "none").replace("—/—", "none")));
 	}
 
 	private static String transformStatName(String stat) {
