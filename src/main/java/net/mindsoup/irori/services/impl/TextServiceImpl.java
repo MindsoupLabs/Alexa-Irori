@@ -181,6 +181,8 @@ public class TextServiceImpl implements TextService {
 		synonyms.put("sr", "spell resistance");
 		synonyms.put("dr", "damage reduction");
 		synonyms.put("cl", "caster level");
+		synonyms.put("saving", "saving throw");
+		synonyms.put("save", "saving throw");
 
 		return synonyms;
 	}
