@@ -2,6 +2,7 @@ package net.mindsoup.irori.services.impl;
 
 import net.mindsoup.irori.enums.MatchType;
 import net.mindsoup.irori.services.TextService;
+import org.apache.commons.codec.language.DoubleMetaphone;
 import org.apache.commons.text.similarity.LevenshteinDistance;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,8 +13,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.*;
+import java.util.function.Function;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 /**
  * Created by Valentijn on 15-7-2017.
@@ -64,7 +67,7 @@ public class TextServiceImpl implements TextService {
 		}
 
 		// have not encountered this before and it's not a known object, so let's see if we can find a match
-		String closestMatch = getClosestPhoneticMatch(name, type);
+		String closestMatch = getClosestPhoneticMatch(name, matchesAndMappings.getKnownNames());
 
 		// add the string to the mappings so we don't need to do it again for this string
 		matchesAndMappings.getMatchMappings().put(name, closestMatch);
@@ -96,7 +99,7 @@ public class TextServiceImpl implements TextService {
 		return aliases;
 	}
 
-	private String getClosestPhoneticMatch(String name, MatchType type) {
+	private String getClosestPhoneticMatch(String name, Collection<String> matchList) {
 		LevenshteinDistance levenshteinDistance = new LevenshteinDistance();
 
 		// find the string with the closest levenshtein distance
@@ -106,7 +109,7 @@ public class TextServiceImpl implements TextService {
 		LinkedList<String> foundMatches = new LinkedList<>();
 		foundMatches.add(name);
 
-		for(String objectName : matchesAndMappingsMap.get(type).getKnownNames()) {
+		for(String objectName : matchList) {
 			int distance = levenshteinDistance.apply(name, objectName);
 
 			// if we've found a match
@@ -125,11 +128,33 @@ public class TextServiceImpl implements TextService {
 
 		if(foundMatches.size() > 1) {
 			LOG.info(String.format("%s matches found for %s with levenshtein distance of %s: %s", foundMatches.size(), name,  closestLevenshteinDistance, foundMatches.toString()));
+			return getClosestDoubleMetaphoneMatch(name, foundMatches);
 		}
 
 		LOG.info(String.format("found match for %s with levenshtein distance %s: %s", name, closestLevenshteinDistance, foundMatches.getFirst()));
-
 		return foundMatches.getFirst();
+	}
+
+	private String getClosestDoubleMetaphoneMatch(String original, LinkedList<String> possibilities) {
+		DoubleMetaphone doubleMetaphone = new DoubleMetaphone();
+		doubleMetaphone.setMaxCodeLen(original.length());
+
+		// set up map with the double metaphone value of each possibility as key, and the possibility as value
+		Map<String, String> encodedPossibilitiesMap = possibilities.stream().collect(Collectors.toMap(doubleMetaphone::encode, Function.identity()));
+
+		LOG.info(String.format("looking for double metaphone matches of %s in %s", original, possibilities.toString()));
+		// get the closest double metaphone match
+		String closestMetaphoneMatch = getClosestPhoneticMatch(doubleMetaphone.encode(original), encodedPossibilitiesMap.keySet());
+
+		// if we found a double metaphone match, return the corresponding value
+		if(encodedPossibilitiesMap.containsKey(closestMetaphoneMatch)) {
+			LOG.info(String.format("double metaphone match %s found for %s", encodedPossibilitiesMap.get(closestMetaphoneMatch), original));
+			return encodedPossibilitiesMap.get(closestMetaphoneMatch);
+		}
+
+		// nothing apparently matches - this is very unusual
+		LOG.info(String.format("no double metaphone match found for %s in list %s, returning %s", original, possibilities.toString(), possibilities.getFirst()));
+		return possibilities.getFirst();
 	}
 
 	private Map<String, String> initializeSynonyms() {
