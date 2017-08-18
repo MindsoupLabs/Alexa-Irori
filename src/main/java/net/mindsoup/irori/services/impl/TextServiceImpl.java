@@ -67,7 +67,7 @@ public class TextServiceImpl implements TextService {
 		}
 
 		// have not encountered this before and it's not a known object, so let's see if we can find a match
-		String closestMatch = getClosestPhoneticMatch(name, matchesAndMappings.getKnownNames());
+		String closestMatch = getClosestPhoneticMatch(name, matchesAndMappings.getKnownNames(), false);
 
 		// add the string to the mappings so we don't need to do it again for this string
 		matchesAndMappings.getMatchMappings().put(name, closestMatch);
@@ -99,7 +99,7 @@ public class TextServiceImpl implements TextService {
 		return aliases;
 	}
 
-	private String getClosestPhoneticMatch(String name, Collection<String> matchList) {
+	private String getClosestPhoneticMatch(String name, Collection<String> matchList, boolean metaphoneMatch) {
 		LevenshteinDistance levenshteinDistance = new LevenshteinDistance();
 
 		// find the string with the closest levenshtein distance
@@ -126,7 +126,7 @@ public class TextServiceImpl implements TextService {
 			}
 		}
 
-		if(foundMatches.size() > 1) {
+		if(foundMatches.size() > 1 && !metaphoneMatch) {
 			LOG.info(String.format("%s matches found for %s with levenshtein distance of %s: %s", foundMatches.size(), name,  closestLevenshteinDistance, foundMatches.toString()));
 			return getClosestDoubleMetaphoneMatch(name, foundMatches);
 		}
@@ -144,7 +144,7 @@ public class TextServiceImpl implements TextService {
 
 		LOG.info(String.format("looking for double metaphone matches of %s in %s", original, possibilities.toString()));
 		// get the closest double metaphone match
-		String closestMetaphoneMatch = getClosestPhoneticMatch(doubleMetaphone.encode(original), encodedPossibilitiesMap.keySet());
+		String closestMetaphoneMatch = getClosestPhoneticMatch(doubleMetaphone.encode(original), encodedPossibilitiesMap.keySet(), true);
 
 		// if we found a double metaphone match, return the corresponding value
 		if(encodedPossibilitiesMap.containsKey(closestMetaphoneMatch)) {
