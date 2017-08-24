@@ -22,7 +22,7 @@ exports.handler = (event, context) => {
 				console.log('LAUNCH REQUEST')
 				context.succeed(
 					generateResponse(
-						buildSpeechletResponse('Welcome to Irori For Pathfinder, you can ask any stats of Pathfinder monsters, spells, or items', true), {}
+						buildSpeechletResponse('Welcome to Stat Finder For Pathfinder, you can ask any stats of Pathfinder monsters, spells, or items. What do you want to know about?', false), {}
 					)
 				)
 				break;

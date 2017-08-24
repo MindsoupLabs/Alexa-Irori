@@ -12,15 +12,6 @@
 		  "type": "LIST_OF_STATS"
 		}
 	  ]
-	},
-	{
-	  "intent": "GetFormula",
-	  "slots": [
-		{
-		  "name": "Formula",
-		  "type": "LIST_OF_FORMULAS"
-		}
-	  ]
 	}
   ]
 }

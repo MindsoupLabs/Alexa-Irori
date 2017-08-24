@@ -7,9 +7,3 @@ GetStat what is {Stat} of {Object}
 GetStat for the {Stat} of {Object}
 GetStat what the {Stat} is of {Object}
 GetStat what the {Stat} of {Object} is
-
-GetFormula what is the formula for {Formula}
-GetFormula how you calculate {Formula}
-GetFormula how I calculate {Formula}
-GetFormula how to calculate {Formula}
-GetFormula how {Formula} is calculated
