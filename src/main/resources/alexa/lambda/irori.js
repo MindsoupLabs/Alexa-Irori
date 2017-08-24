@@ -8,6 +8,9 @@ var rootUri = protocol + '//' + ip + ':' + port + '/irori/';
 
 exports.handler = (event, context) => {
 
+	var isSpellFinder = event.session.application.applicationId == process.env.IRORI_SPELLFINDER_ID;
+    var skillName =  isSpellFinder ? 'Spell Finder' : 'Stat Finder';
+
 	try {
 
 		if (event.session.new) {
@@ -22,7 +25,7 @@ exports.handler = (event, context) => {
 				console.log('LAUNCH REQUEST')
 				context.succeed(
 					generateResponse(
-						buildSpeechletResponse('Welcome to Stat Finder For Pathfinder. What can I do for you?', false), {}
+						buildSpeechletResponse('Welcome to ' + skillName + ' For Pathfinder. What can I do for you?', false), {}
 					)
 				)
 				break;
@@ -49,9 +52,10 @@ exports.handler = (event, context) => {
 						createStatRequest(context, event.request.intent, "ITEM");
 						break;
 					case "AMAZON.HelpIntent":
+						var helpContent = isSpellFinder ? '' : ', monsters, or items,';
 						context.succeed(
 							generateResponse(
-								buildSpeechletResponse(`Stat Finder can look up stats of spells, monsters, or items from the Pathfinder role playing game for you. Try asking for the range of magic missile.`, false), {}
+								buildSpeechletResponse(`${skillName} can look up stats of spells${helpContent} from the Pathfinder role playing game for you. Try asking for the range of magic missile.`, false), {}
 							)
 						);
 						break;
