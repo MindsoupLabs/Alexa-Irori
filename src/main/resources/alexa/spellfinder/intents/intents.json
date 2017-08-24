@@ -12,6 +12,15 @@
 		  "type": "LIST_OF_STATS"
 		}
 	  ]
+	},
+	{
+	  "intent": "AMAZON.HelpIntent"
+	},
+	{
+	  "intent": "AMAZON.StopIntent"
+	},
+	{
+	  "intent": "AMAZON.CancelIntent"
 	}
   ]
 }

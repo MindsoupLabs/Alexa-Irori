@@ -22,7 +22,7 @@ exports.handler = (event, context) => {
 				console.log('LAUNCH REQUEST')
 				context.succeed(
 					generateResponse(
-						buildSpeechletResponse('Welcome to Stat Finder For Pathfinder, you can ask any stats of Pathfinder monsters, spells, or items. What do you want to know about?', false), {}
+						buildSpeechletResponse('Welcome to Stat Finder For Pathfinder. What can I do for you?', false), {}
 					)
 				)
 				break;
@@ -32,96 +32,42 @@ exports.handler = (event, context) => {
 				console.log('INTENT REQUEST')
 
 				switch (event.request.intent.name) {
-
 					case "GetStat":
 						console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
-						var payload = {
-							"objectName": event.request.intent.slots.Object.value,
-							"statName": event.request.intent.slots.Stat.value,
-							"objectType": "OBJECT"
-						};
-						processPostRequest(context, '/irori/stat', "GetStat", payload);
-
+						createStatRequest(context, event.request.intent, "OBJECT");
 						break;
 					case "GetSpellStat":
 						console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
-						var payload = {
-							"objectName": event.request.intent.slots.Object.value,
-							"statName": event.request.intent.slots.Stat.value,
-							"objectType": "SPELL"
-						};
-						processPostRequest(context, '/irori/stat', "GetStat", payload);
-
+						createStatRequest(context, event.request.intent, "SPELL");
 						break;
 					case "GetMonsterStat":
 						console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
-						var payload = {
-							"objectName": event.request.intent.slots.Object.value,
-							"statName": event.request.intent.slots.Stat.value,
-							"objectType": "MONSTER"
-						};
-						processPostRequest(context, '/irori/stat', "GetStat", payload);
-
+						createStatRequest(context, event.request.intent, "MONSTER");
 						break;
 					case "GetItemStat":
 						console.log(`Hit the GetStat request: ${JSON.stringify(event.request.intent.slots)}`);
-						var payload = {
-							"objectName": event.request.intent.slots.Object.value,
-							"statName": event.request.intent.slots.Stat.value,
-							"objectType": "ITEM"
-						};
-						processPostRequest(context, '/irori/stat', "GetStat", payload);
-
+						createStatRequest(context, event.request.intent, "ITEM");
 						break;
-					case "GetFormula":
-						console.log(`Hit the GetFormula request: ${JSON.stringify(event.request.intent.slots)}`);
-						var payload = {
-							"objectName": event.request.intent.slots.Formula.value,
-							"statName": "formula",
-							"objectType": "FORMULA"
-						};
-						processPostRequest(context, '/irori/stat', "GetStat", payload);
-
+					case "AMAZON.HelpIntent":
+						context.succeed(
+							generateResponse(
+								buildSpeechletResponse(`Stat Finder can look up stats of spells, monsters, or items from the Pathfinder role playing game for you. Try asking for the range of magic missile.`, false), {}
+							)
+						);
 						break;
-					case "GetInfo":
-						console.log(`Hit the GetInfo request: ${JSON.stringify(event.request.intent.slots)}`);
-						var payload = {
-							"objectName": event.request.intent.slots.Object.value,
-							"statName": "description",
-							"objectType": "OBJECT"
-						};
-						processPostRequest(context, '/irori/stat', "GetStat", payload);
-
+					case "AMAZON.StopIntent":
+						context.succeed(
+							generateResponse(
+								buildSpeechletResponse(``, true), {}
+							)
+						);
 						break;
-					case "GetSpellInfo":
-						console.log(`Hit the GetInfo request: ${JSON.stringify(event.request.intent.slots)}`);
-						var payload = {
-							"objectName": event.request.intent.slots.Object.value,
-							"statName": "description",
-							"objectType": "SPELL"
-						};
-						processPostRequest(context, '/irori/stat', "GetStat", payload);
-
-						break;
-					case "GetMonsterInfo":
-						console.log(`Hit the GetInfo request: ${JSON.stringify(event.request.intent.slots)}`);
-						var payload = {
-							"objectName": event.request.intent.slots.Object.value,
-							"statName": "description",
-							"objectType": "MONSTER"
-						};
-						processPostRequest(context, '/irori/stat', "GetStat", payload);
-
-						break;
-					case "GetItemInfo":
-						console.log(`Hit the GetInfo request: ${JSON.stringify(event.request.intent.slots)}`);
-						var payload = {
-							"objectName": event.request.intent.slots.Object.value,
-							"statName": "description",
-							"objectType": "ITEM"
-						};
-						processPostRequest(context, '/irori/stat', "GetStat", payload);
-
+					case "AMAZON.CancelIntent":
+						context.succeed(
+							generateResponse(
+								buildSpeechletResponse(``, true), {}
+							)
+						);
 						break;
 					default:
 						throw "Invalid intent"
@@ -143,6 +89,16 @@ exports.handler = (event, context) => {
 		context.fail(`Exception: ${error}`)
 	}
 
+}
+
+createStatRequest = (context, intent, objectType) => {
+	var stat = intent.slots.Stat ? intent.slots.Stat.value : 'description';
+	var payload = {
+		"objectName": intent.slots.Object.value,
+		"statName": stat,
+		"objectType": objectType || "OBJECT"
+	};
+	processPostRequest(context, '/irori/stat', "GetStat", payload);
 }
 
 // Helpers
