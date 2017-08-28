@@ -1,28 +1,20 @@
 # ![Irori](https://github.com/MindsoupLabs/Alexa-Irori/raw/master/src/main/resources/alexa/logo/logo-small.png) Irori For Pathfinder
 The alexa skill Irori For Pathfinder. If you need to know the stat of a monster, item or spell, just ask Irori!
 
-**You can find these skills here:**
+## How to use
+This project is used in two Alexa skills:
 * [Stat Finder for Pathfinder](https://www.amazon.com/dp/B074XHBPXC) (previously Irori)
 * [Spell Finder for Pathfinder](https://www.amazon.com/dp/B074XJSDY7)
 
-## How to use
-This project is used in four Alexa skills, all of which are currently in beta:
-* Irori
-* Spell Finder
-* Item Finder
-* Monster Finder
-
-Spell Finder, Item Finder and Monster Finder each allow you to find stats only on their particular domain (spells, items or monsters), while Irori combines all of these and allows you to find stats on spells, monsters and items alike. Object name recognition may be more accurate when using the domain specific skills.
+Spell Finder allows you to find stats only for spells, while Stat Finder allows you to find stats on spells, monsters and items alike. Object name recognition may be more accurate when using Spell Finder.
 
 To use these skills, simply ask Alexa: "Alexa, ask [skill name] for the [attribute] of [object]". 
 
 ### Examples:
-* "Alexa, ask Irori for the area of Burning Hands"
-* "Alexa, ask Irori what is the cost of a dagger"
-* "Alexa, ask Irori what the armor class of a goblin is"
+* "Alexa, ask Stat Finder for the area of Burning Hands"
+* "Alexa, ask Stat Finder what is the cost of a dagger"
+* "Alexa, ask Stat Finder what the armor class of a goblin is"
 * "Alexa, ask Spell Finder for the range of Magic Missile"
-* "Alexa, ask Monster Finder for the hit points of a mummy"
-* "Alexa, ask Item Finder for the description of a quarterstaff of entwined serpents" 
 
 [![Video Screenshot](https://img.youtube.com/vi/7bWyS5cp5tI/0.jpg)](https://www.youtube.com/watch?v=7bWyS5cp5tI)
 
