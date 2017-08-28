@@ -1,7 +1,9 @@
 # ![Irori](https://github.com/MindsoupLabs/Alexa-Irori/raw/master/src/main/resources/alexa/logo/logo-small.png) Irori For Pathfinder
 The alexa skill Irori For Pathfinder. If you need to know the stat of a monster, item or spell, just ask Irori!
 
-**This project is currently in beta testing. If you'd like to join our beta test, send me an email at *irori [at] mindsoup.net*.**
+**You can find these skills here:**
+* [Stat Finder for Pathfinder](https://www.amazon.com/dp/B074XHBPXC) (previously Irori)
+* [Spell Finder for Pathfinder](https://www.amazon.com/dp/B074XJSDY7)
 
 ## How to use
 This project is used in four Alexa skills, all of which are currently in beta:
